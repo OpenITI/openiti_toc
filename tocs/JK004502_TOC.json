@@ -1,0 +1,56 @@
+{
+  "filename": "0871TaqiDinIbnFahd.LahzAlhaz.JK004502-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "ومن هنا أوائل الطبقة الخامسة والعشرين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 40,
+      "end_ms": 54
+    },
+    "2": {
+      "title": "الطبقة السادسة والعشرون",
+      "level": 1,
+      "parent": null,
+      "start_ms": 54,
+      "end_ms": 63
+    },
+    "3": {
+      "title": "الطبقة السابعة والعشرون",
+      "level": 1,
+      "parent": null,
+      "start_ms": 63,
+      "end_ms": 98
+    },
+    "4": {
+      "title": "طبقة أخرى صغرى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 98,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      40,
+      [1],
+      null
+    ],
+    [
+      54,
+      [2],
+      1
+    ],
+    [
+      63,
+      [3],
+      2
+    ],
+    [
+      98,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 150
+}

@@ -1,0 +1,56 @@
+{
+  "filename": "0279IbnAbiKhaythama.TarikhKabir.JK007002-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "( أخبار المكيين )",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 8
+    },
+    "2": {
+      "title": "( ولادة النبي صلى الله عليه وسلم )",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 11
+    },
+    "3": {
+      "title": "( علي بن أبي طالب رضي الله عنه )",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 27
+    },
+    "4": {
+      "title": "( تسمية من نزل مكة من أصحاب رسول الله صلى الله عليه وسلم )",
+      "level": 1,
+      "parent": null,
+      "start_ms": 27,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      8,
+      [2],
+      1
+    ],
+    [
+      11,
+      [3],
+      2
+    ],
+    [
+      27,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 91
+}

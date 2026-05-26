@@ -1,0 +1,916 @@
+{
+  "filename": "0255Jahiz.MahasinWaAddad.JK009364-ara1.mARkdown",
+  "sections": {
+    "1": {
+      "title": "محاسن الكتابة والكتب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 6
+    },
+    "2": {
+      "title": "ضده",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "3": {
+      "title": "محاسن المخاطبات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 10
+    },
+    "4": {
+      "title": "ضده",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 9,
+      "end_ms": 10
+    },
+    "5": {
+      "title": "محاسن المكاتبات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 13
+    },
+    "6": {
+      "title": "ضده",
+      "level": 2,
+      "parent": 5,
+      "start_ms": 12,
+      "end_ms": 13
+    },
+    "7": {
+      "title": "محاسن الجواب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 14
+    },
+    "8": {
+      "title": "مساوئ الجواب",
+      "level": 2,
+      "parent": 7,
+      "start_ms": 13,
+      "end_ms": 14
+    },
+    "9": {
+      "title": "محاسن حفظ اللسان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 17
+    },
+    "10": {
+      "title": "ضده",
+      "level": 2,
+      "parent": 9,
+      "start_ms": 16,
+      "end_ms": 17
+    },
+    "11": {
+      "title": "محاسن كتمان السر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 17,
+      "end_ms": 20
+    },
+    "12": {
+      "title": "محاسن المشورة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 20,
+      "end_ms": 21
+    },
+    "13": {
+      "title": "ضده",
+      "level": 2,
+      "parent": 12,
+      "start_ms": 20,
+      "end_ms": 21
+    },
+    "14": {
+      "title": "محاسن الشكر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 21,
+      "end_ms": 24
+    },
+    "15": {
+      "title": "مساوئ اصطناع المعروف",
+      "level": 2,
+      "parent": 14,
+      "start_ms": 23,
+      "end_ms": 24
+    },
+    "16": {
+      "title": "محاسن الصدق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 24,
+      "end_ms": 28
+    },
+    "17": {
+      "title": "ضده",
+      "level": 2,
+      "parent": 16,
+      "start_ms": 26,
+      "end_ms": 28
+    },
+    "18": {
+      "title": "محاسن العفو",
+      "level": 1,
+      "parent": null,
+      "start_ms": 28,
+      "end_ms": 31
+    },
+    "19": {
+      "title": "ضده",
+      "level": 2,
+      "parent": 18,
+      "start_ms": 29,
+      "end_ms": 31
+    },
+    "20": {
+      "title": "محاسن الصبر على الحبس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 31,
+      "end_ms": 33
+    },
+    "21": {
+      "title": "ضده",
+      "level": 2,
+      "parent": 20,
+      "start_ms": 32,
+      "end_ms": 33
+    },
+    "22": {
+      "title": "محاسن المودة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 33,
+      "end_ms": 34
+    },
+    "23": {
+      "title": "ضده",
+      "level": 2,
+      "parent": 22,
+      "start_ms": 34,
+      "end_ms": 34
+    },
+    "24": {
+      "title": "محاسن الولايات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 34,
+      "end_ms": 35
+    },
+    "25": {
+      "title": "ضده",
+      "level": 2,
+      "parent": 24,
+      "start_ms": 35,
+      "end_ms": 35
+    },
+    "26": {
+      "title": "محاسن الصحبة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 35,
+      "end_ms": 37
+    },
+    "27": {
+      "title": "ضده",
+      "level": 2,
+      "parent": 26,
+      "start_ms": 36,
+      "end_ms": 37
+    },
+    "28": {
+      "title": "محاسن التطير",
+      "level": 1,
+      "parent": null,
+      "start_ms": 37,
+      "end_ms": 38
+    },
+    "29": {
+      "title": "ضده",
+      "level": 2,
+      "parent": 28,
+      "start_ms": 38,
+      "end_ms": 38
+    },
+    "30": {
+      "title": "محاسن الوفاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 38,
+      "end_ms": 42
+    },
+    "31": {
+      "title": "ضده",
+      "level": 2,
+      "parent": 30,
+      "start_ms": 41,
+      "end_ms": 42
+    },
+    "32": {
+      "title": "محاسن السخاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 42,
+      "end_ms": 48
+    },
+    "33": {
+      "title": "مساوئ البخل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 48,
+      "end_ms": 54
+    },
+    "34": {
+      "title": "محاسن الشجاعة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 54,
+      "end_ms": 64
+    },
+    "35": {
+      "title": "ضده",
+      "level": 2,
+      "parent": 34,
+      "start_ms": 61,
+      "end_ms": 64
+    },
+    "36": {
+      "title": "محاسن حب الوطن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 64,
+      "end_ms": 68
+    },
+    "37": {
+      "title": "ضده",
+      "level": 2,
+      "parent": 36,
+      "start_ms": 67,
+      "end_ms": 68
+    },
+    "38": {
+      "title": "محاسن الدهاء والحيل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 68,
+      "end_ms": 73
+    },
+    "39": {
+      "title": "ضده",
+      "level": 2,
+      "parent": 38,
+      "start_ms": 72,
+      "end_ms": 73
+    },
+    "40": {
+      "title": "محاسن المفاخرة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 73,
+      "end_ms": 93
+    },
+    "41": {
+      "title": "ضده",
+      "level": 2,
+      "parent": 40,
+      "start_ms": 90,
+      "end_ms": 93
+    },
+    "42": {
+      "title": "محاسن الثقة بالله سبحانه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 93,
+      "end_ms": 94
+    },
+    "43": {
+      "title": "ضده",
+      "level": 2,
+      "parent": 42,
+      "start_ms": 93,
+      "end_ms": 94
+    },
+    "44": {
+      "title": "محاسن طلب الرزق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 94,
+      "end_ms": 95
+    },
+    "45": {
+      "title": "ضده",
+      "level": 2,
+      "parent": 44,
+      "start_ms": 94,
+      "end_ms": 95
+    },
+    "46": {
+      "title": "محاسن المواعظ",
+      "level": 1,
+      "parent": null,
+      "start_ms": 95,
+      "end_ms": 97
+    },
+    "47": {
+      "title": "ضده",
+      "level": 2,
+      "parent": 46,
+      "start_ms": 96,
+      "end_ms": 97
+    },
+    "48": {
+      "title": "محاسن فضل الدنيا",
+      "level": 1,
+      "parent": null,
+      "start_ms": 97,
+      "end_ms": 101
+    },
+    "49": {
+      "title": "ضده",
+      "level": 2,
+      "parent": 48,
+      "start_ms": 98,
+      "end_ms": 101
+    },
+    "50": {
+      "title": "محاسن الزهد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 101,
+      "end_ms": 103
+    },
+    "51": {
+      "title": "ضده",
+      "level": 2,
+      "parent": 50,
+      "start_ms": 102,
+      "end_ms": 103
+    },
+    "52": {
+      "title": "محاسن النساء النادبات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 103,
+      "end_ms": 106
+    },
+    "53": {
+      "title": "النساء الماجنات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 106,
+      "end_ms": 110
+    },
+    "54": {
+      "title": "الأعرابيات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 110,
+      "end_ms": 112
+    },
+    "55": {
+      "title": "المتكلمات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 112,
+      "end_ms": 116
+    },
+    "56": {
+      "title": "محاسن النساء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 116,
+      "end_ms": 119
+    },
+    "57": {
+      "title": "محاسن التزويج",
+      "level": 1,
+      "parent": null,
+      "start_ms": 119,
+      "end_ms": 122
+    },
+    "58": {
+      "title": "أمثال في التزويج",
+      "level": 1,
+      "parent": null,
+      "start_ms": 122,
+      "end_ms": 124
+    },
+    "59": {
+      "title": "في الناشزة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 124,
+      "end_ms": 127
+    },
+    "60": {
+      "title": "نساء الخلفاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 127,
+      "end_ms": 130
+    },
+    "61": {
+      "title": "المطلقات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 130,
+      "end_ms": 133
+    },
+    "62": {
+      "title": "محاسن وفاء النساء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 133,
+      "end_ms": 146
+    },
+    "63": {
+      "title": "ضده",
+      "level": 2,
+      "parent": 62,
+      "start_ms": 139,
+      "end_ms": 146
+    },
+    "64": {
+      "title": "محاسن مكر النساء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 146,
+      "end_ms": 151
+    },
+    "65": {
+      "title": "مساوئ مكر النساء",
+      "level": 2,
+      "parent": 64,
+      "start_ms": 149,
+      "end_ms": 151
+    },
+    "66": {
+      "title": "محاسن الغيرة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 151,
+      "end_ms": 169
+    },
+    "67": {
+      "title": "مساوئ شدة الغيرة والعقوبة عليها",
+      "level": 2,
+      "parent": 66,
+      "start_ms": 163,
+      "end_ms": 169
+    },
+    "68": {
+      "title": "محاسن القيادة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 169,
+      "end_ms": 195
+    },
+    "69": {
+      "title": "محاسن الدبيب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 195,
+      "end_ms": 200
+    },
+    "70": {
+      "title": "ضده مساوئ الدبيب",
+      "level": 2,
+      "parent": 69,
+      "start_ms": 198,
+      "end_ms": 200
+    },
+    "71": {
+      "title": "محاسن الباه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 200,
+      "end_ms": 202
+    },
+    "72": {
+      "title": "ضده في مساوئ العنين",
+      "level": 2,
+      "parent": 71,
+      "start_ms": 201,
+      "end_ms": 202
+    },
+    "73": {
+      "title": "محاسن النيروز والمهرجان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 202,
+      "end_ms": 206
+    },
+    "74": {
+      "title": "محاسن الهدايا",
+      "level": 1,
+      "parent": null,
+      "start_ms": 206,
+      "end_ms": 215
+    },
+    "75": {
+      "title": "محاسن الوصائف المغنيات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 215,
+      "end_ms": 218
+    },
+    "76": {
+      "title": "محاسن الجواري مطلقا",
+      "level": 1,
+      "parent": null,
+      "start_ms": 218,
+      "end_ms": 219
+    },
+    "77": {
+      "title": "ضده",
+      "level": 2,
+      "parent": 76,
+      "start_ms": 219,
+      "end_ms": 219
+    },
+    "78": {
+      "title": "محاسن الموت",
+      "level": 1,
+      "parent": null,
+      "start_ms": 219,
+      "end_ms": null
+    },
+    "79": {
+      "title": "ضده",
+      "level": 2,
+      "parent": 78,
+      "start_ms": 220,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      5,
+      [2],
+      1
+    ],
+    [
+      6,
+      [3],
+      2
+    ],
+    [
+      9,
+      [4],
+      3
+    ],
+    [
+      10,
+      [5],
+      4
+    ],
+    [
+      12,
+      [6],
+      5
+    ],
+    [
+      13,
+      [7, 8],
+      6
+    ],
+    [
+      14,
+      [9],
+      8
+    ],
+    [
+      16,
+      [10],
+      9
+    ],
+    [
+      17,
+      [11],
+      10
+    ],
+    [
+      20,
+      [12, 13],
+      11
+    ],
+    [
+      21,
+      [14],
+      13
+    ],
+    [
+      23,
+      [15],
+      14
+    ],
+    [
+      24,
+      [16],
+      15
+    ],
+    [
+      26,
+      [17],
+      16
+    ],
+    [
+      28,
+      [18],
+      17
+    ],
+    [
+      29,
+      [19],
+      18
+    ],
+    [
+      31,
+      [20],
+      19
+    ],
+    [
+      32,
+      [21],
+      20
+    ],
+    [
+      33,
+      [22],
+      21
+    ],
+    [
+      34,
+      [23, 24],
+      22
+    ],
+    [
+      35,
+      [25, 26],
+      24
+    ],
+    [
+      36,
+      [27],
+      26
+    ],
+    [
+      37,
+      [28],
+      27
+    ],
+    [
+      38,
+      [29, 30],
+      28
+    ],
+    [
+      41,
+      [31],
+      30
+    ],
+    [
+      42,
+      [32],
+      31
+    ],
+    [
+      48,
+      [33],
+      32
+    ],
+    [
+      54,
+      [34],
+      33
+    ],
+    [
+      61,
+      [35],
+      34
+    ],
+    [
+      64,
+      [36],
+      35
+    ],
+    [
+      67,
+      [37],
+      36
+    ],
+    [
+      68,
+      [38],
+      37
+    ],
+    [
+      72,
+      [39],
+      38
+    ],
+    [
+      73,
+      [40],
+      39
+    ],
+    [
+      90,
+      [41],
+      40
+    ],
+    [
+      93,
+      [42, 43],
+      41
+    ],
+    [
+      94,
+      [44, 45],
+      43
+    ],
+    [
+      95,
+      [46],
+      45
+    ],
+    [
+      96,
+      [47],
+      46
+    ],
+    [
+      97,
+      [48],
+      47
+    ],
+    [
+      98,
+      [49],
+      48
+    ],
+    [
+      101,
+      [50],
+      49
+    ],
+    [
+      102,
+      [51],
+      50
+    ],
+    [
+      103,
+      [52],
+      51
+    ],
+    [
+      106,
+      [53],
+      52
+    ],
+    [
+      110,
+      [54],
+      53
+    ],
+    [
+      112,
+      [55],
+      54
+    ],
+    [
+      116,
+      [56],
+      55
+    ],
+    [
+      119,
+      [57],
+      56
+    ],
+    [
+      122,
+      [58],
+      57
+    ],
+    [
+      124,
+      [59],
+      58
+    ],
+    [
+      127,
+      [60],
+      59
+    ],
+    [
+      130,
+      [61],
+      60
+    ],
+    [
+      133,
+      [62],
+      61
+    ],
+    [
+      139,
+      [63],
+      62
+    ],
+    [
+      146,
+      [64],
+      63
+    ],
+    [
+      149,
+      [65],
+      64
+    ],
+    [
+      151,
+      [66],
+      65
+    ],
+    [
+      163,
+      [67],
+      66
+    ],
+    [
+      169,
+      [68],
+      67
+    ],
+    [
+      195,
+      [69],
+      68
+    ],
+    [
+      198,
+      [70],
+      69
+    ],
+    [
+      200,
+      [71],
+      70
+    ],
+    [
+      201,
+      [72],
+      71
+    ],
+    [
+      202,
+      [73],
+      72
+    ],
+    [
+      206,
+      [74],
+      73
+    ],
+    [
+      215,
+      [75],
+      74
+    ],
+    [
+      218,
+      [76],
+      75
+    ],
+    [
+      219,
+      [77, 78],
+      76
+    ],
+    [
+      220,
+      [79],
+      78
+    ]
+  ],
+  "last_ms": 220
+}

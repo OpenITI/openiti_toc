@@ -1,0 +1,68 @@
+{
+  "filename": "0281IbnAbiDunya.QasrAmal.JK009174-ara1.mARkdown",
+  "sections": {
+    "1": {
+      "title": "الجزء الثاني باب المبادرة بالعمل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 24,
+      "end_ms": 41
+    },
+    "2": {
+      "title": "الجزء الثالث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 41,
+      "end_ms": null
+    },
+    "3": {
+      "title": "ذم التسويف",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 42,
+      "end_ms": 47
+    },
+    "4": {
+      "title": "باب | البناء وما ذموا منه $ |",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 47,
+      "end_ms": 48
+    },
+    "5": {
+      "title": "باب | البناء وذمه",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 48,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      24,
+      [1],
+      null
+    ],
+    [
+      41,
+      [2],
+      1
+    ],
+    [
+      42,
+      [3],
+      2
+    ],
+    [
+      47,
+      [4],
+      3
+    ],
+    [
+      48,
+      [5],
+      4
+    ]
+  ],
+  "last_ms": 67
+}

@@ -1,0 +1,51 @@
+{
+  "filename": "0500Anonymous.ZiyadatMakhtutatTarikhJurjan.JK000496BK2-ara1",
+  "sections": {
+    "1": {
+      "title": "1 ( فوائد ثبتت في نسخة الأصل وليست من تاريخ جرجان ولا تتعلق به",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 7
+    },
+    "2": {
+      "title": "في ذيل الورقة  101/ ب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 8
+    },
+    "3": {
+      "title": "وفي ذيل الورقة 183/ ب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 8
+    },
+    "4": {
+      "title": "وفي ذيل ورقة 200/ ب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      7,
+      [2],
+      1
+    ],
+    [
+      8,
+      [3, 4],
+      2
+    ]
+  ],
+  "last_ms": 9
+}

@@ -1,0 +1,203 @@
+{
+  "filename": "0333IbnMuhammadMadini.Juz.JK001438-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "1 - حديث عبد الله بن مسعود",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "2": {
+      "title": "2 - معاذ بن جبل رضي الله عنه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "3 - عمار بن ياسر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "4": {
+      "title": "4 - زيد بن ثابت رضي الله عنه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 4
+    },
+    "5": {
+      "title": "5 - جرير بن عبد الله البجلي رضي الله عنه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "6": {
+      "title": "6 - شيبة بن عثمان التيمي رضي الله عنه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "7": {
+      "title": "7 - جبير بن مطعم رضي الله عنه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "8": {
+      "title": "8 - أبو سعيد الخدري رضي الله عنه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "9": {
+      "title": "9 - أبو بكرة رضي الله عنه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "10": {
+      "title": "10 - عبد الله بن عمر بن الخطاب رضي الله عنه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "11": {
+      "title": "11 - عبد الله بن عباس بن عبد المطلب رضي ms06 الله عنه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 8
+    },
+    "12": {
+      "title": "12 - عبد الله بن عمرو بن العاص رضي الله عنه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 8
+    },
+    "13": {
+      "title": "13 - بشير بن سعد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 9
+    },
+    "14": {
+      "title": "14 - جابر بن عبد الله بن حرام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 9
+    },
+    "15": {
+      "title": "15 - أنس بن مالك رضي الله عنه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 10
+    },
+    "16": {
+      "title": "16 - البراء بن عازب رضي الله عنه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 11
+    },
+    "17": {
+      "title": "17 - النعمان بن بشير رضي الله عنه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 11
+    },
+    "18": {
+      "title": "18 - المسور بن مخرمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 11
+    },
+    "19": {
+      "title": "19 - أبو أمامة الباهلي رضي الله عنه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 12
+    },
+    "20": {
+      "title": "20 - أبو مالك رضي الله عنه كعب بن عاصم الأشعري",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2, 3, 4],
+      1
+    ],
+    [
+      4,
+      [5, 6, 7, 8],
+      4
+    ],
+    [
+      5,
+      [9],
+      8
+    ],
+    [
+      6,
+      [10],
+      9
+    ],
+    [
+      7,
+      [11],
+      null
+    ],
+    [
+      8,
+      [12, 13],
+      11
+    ],
+    [
+      9,
+      [14, 15],
+      13
+    ],
+    [
+      10,
+      [16],
+      15
+    ],
+    [
+      11,
+      [17, 18, 19],
+      16
+    ],
+    [
+      12,
+      [20],
+      19
+    ]
+  ],
+  "last_ms": 14
+}

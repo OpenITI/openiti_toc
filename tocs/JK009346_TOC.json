@@ -1,0 +1,63 @@
+{
+  "filename": "0456IbnHazm.RaddCalaKindi.JK009346-ara1.mARkdown",
+  "sections": {
+    "1": {
+      "title": "ما في الفن الثاني",
+      "level": 2,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": null
+    },
+    "2": {
+      "title": "فصل",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 29,
+      "end_ms": 32
+    },
+    "3": {
+      "title": "فصل",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 32,
+      "end_ms": 37
+    },
+    "4": {
+      "title": "فصل",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 37,
+      "end_ms": 37
+    },
+    "5": {
+      "title": "فصل",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 37,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      2,
+      [1],
+      null
+    ],
+    [
+      29,
+      [2],
+      1
+    ],
+    [
+      32,
+      [3],
+      2
+    ],
+    [
+      37,
+      [4, 5],
+      3
+    ]
+  ],
+  "last_ms": 38
+}

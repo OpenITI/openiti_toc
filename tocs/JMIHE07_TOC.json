@@ -1,0 +1,87 @@
+{
+  "filename": "0575Anonymous.RaddIfhamYahud.JMIHE07-ara1.mARkdown",
+  "sections": {
+    "1": {
+      "title": "I",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "II",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "III",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 8
+    },
+    "4": {
+      "title": "IV",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 9
+    },
+    "5": {
+      "title": "V",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 14
+    },
+    "6": {
+      "title": "VI",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 15
+    },
+    "7": {
+      "title": "VII",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      4,
+      [3],
+      2
+    ],
+    [
+      8,
+      [4],
+      3
+    ],
+    [
+      9,
+      [5],
+      4
+    ],
+    [
+      14,
+      [6],
+      5
+    ],
+    [
+      15,
+      [7],
+      6
+    ]
+  ],
+  "last_ms": 15
+}

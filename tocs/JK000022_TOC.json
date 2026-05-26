@@ -1,0 +1,56 @@
+{
+  "filename": "0430AbuNucaymIsbahani.HilyatAwliya.JK000022-ara1.mARkdown",
+  "sections": {
+    "1": {
+      "title": "[مقدمه]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 357
+    },
+    "2": {
+      "title": "ذكر أهل الصفة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 357,
+      "end_ms": 476
+    },
+    "3": {
+      "title": "ذكر جماعة من سكان الصفة وقطان المسجد ترك ذكرهم",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 423,
+      "end_ms": 476
+    },
+    "4": {
+      "title": "فمن الطبقة الاولى من التابعين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 476,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      357,
+      [2],
+      1
+    ],
+    [
+      423,
+      [3],
+      2
+    ],
+    [
+      476,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 3947
+}

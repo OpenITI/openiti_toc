@@ -1,0 +1,113 @@
+{
+  "filename": "0475SahlIbnFadlTustari.UsulMuhadhdhabiyya.JMIHE05-ara1.mARkdown",
+  "sections": {
+    "1": {
+      "title": "I",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "2": {
+      "title": "باب في وجوب النظر والاستدلال على معرفة الله سبحانه",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "II",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": null
+    },
+    "4": {
+      "title": "باب في التوبة المسقطة للعقاب",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "5": {
+      "title": "باب في النبوات",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "6": {
+      "title": "باب في الشرائع",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 7,
+      "end_ms": 8
+    },
+    "7": {
+      "title": "باب فيما ينبغي أن يكون بنية العاقل",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 8,
+      "end_ms": 8
+    },
+    "8": {
+      "title": "باب في المعاد",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 8,
+      "end_ms": 9
+    },
+    "9": {
+      "title": "باب في الحساب",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 9,
+      "end_ms": 9
+    },
+    "10": {
+      "title": "باب في تكليفه أولي الأمر",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 9,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      4,
+      [3],
+      2
+    ],
+    [
+      5,
+      [4],
+      3
+    ],
+    [
+      6,
+      [5],
+      4
+    ],
+    [
+      7,
+      [6],
+      5
+    ],
+    [
+      8,
+      [7, 8],
+      6
+    ],
+    [
+      9,
+      [9, 10],
+      8
+    ]
+  ],
+  "last_ms": 10
+}

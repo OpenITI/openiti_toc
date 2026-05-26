@@ -1,0 +1,158 @@
+{
+  "filename": "0303Nasai.Tabaqat.JK000697BK2-ara3",
+  "sections": {
+    "1": {
+      "title": "الطبقات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "[أصحاب نافع]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "الطبقة الأولى من أصحاب نافع مولى عبد الله بن عمر",
+      "level": 3,
+      "parent": 2,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "4": {
+      "title": "الطبقة الثانية",
+      "level": 3,
+      "parent": 2,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "5": {
+      "title": "الطبقة الثالثة",
+      "level": 3,
+      "parent": 2,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "6": {
+      "title": "الطبقة الرابعة",
+      "level": 3,
+      "parent": 2,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "7": {
+      "title": "الطبقة الخامسة",
+      "level": 3,
+      "parent": 2,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "8": {
+      "title": "الطبقة السادسة",
+      "level": 3,
+      "parent": 2,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "9": {
+      "title": "الطبقة السابعة",
+      "level": 3,
+      "parent": 2,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "10": {
+      "title": "الطبقة الثامنة",
+      "level": 3,
+      "parent": 2,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "11": {
+      "title": "الطبقة التاسعة وهم الضعفاء",
+      "level": 3,
+      "parent": 2,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "12": {
+      "title": "الطبقة المتروك حديثهم",
+      "level": 3,
+      "parent": 2,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "13": {
+      "title": "[أصحاب الأعمش]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "14": {
+      "title": "الطبقة الأولى من أصحاب الأعمش",
+      "level": 3,
+      "parent": 13,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "15": {
+      "title": "الطبقة الثانية",
+      "level": 3,
+      "parent": 13,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "16": {
+      "title": "الطبقة الثالثة",
+      "level": 3,
+      "parent": 13,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "17": {
+      "title": "الطبقة الرابعة",
+      "level": 3,
+      "parent": 13,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "18": {
+      "title": "الطبقة الخامسة",
+      "level": 3,
+      "parent": 13,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "19": {
+      "title": "الطبقة السادسة",
+      "level": 3,
+      "parent": 13,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "20": {
+      "title": "الطبقة السابعة",
+      "level": 3,
+      "parent": 13,
+      "start_ms": 2,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18],
+      null
+    ],
+    [
+      2,
+      [19, 20],
+      18
+    ]
+  ],
+  "last_ms": 2
+}

@@ -1,0 +1,123 @@
+{
+  "filename": "0281IbnAbiDunya.SifatNar.JK009172-ara1.mARkdown",
+  "sections": {
+    "1": {
+      "title": "[ التعوذ بالله من النار ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "أبواب جهنم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "باب صفة جهنم وسعتها",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 6
+    },
+    "4": {
+      "title": "( جبال النار وأوديتها )",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 9
+    },
+    "5": {
+      "title": "( باب | مقامع أهل النار وسلاسلها وأغلالها )",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 13
+    },
+    "6": {
+      "title": "( الحميم والصديد والمهل والغسلين | شراب أهل النار وطعامهم )",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 16
+    },
+    "7": {
+      "title": "( الحيات والعقارب )",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": 19
+    },
+    "8": {
+      "title": "( تلفح وجوههم النار وهم فيها كالحون )",
+      "level": 1,
+      "parent": null,
+      "start_ms": 19,
+      "end_ms": 21
+    },
+    "9": {
+      "title": "( ألوان العذاب )",
+      "level": 1,
+      "parent": null,
+      "start_ms": 21,
+      "end_ms": 36
+    },
+    "10": {
+      "title": "( بكاء أهل النار )",
+      "level": 1,
+      "parent": null,
+      "start_ms": 36,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3],
+      2
+    ],
+    [
+      6,
+      [4],
+      3
+    ],
+    [
+      9,
+      [5],
+      4
+    ],
+    [
+      13,
+      [6],
+      5
+    ],
+    [
+      16,
+      [7],
+      6
+    ],
+    [
+      19,
+      [8],
+      7
+    ],
+    [
+      21,
+      [9],
+      8
+    ],
+    [
+      36,
+      [10],
+      9
+    ]
+  ],
+  "last_ms": 48
+}

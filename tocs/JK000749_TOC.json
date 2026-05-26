@@ -1,0 +1,44 @@
+{
+  "filename": "0241IbnHanbal.JamicFiCilal.JK000749-ara1.mARkdown",
+  "sections": {
+    "1": {
+      "title": "رواية أبي بكر أحمد الحجاج المروذي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 24
+    },
+    "2": {
+      "title": "مسائل صالح بن الإمام أحمد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 24,
+      "end_ms": 26
+    },
+    "3": {
+      "title": "رواية أبي الحسن عبدالملك بن عبدالحميد الميموني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 26,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      24,
+      [2],
+      1
+    ],
+    [
+      26,
+      [3],
+      2
+    ]
+  ],
+  "last_ms": 38
+}

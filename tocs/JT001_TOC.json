@@ -1,0 +1,113 @@
+{
+  "filename": "0584HasanRassas.Muaththirat.JT001-ara1.mARkdown",
+  "sections": {
+    "1": {
+      "title": "(١)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "(٢) الكلام في المؤثرات وما يجري مجراها وتمييز بعضها من بعض وما يختص به كل واحد منها من التأثير",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "(٣) باب في تمييز بعضها من بعض",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 4
+    },
+    "4": {
+      "title": "(٤) باب فيما يختص به كل واحد منها من التأثير",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": null
+    },
+    "5": {
+      "title": "[الكلام في النوع الأول]",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 4,
+      "end_ms": 13
+    },
+    "6": {
+      "title": "[الكلام في الفصل الأول]",
+      "level": 3,
+      "parent": 5,
+      "start_ms": 4,
+      "end_ms": 10
+    },
+    "7": {
+      "title": "[الكلام في الفصل الثاني]",
+      "level": 3,
+      "parent": 5,
+      "start_ms": 10,
+      "end_ms": 13
+    },
+    "8": {
+      "title": "[الكلام في النوع الثاني]",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 13,
+      "end_ms": 14
+    },
+    "9": {
+      "title": "[الكلام في النوع الثالث]",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 14,
+      "end_ms": 15
+    },
+    "10": {
+      "title": "[الكلام في النوع الرابع]",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 15,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3],
+      2
+    ],
+    [
+      4,
+      [4, 5, 6],
+      3
+    ],
+    [
+      10,
+      [7],
+      6
+    ],
+    [
+      13,
+      [8],
+      7
+    ],
+    [
+      14,
+      [9],
+      8
+    ],
+    [
+      15,
+      [10],
+      9
+    ]
+  ],
+  "last_ms": 18
+}

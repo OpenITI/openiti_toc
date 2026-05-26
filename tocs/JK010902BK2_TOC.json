@@ -1,0 +1,44 @@
+{
+  "filename": "1450CasimQaryuti.MalahiqTacrifAhlTaqdis.JK010902BK2-ara1",
+  "sections": {
+    "1": {
+      "title": "ملحق باسماء منن وصف بالتدليس ممن لم يذكروا في",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "2": {
+      "title": "منظومة * الحافظ العلامة المؤرخ ابي عبد الله",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "3": {
+      "title": "منظومة ابي محمود المقدسي تلميذ الحافظ الذهبي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      4,
+      [2],
+      1
+    ],
+    [
+      5,
+      [3],
+      2
+    ]
+  ],
+  "last_ms": 5
+}
