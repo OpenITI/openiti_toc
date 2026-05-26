@@ -1,0 +1,166 @@
+{
+  "filename": "1349IbnSahmanKhathcami.NazamIkhtiyarat.Shamela0003940-ara1",
+  "sections": {
+    "1": {
+      "title": "[كتاب الطهارة]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "أحكام المياه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "آداب قضاء الحاجة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "4": {
+      "title": "نواقض الوضوء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "5": {
+      "title": "التيمم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "6": {
+      "title": "إزالة النجاسة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "7": {
+      "title": "[كتاب الصلاة]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "8": {
+      "title": "صفة الصلاة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "9": {
+      "title": "مبطلات الصلاة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "10": {
+      "title": "القنوت في الوتر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "11": {
+      "title": "سجود التلاوة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "12": {
+      "title": "أوقات النهي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "13": {
+      "title": "صلاة الجماعة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "14": {
+      "title": "صلاة أهل الأعذار",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "15": {
+      "title": "بدع المساجد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "16": {
+      "title": "[كتاب الصيام]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "17": {
+      "title": "[كتاب المواريث]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "18": {
+      "title": "[التقليد]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "19": {
+      "title": "…",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3, 4, 5],
+      null
+    ],
+    [
+      2,
+      [6, 7, 8, 9],
+      5
+    ],
+    [
+      3,
+      [10, 11, 12, 13, 14],
+      9
+    ],
+    [
+      4,
+      [15, 16, 17],
+      14
+    ],
+    [
+      5,
+      [18, 19],
+      17
+    ]
+  ],
+  "last_ms": 5
+}

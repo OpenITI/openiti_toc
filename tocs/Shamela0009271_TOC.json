@@ -1,0 +1,116 @@
+{
+  "filename": "0636AbuCabdAllahIbnCaskar.Iclam.Shamela0009271-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "حرف الصاد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 93,
+      "end_ms": 99
+    },
+    "2": {
+      "title": "حرف العين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 99,
+      "end_ms": 174
+    },
+    "3": {
+      "title": "ومن الكنى في هذا الحرف",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 120,
+      "end_ms": 174
+    },
+    "4": {
+      "title": "حرف الغين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 174,
+      "end_ms": 177
+    },
+    "5": {
+      "title": "حرف القاف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 177,
+      "end_ms": 178
+    },
+    "6": {
+      "title": "حرف السين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 178,
+      "end_ms": 188
+    },
+    "7": {
+      "title": "حرف الشين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 188,
+      "end_ms": 190
+    },
+    "8": {
+      "title": "حرف الهاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 190,
+      "end_ms": 194
+    },
+    "9": {
+      "title": "حرف الياء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 194,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      93,
+      [1],
+      null
+    ],
+    [
+      99,
+      [2],
+      1
+    ],
+    [
+      120,
+      [3],
+      2
+    ],
+    [
+      174,
+      [4],
+      3
+    ],
+    [
+      177,
+      [5],
+      4
+    ],
+    [
+      178,
+      [6],
+      5
+    ],
+    [
+      188,
+      [7],
+      6
+    ],
+    [
+      190,
+      [8],
+      7
+    ],
+    [
+      194,
+      [9],
+      8
+    ]
+  ],
+  "last_ms": 206
+}

@@ -1,0 +1,130 @@
+{
+  "filename": "0500Anonymous.AwtanWaBuldan.Shamela0010709BK2-ara2.mARkdown",
+  "sections": {
+    "1": {
+      "title": "2- رسالة الاوطان والبلدان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "[1- موضوع الكتاب: تفاضل البلدان وحب الاوطان]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "[2- حب الوطن طبع في الناس]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "4": {
+      "title": "[3- خصال قريش]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 5
+    },
+    "5": {
+      "title": "[4- مكة]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "6": {
+      "title": "[5- خصال هاشم]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 6,
+      "end_ms": 9
+    },
+    "7": {
+      "title": "[6- عودة الى خصال قريش]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 9,
+      "end_ms": 11
+    },
+    "8": {
+      "title": "[7- المدينة]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 11,
+      "end_ms": 12
+    },
+    "9": {
+      "title": "[8- مصر]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 12,
+      "end_ms": 13
+    },
+    "10": {
+      "title": "[9- الكوفة والبصرة]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 13,
+      "end_ms": 18
+    },
+    "11": {
+      "title": "[10- الحيرة]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 18,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3],
+      null
+    ],
+    [
+      3,
+      [4],
+      3
+    ],
+    [
+      5,
+      [5],
+      4
+    ],
+    [
+      6,
+      [6],
+      5
+    ],
+    [
+      9,
+      [7],
+      6
+    ],
+    [
+      11,
+      [8],
+      7
+    ],
+    [
+      12,
+      [9],
+      8
+    ],
+    [
+      13,
+      [10],
+      9
+    ],
+    [
+      18,
+      [11],
+      10
+    ]
+  ],
+  "last_ms": 19
+}

@@ -1,0 +1,32 @@
+{
+  "filename": "0748Dhahabi.TarjamatImamMuslim.Shamela0029830-ara1",
+  "sections": {
+    "1": {
+      "title": "ابن سفيان إبراهيم بن محمد بن سفيان أبو إسحاق النيسابوري الفقيه الزاهد رحمة الله عليه،",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "2": {
+      "title": "- الفراوي محمد بن الفضل بن أحمد بن محمد بن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      3,
+      [2],
+      1
+    ]
+  ],
+  "last_ms": 6
+}

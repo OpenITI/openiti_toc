@@ -1,0 +1,113 @@
+{
+  "filename": "0256ZubayrIbnBakkar.Muntakhab.Shamela0006599-ara1",
+  "sections": {
+    "1": {
+      "title": "3 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 10
+    },
+    "2": {
+      "title": "قصة تزوج النبي صلى الله عليه وسلم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 11
+    },
+    "3": {
+      "title": "4 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 12
+    },
+    "4": {
+      "title": "قصة تزوج ms11 النبي صلى الله عليه وسلم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 14
+    },
+    "5": {
+      "title": "قبرها سلمة وعمر ابناها وعبد الله بن عبد الله بن أبي أمية ms13 وعبد الله بن وهب بن زمعة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 15
+    },
+    "6": {
+      "title": "7 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 15
+    },
+    "7": {
+      "title": "ريحانة بنت زيد بن عمرو بن قنافة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 16
+    },
+    "8": {
+      "title": "10 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": 16
+    },
+    "9": {
+      "title": "قصة تزوج النبي صلى الله عليه وسلم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": 23
+    },
+    "10": {
+      "title": "ما جاء فيما أوتي رسول الله صلى الله عليه وسلم من القوة في الجماع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 23,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      10,
+      [1, 2],
+      null
+    ],
+    [
+      11,
+      [3],
+      2
+    ],
+    [
+      12,
+      [4],
+      null
+    ],
+    [
+      14,
+      [5],
+      null
+    ],
+    [
+      15,
+      [6, 7],
+      5
+    ],
+    [
+      16,
+      [8, 9],
+      7
+    ],
+    [
+      23,
+      [10],
+      9
+    ]
+  ],
+  "last_ms": 24
+}

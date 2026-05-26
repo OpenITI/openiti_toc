@@ -1,0 +1,44 @@
+{
+  "filename": "1349IbnSahmanKhathcami.TamayyuzSidq.Shamela0006488-ara1",
+  "sections": {
+    "1": {
+      "title": "بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 6
+    },
+    "2": {
+      "title": "فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 16
+    },
+    "3": {
+      "title": "فتييان تتعلقان بتكفير الجهمية وأن الصلاة لا تصح خلف من لا يكفر الجهمية ومسائل أخر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      6,
+      [2],
+      1
+    ],
+    [
+      16,
+      [3],
+      2
+    ]
+  ],
+  "last_ms": 16
+}

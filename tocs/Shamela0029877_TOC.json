@@ -1,0 +1,108 @@
+{
+  "filename": "1182IbnIsmacilSancani.IstifaAqwal.Shamela0029877-ara1",
+  "sections": {
+    "1": {
+      "title": "حديث عبد الله بن عمر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "حديث أبى هريرة رضى الله عنه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "حديث أبى جحيفة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "4": {
+      "title": "حديث ابن عمر رضى الله عنه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "5": {
+      "title": "حديث ابن عمر رضى الله عنه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 6
+    },
+    "6": {
+      "title": "تحرير المقال فى الاسبال",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 6
+    },
+    "7": {
+      "title": "فى الصلاة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 10
+    },
+    "8": {
+      "title": ".........",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 12
+    },
+    "9": {
+      "title": "حديث أبى بكر رضى الله عنه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 13
+    },
+    "10": {
+      "title": "القول بمفهوم الصفة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      3,
+      [3, 4, 5],
+      2
+    ],
+    [
+      6,
+      [6, 7],
+      5
+    ],
+    [
+      10,
+      [8],
+      7
+    ],
+    [
+      12,
+      [9],
+      8
+    ],
+    [
+      13,
+      [10],
+      9
+    ]
+  ],
+  "last_ms": 17
+}

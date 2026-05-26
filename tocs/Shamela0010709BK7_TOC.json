@@ -1,0 +1,82 @@
+{
+  "filename": "0255Jahiz.FakhrSudan.Shamela0010709BK7-ara2.mARkdown",
+  "sections": {
+    "1": {
+      "title": "8- فخر السودان على البيضان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "[1- مقدمة]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "[2- نجباء السودان]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 7
+    },
+    "4": {
+      "title": "[3- خصال السودان]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 7,
+      "end_ms": 10
+    },
+    "5": {
+      "title": "[4- مزايا اللون الاسود]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 10,
+      "end_ms": 14
+    },
+    "6": {
+      "title": "[5- كثرة عدد السودان واتساع بلدانهم]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 14,
+      "end_ms": 18
+    },
+    "7": {
+      "title": "[6- اثر البيئة في لون السودان والبيضان]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 18,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3],
+      null
+    ],
+    [
+      7,
+      [4],
+      3
+    ],
+    [
+      10,
+      [5],
+      4
+    ],
+    [
+      14,
+      [6],
+      5
+    ],
+    [
+      18,
+      [7],
+      6
+    ]
+  ],
+  "last_ms": 20
+}

@@ -1,0 +1,128 @@
+{
+  "filename": "0611SharafDinMuqaddasi.Arbacin.Shamela0026726-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "الطبقة الأولى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 9
+    },
+    "2": {
+      "title": "الطبقة الثانية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 21
+    },
+    "3": {
+      "title": "الطبقة الثالثة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 21,
+      "end_ms": 35
+    },
+    "4": {
+      "title": "الطبقة الرابعة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 35,
+      "end_ms": 55
+    },
+    "5": {
+      "title": "الطبقة الخامسة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 55,
+      "end_ms": 73
+    },
+    "6": {
+      "title": "الطبقة السادسة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 73,
+      "end_ms": 83
+    },
+    "7": {
+      "title": "الطبقة السابعة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 83,
+      "end_ms": 102
+    },
+    "8": {
+      "title": "الطبقة الثامنة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 102,
+      "end_ms": 120
+    },
+    "9": {
+      "title": "الطبقة التاسعة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 120,
+      "end_ms": 140
+    },
+    "10": {
+      "title": "الطبعة العاشرة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 140,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      2,
+      [1],
+      null
+    ],
+    [
+      9,
+      [2],
+      1
+    ],
+    [
+      21,
+      [3],
+      2
+    ],
+    [
+      35,
+      [4],
+      3
+    ],
+    [
+      55,
+      [5],
+      4
+    ],
+    [
+      73,
+      [6],
+      5
+    ],
+    [
+      83,
+      [7],
+      6
+    ],
+    [
+      102,
+      [8],
+      7
+    ],
+    [
+      120,
+      [9],
+      8
+    ],
+    [
+      140,
+      [10],
+      9
+    ]
+  ],
+  "last_ms": 156
+}

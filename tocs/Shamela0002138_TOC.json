@@ -1,0 +1,104 @@
+{
+  "filename": "1418SalihAhmadArkani.TuhfatMajalis.Shamela0002138-ara1",
+  "sections": {
+    "1": {
+      "title": "تحفة المجالس في التعليقات علي فهرس الفهارس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "2": {
+      "title": ".....",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 6
+    },
+    "3": {
+      "title": ".....",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 14
+    },
+    "4": {
+      "title": "....",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 18
+    },
+    "5": {
+      "title": "....",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": 30
+    },
+    "6": {
+      "title": "....",
+      "level": 1,
+      "parent": null,
+      "start_ms": 30,
+      "end_ms": 45
+    },
+    "7": {
+      "title": ".....",
+      "level": 1,
+      "parent": null,
+      "start_ms": 45,
+      "end_ms": 48
+    },
+    "8": {
+      "title": "والله تعالى أعلم، وصلى الله وسلم على خير خلقه وآله وصحبه أجمعين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 48,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      3,
+      [2],
+      1
+    ],
+    [
+      6,
+      [3],
+      2
+    ],
+    [
+      14,
+      [4],
+      3
+    ],
+    [
+      18,
+      [5],
+      4
+    ],
+    [
+      30,
+      [6],
+      5
+    ],
+    [
+      45,
+      [7],
+      6
+    ],
+    [
+      48,
+      [8],
+      7
+    ]
+  ],
+  "last_ms": 48
+}

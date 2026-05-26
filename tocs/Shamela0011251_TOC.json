@@ -1,0 +1,178 @@
+{
+  "filename": "0728IbnTaymiyya.SharhCumdatFiqh.Shamela0011251-ara1",
+  "sections": {
+    "1": {
+      "title": "كتاب الصلاة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "تعريف الصلاة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "وجوب الصلاة وأدلة ذلك",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 14
+    },
+    "4": {
+      "title": "مسألة: (فمن جحد وجوبها بجهله",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 15
+    },
+    "5": {
+      "title": "مسألة: (ولا يحل تأخيرها عن وقتها إلا لناو جمعها أو مشتغل عنها بشرطها) .",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 19
+    },
+    "6": {
+      "title": "مسألة: (فإن تركها تهاونا استتيب ثلاثا فإن تاب وإلا قتل)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 19,
+      "end_ms": 39
+    },
+    "7": {
+      "title": "باب الآذان والإقامة.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 39,
+      "end_ms": 63
+    },
+    "8": {
+      "title": "باب شروط الصلاة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 63,
+      "end_ms": 63
+    },
+    "9": {
+      "title": "الشرط الأول: الطهارة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 63,
+      "end_ms": 64
+    },
+    "10": {
+      "title": "الشرط الثاني: الوقت",
+      "level": 1,
+      "parent": null,
+      "start_ms": 64,
+      "end_ms": 119
+    },
+    "11": {
+      "title": "الشرط الثالث: ستر العورة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 119,
+      "end_ms": 197
+    },
+    "12": {
+      "title": "الشرط الرابع: الطهارة من النجاسة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 197,
+      "end_ms": 266
+    },
+    "13": {
+      "title": "الشرط الخامس: استقبال القبلة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 266,
+      "end_ms": 298
+    },
+    "14": {
+      "title": "الشرط السادس: النية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 298,
+      "end_ms": 311
+    },
+    "15": {
+      "title": "باب أدب المشي إلى الصلاة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 311,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      4,
+      [3],
+      2
+    ],
+    [
+      14,
+      [4],
+      3
+    ],
+    [
+      15,
+      [5],
+      4
+    ],
+    [
+      19,
+      [6],
+      5
+    ],
+    [
+      39,
+      [7],
+      6
+    ],
+    [
+      63,
+      [8, 9],
+      7
+    ],
+    [
+      64,
+      [10],
+      9
+    ],
+    [
+      119,
+      [11],
+      10
+    ],
+    [
+      197,
+      [12],
+      11
+    ],
+    [
+      266,
+      [13],
+      12
+    ],
+    [
+      298,
+      [14],
+      13
+    ],
+    [
+      311,
+      [15],
+      14
+    ]
+  ],
+  "last_ms": 321
+}

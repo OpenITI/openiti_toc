@@ -1,0 +1,171 @@
+{
+  "filename": "0944IbnDaybac.MukaffiratDhunub.Shamela0028114-ara1",
+  "sections": {
+    "1": {
+      "title": "الله يدعونا إليه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "2": {
+      "title": "والرسول يرشدنا إلى الطريق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 6
+    },
+    "3": {
+      "title": "التوبة وحقيقتها",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 8
+    },
+    "4": {
+      "title": "الخوف والرجاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 9
+    },
+    "5": {
+      "title": "ما يكفر الذنوب ما تقدم منها وما تاخر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 10
+    },
+    "6": {
+      "title": "ما يكفر ما تقدم من الذنوب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 11
+    },
+    "7": {
+      "title": "ما يخرج الإنسان من الذنوب كيوم ولدته أمه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 12
+    },
+    "8": {
+      "title": "ما يكفر الذنوب وإن كانت مثل زبد البحر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 15
+    },
+    "9": {
+      "title": "ما يغفر الذنوب وإن كان قد فر من الزحف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 15
+    },
+    "10": {
+      "title": "ما يغفر الذنوب بوجه عام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 21
+    },
+    "11": {
+      "title": "ما يوجب الجنة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 21,
+      "end_ms": 24
+    },
+    "12": {
+      "title": "سعة رحمة الله تعالى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 24,
+      "end_ms": 31
+    },
+    "13": {
+      "title": "احذر نفسك أن تحبط عملك ms30",
+      "level": 1,
+      "parent": null,
+      "start_ms": 31,
+      "end_ms": 33
+    },
+    "14": {
+      "title": "الاستكثار من طلب الثواب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 33,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2],
+      1
+    ],
+    [
+      6,
+      [3],
+      2
+    ],
+    [
+      8,
+      [4],
+      3
+    ],
+    [
+      9,
+      [5],
+      4
+    ],
+    [
+      10,
+      [6],
+      5
+    ],
+    [
+      11,
+      [7],
+      6
+    ],
+    [
+      12,
+      [8],
+      7
+    ],
+    [
+      15,
+      [9, 10],
+      8
+    ],
+    [
+      21,
+      [11],
+      10
+    ],
+    [
+      24,
+      [12],
+      11
+    ],
+    [
+      31,
+      [13],
+      null
+    ],
+    [
+      33,
+      [14],
+      13
+    ]
+  ],
+  "last_ms": 35
+}

@@ -1,0 +1,56 @@
+{
+  "filename": "0684ShihabDinQarafi.Furuq.Shamela0002215BK1-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "(فصل) الإنشاء ينقسم إلى ما اتفق الناس عليه وإلى ما",
+      "level": 1,
+      "parent": null,
+      "start_ms": 22,
+      "end_ms": 50
+    },
+    "2": {
+      "title": "(فصل)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 50,
+      "end_ms": 68
+    },
+    "3": {
+      "title": "(فصل)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 68,
+      "end_ms": 150
+    },
+    "4": {
+      "title": "(فصل)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 150,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      22,
+      [1],
+      null
+    ],
+    [
+      50,
+      [2],
+      1
+    ],
+    [
+      68,
+      [3],
+      2
+    ],
+    [
+      150,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 879
+}

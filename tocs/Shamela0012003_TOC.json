@@ -1,0 +1,56 @@
+{
+  "filename": "0751IbnQayyimJawziyya.BadaicFawaid.Shamela0012003-ara1",
+  "sections": {
+    "1": {
+      "title": "المجلد الأول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 219
+    },
+    "2": {
+      "title": "المجلد الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 219,
+      "end_ms": 480
+    },
+    "3": {
+      "title": "المجلد الثالث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 480,
+      "end_ms": 734
+    },
+    "4": {
+      "title": "المجلد الرابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 734,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      219,
+      [2],
+      1
+    ],
+    [
+      480,
+      [3],
+      2
+    ],
+    [
+      734,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 931
+}

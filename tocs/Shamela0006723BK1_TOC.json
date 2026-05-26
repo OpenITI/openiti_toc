@@ -1,0 +1,140 @@
+{
+  "filename": "0968Tashkuprizadah.ShaqaiqNucmaniyya.Shamela0006723BK1-ara1.mARkdown",
+  "sections": {
+    "1": {
+      "title": "الطبقة الاولى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "2": {
+      "title": "الطبقة الثانية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 7
+    },
+    "3": {
+      "title": "الطبقة الثالثة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 11
+    },
+    "4": {
+      "title": "الطبقة الرابعة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 32
+    },
+    "5": {
+      "title": "الطبقة الخامسة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 32,
+      "end_ms": 43
+    },
+    "6": {
+      "title": "الطبقة السادسة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 43,
+      "end_ms": 64
+    },
+    "7": {
+      "title": "الطبقة السابعة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 64,
+      "end_ms": 162
+    },
+    "8": {
+      "title": "الطبقة الثامنة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 162,
+      "end_ms": 222
+    },
+    "9": {
+      "title": "الطبقة التاسعة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 222,
+      "end_ms": 260
+    },
+    "10": {
+      "title": "الطبقة العاشرة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 260,
+      "end_ms": 318
+    },
+    "11": {
+      "title": "ترجمة مؤلف هذا الكتاب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 318,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      2,
+      [1],
+      null
+    ],
+    [
+      3,
+      [2],
+      1
+    ],
+    [
+      7,
+      [3],
+      2
+    ],
+    [
+      11,
+      [4],
+      3
+    ],
+    [
+      32,
+      [5],
+      4
+    ],
+    [
+      43,
+      [6],
+      5
+    ],
+    [
+      64,
+      [7],
+      6
+    ],
+    [
+      162,
+      [8],
+      7
+    ],
+    [
+      222,
+      [9],
+      8
+    ],
+    [
+      260,
+      [10],
+      9
+    ],
+    [
+      318,
+      [11],
+      10
+    ]
+  ],
+  "last_ms": 324
+}

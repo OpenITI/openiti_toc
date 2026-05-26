@@ -1,0 +1,68 @@
+{
+  "filename": "1176ShahWaliAllahDihlawi.CiqdJayyid.Shamela0006357-ara1",
+  "sections": {
+    "1": {
+      "title": "المقدمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 16
+    },
+    "2": {
+      "title": "فصل في المجتهد المطلق المنتسب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": 18
+    },
+    "3": {
+      "title": "فصل في المجتهد في المذهب وفيه مسائل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": 20
+    },
+    "4": {
+      "title": "فصل في المتبحر في المذهب وهو الحافظ لكتب مذهبه وفيه مسائل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 20,
+      "end_ms": 31
+    },
+    "5": {
+      "title": "فصل في العامي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 31,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      16,
+      [2],
+      1
+    ],
+    [
+      18,
+      [3],
+      2
+    ],
+    [
+      20,
+      [4],
+      3
+    ],
+    [
+      31,
+      [5],
+      4
+    ]
+  ],
+  "last_ms": 38
+}

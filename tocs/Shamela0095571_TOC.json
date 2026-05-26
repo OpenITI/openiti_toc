@@ -1,0 +1,118 @@
+{
+  "filename": "0742IbnMuhammadBurhanDinSafaqsi.MajidFiIcrab.Shamela0095571-ara1",
+  "sections": {
+    "1": {
+      "title": "إعراب البسملة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "2": {
+      "title": ".....",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 8
+    },
+    "3": {
+      "title": "إعراب الفاتحة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 8
+    },
+    "4": {
+      "title": "2 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 10
+    },
+    "5": {
+      "title": "3 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 11
+    },
+    "6": {
+      "title": "4 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 13
+    },
+    "7": {
+      "title": "5 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 14
+    },
+    "8": {
+      "title": "6 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 15
+    },
+    "9": {
+      "title": "7 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 16
+    },
+    "10": {
+      "title": "...............",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      3,
+      [1, 2],
+      null
+    ],
+    [
+      8,
+      [3, 4],
+      2
+    ],
+    [
+      10,
+      [5],
+      4
+    ],
+    [
+      11,
+      [6],
+      5
+    ],
+    [
+      13,
+      [7],
+      6
+    ],
+    [
+      14,
+      [8],
+      7
+    ],
+    [
+      15,
+      [9],
+      8
+    ],
+    [
+      16,
+      [10],
+      9
+    ]
+  ],
+  "last_ms": 20
+}

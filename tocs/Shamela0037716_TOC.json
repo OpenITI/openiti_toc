@@ -1,0 +1,106 @@
+{
+  "filename": "0255Jahiz.RaddCalaNasara.Shamela0037716-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "فصل منه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 10
+    },
+    "2": {
+      "title": "فصل منه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 11
+    },
+    "3": {
+      "title": "فصل منه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 12
+    },
+    "4": {
+      "title": "فصل منه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 20
+    },
+    "5": {
+      "title": "فصل منه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 20,
+      "end_ms": 20
+    },
+    "6": {
+      "title": "فصل منه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 20,
+      "end_ms": 20
+    },
+    "7": {
+      "title": "فصل منه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 20,
+      "end_ms": 22
+    },
+    "8": {
+      "title": "فصل منه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 22,
+      "end_ms": 24
+    },
+    "9": {
+      "title": "فصل منه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 24,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      3,
+      [1],
+      null
+    ],
+    [
+      10,
+      [2],
+      1
+    ],
+    [
+      11,
+      [3],
+      2
+    ],
+    [
+      12,
+      [4],
+      3
+    ],
+    [
+      20,
+      [5, 6, 7],
+      4
+    ],
+    [
+      22,
+      [8],
+      7
+    ],
+    [
+      24,
+      [9],
+      8
+    ]
+  ],
+  "last_ms": 25
+}

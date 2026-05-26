@@ -1,0 +1,58 @@
+{
+  "filename": "0728IbnTaymiyya.FiCabdMahabba.Shamela0022668-ara1",
+  "sections": {
+    "1": {
+      "title": "مسألة فيما إذا كان [في] العبد محبة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "2": {
+      "title": "طرق العلم الثلاثة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "1- البصر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "4": {
+      "title": "2- السمع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "5": {
+      "title": "3- العقل (القلب)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2, 3, 4],
+      1
+    ],
+    [
+      3,
+      [5],
+      4
+    ]
+  ],
+  "last_ms": 6
+}

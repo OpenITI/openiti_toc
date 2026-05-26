@@ -1,0 +1,92 @@
+{
+  "filename": "0449AbuCalaMacarri.FusulWaGhayat.Shamela0000612-ara1",
+  "sections": {
+    "1": {
+      "title": "فصل غاياته ألف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 23
+    },
+    "2": {
+      "title": "فصل غاياته باء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 23,
+      "end_ms": 50
+    },
+    "3": {
+      "title": "فصل غاياته تاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 50,
+      "end_ms": 97
+    },
+    "4": {
+      "title": "فصل غاياته ثاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 97,
+      "end_ms": 143
+    },
+    "5": {
+      "title": "فصل غاياته جيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 143,
+      "end_ms": 189
+    },
+    "6": {
+      "title": "فصل غاياته حاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 189,
+      "end_ms": 234
+    },
+    "7": {
+      "title": "فصل غاياته خاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 234,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      23,
+      [2],
+      1
+    ],
+    [
+      50,
+      [3],
+      2
+    ],
+    [
+      97,
+      [4],
+      3
+    ],
+    [
+      143,
+      [5],
+      4
+    ],
+    [
+      189,
+      [6],
+      5
+    ],
+    [
+      234,
+      [7],
+      6
+    ]
+  ],
+  "last_ms": 280
+}

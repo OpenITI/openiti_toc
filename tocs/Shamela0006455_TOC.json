@@ -1,0 +1,101 @@
+{
+  "filename": "1255Shawkani.IrshadThiqat.Shamela0006455-ara1",
+  "sections": {
+    "1": {
+      "title": "بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "تمهيد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "الفصل الأول في بيان اتفاق الشرائع على التوحيد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 5
+    },
+    "4": {
+      "title": "الفصل الثاني في بيان اتفاق الشرائع على إثبات المعاد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 17
+    },
+    "5": {
+      "title": "الفصل الثالث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 17,
+      "end_ms": 17
+    },
+    "6": {
+      "title": "في إثبات النبوات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 17,
+      "end_ms": 23
+    },
+    "7": {
+      "title": "تبشير الإنجيل بمحمد صلى الله عليه وسلم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 23,
+      "end_ms": 56
+    },
+    "8": {
+      "title": "ملحق في بيان فضل النبوة على الخلق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 56,
+      "end_ms": 56
+    },
+    "9": {
+      "title": "وهو خاتمة كتاب هداية الحيارى في أجوبة اليهود والنصارى للإمام محمد بن أبي بكر بن قيم الجوزية سنة 750 ه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 56,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3],
+      2
+    ],
+    [
+      5,
+      [4],
+      3
+    ],
+    [
+      17,
+      [5, 6],
+      4
+    ],
+    [
+      23,
+      [7],
+      6
+    ],
+    [
+      56,
+      [8, 9],
+      7
+    ]
+  ],
+  "last_ms": 57
+}

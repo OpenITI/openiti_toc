@@ -1,0 +1,75 @@
+{
+  "filename": "0255Jahiz.HasidWaMahsud.Shamela0010428BK20-ara1.mARkdown",
+  "sections": {
+    "1": {
+      "title": "1- من كتابه في الحاسد والمحسود",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "فصل من صدر كتابه في الحاسد والمحسود",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "فصل في حسد الجيران",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "4": {
+      "title": "فصل منه",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "5": {
+      "title": "فصل",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "6": {
+      "title": "فصل منه",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 6,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      3,
+      [3],
+      2
+    ],
+    [
+      4,
+      [4],
+      3
+    ],
+    [
+      5,
+      [5],
+      4
+    ],
+    [
+      6,
+      [6],
+      5
+    ]
+  ],
+  "last_ms": 8
+}

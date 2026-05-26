@@ -1,0 +1,56 @@
+{
+  "filename": "0874IbnTaghribirdi.MawridLatafa.Shamela0006669-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "(ذكر دولة بني العباس)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 44,
+      "end_ms": 107
+    },
+    "2": {
+      "title": "(ذكر الخلفاء الفاطميين [خلفاء مصر] )",
+      "level": 1,
+      "parent": null,
+      "start_ms": 107,
+      "end_ms": 118
+    },
+    "3": {
+      "title": "ذكر ابتداء دولة بني أيوب الأكراد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 118,
+      "end_ms": 127
+    },
+    "4": {
+      "title": "ذكر ملوك الترك بالديار المصرية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 127,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      44,
+      [1],
+      null
+    ],
+    [
+      107,
+      [2],
+      1
+    ],
+    [
+      118,
+      [3],
+      2
+    ],
+    [
+      127,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 196
+}

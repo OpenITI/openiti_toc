@@ -1,0 +1,125 @@
+{
+  "filename": "0255Jahiz.RaddCalaNasara.Shamela0010428BK29-ara1.mARkdown",
+  "sections": {
+    "1": {
+      "title": "10- من كتابه في الرد على النصارى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "فصل من صدر كتابه في الرد على النصارى",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "فصل منه",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 9
+    },
+    "4": {
+      "title": "فصل منه",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 9,
+      "end_ms": 11
+    },
+    "5": {
+      "title": "فصل منه",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 11,
+      "end_ms": 12
+    },
+    "6": {
+      "title": "فصل منه",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 12,
+      "end_ms": 20
+    },
+    "7": {
+      "title": "فصل منه",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 20,
+      "end_ms": 20
+    },
+    "8": {
+      "title": "فصل منه",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 20,
+      "end_ms": 20
+    },
+    "9": {
+      "title": "فصل منه",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 20,
+      "end_ms": 22
+    },
+    "10": {
+      "title": "فصل منه",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 22,
+      "end_ms": 24
+    },
+    "11": {
+      "title": "فصل منه",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 24,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      3,
+      [3],
+      2
+    ],
+    [
+      9,
+      [4],
+      3
+    ],
+    [
+      11,
+      [5],
+      4
+    ],
+    [
+      12,
+      [6],
+      5
+    ],
+    [
+      20,
+      [7, 8, 9],
+      6
+    ],
+    [
+      22,
+      [10],
+      9
+    ],
+    [
+      24,
+      [11],
+      10
+    ]
+  ],
+  "last_ms": 25
+}

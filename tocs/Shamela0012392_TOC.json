@@ -1,0 +1,56 @@
+{
+  "filename": "0418WazirMaghribi.AdabKhawass.Shamela0012392-ara1",
+  "sections": {
+    "1": {
+      "title": "فصل في ذكر اشتقاق \" العرب \"",
+      "level": 1,
+      "parent": null,
+      "start_ms": 20,
+      "end_ms": 42
+    },
+    "2": {
+      "title": "فصل في اشتقاق اللغة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 42,
+      "end_ms": 50
+    },
+    "3": {
+      "title": "في ذكر الشعراء المراقسة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 50,
+      "end_ms": 63
+    },
+    "4": {
+      "title": "00 - 00",
+      "level": 1,
+      "parent": null,
+      "start_ms": 63,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      20,
+      [1],
+      null
+    ],
+    [
+      42,
+      [2],
+      1
+    ],
+    [
+      50,
+      [3],
+      2
+    ],
+    [
+      63,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 68
+}

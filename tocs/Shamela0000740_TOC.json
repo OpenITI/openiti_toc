@@ -1,0 +1,252 @@
+{
+  "filename": "0542IbnCaliDiyaDinIbnShajari.MukhtaratShucara.Shamela0000740-ara1",
+  "sections": {
+    "1": {
+      "title": "القسم الأول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "قصيدة لقيط بن يعمر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "قصيدة قعنب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "4": {
+      "title": "قصيدة أعشى باهلة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 7
+    },
+    "5": {
+      "title": "قصيدة حاتم الطائي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 9
+    },
+    "6": {
+      "title": "قصيدة بشامة بن عمرو",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 10
+    },
+    "7": {
+      "title": "قصيدة النمر بن تولب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 12
+    },
+    "8": {
+      "title": "قصيدة الشنفرى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 15
+    },
+    "9": {
+      "title": "قصيدة كعب بن سعد الغنوي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 17
+    },
+    "10": {
+      "title": "قصيدة للمتلمس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 17,
+      "end_ms": 20
+    },
+    "11": {
+      "title": "وللمتلمس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 20,
+      "end_ms": 23
+    },
+    "12": {
+      "title": "قصيدة لطرفة بن العبد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 23,
+      "end_ms": 27
+    },
+    "13": {
+      "title": "ولطرفة أيضا",
+      "level": 1,
+      "parent": null,
+      "start_ms": 27,
+      "end_ms": 27
+    },
+    "14": {
+      "title": "القسم الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 27,
+      "end_ms": 27
+    },
+    "15": {
+      "title": "قصيدة لزهير",
+      "level": 1,
+      "parent": null,
+      "start_ms": 27,
+      "end_ms": 29
+    },
+    "16": {
+      "title": "لزهير أيضا",
+      "level": 1,
+      "parent": null,
+      "start_ms": 29,
+      "end_ms": 30
+    },
+    "17": {
+      "title": "ولزهير أيضا",
+      "level": 1,
+      "parent": null,
+      "start_ms": 30,
+      "end_ms": 31
+    },
+    "18": {
+      "title": "ولزهير أيضا",
+      "level": 1,
+      "parent": null,
+      "start_ms": 31,
+      "end_ms": 38
+    },
+    "19": {
+      "title": "بشر بن أبي خازم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 38,
+      "end_ms": 48
+    },
+    "20": {
+      "title": "مختار شعر عبيد بن الأبرص الأسدي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 48,
+      "end_ms": 65
+    },
+    "21": {
+      "title": "القسم الثالث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 65,
+      "end_ms": 65
+    },
+    "22": {
+      "title": "مختار شعر الحطيئة وأخباره",
+      "level": 1,
+      "parent": null,
+      "start_ms": 65,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      4,
+      [3],
+      2
+    ],
+    [
+      5,
+      [4],
+      3
+    ],
+    [
+      7,
+      [5],
+      4
+    ],
+    [
+      9,
+      [6],
+      5
+    ],
+    [
+      10,
+      [7],
+      6
+    ],
+    [
+      12,
+      [8],
+      7
+    ],
+    [
+      15,
+      [9],
+      8
+    ],
+    [
+      17,
+      [10],
+      9
+    ],
+    [
+      20,
+      [11],
+      10
+    ],
+    [
+      23,
+      [12],
+      11
+    ],
+    [
+      27,
+      [13, 14, 15],
+      12
+    ],
+    [
+      29,
+      [16],
+      15
+    ],
+    [
+      30,
+      [17],
+      16
+    ],
+    [
+      31,
+      [18],
+      17
+    ],
+    [
+      38,
+      [19],
+      18
+    ],
+    [
+      48,
+      [20],
+      19
+    ],
+    [
+      65,
+      [21, 22],
+      20
+    ]
+  ],
+  "last_ms": 93
+}

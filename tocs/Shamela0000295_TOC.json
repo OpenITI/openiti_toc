@@ -1,0 +1,159 @@
+{
+  "filename": "0349IbnCumarMuqri.AkhbarNahwiyyin.Shamela0000295-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "همام بن يحيى يحذر من اللحن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "شيخ الإسلام حماد بن سلمة يحذر من اللحن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "أول من وضع النحو",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "4": {
+      "title": "أول من وضع العربية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "5": {
+      "title": "كذابان في أهل الكوفة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "6": {
+      "title": "التوصية بإصلاح اللسان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "7": {
+      "title": "من مناقب أبي عمرو بن العلاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "8": {
+      "title": "ابن عمر يغضب من أهل اللحن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "9": {
+      "title": "أمير المؤمنين عمر بن الخطاب يوصي بتعلم العربية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "10": {
+      "title": "أبو بكر يخشى من اللحن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "11": {
+      "title": "تربية الأولاد على عدم اللحن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "12": {
+      "title": "العلم بإعراب القرآن أفضل من حفظ حروفه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "13": {
+      "title": "من طرائف أهل اللغة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "14": {
+      "title": "شاب شعره من صعود المنبر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "15": {
+      "title": "يستغفر ربه عند اللحن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "16": {
+      "title": "من مناقب الأوزاعي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "17": {
+      "title": "من طرائف تلميذ للأعمش",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "18": {
+      "title": "أفضل قصيدة في مدح النحو وأهله",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3],
+      null
+    ],
+    [
+      2,
+      [4, 5, 6, 7, 8, 9],
+      3
+    ],
+    [
+      3,
+      [10, 11, 12],
+      9
+    ],
+    [
+      4,
+      [13, 14, 15],
+      12
+    ],
+    [
+      5,
+      [16, 17, 18],
+      15
+    ]
+  ],
+  "last_ms": 5
+}

@@ -1,0 +1,152 @@
+{
+  "filename": "0646IbnQifti.Muhammadun.Shamela0013031-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "حرف الألف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 77
+    },
+    "2": {
+      "title": "من اسم أبيه إسماعيل //",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 54,
+      "end_ms": 77
+    },
+    "3": {
+      "title": "[الباء]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 77,
+      "end_ms": 82
+    },
+    "4": {
+      "title": "حرف التاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 82,
+      "end_ms": 83
+    },
+    "5": {
+      "title": "حرف الجيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 83,
+      "end_ms": 92
+    },
+    "6": {
+      "title": "حرف الحاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 92,
+      "end_ms": 153
+    },
+    "7": {
+      "title": "حرف الخاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 153,
+      "end_ms": 161
+    },
+    "8": {
+      "title": "حرف الدال",
+      "level": 1,
+      "parent": null,
+      "start_ms": 161,
+      "end_ms": 167
+    },
+    "9": {
+      "title": "حرف الذال المعجمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 167,
+      "end_ms": 168
+    },
+    "10": {
+      "title": "حرف الراء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 168,
+      "end_ms": 170
+    },
+    "11": {
+      "title": "حرف الزاي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 170,
+      "end_ms": 173
+    },
+    "12": {
+      "title": "حرف السين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 173,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      54,
+      [2],
+      1
+    ],
+    [
+      77,
+      [3],
+      2
+    ],
+    [
+      82,
+      [4],
+      3
+    ],
+    [
+      83,
+      [5],
+      4
+    ],
+    [
+      92,
+      [6],
+      5
+    ],
+    [
+      153,
+      [7],
+      6
+    ],
+    [
+      161,
+      [8],
+      7
+    ],
+    [
+      167,
+      [9],
+      8
+    ],
+    [
+      168,
+      [10],
+      9
+    ],
+    [
+      170,
+      [11],
+      10
+    ],
+    [
+      173,
+      [12],
+      11
+    ]
+  ],
+  "last_ms": 190
+}

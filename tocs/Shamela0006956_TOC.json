@@ -1,0 +1,75 @@
+{
+  "filename": "0255Jahiz.TabsiraBiTijara.Shamela0006956-ara1.mARkdown",
+  "sections": {
+    "1": {
+      "title": "باب معرفة الذهب والفضة وامتحانهما",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "2": {
+      "title": "باب ما يعتبر من الجواهر النفيسة ومعرفتها وقيمتها",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "باب معرفة الطيب والعطر والروائح الطيبة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 6
+    },
+    "4": {
+      "title": "باب يجلب من البلدان من طرائف السلع والأمتعة والجواري والأحجار وغير ذلك",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "5": {
+      "title": "باب ما يختار من البزاة والشواهين والبواشق والصقور وغير ذلك من جوارح الطير",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "6": {
+      "title": "باب آخر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2],
+      1
+    ],
+    [
+      4,
+      [3],
+      2
+    ],
+    [
+      6,
+      [4],
+      3
+    ],
+    [
+      7,
+      [5, 6],
+      4
+    ]
+  ],
+  "last_ms": 8
+}

@@ -1,0 +1,184 @@
+{
+  "filename": "0911Suyuti.TamhidFarsh.Shamela0000222-ara1",
+  "sections": {
+    "1": {
+      "title": "بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "ذكر السبعة الأول المشهورة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "ذكر شواهد هذه الخصال السبعة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 5
+    },
+    "4": {
+      "title": "ذكر السبعة الثانية التي أوردها شيخ الإسلام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "5": {
+      "title": "الحديث الأول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 10
+    },
+    "6": {
+      "title": "ذكر السبعتين اللتين أوردهما شيخ الإسلام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 10
+    },
+    "7": {
+      "title": "الحديث الأول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 10
+    },
+    "8": {
+      "title": "الحديث الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 11
+    },
+    "9": {
+      "title": "الحديث الثالث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 11
+    },
+    "10": {
+      "title": "الحديث الرابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 13
+    },
+    "11": {
+      "title": "الحديث الخامس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 14
+    },
+    "12": {
+      "title": "الحديث الخامس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 14
+    },
+    "13": {
+      "title": "الحديث السابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 14
+    },
+    "14": {
+      "title": "الحديث الثامن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 15
+    },
+    "15": {
+      "title": "الحديث التاسع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 15
+    },
+    "16": {
+      "title": "الحديث العاشر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 16
+    },
+    "17": {
+      "title": "ذكر الخصال التي وقعت لي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": 28
+    },
+    "18": {
+      "title": "ثم تتبعت لأجد سبعة أخرى، فتكمل سبعين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 28,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      3,
+      [3],
+      2
+    ],
+    [
+      5,
+      [4, 5],
+      3
+    ],
+    [
+      10,
+      [6, 7, 8],
+      5
+    ],
+    [
+      11,
+      [9, 10],
+      8
+    ],
+    [
+      13,
+      [11],
+      10
+    ],
+    [
+      14,
+      [12, 13, 14],
+      11
+    ],
+    [
+      15,
+      [15, 16],
+      14
+    ],
+    [
+      16,
+      [17],
+      16
+    ],
+    [
+      28,
+      [18],
+      17
+    ]
+  ],
+  "last_ms": 35
+}

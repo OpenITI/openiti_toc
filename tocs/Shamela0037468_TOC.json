@@ -1,0 +1,68 @@
+{
+  "filename": "0433IbnAhmadCamidi.IbanaCanSariqat.Shamela0037468-ara1",
+  "sections": {
+    "1": {
+      "title": "مقدمة المؤلف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 5
+    },
+    "2": {
+      "title": "الجزء الأول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 20
+    },
+    "3": {
+      "title": "الجزء الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 20,
+      "end_ms": 42
+    },
+    "4": {
+      "title": "الجزء الثالث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 42,
+      "end_ms": 55
+    },
+    "5": {
+      "title": "الجزء الرابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 55,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      5,
+      [2],
+      1
+    ],
+    [
+      20,
+      [3],
+      2
+    ],
+    [
+      42,
+      [4],
+      3
+    ],
+    [
+      55,
+      [5],
+      4
+    ]
+  ],
+  "last_ms": 69
+}

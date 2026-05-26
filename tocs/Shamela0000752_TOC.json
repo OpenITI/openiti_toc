@@ -1,0 +1,127 @@
+{
+  "filename": "0431IbnMuhammadZuzani.HamasatZurafa.Shamela0000752-ara1",
+  "sections": {
+    "1": {
+      "title": "باب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "الكبر والشيب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 18
+    },
+    "3": {
+      "title": "باب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": 18
+    },
+    "4": {
+      "title": "النسيب والملاهي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": 26
+    },
+    "5": {
+      "title": "....",
+      "level": 1,
+      "parent": null,
+      "start_ms": 26,
+      "end_ms": 26
+    },
+    "6": {
+      "title": "....",
+      "level": 1,
+      "parent": null,
+      "start_ms": 26,
+      "end_ms": 36
+    },
+    "7": {
+      "title": "باب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 36,
+      "end_ms": 36
+    },
+    "8": {
+      "title": "الهجاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 36,
+      "end_ms": 39
+    },
+    "9": {
+      "title": ".....",
+      "level": 1,
+      "parent": null,
+      "start_ms": 39,
+      "end_ms": 51
+    },
+    "10": {
+      "title": "باب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 51,
+      "end_ms": 51
+    },
+    "11": {
+      "title": "المديح",
+      "level": 1,
+      "parent": null,
+      "start_ms": 51,
+      "end_ms": 60
+    },
+    "12": {
+      "title": "الاستعطاف والاعتذار",
+      "level": 1,
+      "parent": null,
+      "start_ms": 60,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      18,
+      [3, 4],
+      2
+    ],
+    [
+      26,
+      [5, 6],
+      4
+    ],
+    [
+      36,
+      [7, 8],
+      6
+    ],
+    [
+      39,
+      [9],
+      8
+    ],
+    [
+      51,
+      [10, 11],
+      9
+    ],
+    [
+      60,
+      [12],
+      11
+    ]
+  ],
+  "last_ms": 67
+}

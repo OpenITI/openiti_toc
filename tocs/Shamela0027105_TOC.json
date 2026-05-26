@@ -1,0 +1,158 @@
+{
+  "filename": "0430AbuNucaymIsbahani.MuntakhabMinShucara.Shamela0027105-ara1",
+  "sections": {
+    "1": {
+      "title": "[1] [حسان بن ثابت]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "[2] [كعب بن مالك]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "[3] [لبيد بن ربيعة]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "4": {
+      "title": "[4] [النابغة الجعدي]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "5": {
+      "title": "[5] ومنهم [أبو ذؤيب الهذلي] ، وقيل: إن اسمه خويلد.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "6": {
+      "title": "[6] [الفرزدق]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 7
+    },
+    "7": {
+      "title": "[7] [رؤبة بن العجاج]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "8": {
+      "title": "[8] ومنهم جرير بن عطية بن الخطفي, أبو حزرة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 8
+    },
+    "9": {
+      "title": "[9] ومنهم المفضل بن محمد الضبي النحوي الكوفي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 8
+    },
+    "10": {
+      "title": "[10] [معمر بن المثنى, أبو عبيدة]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 9
+    },
+    "11": {
+      "title": "[11] ومنهم محمد بن مناذر, الشاعر المكي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 10
+    },
+    "12": {
+      "title": "[12] [أبو نواس, الحسن بن هانئ الحكمي]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 10
+    },
+    "13": {
+      "title": "[13] ومنهم أبو العتاهية، إسماعيل بن القاسم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 11
+    },
+    "14": {
+      "title": "[14] ومنهم دعبل بن علي بن رزين بن عثمان بن عبد الرحمن بن عبد الله بن بديل بن ورقاء الخزاعي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 11
+    },
+    "15": {
+      "title": "[الإسلام والشعر]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3],
+      2
+    ],
+    [
+      3,
+      [4, 5],
+      3
+    ],
+    [
+      4,
+      [6],
+      5
+    ],
+    [
+      7,
+      [7, 8],
+      6
+    ],
+    [
+      8,
+      [9, 10],
+      8
+    ],
+    [
+      9,
+      [11],
+      10
+    ],
+    [
+      10,
+      [12, 13],
+      11
+    ],
+    [
+      11,
+      [14, 15],
+      13
+    ]
+  ],
+  "last_ms": 14
+}

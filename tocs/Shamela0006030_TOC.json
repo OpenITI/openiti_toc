@@ -1,0 +1,111 @@
+{
+  "filename": "0544QadiCiyad.IlmacIlaMacrifa.Shamela0006030-ara1",
+  "sections": {
+    "1": {
+      "title": "بسم الله الرحمن الرحيم وصلى الله على سيدنا محمد وعلى آله وسلم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 26
+    },
+    "2": {
+      "title": "نوع آخر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 26,
+      "end_ms": 29
+    },
+    "3": {
+      "title": "الوجه الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 29,
+      "end_ms": 31
+    },
+    "4": {
+      "title": "الوجه الثالث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 31,
+      "end_ms": 32
+    },
+    "5": {
+      "title": "الوجه الرابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 32,
+      "end_ms": 33
+    },
+    "6": {
+      "title": "الوجه الخامس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 33,
+      "end_ms": 34
+    },
+    "7": {
+      "title": "الوجه السادس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 34,
+      "end_ms": 34
+    },
+    "8": {
+      "title": "الضرب السادس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 34,
+      "end_ms": 67
+    },
+    "9": {
+      "title": "1 - 2",
+      "level": 1,
+      "parent": null,
+      "start_ms": 67,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      26,
+      [2],
+      1
+    ],
+    [
+      29,
+      [3],
+      2
+    ],
+    [
+      31,
+      [4],
+      3
+    ],
+    [
+      32,
+      [5],
+      4
+    ],
+    [
+      33,
+      [6],
+      5
+    ],
+    [
+      34,
+      [7, 8],
+      6
+    ],
+    [
+      67,
+      [9],
+      8
+    ]
+  ],
+  "last_ms": 86
+}

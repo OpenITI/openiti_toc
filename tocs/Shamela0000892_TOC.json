@@ -1,0 +1,46 @@
+{
+  "filename": "0728IbnTaymiyya.RasHusayn.Shamela0000892-ara1",
+  "sections": {
+    "1": {
+      "title": "الإمام تقي الدين أبي العباس أحمد بن عبد الحليم ابن تميمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "2": {
+      "title": "عملنا في هذا الكتاب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "ما تقول السادة العلماء أئمة الدين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "4": {
+      "title": "الجواب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      3,
+      [2, 3, 4],
+      1
+    ]
+  ],
+  "last_ms": 25
+}

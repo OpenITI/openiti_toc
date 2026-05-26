@@ -1,0 +1,79 @@
+{
+  "filename": "0255Jahiz.Wukala.Shamela0010670BK8-ara2.mARkdown",
+  "sections": {
+    "1": {
+      "title": "[8- رسالة الوكلاء]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "[1- المقدمة]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "[2- يجب التثبت في الأمور]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "4": {
+      "title": "[3- ينبغي عدم الانقياد مع الهوى]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "5": {
+      "title": "[4- ينبغي الاحتراز من اصدار الآراء الفطيرة]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "6": {
+      "title": "[5- لا ينبغي تعميم الحكم على جميع الوكلاء]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 4
+    },
+    "7": {
+      "title": "[6- لا بد من ms3 صحة الفراسة في معرفة الرجال]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "8": {
+      "title": "[7- خطر قول «ما ترك الاول للآخر شيئا» ]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3, 4, 5],
+      null
+    ],
+    [
+      2,
+      [6],
+      5
+    ],
+    [
+      4,
+      [7, 8],
+      null
+    ]
+  ],
+  "last_ms": 4
+}

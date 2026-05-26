@@ -1,0 +1,202 @@
+{
+  "filename": "0521IbnMuhammadBatalyawsi.MushkilatMuwatta.Shamela0006037-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "(وقوت الصلاة)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 15
+    },
+    "2": {
+      "title": "(باب الغسل)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 16
+    },
+    "3": {
+      "title": "(باب التيمم)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": 18
+    },
+    "4": {
+      "title": "(الأذان)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": 23
+    },
+    "5": {
+      "title": "(القنوت)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 23,
+      "end_ms": 24
+    },
+    "6": {
+      "title": "(الكسوف)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 24,
+      "end_ms": 24
+    },
+    "7": {
+      "title": "الاستقساء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 24,
+      "end_ms": 27
+    },
+    "8": {
+      "title": "(كتاب الجنائز)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 27,
+      "end_ms": 29
+    },
+    "9": {
+      "title": "(كتاب الزكاة)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 29,
+      "end_ms": 33
+    },
+    "10": {
+      "title": "(كتاب الصيام)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 33,
+      "end_ms": 35
+    },
+    "11": {
+      "title": "(كتاب الجهاد)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 35,
+      "end_ms": 37
+    },
+    "12": {
+      "title": "(كتاب الحج)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 37,
+      "end_ms": 43
+    },
+    "13": {
+      "title": "(كتاب الضحايا)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 43,
+      "end_ms": 45
+    },
+    "14": {
+      "title": "(كتاب الفرائض)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 45,
+      "end_ms": 45
+    },
+    "15": {
+      "title": "(كتاب النكاح)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 45,
+      "end_ms": 48
+    },
+    "16": {
+      "title": "(كتاب الأقضية)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 48,
+      "end_ms": 51
+    },
+    "17": {
+      "title": "(كتاب الجامع)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 51,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      15,
+      [2],
+      1
+    ],
+    [
+      16,
+      [3],
+      2
+    ],
+    [
+      18,
+      [4],
+      3
+    ],
+    [
+      23,
+      [5],
+      4
+    ],
+    [
+      24,
+      [6, 7],
+      5
+    ],
+    [
+      27,
+      [8],
+      7
+    ],
+    [
+      29,
+      [9],
+      8
+    ],
+    [
+      33,
+      [10],
+      9
+    ],
+    [
+      35,
+      [11],
+      10
+    ],
+    [
+      37,
+      [12],
+      11
+    ],
+    [
+      43,
+      [13],
+      12
+    ],
+    [
+      45,
+      [14, 15],
+      13
+    ],
+    [
+      48,
+      [16],
+      15
+    ],
+    [
+      51,
+      [17],
+      16
+    ]
+  ],
+  "last_ms": 56
+}

@@ -1,0 +1,99 @@
+{
+  "filename": "0728IbnTaymiyya.Hisba.Shamela0007263-ara1",
+  "sections": {
+    "1": {
+      "title": "مقدمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "2": {
+      "title": "فصل: [الولايات الإسلامية] ، [الأمر بالمعروف والنهي عن المنكر]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "3": {
+      "title": "فصل: [مسئولية المحتسب]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 29
+    },
+    "4": {
+      "title": "فصل: الغش والتدليس في الديات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 29,
+      "end_ms": 29
+    },
+    "5": {
+      "title": "فصل: [العقوبات الشرعية]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 29,
+      "end_ms": 31
+    },
+    "6": {
+      "title": "فصل: [التعزير المالي]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 31,
+      "end_ms": 37
+    },
+    "7": {
+      "title": "فصل: [الثواب والعقاب]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 37,
+      "end_ms": 38
+    },
+    "8": {
+      "title": "فهرس الموضوعات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 38,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      4,
+      [2],
+      1
+    ],
+    [
+      5,
+      [3],
+      2
+    ],
+    [
+      29,
+      [4, 5],
+      3
+    ],
+    [
+      31,
+      [6],
+      5
+    ],
+    [
+      37,
+      [7],
+      6
+    ],
+    [
+      38,
+      [8],
+      7
+    ]
+  ],
+  "last_ms": 39
+}

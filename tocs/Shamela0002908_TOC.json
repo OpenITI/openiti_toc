@@ -1,0 +1,63 @@
+{
+  "filename": "0728IbnTaymiyya.RaddCalaManQalaBiFanaJanna.Shamela0002908-ara1",
+  "sections": {
+    "1": {
+      "title": "رد شيخ الإسلام على مذهب الجهمية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 15
+    },
+    "2": {
+      "title": "طرق القائلين بدوام النار أربع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 15
+    },
+    "3": {
+      "title": "أدلة خلود النار من الكتاب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 17
+    },
+    "4": {
+      "title": "أحاديث الشفاعة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 17,
+      "end_ms": 19
+    },
+    "5": {
+      "title": "الفرق بين بقاء الجنة والنار",
+      "level": 1,
+      "parent": null,
+      "start_ms": 19,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      15,
+      [2, 3],
+      1
+    ],
+    [
+      17,
+      [4],
+      3
+    ],
+    [
+      19,
+      [5],
+      4
+    ]
+  ],
+  "last_ms": 23
+}

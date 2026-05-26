@@ -1,0 +1,58 @@
+{
+  "filename": "0728IbnTaymiyya.RisalaCarshiyya.Shamela0010784-ara1",
+  "sections": {
+    "1": {
+      "title": "سئل شيخ الإسلام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "فأجاب رحمه الله تعالى:",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "أحدها:",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 10
+    },
+    "4": {
+      "title": "المقام الثاني:",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 14
+    },
+    "5": {
+      "title": "المقام الثالث:",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3],
+      null
+    ],
+    [
+      10,
+      [4],
+      3
+    ],
+    [
+      14,
+      [5],
+      4
+    ]
+  ],
+  "last_ms": 28
+}

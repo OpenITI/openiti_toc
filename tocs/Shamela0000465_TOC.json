@@ -1,0 +1,70 @@
+{
+  "filename": "0732AbuFida.Yawaqit.Shamela0000465-ara1",
+  "sections": {
+    "1": {
+      "title": "المقدمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "تسمية حلب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "بناء مدينة حلب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "4": {
+      "title": "ملوك حلب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 7
+    },
+    "5": {
+      "title": "فتح حلب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 37
+    },
+    "6": {
+      "title": "دخول سيف الدولة حلب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 37,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      3,
+      [3, 4],
+      2
+    ],
+    [
+      7,
+      [5],
+      4
+    ],
+    [
+      37,
+      [6],
+      5
+    ]
+  ],
+  "last_ms": 70
+}

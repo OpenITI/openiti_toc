@@ -1,0 +1,56 @@
+{
+  "filename": "0805SirajDinBulqini.MahasinIstilah.Shamela0029878BK2-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "النوع السادس والستون:",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 7
+    },
+    "2": {
+      "title": "النوع السابع والستون:",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 8
+    },
+    "3": {
+      "title": "النوع الثامن والستون:",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 11
+    },
+    "4": {
+      "title": "النوع التاسع والستون:",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      7,
+      [2],
+      1
+    ],
+    [
+      8,
+      [3],
+      2
+    ],
+    [
+      11,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 41
+}

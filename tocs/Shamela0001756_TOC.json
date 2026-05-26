@@ -1,0 +1,84 @@
+{
+  "filename": "1182IbnIsmacilSancani.RafcAstar.Shamela0001756-ara1",
+  "sections": {
+    "1": {
+      "title": "مقدمة المحقق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 11
+    },
+    "3": {
+      "title": "1 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 11
+    },
+    "4": {
+      "title": "2 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 11
+    },
+    "5": {
+      "title": "3 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 16
+    },
+    "6": {
+      "title": "1 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": 16
+    },
+    "7": {
+      "title": "2 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": 40
+    },
+    "8": {
+      "title": "بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 40,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      11,
+      [3, 4, 5],
+      2
+    ],
+    [
+      16,
+      [6, 7],
+      5
+    ],
+    [
+      40,
+      [8],
+      7
+    ]
+  ],
+  "last_ms": 81
+}

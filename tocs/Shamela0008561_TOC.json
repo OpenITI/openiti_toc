@@ -1,0 +1,113 @@
+{
+  "filename": "1285IbnHasanAlShaykh.Maqamat.Shamela0008561-ara1",
+  "sections": {
+    "1": {
+      "title": "مقدمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 6
+    },
+    "2": {
+      "title": "المقام الأول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 8
+    },
+    "3": {
+      "title": "المقام الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 8
+    },
+    "4": {
+      "title": "المقام الثالث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 10
+    },
+    "5": {
+      "title": "المقام الرابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 12
+    },
+    "6": {
+      "title": "المقام الخامس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 12
+    },
+    "7": {
+      "title": "المقام السادس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 13
+    },
+    "8": {
+      "title": "المقام السابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 14
+    },
+    "9": {
+      "title": "المقام الثامن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 14
+    },
+    "10": {
+      "title": "المقام التاسع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      6,
+      [2],
+      1
+    ],
+    [
+      8,
+      [3, 4],
+      2
+    ],
+    [
+      10,
+      [5],
+      4
+    ],
+    [
+      12,
+      [6, 7],
+      5
+    ],
+    [
+      13,
+      [8],
+      7
+    ],
+    [
+      14,
+      [9, 10],
+      8
+    ]
+  ],
+  "last_ms": 24
+}

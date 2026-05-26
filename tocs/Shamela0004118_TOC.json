@@ -1,0 +1,80 @@
+{
+  "filename": "0728IbnTaymiyya.RafcMalam.Shamela0004118-ara1",
+  "sections": {
+    "1": {
+      "title": "مقدمة الناشر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 8
+    },
+    "2": {
+      "title": "السبب الثالث:",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 16
+    },
+    "3": {
+      "title": ": هل يخص العموم بالقياس؟",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": 17
+    },
+    "4": {
+      "title": "موانع لحوق الوعيد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 17,
+      "end_ms": 22
+    },
+    "5": {
+      "title": "الخطأ في الاعتقاد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 22,
+      "end_ms": 34
+    },
+    "6": {
+      "title": "اللعنة الشرعية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 34,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      8,
+      [2],
+      1
+    ],
+    [
+      16,
+      [3],
+      2
+    ],
+    [
+      17,
+      [4],
+      3
+    ],
+    [
+      22,
+      [5],
+      4
+    ],
+    [
+      34,
+      [6],
+      5
+    ]
+  ],
+  "last_ms": 40
+}

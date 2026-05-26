@@ -1,0 +1,233 @@
+{
+  "filename": "0911Suyuti.TanwirHawalik.Shamela0005757-ara1",
+  "sections": {
+    "1": {
+      "title": "باب وقوت الصلاة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 184
+    },
+    "2": {
+      "title": "(كتاب الجنائز)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 184,
+      "end_ms": 200
+    },
+    "3": {
+      "title": "(كتاب الزكاة)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 200,
+      "end_ms": 206
+    },
+    "4": {
+      "title": "(كتاب الصيام)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 206,
+      "end_ms": 228
+    },
+    "5": {
+      "title": "(كتاب الحج)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 228,
+      "end_ms": 246
+    },
+    "6": {
+      "title": "(كتاب الجهاد)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 246,
+      "end_ms": 260
+    },
+    "7": {
+      "title": "كتاب النذور والأيمان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 260,
+      "end_ms": 264
+    },
+    "8": {
+      "title": "(كتاب الذبائح)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 264,
+      "end_ms": 265
+    },
+    "9": {
+      "title": "(كتاب الصيد)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 265,
+      "end_ms": 265
+    },
+    "10": {
+      "title": "(كتاب العقيقة)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 265,
+      "end_ms": 266
+    },
+    "11": {
+      "title": "(كتاب الفرائض)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 266,
+      "end_ms": 267
+    },
+    "12": {
+      "title": "(كتاب النكاح)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 267,
+      "end_ms": 276
+    },
+    "13": {
+      "title": "كتاب الرضاع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 276,
+      "end_ms": 277
+    },
+    "14": {
+      "title": "(كتاب البيوع)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 277,
+      "end_ms": 285
+    },
+    "15": {
+      "title": "كتاب المساقاة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 285,
+      "end_ms": 285
+    },
+    "16": {
+      "title": "كتاب الشفعة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 285,
+      "end_ms": 285
+    },
+    "17": {
+      "title": "كتاب الأقضية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 285,
+      "end_ms": 298
+    },
+    "18": {
+      "title": "كتاب الحدود",
+      "level": 1,
+      "parent": null,
+      "start_ms": 298,
+      "end_ms": 301
+    },
+    "19": {
+      "title": "(كتاب الأشربة)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 301,
+      "end_ms": 302
+    },
+    "20": {
+      "title": "كتاب العقول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 302,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      184,
+      [2],
+      1
+    ],
+    [
+      200,
+      [3],
+      2
+    ],
+    [
+      206,
+      [4],
+      3
+    ],
+    [
+      228,
+      [5],
+      4
+    ],
+    [
+      246,
+      [6],
+      5
+    ],
+    [
+      260,
+      [7],
+      6
+    ],
+    [
+      264,
+      [8],
+      7
+    ],
+    [
+      265,
+      [9, 10],
+      8
+    ],
+    [
+      266,
+      [11],
+      10
+    ],
+    [
+      267,
+      [12],
+      11
+    ],
+    [
+      276,
+      [13],
+      12
+    ],
+    [
+      277,
+      [14],
+      13
+    ],
+    [
+      285,
+      [15, 16, 17],
+      14
+    ],
+    [
+      298,
+      [18],
+      17
+    ],
+    [
+      301,
+      [19],
+      18
+    ],
+    [
+      302,
+      [20],
+      19
+    ]
+  ],
+  "last_ms": 350
+}

@@ -1,0 +1,80 @@
+{
+  "filename": "0761IbnKaykaldiCalai.TahqiqMurad.Shamela0006355-ara1",
+  "sections": {
+    "1": {
+      "title": "الفصل الأول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 7
+    },
+    "2": {
+      "title": "الفصل الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 25
+    },
+    "3": {
+      "title": "الفصل الثالث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 25,
+      "end_ms": 49
+    },
+    "4": {
+      "title": "الفصل الرابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 49,
+      "end_ms": 65
+    },
+    "5": {
+      "title": "الفصل الخامس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 65,
+      "end_ms": 76
+    },
+    "6": {
+      "title": "الفصل السادس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 76,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      7,
+      [2],
+      1
+    ],
+    [
+      25,
+      [3],
+      2
+    ],
+    [
+      49,
+      [4],
+      3
+    ],
+    [
+      65,
+      [5],
+      4
+    ],
+    [
+      76,
+      [6],
+      5
+    ]
+  ],
+  "last_ms": 83
+}

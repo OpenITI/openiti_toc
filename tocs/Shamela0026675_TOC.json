@@ -1,0 +1,65 @@
+{
+  "filename": "0395IbnFarisQazwini.MakhadhCilm.Shamela0026675-ara1",
+  "sections": {
+    "1": {
+      "title": "باب أداء العلم بالتحديث به نطقا",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "2": {
+      "title": "باب في الفرق بين قول المحدث (ثنا) وبين قوله (أخبرنا)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "باب المناولة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "4": {
+      "title": "باب العالم يؤتى بالكتاب يعرفه فيقال له: أنأخذ عنك ما فيه؟",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "5": {
+      "title": "باب القول في اللحن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "6": {
+      "title": "باب الإجازة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      3,
+      [1, 2],
+      null
+    ],
+    [
+      4,
+      [3, 4, 5],
+      2
+    ],
+    [
+      5,
+      [6],
+      5
+    ]
+  ],
+  "last_ms": 8
+}

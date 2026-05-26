@@ -1,0 +1,56 @@
+{
+  "filename": "0973CabdWahhabShacrani.LawaqihAnwar.Shamela0009627-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "مقدمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 122
+    },
+    "2": {
+      "title": "فصل في ذكر جماعة من عباد النساء رضي الله عنهن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 122,
+      "end_ms": 126
+    },
+    "3": {
+      "title": "ولنرجع إلى ما كنا فيه أولا من ذكر أولياء الرجال رضي الله عنهم أجمعين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 126,
+      "end_ms": 623
+    },
+    "4": {
+      "title": "خاتمة في ذكر مشايخي الذين أدركتهم في القرن العاشر رضي الله تعالى عنهم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 623,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      4,
+      [1],
+      null
+    ],
+    [
+      122,
+      [2],
+      1
+    ],
+    [
+      126,
+      [3],
+      2
+    ],
+    [
+      623,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 774
+}

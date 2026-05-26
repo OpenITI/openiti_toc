@@ -1,0 +1,87 @@
+{
+  "filename": "0255Jahiz.TafdilBatn.Shamela0010428BK38-ara1.mARkdown",
+  "sections": {
+    "1": {
+      "title": "19- من كتابه في تفضيل البطن على الظهر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "فصل من صدر كتابه في تفضيل البطن على الظهر",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "فصل منه",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "4": {
+      "title": "فصل منه",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "5": {
+      "title": "فصل منه",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "6": {
+      "title": "فصل منه",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "7": {
+      "title": "فصل منه",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 6,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3],
+      2
+    ],
+    [
+      3,
+      [4],
+      3
+    ],
+    [
+      4,
+      [5],
+      4
+    ],
+    [
+      5,
+      [6],
+      5
+    ],
+    [
+      6,
+      [7],
+      6
+    ]
+  ],
+  "last_ms": 6
+}

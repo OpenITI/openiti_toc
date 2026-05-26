@@ -1,0 +1,51 @@
+{
+  "filename": "0703IbnCabdMalikMarrakushi.DhaylWaTakmila.Shamela0001030-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "مقدمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 298
+    },
+    "2": {
+      "title": "الكاف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 298,
+      "end_ms": 298
+    },
+    "3": {
+      "title": "اللام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 298,
+      "end_ms": 300
+    },
+    "4": {
+      "title": "الميم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 300,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      298,
+      [2, 3],
+      1
+    ],
+    [
+      300,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 367
+}

@@ -1,0 +1,130 @@
+{
+  "filename": "0676Nawawi.BustanCarifin.Shamela0012719-ara1",
+  "sections": {
+    "1": {
+      "title": "بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "2": {
+      "title": "باب في الإخلاص وإحضار النية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "في جميع الأعمال الظاهرة والباطنة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 12
+    },
+    "4": {
+      "title": "فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 15
+    },
+    "5": {
+      "title": "فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 22
+    },
+    "6": {
+      "title": "باب في نفائس مأثورة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 22,
+      "end_ms": 38
+    },
+    "7": {
+      "title": "باب في كرامات الأولياء ومواهبهم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 38,
+      "end_ms": 43
+    },
+    "8": {
+      "title": "فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 43,
+      "end_ms": 43
+    },
+    "9": {
+      "title": "فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 43,
+      "end_ms": 46
+    },
+    "10": {
+      "title": "في منثور حكايات في المواهب والكرامات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 46,
+      "end_ms": 52
+    },
+    "11": {
+      "title": "باب في حكايات مستظرفة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 52,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      3,
+      [2, 3],
+      1
+    ],
+    [
+      12,
+      [4],
+      3
+    ],
+    [
+      15,
+      [5],
+      4
+    ],
+    [
+      22,
+      [6],
+      5
+    ],
+    [
+      38,
+      [7],
+      6
+    ],
+    [
+      43,
+      [8, 9],
+      7
+    ],
+    [
+      46,
+      [10],
+      9
+    ],
+    [
+      52,
+      [11],
+      10
+    ]
+  ],
+  "last_ms": 58
+}

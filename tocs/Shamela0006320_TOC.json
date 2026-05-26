@@ -1,0 +1,44 @@
+{
+  "filename": "0476AbuIshaqShirazi.MacunaFiJadal.Shamela0006320-ara1",
+  "sections": {
+    "1": {
+      "title": "فصل في استصحاب الحال",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 16
+    },
+    "2": {
+      "title": "فصل ما يتوجه على الفعل من الاعتراض",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": 18
+    },
+    "3": {
+      "title": "فصل في الإقرار",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      5,
+      [1],
+      null
+    ],
+    [
+      16,
+      [2],
+      1
+    ],
+    [
+      18,
+      [3],
+      2
+    ]
+  ],
+  "last_ms": 40
+}

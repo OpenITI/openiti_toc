@@ -1,0 +1,39 @@
+{
+  "filename": "1342MustafaLutfiManfaluti.Hijab.Shamela0022274-ara1",
+  "sections": {
+    "1": {
+      "title": "ذهب فلان إلى أوروبا وما ننكر من أمره شيئا، فلبث فيها بضع سنين، ثم عاد وما بقي مما كنا نعرفه منه شيء.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "قال: ليس لي في الحياة إلا أمل واحد هو أن أغمض عيني ثم أفتحهما فلا أرى برقعا على وجه امرأة في هذا البلد.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "قلت: ذلك ms01 ما لا تملكه ولا رأي لك فيه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3],
+      null
+    ]
+  ],
+  "last_ms": 12
+}

@@ -1,0 +1,201 @@
+{
+  "filename": "0243HarithMuhasibi.Tawahhum.Shamela0021799-ara1",
+  "sections": {
+    "1": {
+      "title": "بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "2": {
+      "title": "1-",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "2-",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "4": {
+      "title": "3-",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "5": {
+      "title": "5-",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 6
+    },
+    "6": {
+      "title": "6-",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 9
+    },
+    "7": {
+      "title": "12-",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 9
+    },
+    "8": {
+      "title": "13-",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 10
+    },
+    "9": {
+      "title": "15-",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 12
+    },
+    "10": {
+      "title": "17-",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 12
+    },
+    "11": {
+      "title": "18-",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 15
+    },
+    "12": {
+      "title": "22-",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 15
+    },
+    "13": {
+      "title": "23-",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 25
+    },
+    "14": {
+      "title": "28-",
+      "level": 1,
+      "parent": null,
+      "start_ms": 25,
+      "end_ms": 39
+    },
+    "15": {
+      "title": ".......",
+      "level": 1,
+      "parent": null,
+      "start_ms": 39,
+      "end_ms": 39
+    },
+    "16": {
+      "title": ".....",
+      "level": 1,
+      "parent": null,
+      "start_ms": 39,
+      "end_ms": 40
+    },
+    "17": {
+      "title": ".....",
+      "level": 1,
+      "parent": null,
+      "start_ms": 40,
+      "end_ms": 41
+    },
+    "18": {
+      "title": "تم كتاب (التوهم) بحمد الله",
+      "level": 1,
+      "parent": null,
+      "start_ms": 41,
+      "end_ms": 41
+    },
+    "19": {
+      "title": "........",
+      "level": 1,
+      "parent": null,
+      "start_ms": 41,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      4,
+      [2, 3],
+      1
+    ],
+    [
+      5,
+      [4],
+      3
+    ],
+    [
+      6,
+      [5, 6],
+      4
+    ],
+    [
+      9,
+      [7, 8],
+      6
+    ],
+    [
+      10,
+      [9],
+      8
+    ],
+    [
+      12,
+      [10, 11],
+      9
+    ],
+    [
+      15,
+      [12, 13],
+      11
+    ],
+    [
+      25,
+      [14],
+      13
+    ],
+    [
+      39,
+      [15, 16],
+      14
+    ],
+    [
+      40,
+      [17],
+      16
+    ],
+    [
+      41,
+      [18, 19],
+      17
+    ]
+  ],
+  "last_ms": 41
+}

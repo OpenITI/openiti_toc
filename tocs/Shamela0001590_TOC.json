@@ -1,0 +1,75 @@
+{
+  "filename": "0301Bardiji.TabaqatAsma.Shamela0001590-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "ومن الطبقة الثانية وهم التابعون",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 8
+    },
+    "2": {
+      "title": "ومن الطبقة الثالثة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 13
+    },
+    "3": {
+      "title": "ومن الطبقة الرابعة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 15
+    },
+    "4": {
+      "title": "ومن الطبقة الخامسة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 17
+    },
+    "5": {
+      "title": "ذكر أسماء ذكرها أحمد بن هارون البرذعي المعروف بالبرديجي رحمه الله على ظواهرها وهي ألقاب ليست بأسامي فمن ms16 ذلك:",
+      "level": 1,
+      "parent": null,
+      "start_ms": 17,
+      "end_ms": null
+    },
+    "6": {
+      "title": "ذكر أسماء موافقة لبعض الأسماء التي في هذا الكتاب",
+      "level": 2,
+      "parent": 5,
+      "start_ms": 17,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      4,
+      [1],
+      null
+    ],
+    [
+      8,
+      [2],
+      1
+    ],
+    [
+      13,
+      [3],
+      2
+    ],
+    [
+      15,
+      [4],
+      3
+    ],
+    [
+      17,
+      [5, 6],
+      null
+    ]
+  ],
+  "last_ms": 20
+}

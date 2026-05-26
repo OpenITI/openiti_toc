@@ -1,0 +1,137 @@
+{
+  "filename": "0241IbnHanbal.AhkamNisa.Shamela0095563-ara1.mARkdown",
+  "sections": {
+    "1": {
+      "title": "النص المحقق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "2": {
+      "title": "قوله: {ولا يبدين زينتهن إلأ ما ظهر} *",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "قوله: {وليضربن بخمرهن على جيوبهن} *",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "4": {
+      "title": "قوله. {ولا يبدين زينتهن إلا لبعولتهن} إلى {أو نسائهن}",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "5": {
+      "title": "قوله: {أو نسائهن} *",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 7
+    },
+    "6": {
+      "title": "قوله {أو ما ملكت أيمانهن} *",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 11
+    },
+    "7": {
+      "title": "قوله: {أو التابعين غير أولي الإربة} *",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 11
+    },
+    "8": {
+      "title": "قوله {أو الطفل} *",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 13
+    },
+    "9": {
+      "title": "قوله، {ولا يضربن بأرجلهن ليعلم ما يخفين من زينتهن} *",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 13
+    },
+    "10": {
+      "title": "قوله: {وتوبوا إلى الله جميعا} *",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 14
+    },
+    "11": {
+      "title": "تغليظ ما (.) (1) أعظي المعاصي والتغلبة في ذلك *",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 15
+    },
+    "12": {
+      "title": "كراهية النظر إلى الاماء إلا للبيع وذكر القناع *",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2],
+      1
+    ],
+    [
+      4,
+      [3, 4],
+      2
+    ],
+    [
+      5,
+      [5],
+      4
+    ],
+    [
+      7,
+      [6],
+      5
+    ],
+    [
+      11,
+      [7, 8],
+      6
+    ],
+    [
+      13,
+      [9, 10],
+      8
+    ],
+    [
+      14,
+      [11],
+      10
+    ],
+    [
+      15,
+      [12],
+      11
+    ]
+  ],
+  "last_ms": 16
+}

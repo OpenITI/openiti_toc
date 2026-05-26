@@ -1,0 +1,70 @@
+{
+  "filename": "0844IbnRassamHamawi.ArbacunaMinAhadithNabawiyya.Shamela0013129-ara1",
+  "sections": {
+    "1": {
+      "title": ".....",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 15
+    },
+    "2": {
+      "title": ".....",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 34
+    },
+    "3": {
+      "title": ".....",
+      "level": 1,
+      "parent": null,
+      "start_ms": 34,
+      "end_ms": 34
+    },
+    "4": {
+      "title": "...............",
+      "level": 1,
+      "parent": null,
+      "start_ms": 34,
+      "end_ms": 34
+    },
+    "5": {
+      "title": "...............",
+      "level": 1,
+      "parent": null,
+      "start_ms": 34,
+      "end_ms": 36
+    },
+    "6": {
+      "title": "......",
+      "level": 1,
+      "parent": null,
+      "start_ms": 36,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      7,
+      [1],
+      null
+    ],
+    [
+      15,
+      [2],
+      1
+    ],
+    [
+      34,
+      [3, 4, 5],
+      2
+    ],
+    [
+      36,
+      [6],
+      5
+    ]
+  ],
+  "last_ms": 40
+}

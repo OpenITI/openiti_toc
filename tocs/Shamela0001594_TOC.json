@@ -1,0 +1,187 @@
+{
+  "filename": "0721IbnBannaMarrakushi.CunwanDalil.Shamela0001594-ara1",
+  "sections": {
+    "1": {
+      "title": "مقدمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "2": {
+      "title": "باب الهمزة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "فصل إذا كانت الهمزة أول الكلمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "4": {
+      "title": "فصل إذا وقعت الهمزة آخر الكلمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 8
+    },
+    "5": {
+      "title": "فصل إذا وقعت الهمزة وسطا في الكلمة المفردة أو المركبة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 11
+    },
+    "6": {
+      "title": "باب الألف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 11
+    },
+    "7": {
+      "title": "فصل في الألف الزائدة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 15
+    },
+    "8": {
+      "title": "فصل في الألف الناقص من الخط",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 20
+    },
+    "9": {
+      "title": "فصل في الألف المنقلبة عن الياء أو الواو",
+      "level": 1,
+      "parent": null,
+      "start_ms": 20,
+      "end_ms": 25
+    },
+    "10": {
+      "title": "باب الواو",
+      "level": 1,
+      "parent": null,
+      "start_ms": 25,
+      "end_ms": 25
+    },
+    "11": {
+      "title": "فصل في الواو الزائد في الخط",
+      "level": 1,
+      "parent": null,
+      "start_ms": 25,
+      "end_ms": 25
+    },
+    "12": {
+      "title": "فصل في الواو الناقصة من الخط",
+      "level": 1,
+      "parent": null,
+      "start_ms": 25,
+      "end_ms": 26
+    },
+    "13": {
+      "title": "باب الياء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 26,
+      "end_ms": 26
+    },
+    "14": {
+      "title": "فصل في الياء الزائدة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 26,
+      "end_ms": 27
+    },
+    "15": {
+      "title": "فصل في الياء الناقصة في الخط",
+      "level": 1,
+      "parent": null,
+      "start_ms": 27,
+      "end_ms": 34
+    },
+    "16": {
+      "title": "باب مد التاءات وقبضها",
+      "level": 1,
+      "parent": null,
+      "start_ms": 34,
+      "end_ms": 38
+    },
+    "17": {
+      "title": "باب الوصل والحجز",
+      "level": 1,
+      "parent": null,
+      "start_ms": 38,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      3,
+      [2],
+      1
+    ],
+    [
+      4,
+      [3, 4],
+      2
+    ],
+    [
+      8,
+      [5],
+      4
+    ],
+    [
+      11,
+      [6, 7],
+      5
+    ],
+    [
+      15,
+      [8],
+      7
+    ],
+    [
+      20,
+      [9],
+      8
+    ],
+    [
+      25,
+      [10, 11, 12],
+      9
+    ],
+    [
+      26,
+      [13, 14],
+      12
+    ],
+    [
+      27,
+      [15],
+      14
+    ],
+    [
+      34,
+      [16],
+      15
+    ],
+    [
+      38,
+      [17],
+      16
+    ]
+  ],
+  "last_ms": 47
+}

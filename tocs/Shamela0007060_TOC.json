@@ -1,0 +1,39 @@
+{
+  "filename": "0582IbnBarri.FiTacrib.Shamela0007060-ara1",
+  "sections": {
+    "1": {
+      "title": "بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "= كتاب ما عربته العرب من الكلام الأعجمي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 41
+    },
+    "3": {
+      "title": "هذا آخر ما ذكره الشيخ أبو محمد بن بري",
+      "level": 1,
+      "parent": null,
+      "start_ms": 41,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      41,
+      [3],
+      2
+    ]
+  ],
+  "last_ms": 41
+}

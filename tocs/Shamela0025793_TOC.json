@@ -1,0 +1,80 @@
+{
+  "filename": "0276IbnQutaybaDinawari.AshribaWaIkhtilafFiha.Shamela0025793-ara2",
+  "sections": {
+    "1": {
+      "title": "الاختلاف في الأشربة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "2": {
+      "title": "حجج المحرمين لجميع ما أسكر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 15
+    },
+    "3": {
+      "title": "حجج المحلين لما دون السكر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 26
+    },
+    "4": {
+      "title": "1 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 26,
+      "end_ms": 36
+    },
+    "5": {
+      "title": "تبيين غلط الفرق بالغلو",
+      "level": 1,
+      "parent": null,
+      "start_ms": 36,
+      "end_ms": 39
+    },
+    "6": {
+      "title": "عدل القول في الشراب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 39,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      4,
+      [2],
+      1
+    ],
+    [
+      15,
+      [3],
+      2
+    ],
+    [
+      26,
+      [4],
+      3
+    ],
+    [
+      36,
+      [5],
+      4
+    ],
+    [
+      39,
+      [6],
+      5
+    ]
+  ],
+  "last_ms": 49
+}

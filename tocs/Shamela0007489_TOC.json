@@ -1,0 +1,44 @@
+{
+  "filename": "1206IbnCabdWahhab.AhkamTamanniMawt.Shamela0007489-ara1",
+  "sections": {
+    "1": {
+      "title": "أحكام تمني الموت",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 15
+    },
+    "2": {
+      "title": ".......",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 54
+    },
+    "3": {
+      "title": "انتهى، والحمد لله رب العالمين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 54,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      15,
+      [2],
+      1
+    ],
+    [
+      54,
+      [3],
+      2
+    ]
+  ],
+  "last_ms": 55
+}

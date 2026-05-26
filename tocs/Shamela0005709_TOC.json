@@ -1,0 +1,164 @@
+{
+  "filename": "0430AbuNucaymIsbahani.MajlisMinAmali.Shamela0005709-ara1",
+  "sections": {
+    "1": {
+      "title": "1 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "2 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "3 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "4": {
+      "title": "4 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "5": {
+      "title": "5 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "6": {
+      "title": "6 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "7": {
+      "title": "7 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "8": {
+      "title": "8 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "9": {
+      "title": "9 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "10": {
+      "title": "10 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "11": {
+      "title": "11 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "12": {
+      "title": "12 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "13": {
+      "title": "13 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "14": {
+      "title": "14 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "15": {
+      "title": "15 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "16": {
+      "title": "16 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "17": {
+      "title": "17 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "18": {
+      "title": "18 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3, 4],
+      null
+    ],
+    [
+      2,
+      [5, 6, 7],
+      4
+    ],
+    [
+      3,
+      [8, 9, 10],
+      7
+    ],
+    [
+      4,
+      [11, 12, 13],
+      10
+    ],
+    [
+      5,
+      [14, 15, 16, 17],
+      13
+    ],
+    [
+      6,
+      [18],
+      17
+    ]
+  ],
+  "last_ms": 6
+}

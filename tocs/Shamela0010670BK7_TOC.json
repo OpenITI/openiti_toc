@@ -1,0 +1,72 @@
+{
+  "filename": "0255Jahiz.TabaqatMughannin.Shamela0010670BK7-ara2.mARkdown",
+  "sections": {
+    "1": {
+      "title": "[7- رسالة طبقات المغنين]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "[1- تصنيف العلوم]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "[2- الخليل يضع علمي الغناء والعروض]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "4": {
+      "title": "[3- ابراهيم الموصلي يتم علم الغناء]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "5": {
+      "title": "[4- طبقات المغنين في عصر الجاحظ]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "6": {
+      "title": "[5- طريقة تأليف الكتاب]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "7": {
+      "title": "[6- الاحتياط من العيب]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3, 4],
+      null
+    ],
+    [
+      2,
+      [5, 6],
+      4
+    ],
+    [
+      3,
+      [7],
+      6
+    ]
+  ],
+  "last_ms": 3
+}

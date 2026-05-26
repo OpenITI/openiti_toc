@@ -1,0 +1,44 @@
+{
+  "filename": "1282Ababutayn.DahdShubuhat.Shamela0011181-ara1",
+  "sections": {
+    "1": {
+      "title": "صيغة الشبهة التي يوردها بعض أهل الأهواء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 5
+    },
+    "2": {
+      "title": "فصل في الجواب عن الحديث (ياعباد الله احبسوا) وبيان ضعفه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "3": {
+      "title": "فصل في قتال من قال (لا إله إلا الله) إذا أتى بما يناقضها",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      5,
+      [2],
+      1
+    ],
+    [
+      6,
+      [3],
+      2
+    ]
+  ],
+  "last_ms": 13
+}

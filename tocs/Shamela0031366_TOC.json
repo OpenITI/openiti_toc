@@ -1,0 +1,68 @@
+{
+  "filename": "0795IbnRajabHanbali.DhaylTabaqatHanabila.Shamela0031366-ara1.mARkdown",
+  "sections": {
+    "1": {
+      "title": "[وفيات المائة الخامسة من سنة 460 ه إلى سنة 500 ه]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 79
+    },
+    "2": {
+      "title": "[وفيات المائة السادسة من سنة 501 ه إلى سنة 540 صلى الله عليه وسلم]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 79,
+      "end_ms": 163
+    },
+    "3": {
+      "title": "[بقية وفيات المائة السادسة من سنة 541 ه - إلى سنة 600 ه]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 163,
+      "end_ms": 355
+    },
+    "4": {
+      "title": "[وفيات المائة السابعة من سنة 601 - إلى سنة 700 ه]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 355,
+      "end_ms": 623
+    },
+    "5": {
+      "title": "[وفيات المائة الثامنة من سنة 701 إلى سنة 751 ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 623,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      79,
+      [2],
+      1
+    ],
+    [
+      163,
+      [3],
+      2
+    ],
+    [
+      355,
+      [4],
+      3
+    ],
+    [
+      623,
+      [5],
+      4
+    ]
+  ],
+  "last_ms": 705
+}

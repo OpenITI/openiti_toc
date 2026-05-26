@@ -1,0 +1,80 @@
+{
+  "filename": "0728IbnTaymiyya.HuquqAlBayt.Shamela0011162-ara1",
+  "sections": {
+    "1": {
+      "title": "وحدة المسلمين بالكتاب والسنة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "2": {
+      "title": "أهل البيت وخصائصهم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 6
+    },
+    "3": {
+      "title": "صفات أهل الفيء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 8
+    },
+    "4": {
+      "title": "جهل الشيعة بمذهب الإمام علي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 10
+    },
+    "5": {
+      "title": "عوامل الضلال",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 18
+    },
+    "6": {
+      "title": "بدع وضلالات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      3,
+      [2],
+      1
+    ],
+    [
+      6,
+      [3],
+      2
+    ],
+    [
+      8,
+      [4],
+      3
+    ],
+    [
+      10,
+      [5],
+      4
+    ],
+    [
+      18,
+      [6],
+      5
+    ]
+  ],
+  "last_ms": 28
+}

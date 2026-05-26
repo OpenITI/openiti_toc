@@ -1,0 +1,124 @@
+{
+  "filename": "0255Jahiz.SinacatQuwwad.Shamela0010670BK15-ara2.mARkdown",
+  "sections": {
+    "1": {
+      "title": "[15- رسالة صناعة القواد]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "[1- حسنات اللسان]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "[2- قول القائد في الحرب والغزل]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "4": {
+      "title": "[3- قول الطبيب في الحرب والغزل]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "5": {
+      "title": "[4- قول الخياط في الحرب والغزل]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "6": {
+      "title": "[5- قول الزارع في الحرب والغزل]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "7": {
+      "title": "[6- قول الخباز في الحرب والغزل]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "8": {
+      "title": "[7- قول المؤدب في الحرب والغزل]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "9": {
+      "title": "[8- قول صاحب الحمام في الحرب والغزل]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "10": {
+      "title": "[9- قول الكناس في الحرب والغزل]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "11": {
+      "title": "[10- قول الشرابي في الحرب والغزل]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "12": {
+      "title": "[11- قول الطباخ في الحرب والغزل] ms4",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "13": {
+      "title": "[12- قول الفراش في الحرب والغزل]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 5,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3, 4, 5],
+      2
+    ],
+    [
+      3,
+      [6, 7, 8],
+      5
+    ],
+    [
+      4,
+      [9, 10, 11],
+      8
+    ],
+    [
+      5,
+      [12, 13],
+      null
+    ]
+  ],
+  "last_ms": 5
+}

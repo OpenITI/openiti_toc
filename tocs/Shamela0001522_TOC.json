@@ -1,0 +1,99 @@
+{
+  "filename": "1069ShihabDinKhafaji.RayhanatAlibba.Shamela0001522-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "المقدمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 7
+    },
+    "2": {
+      "title": "القسم الأول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 118
+    },
+    "3": {
+      "title": "فائدة",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 40,
+      "end_ms": 118
+    },
+    "4": {
+      "title": "فصل",
+      "level": 3,
+      "parent": 3,
+      "start_ms": 40,
+      "end_ms": 118
+    },
+    "5": {
+      "title": "القسم الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 118,
+      "end_ms": null
+    },
+    "6": {
+      "title": "ذكر مكة المشرفة ومن بحماها صانها الله وحماها وزادها تشريفا وتكريما وتعظيما.",
+      "level": 2,
+      "parent": 5,
+      "start_ms": 158,
+      "end_ms": 160
+    },
+    "7": {
+      "title": "ذكر الدولة الحسنية",
+      "level": 2,
+      "parent": 5,
+      "start_ms": 160,
+      "end_ms": 186
+    },
+    "8": {
+      "title": "نفحة من نفحات اليمن ومن بلغنا ms185 خبره في هذا الزمن ممن بقي بها من الفضلاء والشعراء، وكان قريب",
+      "level": 2,
+      "parent": 5,
+      "start_ms": 186,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      7,
+      [2],
+      1
+    ],
+    [
+      40,
+      [3, 4],
+      2
+    ],
+    [
+      118,
+      [5],
+      4
+    ],
+    [
+      158,
+      [6],
+      5
+    ],
+    [
+      160,
+      [7],
+      6
+    ],
+    [
+      186,
+      [8],
+      null
+    ]
+  ],
+  "last_ms": 190
+}

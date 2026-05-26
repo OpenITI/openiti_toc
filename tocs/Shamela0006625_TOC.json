@@ -1,0 +1,170 @@
+{
+  "filename": "0628IbnCaliSanhaji.AkhbarMuluk.Shamela0006625-ara1",
+  "sections": {
+    "1": {
+      "title": "أخبار ملوك بني عبيد وسيرتهم لأبي عبد الله محمد بن علي بن حماد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "المخطوط الحمد لله",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "عبيد الله",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 7
+    },
+    "4": {
+      "title": "محمد القائم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 10
+    },
+    "5": {
+      "title": "المنصور",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 20
+    },
+    "6": {
+      "title": "المعز",
+      "level": 1,
+      "parent": null,
+      "start_ms": 20,
+      "end_ms": 24
+    },
+    "7": {
+      "title": "العزيز",
+      "level": 1,
+      "parent": null,
+      "start_ms": 24,
+      "end_ms": 25
+    },
+    "8": {
+      "title": "الحاكم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 25,
+      "end_ms": 30
+    },
+    "9": {
+      "title": "الظاهر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 30,
+      "end_ms": 31
+    },
+    "10": {
+      "title": "المستنصر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 31,
+      "end_ms": 31
+    },
+    "11": {
+      "title": "المستعلي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 31,
+      "end_ms": 32
+    },
+    "12": {
+      "title": "الآمر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 32,
+      "end_ms": 32
+    },
+    "13": {
+      "title": "الحافظ عبد المجيد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 32,
+      "end_ms": 32
+    },
+    "14": {
+      "title": "الظافر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 32,
+      "end_ms": 33
+    },
+    "15": {
+      "title": "الفائز",
+      "level": 1,
+      "parent": null,
+      "start_ms": 33,
+      "end_ms": 33
+    },
+    "16": {
+      "title": "العاضد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 33,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3],
+      null
+    ],
+    [
+      7,
+      [4],
+      3
+    ],
+    [
+      10,
+      [5],
+      4
+    ],
+    [
+      20,
+      [6],
+      5
+    ],
+    [
+      24,
+      [7],
+      6
+    ],
+    [
+      25,
+      [8],
+      7
+    ],
+    [
+      30,
+      [9],
+      8
+    ],
+    [
+      31,
+      [10, 11],
+      9
+    ],
+    [
+      32,
+      [12, 13, 14],
+      11
+    ],
+    [
+      33,
+      [15, 16],
+      14
+    ]
+  ],
+  "last_ms": 34
+}

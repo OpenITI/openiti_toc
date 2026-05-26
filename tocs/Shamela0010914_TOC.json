@@ -1,0 +1,56 @@
+{
+  "filename": "0542IbnMunjibTajRiyasaIbnSayrafi.MukhtarMinShicr.Shamela0010914-ara1",
+  "sections": {
+    "1": {
+      "title": "بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 10
+    },
+    "2": {
+      "title": "ابن زيدون",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 22
+    },
+    "3": {
+      "title": "وقال أبو ms21 عامر بن شهيد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 22,
+      "end_ms": 23
+    },
+    "4": {
+      "title": "وقال ابن خفاجة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 23,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      10,
+      [2],
+      1
+    ],
+    [
+      22,
+      [3],
+      null
+    ],
+    [
+      23,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 25
+}

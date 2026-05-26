@@ -1,0 +1,56 @@
+{
+  "filename": "0318AbuCarubaHarrani.MuntaqaMinTabaqat.Shamela0008274-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "ومن بني عبد الدار بن قصي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 13
+    },
+    "2": {
+      "title": "ومن بني فهر بن مالك بن النضر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 21
+    },
+    "3": {
+      "title": "ومن الإخوة من الصحابة رضي الله عنهم من المهاجرين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 21,
+      "end_ms": 22
+    },
+    "4": {
+      "title": "ومن الأنصار",
+      "level": 1,
+      "parent": null,
+      "start_ms": 22,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      12,
+      [1],
+      null
+    ],
+    [
+      13,
+      [2],
+      1
+    ],
+    [
+      21,
+      [3],
+      2
+    ],
+    [
+      22,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 26
+}

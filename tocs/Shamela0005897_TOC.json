@@ -1,0 +1,203 @@
+{
+  "filename": "0279Tirmidhi.CilalSaghir.Shamela0005897-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "مقدمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "(سند أقوال سفيان الثوري)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "(سند أقوال مالك بن أنس)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "4": {
+      "title": "(سند أقوال بن المبارك)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "5": {
+      "title": "(سند أقوال الشافعي)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "6": {
+      "title": "(سند أقوال أحمد بن حنبل وإسحاق بن إبراهيم)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "7": {
+      "title": "(مصادر ذكر العلل في الأحاديث والرجال)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "8": {
+      "title": "(جواز الحكم على الرجال والأسانيد)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 6
+    },
+    "9": {
+      "title": "(التضعيف من جهة الحفظ)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 8
+    },
+    "10": {
+      "title": "(الرواية بالمعنى)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 9
+    },
+    "11": {
+      "title": "(تفاضل أهل العلم في الحفظ)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 11
+    },
+    "12": {
+      "title": "(القراءة على العالم)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 12
+    },
+    "13": {
+      "title": "المناولة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 12
+    },
+    "14": {
+      "title": "(الفرق بين أخبرنا وحدثنا)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 12
+    },
+    "15": {
+      "title": "(الإجازة)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 12
+    },
+    "16": {
+      "title": "(كتابة الحديث)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 13
+    },
+    "17": {
+      "title": "(الحديث المرسل)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 14
+    },
+    "18": {
+      "title": "(الاختلاف في تضعيف الرجال)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 16
+    },
+    "19": {
+      "title": "(معاني الاصطلاح للترمذي)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": 16
+    },
+    "20": {
+      "title": "(غرابة الإسناد)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3, 4, 5],
+      null
+    ],
+    [
+      2,
+      [6, 7],
+      5
+    ],
+    [
+      3,
+      [8],
+      7
+    ],
+    [
+      6,
+      [9],
+      8
+    ],
+    [
+      8,
+      [10],
+      9
+    ],
+    [
+      9,
+      [11],
+      10
+    ],
+    [
+      11,
+      [12],
+      11
+    ],
+    [
+      12,
+      [13, 14, 15, 16],
+      12
+    ],
+    [
+      13,
+      [17],
+      16
+    ],
+    [
+      14,
+      [18],
+      17
+    ],
+    [
+      16,
+      [19, 20],
+      18
+    ]
+  ],
+  "last_ms": 19
+}

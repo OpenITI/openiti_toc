@@ -1,0 +1,128 @@
+{
+  "filename": "0502IbnCaliTabriziShaybani.SharhQasaid.Shamela0037488-ara1",
+  "sections": {
+    "1": {
+      "title": "معلقة امرئ القيس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 37
+    },
+    "2": {
+      "title": "معلقة طرفة بن العبد البكري",
+      "level": 1,
+      "parent": null,
+      "start_ms": 37,
+      "end_ms": 64
+    },
+    "3": {
+      "title": "معلقة زهير بن أبي سلمى المزني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 64,
+      "end_ms": 81
+    },
+    "4": {
+      "title": "معلقة لبيد بن ربيعة العامري",
+      "level": 1,
+      "parent": null,
+      "start_ms": 81,
+      "end_ms": 109
+    },
+    "5": {
+      "title": "معلقة عنترة بن شداد العبسي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 109,
+      "end_ms": 130
+    },
+    "6": {
+      "title": "معلقة عمرو بن كلثوم التغلبي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 130,
+      "end_ms": 149
+    },
+    "7": {
+      "title": "معلقة الحارث بن حلزة اليشكري",
+      "level": 1,
+      "parent": null,
+      "start_ms": 149,
+      "end_ms": 170
+    },
+    "8": {
+      "title": "قصيدة الأعشى ميمون بن قيس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 170,
+      "end_ms": 180
+    },
+    "9": {
+      "title": "قصيدة النابغة الذبياني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 180,
+      "end_ms": 187
+    },
+    "10": {
+      "title": "قصيدة عبيد بن الأبرص الأسدي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 187,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      37,
+      [2],
+      1
+    ],
+    [
+      64,
+      [3],
+      2
+    ],
+    [
+      81,
+      [4],
+      3
+    ],
+    [
+      109,
+      [5],
+      4
+    ],
+    [
+      130,
+      [6],
+      5
+    ],
+    [
+      149,
+      [7],
+      6
+    ],
+    [
+      170,
+      [8],
+      7
+    ],
+    [
+      180,
+      [9],
+      8
+    ],
+    [
+      187,
+      [10],
+      9
+    ]
+  ],
+  "last_ms": 192
+}

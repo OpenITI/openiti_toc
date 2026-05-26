@@ -1,0 +1,68 @@
+{
+  "filename": "0281IbnAbiDunya.Qubur.Shamela0010628-ara1.mARkdown",
+  "sections": {
+    "1": {
+      "title": "من هتف من المقبرة بموعظة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 6
+    },
+    "2": {
+      "title": "باب الموعظة بالجنازة والاعتبار بها",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 12
+    },
+    "3": {
+      "title": "باب في النشور",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 15
+    },
+    "4": {
+      "title": "جامع ذكر القبور",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 41
+    },
+    "5": {
+      "title": "باب ما قرئ من الكتاب على القبور",
+      "level": 1,
+      "parent": null,
+      "start_ms": 41,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      3,
+      [1],
+      null
+    ],
+    [
+      6,
+      [2],
+      1
+    ],
+    [
+      12,
+      [3],
+      2
+    ],
+    [
+      15,
+      [4],
+      3
+    ],
+    [
+      41,
+      [5],
+      4
+    ]
+  ],
+  "last_ms": 58
+}

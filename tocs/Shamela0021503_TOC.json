@@ -1,0 +1,68 @@
+{
+  "filename": "0595IbnRushdHafid.TalkhisSafsata.Shamela0021503-ara1",
+  "sections": {
+    "1": {
+      "title": "الغرض من الكتاب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "2": {
+      "title": "أجناس المخاطبات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 6
+    },
+    "3": {
+      "title": "القول من المغلطات من المعاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 27
+    },
+    "4": {
+      "title": "القياس المغالطي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 27,
+      "end_ms": 44
+    },
+    "5": {
+      "title": "القول في النقض",
+      "level": 1,
+      "parent": null,
+      "start_ms": 44,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      3,
+      [2],
+      1
+    ],
+    [
+      6,
+      [3],
+      2
+    ],
+    [
+      27,
+      [4],
+      3
+    ],
+    [
+      44,
+      [5],
+      4
+    ]
+  ],
+  "last_ms": 64
+}

@@ -1,0 +1,51 @@
+{
+  "filename": "0255Jahiz.IstinjazWacd.Shamela0010428BK42-ara1.mARkdown",
+  "sections": {
+    "1": {
+      "title": "23- من رسالته في استنجاز الوعد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "فصل من صدر رسالته في استنجاز الوعد",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "فصل منها",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "4": {
+      "title": "فصل منها",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3],
+      2
+    ],
+    [
+      3,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 4
+}

@@ -1,0 +1,75 @@
+{
+  "filename": "0669IbnCusfurHadramiIshbili.DarairShicr.Shamela0037489-ara1",
+  "sections": {
+    "1": {
+      "title": "ذكر ما يحتمله الشعر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "2": {
+      "title": "ذكر أنواع الضرائر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "فصل الزيادة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 25
+    },
+    "4": {
+      "title": "فصل النقص",
+      "level": 1,
+      "parent": null,
+      "start_ms": 25,
+      "end_ms": 62
+    },
+    "5": {
+      "title": "فصل التقديم والتأخير",
+      "level": 1,
+      "parent": null,
+      "start_ms": 62,
+      "end_ms": 73
+    },
+    "6": {
+      "title": "فصل البدل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 73,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2, 3],
+      1
+    ],
+    [
+      25,
+      [4],
+      3
+    ],
+    [
+      62,
+      [5],
+      4
+    ],
+    [
+      73,
+      [6],
+      5
+    ]
+  ],
+  "last_ms": 110
+}

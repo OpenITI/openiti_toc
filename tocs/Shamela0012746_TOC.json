@@ -1,0 +1,44 @@
+{
+  "filename": "0360AbuBakrAjurri.FadlQiyamLayl.Shamela0012746-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "كتاب قيام الليل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "باب فيمن كان له ورد من الليل يقومه فشغله عنه مرض أو عذر ونام عنه ومن نيته القيام",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 8,
+      "end_ms": 10
+    },
+    "3": {
+      "title": "باب ذكر ما يستحب أن يفعله القائم المتهجد",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 10,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      8,
+      [2],
+      1
+    ],
+    [
+      10,
+      [3],
+      2
+    ]
+  ],
+  "last_ms": 14
+}

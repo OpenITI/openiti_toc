@@ -1,0 +1,118 @@
+{
+  "filename": "0911Suyuti.UnmudhajLabib.Shamela0012824-ara1",
+  "sections": {
+    "1": {
+      "title": "الباب الأول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "الفصل الأول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 6
+    },
+    "3": {
+      "title": "الفصل الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 12
+    },
+    "4": {
+      "title": "الفصل الثالث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 14
+    },
+    "5": {
+      "title": "الفصل الرابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 15
+    },
+    "6": {
+      "title": "الباب الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 15
+    },
+    "7": {
+      "title": "الفصل الأول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 17
+    },
+    "8": {
+      "title": "الفصل الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 17,
+      "end_ms": 19
+    },
+    "9": {
+      "title": "الفصل الثالث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 19,
+      "end_ms": 22
+    },
+    "10": {
+      "title": "الفصل الرابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 22,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      6,
+      [3],
+      2
+    ],
+    [
+      12,
+      [4],
+      3
+    ],
+    [
+      14,
+      [5],
+      4
+    ],
+    [
+      15,
+      [6, 7],
+      5
+    ],
+    [
+      17,
+      [8],
+      7
+    ],
+    [
+      19,
+      [9],
+      8
+    ],
+    [
+      22,
+      [10],
+      9
+    ]
+  ],
+  "last_ms": 39
+}

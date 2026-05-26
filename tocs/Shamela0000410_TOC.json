@@ -1,0 +1,142 @@
+{
+  "filename": "1246IbnHamadBassam.DurarMafakhir.Shamela0000410-ara1",
+  "sections": {
+    "1": {
+      "title": "الفصل الأول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "أولا:",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "ثانيا:",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 6
+    },
+    "4": {
+      "title": "الفصل الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 6
+    },
+    "5": {
+      "title": "أولا:",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 13
+    },
+    "6": {
+      "title": "ثانيا:",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 17
+    },
+    "7": {
+      "title": "الفصل الثالث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 17,
+      "end_ms": 18
+    },
+    "8": {
+      "title": "الفصل الرابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": 20
+    },
+    "9": {
+      "title": "الفصل الخامس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 20,
+      "end_ms": 21
+    },
+    "10": {
+      "title": "الفصل السادس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 21,
+      "end_ms": 23
+    },
+    "11": {
+      "title": "الفصل السابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 23,
+      "end_ms": 30
+    },
+    "12": {
+      "title": "الفصل الثامن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 30,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3],
+      2
+    ],
+    [
+      6,
+      [4, 5],
+      3
+    ],
+    [
+      13,
+      [6],
+      5
+    ],
+    [
+      17,
+      [7],
+      6
+    ],
+    [
+      18,
+      [8],
+      7
+    ],
+    [
+      20,
+      [9],
+      8
+    ],
+    [
+      21,
+      [10],
+      9
+    ],
+    [
+      23,
+      [11],
+      10
+    ],
+    [
+      30,
+      [12],
+      11
+    ]
+  ],
+  "last_ms": 33
+}

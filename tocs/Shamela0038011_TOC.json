@@ -1,0 +1,68 @@
+{
+  "filename": "1450SalahMuhammadKhiyami.FihrisZahiriyyaCulumQuran.Shamela0038011-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "المصاحف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 45
+    },
+    "2": {
+      "title": "التجويد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 45,
+      "end_ms": 149
+    },
+    "3": {
+      "title": "القراءات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 149,
+      "end_ms": 287
+    },
+    "4": {
+      "title": "علوم القرآن العامة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 287,
+      "end_ms": 520
+    },
+    "5": {
+      "title": "التفاسير",
+      "level": 1,
+      "parent": null,
+      "start_ms": 520,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      2,
+      [1],
+      null
+    ],
+    [
+      45,
+      [2],
+      1
+    ],
+    [
+      149,
+      [3],
+      2
+    ],
+    [
+      287,
+      [4],
+      3
+    ],
+    [
+      520,
+      [5],
+      4
+    ]
+  ],
+  "last_ms": 815
+}

@@ -1,0 +1,70 @@
+{
+  "filename": "0310IbnCabbasYazidi.Amali.Shamela0008196-ara1",
+  "sections": {
+    "1": {
+      "title": "بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "ولا حول ولا قوة إلا بالله العظيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 49
+    },
+    "3": {
+      "title": ".....",
+      "level": 1,
+      "parent": null,
+      "start_ms": 49,
+      "end_ms": 66
+    },
+    "4": {
+      "title": "....",
+      "level": 1,
+      "parent": null,
+      "start_ms": 66,
+      "end_ms": 66
+    },
+    "5": {
+      "title": "....",
+      "level": 1,
+      "parent": null,
+      "start_ms": 66,
+      "end_ms": 71
+    },
+    "6": {
+      "title": "تم الكتاب والحمد لله رب العالمين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 71,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      49,
+      [3],
+      2
+    ],
+    [
+      66,
+      [4, 5],
+      3
+    ],
+    [
+      71,
+      [6],
+      5
+    ]
+  ],
+  "last_ms": 71
+}

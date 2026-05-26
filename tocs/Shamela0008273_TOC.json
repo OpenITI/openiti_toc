@@ -1,0 +1,56 @@
+{
+  "filename": "0281IbnAbiDunya.MatarWaRacd.Shamela0008273-ara1.mARkdown",
+  "sections": {
+    "1": {
+      "title": "باب المطر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 20
+    },
+    "2": {
+      "title": "باب الرعد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 20,
+      "end_ms": 23
+    },
+    "3": {
+      "title": "باب في البرق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 23,
+      "end_ms": 24
+    },
+    "4": {
+      "title": "باب في الريح",
+      "level": 1,
+      "parent": null,
+      "start_ms": 24,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      20,
+      [2],
+      1
+    ],
+    [
+      23,
+      [3],
+      2
+    ],
+    [
+      24,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 32
+}

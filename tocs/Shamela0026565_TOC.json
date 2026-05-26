@@ -1,0 +1,94 @@
+{
+  "filename": "0705SharafDinDimyati.JuzMusafahatMuslim.Shamela0026565-ara1",
+  "sections": {
+    "1": {
+      "title": "جزء في مصافحة الإمام مسلم والإمام النسائي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "حديث مصافحة لمسلم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 8
+    },
+    "3": {
+      "title": "حديث مصافحة للنسائي رحمه الله",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 11
+    },
+    "4": {
+      "title": "حديث مصافحة النسائي ms10 أيضا",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 11
+    },
+    "5": {
+      "title": "حديث مصافحة النسائي أيضا",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 13
+    },
+    "6": {
+      "title": "حديث مصافحة للنسائي أيضا",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 16
+    },
+    "7": {
+      "title": "حديث سابع مصافحة لمسلم وأبي داود ألحقه به المخرج",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": 18
+    },
+    "8": {
+      "title": "حديث ثامن مصاحفة ألحقه به أيضا",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      8,
+      [3],
+      2
+    ],
+    [
+      11,
+      [4, 5],
+      null
+    ],
+    [
+      13,
+      [6],
+      5
+    ],
+    [
+      16,
+      [7],
+      6
+    ],
+    [
+      18,
+      [8],
+      7
+    ]
+  ],
+  "last_ms": 19
+}

@@ -1,0 +1,56 @@
+{
+  "filename": "0685IbnSacidMaghribi.GhusunYanica.Shamela0009235-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "في تراجم الذين تحققت سنو وفاتهم تراجم سنة إحدى وستمائة ثمان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 21
+    },
+    "2": {
+      "title": "تراجم سنة اثنين وستمائة ثلاث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 21,
+      "end_ms": 37
+    },
+    "3": {
+      "title": "تراجم سنة أربع وستمائة ست",
+      "level": 1,
+      "parent": null,
+      "start_ms": 37,
+      "end_ms": 49
+    },
+    "4": {
+      "title": "تراجم سنة خمس وستمائة اثنتان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 49,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      21,
+      [2],
+      1
+    ],
+    [
+      37,
+      [3],
+      2
+    ],
+    [
+      49,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 52
+}

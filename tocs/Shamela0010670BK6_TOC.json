@@ -1,0 +1,136 @@
+{
+  "filename": "0255Jahiz.Mucallimin.Shamela0010670BK6-ara2.mARkdown",
+  "sections": {
+    "1": {
+      "title": "[6- رسالة المعلمين]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "[1- مدخل]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "[2- فضل المعلم]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "4": {
+      "title": "[3- الحفظ والاستنباط]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "5": {
+      "title": "[4- اكثر العظماء كانوا معلمين]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "6": {
+      "title": "[5- لجميع اصناف العلوم معلمون]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "7": {
+      "title": "[6- الانسان عالم صغير]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "8": {
+      "title": "[7- معنى المعلم والمؤدب]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "9": {
+      "title": "[8- فقر الأدباء]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "10": {
+      "title": "[9- المعلم يراعي مستوى الصبي العقلي]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "11": {
+      "title": "[10- تعليم النحو والرياضة]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "12": {
+      "title": "[11- تعليم صناعة الكتابة]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 5,
+      "end_ms": 7
+    },
+    "13": {
+      "title": "[12- عبد الله بن المقفع]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "14": {
+      "title": "[13- تعلم التجارة والصيرفة افضل من عمل السلطان]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 7,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3, 4],
+      null
+    ],
+    [
+      2,
+      [5, 6],
+      4
+    ],
+    [
+      3,
+      [7, 8],
+      6
+    ],
+    [
+      4,
+      [9, 10, 11],
+      8
+    ],
+    [
+      5,
+      [12],
+      11
+    ],
+    [
+      7,
+      [13, 14],
+      12
+    ]
+  ],
+  "last_ms": 10
+}

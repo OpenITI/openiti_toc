@@ -1,0 +1,130 @@
+{
+  "filename": "0368AbuSacidSirafi.AkhbarNahwiyyin.Shamela0026338-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "المقدمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 29
+    },
+    "2": {
+      "title": "ذكر أخبار أبي زيد",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 15,
+      "end_ms": 17
+    },
+    "3": {
+      "title": "ذكر أخبار الأصمعي",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 17,
+      "end_ms": 20
+    },
+    "4": {
+      "title": "ذكر أخبار أبي عبيدة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 20,
+      "end_ms": 22
+    },
+    "5": {
+      "title": "أخبار أبي عمر الجرمي",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 22,
+      "end_ms": 22
+    },
+    "6": {
+      "title": "أخبار أبي عثمان المازني",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 22,
+      "end_ms": 26
+    },
+    "7": {
+      "title": "أخبار التوزي",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 26,
+      "end_ms": 27
+    },
+    "8": {
+      "title": "أخبار الزيادي",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 27,
+      "end_ms": 27
+    },
+    "9": {
+      "title": "أخبار الرياشي",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 27,
+      "end_ms": 28
+    },
+    "10": {
+      "title": "أخبار أبي حاتم السجستاني",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 28,
+      "end_ms": 29
+    },
+    "11": {
+      "title": "أخبار أبي العباس محمد بن يزيد الأزدي الثمالي المعروف بالمبرد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 29,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      15,
+      [2],
+      1
+    ],
+    [
+      17,
+      [3],
+      2
+    ],
+    [
+      20,
+      [4],
+      3
+    ],
+    [
+      22,
+      [5, 6],
+      4
+    ],
+    [
+      26,
+      [7],
+      6
+    ],
+    [
+      27,
+      [8, 9],
+      7
+    ],
+    [
+      28,
+      [10],
+      9
+    ],
+    [
+      29,
+      [11],
+      10
+    ]
+  ],
+  "last_ms": 34
+}

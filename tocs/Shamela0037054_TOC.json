@@ -1,0 +1,101 @@
+{
+  "filename": "0320HakimTirmidhi.AdabNafs.Shamela0037054-ara1",
+  "sections": {
+    "1": {
+      "title": "رياضة النفس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 11
+    },
+    "2": {
+      "title": "اليقين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 19
+    },
+    "3": {
+      "title": "صفة القلب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 19,
+      "end_ms": 28
+    },
+    "4": {
+      "title": "صفة الموقن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 28,
+      "end_ms": 42
+    },
+    "5": {
+      "title": "النصرة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 42,
+      "end_ms": 42
+    },
+    "6": {
+      "title": "المجاهدة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 42,
+      "end_ms": 43
+    },
+    "7": {
+      "title": "المجاهدة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 43,
+      "end_ms": 43
+    },
+    "8": {
+      "title": "الهوى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 43,
+      "end_ms": 46
+    },
+    "9": {
+      "title": "الهوى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 46,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      11,
+      [1, 2],
+      null
+    ],
+    [
+      19,
+      [3],
+      2
+    ],
+    [
+      28,
+      [4],
+      3
+    ],
+    [
+      42,
+      [5, 6],
+      4
+    ],
+    [
+      43,
+      [7, 8],
+      6
+    ],
+    [
+      46,
+      [9],
+      8
+    ]
+  ],
+  "last_ms": 49
+}

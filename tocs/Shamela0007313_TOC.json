@@ -1,0 +1,92 @@
+{
+  "filename": "0871TaqiDinIbnFahd.LahzAlhaz.Shamela0007313-ara1",
+  "sections": {
+    "1": {
+      "title": "مقدمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "2": {
+      "title": "طبقات لحظ الألحاظ",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 44
+    },
+    "3": {
+      "title": "الطبقة الخامسة والعشرون",
+      "level": 1,
+      "parent": null,
+      "start_ms": 44,
+      "end_ms": 57
+    },
+    "4": {
+      "title": "الطبقة السادسة والعشرون",
+      "level": 1,
+      "parent": null,
+      "start_ms": 57,
+      "end_ms": 66
+    },
+    "5": {
+      "title": "الطبقة السابعة والعشرون",
+      "level": 1,
+      "parent": null,
+      "start_ms": 66,
+      "end_ms": 101
+    },
+    "6": {
+      "title": "طبقة أخرى صغرى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 101,
+      "end_ms": 154
+    },
+    "7": {
+      "title": "الخاتمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 154,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      4,
+      [2],
+      1
+    ],
+    [
+      44,
+      [3],
+      2
+    ],
+    [
+      57,
+      [4],
+      3
+    ],
+    [
+      66,
+      [5],
+      4
+    ],
+    [
+      101,
+      [6],
+      5
+    ],
+    [
+      154,
+      [7],
+      6
+    ]
+  ],
+  "last_ms": 154
+}

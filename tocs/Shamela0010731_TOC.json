@@ -1,0 +1,259 @@
+{
+  "filename": "0691IbnYusufLabli.Fihrist.Shamela0010731-ara1",
+  "sections": {
+    "1": {
+      "title": "1 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "2": {
+      "title": "2 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "3 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "4": {
+      "title": "4 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 8
+    },
+    "5": {
+      "title": "5 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 14
+    },
+    "6": {
+      "title": "6 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 14
+    },
+    "7": {
+      "title": "7 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 15
+    },
+    "8": {
+      "title": "8 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 21
+    },
+    "9": {
+      "title": "9 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 21,
+      "end_ms": 23
+    },
+    "10": {
+      "title": "10 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 23,
+      "end_ms": 24
+    },
+    "11": {
+      "title": "11 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 24,
+      "end_ms": 24
+    },
+    "12": {
+      "title": "12 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 24,
+      "end_ms": 34
+    },
+    "13": {
+      "title": "13 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 34,
+      "end_ms": 37
+    },
+    "14": {
+      "title": "تتمة ترجمة أبي الحسن الأشعري",
+      "level": 1,
+      "parent": null,
+      "start_ms": 37,
+      "end_ms": 43
+    },
+    "15": {
+      "title": "مصنفات أبي الحسن الأشعري",
+      "level": 1,
+      "parent": null,
+      "start_ms": 43,
+      "end_ms": 50
+    },
+    "16": {
+      "title": "14 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 50,
+      "end_ms": 51
+    },
+    "17": {
+      "title": "15 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 51,
+      "end_ms": 52
+    },
+    "18": {
+      "title": "العودة إلى ترجمة الخسروشاهي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 52,
+      "end_ms": 52
+    },
+    "19": {
+      "title": "16 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 52,
+      "end_ms": 53
+    },
+    "20": {
+      "title": "17 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 53,
+      "end_ms": 54
+    },
+    "21": {
+      "title": "18 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 54,
+      "end_ms": 54
+    },
+    "22": {
+      "title": "19 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 54,
+      "end_ms": 55
+    },
+    "23": {
+      "title": "20 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 55,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      2,
+      [1],
+      null
+    ],
+    [
+      3,
+      [2],
+      1
+    ],
+    [
+      4,
+      [3, 4],
+      2
+    ],
+    [
+      8,
+      [5],
+      4
+    ],
+    [
+      14,
+      [6, 7],
+      5
+    ],
+    [
+      15,
+      [8],
+      7
+    ],
+    [
+      21,
+      [9],
+      8
+    ],
+    [
+      23,
+      [10],
+      9
+    ],
+    [
+      24,
+      [11, 12],
+      10
+    ],
+    [
+      34,
+      [13],
+      12
+    ],
+    [
+      37,
+      [14],
+      13
+    ],
+    [
+      43,
+      [15],
+      14
+    ],
+    [
+      50,
+      [16],
+      15
+    ],
+    [
+      51,
+      [17],
+      16
+    ],
+    [
+      52,
+      [18, 19],
+      17
+    ],
+    [
+      53,
+      [20],
+      19
+    ],
+    [
+      54,
+      [21, 22],
+      20
+    ],
+    [
+      55,
+      [23],
+      22
+    ]
+  ],
+  "last_ms": 55
+}

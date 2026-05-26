@@ -1,0 +1,68 @@
+{
+  "filename": "0692TaqiDinIscirdi.FadailKitabJamic.Shamela0006028-ara1",
+  "sections": {
+    "1": {
+      "title": "رب يسر وأعن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 8
+    },
+    "2": {
+      "title": "- باب ذكر أحوال رواة الجامع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 10
+    },
+    "3": {
+      "title": "ذكر الرواة عن الجراحي لجامع الترمذي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 12
+    },
+    "4": {
+      "title": "ذكر الراوي عن المشايخ الأربعه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 13
+    },
+    "5": {
+      "title": "ذكر من روى لنا الكروخي سماعا وإجازة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      8,
+      [2],
+      1
+    ],
+    [
+      10,
+      [3],
+      2
+    ],
+    [
+      12,
+      [4],
+      3
+    ],
+    [
+      13,
+      [5],
+      4
+    ]
+  ],
+  "last_ms": 16
+}

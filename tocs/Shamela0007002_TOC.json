@@ -1,0 +1,56 @@
+{
+  "filename": "0577AbuBarakatAnbari.BulghaFiFarq.Shamela0007002-ara1",
+  "sections": {
+    "1": {
+      "title": "بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "2": {
+      "title": "-: \" اللهم اجعلها",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 5
+    },
+    "3": {
+      "title": "3 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "4": {
+      "title": ".....",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2],
+      1
+    ],
+    [
+      5,
+      [3],
+      2
+    ],
+    [
+      6,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 8
+}

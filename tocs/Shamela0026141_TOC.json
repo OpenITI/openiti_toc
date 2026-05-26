@@ -1,0 +1,87 @@
+{
+  "filename": "0795IbnRajabHanbali.HikamJadiraBiIdhaca.Shamela0026141-ara1",
+  "sections": {
+    "1": {
+      "title": "[مقدمة]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "فقوله صلى الله عليه وسلم: \" بعثت بالسيف \"",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "قوله صلى الله عليه وسلم: \" بين يدي الساعة \"",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "4": {
+      "title": "قوله صلى الله عليه وسلم: \" حتى يعبد الله وحده لا شريك له \"",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 10
+    },
+    "5": {
+      "title": "قوله صلى الله عليه وسلم: \" وجعل رزقي تحت ظل رمحي \"",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 13
+    },
+    "6": {
+      "title": "قوله صلى الله عليه وسلم: \" وجعل الذلة والصغار على من خالف أمري \"",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 18
+    },
+    "7": {
+      "title": "قوله صلى الله عليه وسلم: \" ومن تشبه بقوم فهو منهم \"",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      3,
+      [3],
+      2
+    ],
+    [
+      4,
+      [4],
+      3
+    ],
+    [
+      10,
+      [5],
+      4
+    ],
+    [
+      13,
+      [6],
+      5
+    ],
+    [
+      18,
+      [7],
+      6
+    ]
+  ],
+  "last_ms": 22
+}

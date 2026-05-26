@@ -1,0 +1,99 @@
+{
+  "filename": "0911Suyuti.DhaylTabaqatHuffaz.Shamela0007315-ara1",
+  "sections": {
+    "1": {
+      "title": "مقدمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 5
+    },
+    "2": {
+      "title": "مدخل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "3": {
+      "title": "الطبقة الثانية والعشرون، وعدتها 15",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 11
+    },
+    "4": {
+      "title": "الطبقة الثالثة والعشرون، وعدتهم 11",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 15
+    },
+    "5": {
+      "title": "الطبقة الرابعة والعشرون، وعدتها 9:",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 19
+    },
+    "6": {
+      "title": "الطبقة الخامسة والعشرون، وعدتها 11",
+      "level": 1,
+      "parent": null,
+      "start_ms": 19,
+      "end_ms": 23
+    },
+    "7": {
+      "title": "فهرس تراجم أعلام تذكرة الحفاظ، وذيول تذكرة الحفاظ",
+      "level": 1,
+      "parent": null,
+      "start_ms": 23,
+      "end_ms": 69
+    },
+    "8": {
+      "title": "فهرس المحتويات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 69,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      5,
+      [2, 3],
+      1
+    ],
+    [
+      11,
+      [4],
+      3
+    ],
+    [
+      15,
+      [5],
+      4
+    ],
+    [
+      19,
+      [6],
+      5
+    ],
+    [
+      23,
+      [7],
+      6
+    ],
+    [
+      69,
+      [8],
+      7
+    ]
+  ],
+  "last_ms": 70
+}

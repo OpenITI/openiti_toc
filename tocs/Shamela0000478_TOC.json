@@ -1,0 +1,79 @@
+{
+  "filename": "0767IbnCisaBalawi.TajMafriq.Shamela0000478-ara1",
+  "sections": {
+    "1": {
+      "title": "الجزء الأول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "وصلاة على سيدنا وعلى آله وصحبه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 133
+    },
+    "4": {
+      "title": "الجزء الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 133,
+      "end_ms": 133
+    },
+    "5": {
+      "title": "بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 133,
+      "end_ms": 133
+    },
+    "6": {
+      "title": "وصلاة على سيدنا محمد وعلى آله وصحبه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 133,
+      "end_ms": 238
+    },
+    "7": {
+      "title": "بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 238,
+      "end_ms": 238
+    },
+    "8": {
+      "title": "وصلى الله على سيدنا محمد وآله وصحبه وسلم تسليما",
+      "level": 1,
+      "parent": null,
+      "start_ms": 238,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3],
+      null
+    ],
+    [
+      133,
+      [4, 5, 6],
+      3
+    ],
+    [
+      238,
+      [7, 8],
+      6
+    ]
+  ],
+  "last_ms": 246
+}

@@ -1,0 +1,87 @@
+{
+  "filename": "0902Sakhawi.IltimasSacd.Shamela0005675-ara1",
+  "sections": {
+    "1": {
+      "title": "خطبة الكتاب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "2": {
+      "title": "آية في ms01 الوفاء بالوعد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "فأولها",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "4": {
+      "title": "وثانيها",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 9
+    },
+    "5": {
+      "title": "وثالثها",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 13
+    },
+    "6": {
+      "title": "ورابعها",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 22
+    },
+    "7": {
+      "title": "وخامسها",
+      "level": 1,
+      "parent": null,
+      "start_ms": 22,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2, 3],
+      null
+    ],
+    [
+      3,
+      [4],
+      3
+    ],
+    [
+      9,
+      [5],
+      4
+    ],
+    [
+      13,
+      [6],
+      5
+    ],
+    [
+      22,
+      [7],
+      6
+    ]
+  ],
+  "last_ms": 24
+}

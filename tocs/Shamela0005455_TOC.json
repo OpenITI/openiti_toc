@@ -1,0 +1,56 @@
+{
+  "filename": "1232IbnKhatibCumari.RawdaFayha.Shamela0005455-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "المقالة الأولى في ذكر النساء الصالحات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 159
+    },
+    "2": {
+      "title": "المقالة الثانية في ذكر النساء الطالحات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 159,
+      "end_ms": 204
+    },
+    "3": {
+      "title": "أذكياء النساء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 204,
+      "end_ms": 208
+    },
+    "4": {
+      "title": "منازل السعود في النكاح",
+      "level": 1,
+      "parent": null,
+      "start_ms": 208,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      159,
+      [2],
+      1
+    ],
+    [
+      204,
+      [3],
+      2
+    ],
+    [
+      208,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 210
+}

@@ -1,0 +1,92 @@
+{
+  "filename": "1345IbnJacfarKattani.RisalatMusalsalat.Shamela0011781-ara1",
+  "sections": {
+    "1": {
+      "title": "الحديث المسلسل بيوم العيد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 8
+    },
+    "2": {
+      "title": "الحديث المسلسل بقراءة سورة الصف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 9
+    },
+    "3": {
+      "title": "الحديث المسلسل بالفقهاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 10
+    },
+    "4": {
+      "title": "الحديث المسلسل بالمشابكة الباغوزارية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 12
+    },
+    "5": {
+      "title": "الحديث المسلسل بالمصافحة النبوية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 13
+    },
+    "6": {
+      "title": "الحديث المسلسل بالمصافحة المعمرية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 14
+    },
+    "7": {
+      "title": "الحديث المسلسل بالمصافحة الخضرية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      4,
+      [1],
+      null
+    ],
+    [
+      8,
+      [2],
+      1
+    ],
+    [
+      9,
+      [3],
+      2
+    ],
+    [
+      10,
+      [4],
+      3
+    ],
+    [
+      12,
+      [5],
+      4
+    ],
+    [
+      13,
+      [6],
+      5
+    ],
+    [
+      14,
+      [7],
+      6
+    ]
+  ],
+  "last_ms": 20
+}

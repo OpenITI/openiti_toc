@@ -1,0 +1,111 @@
+{
+  "filename": "0255Jahiz.Hijab.Shamela0010428BK14-ara1.mARkdown",
+  "sections": {
+    "1": {
+      "title": "الرسالة الثانية عشرة كتاب الحجاب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "ما جاء في الحجاب والنهي عنه",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "من عهد إلى حاجبه",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 4
+    },
+    "4": {
+      "title": "من ينبغي أن يتخذ للحجابة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 6
+    },
+    "5": {
+      "title": "محل الحاجب وموضعه ممن يحجبه",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "6": {
+      "title": "من عوتب على حجابه أو هجي به",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 7,
+      "end_ms": 20
+    },
+    "7": {
+      "title": "من عاتب على حجابه والإذن لغيره",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 20,
+      "end_ms": 22
+    },
+    "8": {
+      "title": "من مدح برفع الحجاب",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 22,
+      "end_ms": 23
+    },
+    "9": {
+      "title": "من أمل حجابه ولم يذم عليه",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 23,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3],
+      2
+    ],
+    [
+      4,
+      [4],
+      3
+    ],
+    [
+      6,
+      [5],
+      4
+    ],
+    [
+      7,
+      [6],
+      5
+    ],
+    [
+      20,
+      [7],
+      6
+    ],
+    [
+      22,
+      [8],
+      7
+    ],
+    [
+      23,
+      [9],
+      8
+    ]
+  ],
+  "last_ms": 24
+}

@@ -1,0 +1,56 @@
+{
+  "filename": "0233YahyaIbnMacin.MacrifatRijal.Shamela0000101-ara1",
+  "sections": {
+    "1": {
+      "title": "بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 25
+    },
+    "2": {
+      "title": "…",
+      "level": 1,
+      "parent": null,
+      "start_ms": 25,
+      "end_ms": 116
+    },
+    "3": {
+      "title": "…",
+      "level": 1,
+      "parent": null,
+      "start_ms": 116,
+      "end_ms": 149
+    },
+    "4": {
+      "title": "آخر كتاب معرفة الرجال عن يحيى بن معين وغيره من الشيوخ",
+      "level": 1,
+      "parent": null,
+      "start_ms": 149,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      25,
+      [2],
+      1
+    ],
+    [
+      116,
+      [3],
+      2
+    ],
+    [
+      149,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 149
+}

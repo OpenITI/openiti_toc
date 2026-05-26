@@ -1,0 +1,93 @@
+{
+  "filename": "0643DiyaDinMaqdisi.KhamsatAhadithMusalsalat.Shamela0029449-ara1",
+  "sections": {
+    "1": {
+      "title": "الحديث المسلسل بالأولية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "1 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "المسلسل بالدمشقيين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "4": {
+      "title": "2 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "5": {
+      "title": "المسلسل بإجابة الدعاء في الملتزم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "6": {
+      "title": "3 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "7": {
+      "title": "المسلسل بإني أحبك",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "8": {
+      "title": "4 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "9": {
+      "title": "المسلسل بيوم العيد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "10": {
+      "title": "5 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3, 4],
+      null
+    ],
+    [
+      3,
+      [5, 6],
+      4
+    ],
+    [
+      4,
+      [7, 8, 9, 10],
+      6
+    ]
+  ],
+  "last_ms": 6
+}

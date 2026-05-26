@@ -1,0 +1,264 @@
+{
+  "filename": "0825IbnQasimSabti.IkhtisarAkhbar.Shamela0036150-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "الأعيان المدفونون بسبتة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 6
+    },
+    "2": {
+      "title": "المساجد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 6
+    },
+    "3": {
+      "title": "الخزائن العلمية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "4": {
+      "title": "الربط والزوايا",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 8
+    },
+    "5": {
+      "title": "المحارس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 8
+    },
+    "6": {
+      "title": "الأزقة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 9
+    },
+    "7": {
+      "title": "الحمامات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 9
+    },
+    "8": {
+      "title": "الأسواق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 10
+    },
+    "9": {
+      "title": "الحوانيت",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 10
+    },
+    "10": {
+      "title": "التربيعات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 10
+    },
+    "11": {
+      "title": "المنجرات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 10
+    },
+    "12": {
+      "title": "الفنادق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 11
+    },
+    "13": {
+      "title": "الأفران",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 11
+    },
+    "14": {
+      "title": "السقايات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 11
+    },
+    "15": {
+      "title": "الميضآت",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 12
+    },
+    "16": {
+      "title": "ديار الإشراف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 12
+    },
+    "17": {
+      "title": "المطامير",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 12
+    },
+    "18": {
+      "title": "الطواحين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 12
+    },
+    "19": {
+      "title": "الأرباض",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 13
+    },
+    "20": {
+      "title": "الأبواب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 13
+    },
+    "21": {
+      "title": "الحفائر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 13
+    },
+    "22": {
+      "title": "المصليات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 14
+    },
+    "23": {
+      "title": "المرامي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 15
+    },
+    "24": {
+      "title": "المقاصر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 15
+    },
+    "25": {
+      "title": "المقبرات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 15
+    },
+    "26": {
+      "title": "المراسي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 16
+    },
+    "27": {
+      "title": "المضارب والمصايد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": 16
+    },
+    "28": {
+      "title": "قرية بنيونش",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      6,
+      [2, 3],
+      1
+    ],
+    [
+      7,
+      [4],
+      3
+    ],
+    [
+      8,
+      [5, 6],
+      4
+    ],
+    [
+      9,
+      [7, 8],
+      6
+    ],
+    [
+      10,
+      [9, 10, 11, 12],
+      8
+    ],
+    [
+      11,
+      [13, 14, 15],
+      12
+    ],
+    [
+      12,
+      [16, 17, 18, 19],
+      15
+    ],
+    [
+      13,
+      [20, 21, 22],
+      19
+    ],
+    [
+      14,
+      [23],
+      22
+    ],
+    [
+      15,
+      [24, 25, 26],
+      23
+    ],
+    [
+      16,
+      [27, 28],
+      26
+    ]
+  ],
+  "last_ms": 19
+}

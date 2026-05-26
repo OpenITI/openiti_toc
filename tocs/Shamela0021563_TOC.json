@@ -1,0 +1,123 @@
+{
+  "filename": "0597IbnJawzi.AkhbarNisa.Shamela0021563-ara1",
+  "sections": {
+    "1": {
+      "title": "[أخبار النساء]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "باب ما جاء في وصف النساء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 13
+    },
+    "3": {
+      "title": "باب يذكر فيه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 40
+    },
+    "4": {
+      "title": "باب ما جاء في الغيرة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 40,
+      "end_ms": 46
+    },
+    "5": {
+      "title": "باب تابع لما قبله",
+      "level": 1,
+      "parent": null,
+      "start_ms": 46,
+      "end_ms": 63
+    },
+    "6": {
+      "title": "باب ما جاء في وفاء النساء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 63,
+      "end_ms": 73
+    },
+    "7": {
+      "title": "باب ما جاء في غدر النساء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 73,
+      "end_ms": 87
+    },
+    "8": {
+      "title": "باب ما جاء في الزنا والتحذير من عواقبه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 87,
+      "end_ms": 125
+    },
+    "9": {
+      "title": "باب ما جاء في ما لا يحاط به",
+      "level": 1,
+      "parent": null,
+      "start_ms": 125,
+      "end_ms": 127
+    },
+    "10": {
+      "title": "باب ما جاء في خلق النساء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 127,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      13,
+      [3],
+      2
+    ],
+    [
+      40,
+      [4],
+      3
+    ],
+    [
+      46,
+      [5],
+      4
+    ],
+    [
+      63,
+      [6],
+      5
+    ],
+    [
+      73,
+      [7],
+      6
+    ],
+    [
+      87,
+      [8],
+      7
+    ],
+    [
+      125,
+      [9],
+      8
+    ],
+    [
+      127,
+      [10],
+      9
+    ]
+  ],
+  "last_ms": 140
+}

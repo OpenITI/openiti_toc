@@ -1,0 +1,44 @@
+{
+  "filename": "0581IbnTufayl.HayyIbnYaqzan.Shamela0009734-ara1",
+  "sections": {
+    "1": {
+      "title": "ذكر سلفنا الصالح - رضي الله عنهم -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "2": {
+      "title": "حي بن يقظان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 61
+    },
+    "3": {
+      "title": "والسلام عليك أيها الأخ المفترض إسعافه ورحمة الله وبركاته",
+      "level": 1,
+      "parent": null,
+      "start_ms": 61,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2],
+      1
+    ],
+    [
+      61,
+      [3],
+      2
+    ]
+  ],
+  "last_ms": 61
+}

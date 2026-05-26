@@ -1,0 +1,68 @@
+{
+  "filename": "0441IbnIflili.SharhShicrMutanabbi.Shamela0037327-ara1",
+  "sections": {
+    "1": {
+      "title": "الجزء الأول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 36
+    },
+    "2": {
+      "title": "الكافوريات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 36,
+      "end_ms": 128
+    },
+    "3": {
+      "title": "الجزء الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 128,
+      "end_ms": 178
+    },
+    "4": {
+      "title": "العميديات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 178,
+      "end_ms": 204
+    },
+    "5": {
+      "title": "العضديات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 204,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      36,
+      [2],
+      1
+    ],
+    [
+      128,
+      [3],
+      2
+    ],
+    [
+      178,
+      [4],
+      3
+    ],
+    [
+      204,
+      [5],
+      4
+    ]
+  ],
+  "last_ms": 262
+}

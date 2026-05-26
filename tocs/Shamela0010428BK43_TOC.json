@@ -1,0 +1,70 @@
+{
+  "filename": "0255Jahiz.TafdilNutq.Shamela0010428BK43-ara1.mARkdown",
+  "sections": {
+    "1": {
+      "title": "24- من رسالته في تفضيل النطق على الصمت",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "فصل من صدر رسالته في تفضيل النطق على الصمت",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "فصل منها",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "4": {
+      "title": "فصل منها",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "5": {
+      "title": "فصل منها في صفة من يقدر على الإبانة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "6": {
+      "title": "فصل منها",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 6,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      4,
+      [3],
+      2
+    ],
+    [
+      5,
+      [4, 5],
+      3
+    ],
+    [
+      6,
+      [6],
+      5
+    ]
+  ],
+  "last_ms": 6
+}

@@ -1,0 +1,140 @@
+{
+  "filename": "0466IbnSinanKhafaji.SirrFasaha.Shamela0011239-ara1",
+  "sections": {
+    "1": {
+      "title": "خطبة الكتاب وبيان الخفاجي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "2": {
+      "title": "فصل في الأصوات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 8
+    },
+    "3": {
+      "title": "فصل في الحروف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 15
+    },
+    "4": {
+      "title": "فصل في الكلام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 29
+    },
+    "5": {
+      "title": "فصل في اللغة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 29,
+      "end_ms": 37
+    },
+    "6": {
+      "title": "الكلام في الفصاحة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 37,
+      "end_ms": 55
+    },
+    "7": {
+      "title": "الكلام في الألفاظ المؤلفة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 55,
+      "end_ms": 151
+    },
+    "8": {
+      "title": "الكلام في المعاني مفردة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 151,
+      "end_ms": 175
+    },
+    "9": {
+      "title": "فصل في ذكر الأقوال الفاسدة في نقد الكلام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 175,
+      "end_ms": 182
+    },
+    "10": {
+      "title": "فصل في ذكر الفرق بين المنظوم والمنثور وما يقال في تفضيل أحدهما على الآخر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 182,
+      "end_ms": 184
+    },
+    "11": {
+      "title": "فصل فيما يحتاج مؤلف الكلام إلى معرفته",
+      "level": 1,
+      "parent": null,
+      "start_ms": 184,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2],
+      1
+    ],
+    [
+      8,
+      [3],
+      2
+    ],
+    [
+      15,
+      [4],
+      3
+    ],
+    [
+      29,
+      [5],
+      4
+    ],
+    [
+      37,
+      [6],
+      5
+    ],
+    [
+      55,
+      [7],
+      6
+    ],
+    [
+      151,
+      [8],
+      7
+    ],
+    [
+      175,
+      [9],
+      8
+    ],
+    [
+      182,
+      [10],
+      9
+    ],
+    [
+      184,
+      [11],
+      10
+    ]
+  ],
+  "last_ms": 186
+}

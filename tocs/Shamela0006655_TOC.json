@@ -1,0 +1,111 @@
+{
+  "filename": "0265SalihIbnHanbal.SiratImam.Shamela0006655-ara1",
+  "sections": {
+    "1": {
+      "title": "- تاريخ طلب أبي عبد الله الحديث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 7
+    },
+    "2": {
+      "title": "- ما ذكر في زهد ms06 أبي عبد الله رضي الله عنه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 9
+    },
+    "3": {
+      "title": "- ما ذكر من ورود كتاب المأمون في المحنة من طرسوس وبأشخاص أبي رحمه الله ومحمد بن نوح رضي الله عنهما",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 11
+    },
+    "4": {
+      "title": "- ذكر محنة أبي إسحاق المعتصم لأبي رحمة الله",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 27
+    },
+    "5": {
+      "title": "الجزء الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 27,
+      "end_ms": 34
+    },
+    "6": {
+      "title": "بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 34,
+      "end_ms": 34
+    },
+    "7": {
+      "title": "بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 34,
+      "end_ms": 38
+    },
+    "8": {
+      "title": "بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 38,
+      "end_ms": 42
+    },
+    "9": {
+      "title": "بعد عودة من المعسكر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 42,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      7,
+      [2],
+      null
+    ],
+    [
+      9,
+      [3],
+      2
+    ],
+    [
+      11,
+      [4],
+      3
+    ],
+    [
+      27,
+      [5],
+      4
+    ],
+    [
+      34,
+      [6, 7],
+      5
+    ],
+    [
+      38,
+      [8],
+      7
+    ],
+    [
+      42,
+      [9],
+      8
+    ]
+  ],
+  "last_ms": 45
+}

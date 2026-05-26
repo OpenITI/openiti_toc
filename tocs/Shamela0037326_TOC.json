@@ -1,0 +1,132 @@
+{
+  "filename": "1000CabdBariAshmawi.MatnCashmawiyya.Shamela0037326-ara1",
+  "sections": {
+    "1": {
+      "title": "باب نواقض الوضوء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "باب أقسام المياه التي يجوز منها الوضوء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "باب فرائض الغسل وسننه وفضائله",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "4": {
+      "title": "باب التيمم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "5": {
+      "title": "باب شروط الصلاة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "6": {
+      "title": "باب مندوبات الصلاة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "7": {
+      "title": "باب مفسدات الصلاة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "8": {
+      "title": "باب سجود السهو:",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "9": {
+      "title": "باب في الإمامة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 6
+    },
+    "10": {
+      "title": "باب صلاة الجمعة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 8
+    },
+    "11": {
+      "title": "باب صلاة الجنازة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 9
+    },
+    "12": {
+      "title": "باب الصيام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3, 4],
+      2
+    ],
+    [
+      3,
+      [5],
+      4
+    ],
+    [
+      4,
+      [6],
+      5
+    ],
+    [
+      5,
+      [7, 8],
+      6
+    ],
+    [
+      6,
+      [9, 10],
+      8
+    ],
+    [
+      8,
+      [11],
+      10
+    ],
+    [
+      9,
+      [12],
+      11
+    ]
+  ],
+  "last_ms": 11
+}

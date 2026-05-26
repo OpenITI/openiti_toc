@@ -1,0 +1,113 @@
+{
+  "filename": "0728IbnTaymiyya.QacidaJamicaFiTawhid.Shamela0011285-ara1",
+  "sections": {
+    "1": {
+      "title": "مقدمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 10
+    },
+    "2": {
+      "title": "فصل: في افتقار الإنسان إلى اختيار الله وتقديره",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 10
+    },
+    "3": {
+      "title": "فصل وهو مثل المقدمة لهذا الذي أمامه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 13
+    },
+    "4": {
+      "title": "فصل في الفاتحة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 13
+    },
+    "5": {
+      "title": "فصل في الفاتحة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 18
+    },
+    "6": {
+      "title": "فصل [في معنى الحمد لله رب العالمين]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": 18
+    },
+    "7": {
+      "title": "فصل في إقرار الناس بتوحيد الربوبية أسبق وأكثر من الإقرار بتوحيد الإلهية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": 19
+    },
+    "8": {
+      "title": "فصل الإنسان وجميع المخلوقات عبيد الله",
+      "level": 1,
+      "parent": null,
+      "start_ms": 19,
+      "end_ms": 28
+    },
+    "9": {
+      "title": "فصل العبد وكل مخلوق فقير إلى الله",
+      "level": 1,
+      "parent": null,
+      "start_ms": 28,
+      "end_ms": 31
+    },
+    "10": {
+      "title": "فصل العبد فقير إلى الله فيما يصلحه ويقصده",
+      "level": 1,
+      "parent": null,
+      "start_ms": 31,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      10,
+      [2, 3],
+      1
+    ],
+    [
+      13,
+      [4, 5],
+      3
+    ],
+    [
+      18,
+      [6, 7],
+      5
+    ],
+    [
+      19,
+      [8],
+      7
+    ],
+    [
+      28,
+      [9],
+      8
+    ],
+    [
+      31,
+      [10],
+      9
+    ]
+  ],
+  "last_ms": 32
+}

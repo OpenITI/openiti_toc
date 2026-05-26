@@ -1,0 +1,135 @@
+{
+  "filename": "0658IbnAbbar.HullaSiyara.Shamela0006630-ara1.mARkdown",
+  "sections": {
+    "1": {
+      "title": "المائة الأولى من الهجرة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 16
+    },
+    "2": {
+      "title": "المائة الثانية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": 55
+    },
+    "3": {
+      "title": "المائة الثالثة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 55,
+      "end_ms": 147
+    },
+    "4": {
+      "title": "المائة الخامسة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 147,
+      "end_ms": 235
+    },
+    "5": {
+      "title": "المائة السادسة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 235,
+      "end_ms": 273
+    },
+    "6": {
+      "title": "المائة السابعة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 273,
+      "end_ms": 292
+    },
+    "7": {
+      "title": "باب في الذين ما عثرت على أشعارهم فاقتصرت على نخب من أخبارهم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 292,
+      "end_ms": null
+    },
+    "8": {
+      "title": "المائة الأولى من الهجرة",
+      "level": 2,
+      "parent": 7,
+      "start_ms": 292,
+      "end_ms": 298
+    },
+    "9": {
+      "title": "المائة الثانية",
+      "level": 2,
+      "parent": 7,
+      "start_ms": 298,
+      "end_ms": 312
+    },
+    "10": {
+      "title": "المائة الثالثة",
+      "level": 2,
+      "parent": 7,
+      "start_ms": 312,
+      "end_ms": 322
+    },
+    "11": {
+      "title": "المائة الرابعة",
+      "level": 2,
+      "parent": 7,
+      "start_ms": 322,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      5,
+      [1],
+      null
+    ],
+    [
+      16,
+      [2],
+      1
+    ],
+    [
+      55,
+      [3],
+      2
+    ],
+    [
+      147,
+      [4],
+      3
+    ],
+    [
+      235,
+      [5],
+      4
+    ],
+    [
+      273,
+      [6],
+      5
+    ],
+    [
+      292,
+      [7, 8],
+      6
+    ],
+    [
+      298,
+      [9],
+      8
+    ],
+    [
+      312,
+      [10],
+      9
+    ],
+    [
+      322,
+      [11],
+      10
+    ]
+  ],
+  "last_ms": 326
+}

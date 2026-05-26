@@ -1,0 +1,123 @@
+{
+  "filename": "0859ShamsDinNawaji.ShifaFiBadicIktifa.Shamela0036073-ara1.mARkdown",
+  "sections": {
+    "1": {
+      "title": "[خطبة المؤلف]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "الباب الأول: في حده ورسمه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "الباب الثاني: في وقوعه في القرآن الكريم وحديث نبيه عليه أشرف الصلاة وأفضل التسليم وكلام العرب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 9
+    },
+    "4": {
+      "title": "الباب الثالث: في أقسامه وأمثلته",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": null
+    },
+    "5": {
+      "title": "القسم الأول",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 10,
+      "end_ms": 23
+    },
+    "6": {
+      "title": "القسم الثاني",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 23,
+      "end_ms": 27
+    },
+    "7": {
+      "title": "القسم الثالث",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 27,
+      "end_ms": 28
+    },
+    "8": {
+      "title": "القسم الرابع",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 28,
+      "end_ms": 29
+    },
+    "9": {
+      "title": "القسم الخامس",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 29,
+      "end_ms": 31
+    },
+    "10": {
+      "title": "القسم السادس",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 31,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      3,
+      [3],
+      2
+    ],
+    [
+      9,
+      [4],
+      3
+    ],
+    [
+      10,
+      [5],
+      4
+    ],
+    [
+      23,
+      [6],
+      5
+    ],
+    [
+      27,
+      [7],
+      6
+    ],
+    [
+      28,
+      [8],
+      7
+    ],
+    [
+      29,
+      [9],
+      8
+    ],
+    [
+      31,
+      [10],
+      9
+    ]
+  ],
+  "last_ms": 34
+}

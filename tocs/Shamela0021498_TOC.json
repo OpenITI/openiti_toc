@@ -1,0 +1,82 @@
+{
+  "filename": "1073YusufBadiciDimashqi.SubhMunabbi.Shamela0021498-ara1",
+  "sections": {
+    "1": {
+      "title": "نص الكتاب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "4": {
+      "title": "مقدمة المؤلف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "5": {
+      "title": "أخبار المتنبي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 145
+    },
+    "6": {
+      "title": "عداوة الشعراء بئس المقتنى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 145,
+      "end_ms": 215
+    },
+    "7": {
+      "title": "خاتمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 215,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      3,
+      [3, 4],
+      2
+    ],
+    [
+      4,
+      [5],
+      4
+    ],
+    [
+      145,
+      [6],
+      5
+    ],
+    [
+      215,
+      [7],
+      6
+    ]
+  ],
+  "last_ms": 220
+}

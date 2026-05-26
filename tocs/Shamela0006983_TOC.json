@@ -1,0 +1,51 @@
+{
+  "filename": "0458IbnSidaMursi.CadadFiLugha.Shamela0006983-ara1",
+  "sections": {
+    "1": {
+      "title": "يرفلن في ملاحف جياد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": 35
+    },
+    "2": {
+      "title": "ذكر العشير وما جاء على وزنه من أسماء الكسور",
+      "level": 1,
+      "parent": null,
+      "start_ms": 35,
+      "end_ms": 35
+    },
+    "3": {
+      "title": "ومن الأسماء الواقعة على الأعداد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 35,
+      "end_ms": 36
+    },
+    "4": {
+      "title": "المقادير والألفاظ الدالة على الأعداد من غير ما تقدم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 36,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      16,
+      [1],
+      null
+    ],
+    [
+      35,
+      [2, 3],
+      1
+    ],
+    [
+      36,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 39
+}

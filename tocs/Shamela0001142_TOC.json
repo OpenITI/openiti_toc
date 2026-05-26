@@ -1,0 +1,188 @@
+{
+  "filename": "0623AbuQasimRafici.SharhKabir.Shamela0001142-ara1",
+  "sections": {
+    "1": {
+      "title": "كتاب الطهارة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 1252
+    },
+    "2": {
+      "title": "[كتاب الصيام]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1252,
+      "end_ms": 1626
+    },
+    "3": {
+      "title": "(كتاب البيع)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1626,
+      "end_ms": 1936
+    },
+    "4": {
+      "title": "كتاب السلم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1936,
+      "end_ms": 1979
+    },
+    "5": {
+      "title": "(كتاب الرهن)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1979,
+      "end_ms": 2150
+    },
+    "6": {
+      "title": "(كتاب الحجر)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2150,
+      "end_ms": 2166
+    },
+    "7": {
+      "title": "(كتاب الصلح)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2166,
+      "end_ms": 2207
+    },
+    "8": {
+      "title": "(كتاب الحوالة)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2207,
+      "end_ms": 2272
+    },
+    "9": {
+      "title": "(كتاب الشركة)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2272,
+      "end_ms": 2293
+    },
+    "10": {
+      "title": "(كتاب الوكالة)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2293,
+      "end_ms": 2359
+    },
+    "11": {
+      "title": "(كتاب الاقرار.)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2359,
+      "end_ms": 2453
+    },
+    "12": {
+      "title": "(كتاب العارية)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2453,
+      "end_ms": 2475
+    },
+    "13": {
+      "title": "(كتاب الغصب)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2475,
+      "end_ms": 2560
+    },
+    "14": {
+      "title": "(كتاب الشفعة)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2560,
+      "end_ms": 2675
+    },
+    "15": {
+      "title": "(كتاب المساقاة)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2675,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      2,
+      [1],
+      null
+    ],
+    [
+      1252,
+      [2],
+      1
+    ],
+    [
+      1626,
+      [3],
+      2
+    ],
+    [
+      1936,
+      [4],
+      3
+    ],
+    [
+      1979,
+      [5],
+      4
+    ],
+    [
+      2150,
+      [6],
+      5
+    ],
+    [
+      2166,
+      [7],
+      6
+    ],
+    [
+      2207,
+      [8],
+      7
+    ],
+    [
+      2272,
+      [9],
+      8
+    ],
+    [
+      2293,
+      [10],
+      9
+    ],
+    [
+      2359,
+      [11],
+      10
+    ],
+    [
+      2453,
+      [12],
+      11
+    ],
+    [
+      2475,
+      [13],
+      12
+    ],
+    [
+      2560,
+      [14],
+      13
+    ],
+    [
+      2675,
+      [15],
+      14
+    ]
+  ],
+  "last_ms": 2745
+}

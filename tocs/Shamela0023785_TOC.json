@@ -1,0 +1,158 @@
+{
+  "filename": "0276IbnQutaybaDinawari.ShicrWaShucara.Shamela0023785-ara1.mARkdown",
+  "sections": {
+    "1": {
+      "title": "مقدمة المؤلف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "2": {
+      "title": "أقسام الشعر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 15
+    },
+    "3": {
+      "title": "[ألف- ضرب منه حسن لفظه وجاد معناه]",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "4": {
+      "title": "[ب- ضرب منه حسن لفظه وحلا]",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "5": {
+      "title": "[ج- ضرب منه جاد معناه وقصرت ألفاظه عنه]",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "6": {
+      "title": "[د- ضرب منه تأخر معناه وتأخر لفظه]",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 5,
+      "end_ms": 15
+    },
+    "7": {
+      "title": "عيوب الشعر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 18
+    },
+    "8": {
+      "title": "الإقواء والإكفاء",
+      "level": 2,
+      "parent": 7,
+      "start_ms": 15,
+      "end_ms": 16
+    },
+    "9": {
+      "title": "السناد",
+      "level": 2,
+      "parent": 7,
+      "start_ms": 16,
+      "end_ms": 16
+    },
+    "10": {
+      "title": "الإيطاء",
+      "level": 2,
+      "parent": 7,
+      "start_ms": 16,
+      "end_ms": 16
+    },
+    "11": {
+      "title": "الإجازة:",
+      "level": 2,
+      "parent": 7,
+      "start_ms": 16,
+      "end_ms": 16
+    },
+    "12": {
+      "title": "العيب فى الإعراب",
+      "level": 2,
+      "parent": 7,
+      "start_ms": 16,
+      "end_ms": 18
+    },
+    "13": {
+      "title": "أوائل الشعراء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": 19
+    },
+    "14": {
+      "title": "[تراجم الشعراء]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 19,
+      "end_ms": null
+    },
+    "15": {
+      "title": "شعراء هذيل",
+      "level": 2,
+      "parent": 14,
+      "start_ms": 215,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      3,
+      [2, 3],
+      1
+    ],
+    [
+      4,
+      [4, 5],
+      3
+    ],
+    [
+      5,
+      [6],
+      5
+    ],
+    [
+      15,
+      [7, 8],
+      6
+    ],
+    [
+      16,
+      [9, 10, 11, 12],
+      8
+    ],
+    [
+      18,
+      [13],
+      12
+    ],
+    [
+      19,
+      [14],
+      13
+    ],
+    [
+      215,
+      [15],
+      14
+    ]
+  ],
+  "last_ms": 294
+}

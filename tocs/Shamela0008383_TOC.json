@@ -1,0 +1,194 @@
+{
+  "filename": "1206IbnCabdWahhab.KitabTahara.Shamela0008383-ara1",
+  "sections": {
+    "1": {
+      "title": "مقدمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "باب أحكام المياه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "باب الآنية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "4": {
+      "title": "باب الاستنجاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 6
+    },
+    "5": {
+      "title": "باب السواك وسنن الوضوء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "6": {
+      "title": "باب فروض الوضوء وصفته",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "7": {
+      "title": "1-",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "8": {
+      "title": "2-",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "9": {
+      "title": "3-",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "10": {
+      "title": "4-",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "11": {
+      "title": "5-",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 9
+    },
+    "12": {
+      "title": "باب المسح على الخفين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 11
+    },
+    "13": {
+      "title": "باب نواقض الوضوء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 12
+    },
+    "14": {
+      "title": "باب الغسل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 14
+    },
+    "15": {
+      "title": "باب التيمم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 15
+    },
+    "16": {
+      "title": "باب إزالة النجاسة الحكمية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 16
+    },
+    "17": {
+      "title": "باب الحيض",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": 19
+    },
+    "18": {
+      "title": "باب النفاس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 19,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      3,
+      [3],
+      2
+    ],
+    [
+      4,
+      [4],
+      3
+    ],
+    [
+      6,
+      [5],
+      4
+    ],
+    [
+      7,
+      [6, 7, 8, 9, 10, 11],
+      5
+    ],
+    [
+      9,
+      [12],
+      11
+    ],
+    [
+      11,
+      [13],
+      12
+    ],
+    [
+      12,
+      [14],
+      13
+    ],
+    [
+      14,
+      [15],
+      14
+    ],
+    [
+      15,
+      [16],
+      15
+    ],
+    [
+      16,
+      [17],
+      16
+    ],
+    [
+      19,
+      [18],
+      17
+    ]
+  ],
+  "last_ms": 19
+}

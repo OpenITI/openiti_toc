@@ -1,0 +1,75 @@
+{
+  "filename": "1170IbnMuhammadMahalliMisri.MazidNicma.Shamela0011577-ara1",
+  "sections": {
+    "1": {
+      "title": "القسم التحقيق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "كتاب الطهارة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 12
+    },
+    "3": {
+      "title": "كتاب الصلاة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 31
+    },
+    "4": {
+      "title": "كتاب الزكاة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 31,
+      "end_ms": 39
+    },
+    "5": {
+      "title": "كتاب الصيام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 39,
+      "end_ms": 45
+    },
+    "6": {
+      "title": "كتاب الحج والعمرة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 45,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      12,
+      [3],
+      2
+    ],
+    [
+      31,
+      [4],
+      3
+    ],
+    [
+      39,
+      [5],
+      4
+    ],
+    [
+      45,
+      [6],
+      5
+    ]
+  ],
+  "last_ms": 55
+}

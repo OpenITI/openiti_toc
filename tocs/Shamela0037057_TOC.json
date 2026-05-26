@@ -1,0 +1,106 @@
+{
+  "filename": "0644IbnCaliCizzDinMuhallabi.MaakhidhCalaShurrah.Shamela0037057-ara1",
+  "sections": {
+    "1": {
+      "title": "الجزء الأول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 116
+    },
+    "2": {
+      "title": "الجزء الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 116,
+      "end_ms": 215
+    },
+    "3": {
+      "title": "الجزء الثالث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 215,
+      "end_ms": 230
+    },
+    "4": {
+      "title": "..........",
+      "level": 1,
+      "parent": null,
+      "start_ms": 230,
+      "end_ms": 230
+    },
+    "5": {
+      "title": "............",
+      "level": 1,
+      "parent": null,
+      "start_ms": 230,
+      "end_ms": 280
+    },
+    "6": {
+      "title": "الجزء الرابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 280,
+      "end_ms": 313
+    },
+    "7": {
+      "title": "الجزء الخامس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 313,
+      "end_ms": 316
+    },
+    "8": {
+      "title": ".........",
+      "level": 1,
+      "parent": null,
+      "start_ms": 316,
+      "end_ms": 316
+    },
+    "9": {
+      "title": ".........",
+      "level": 1,
+      "parent": null,
+      "start_ms": 316,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      116,
+      [2],
+      1
+    ],
+    [
+      215,
+      [3],
+      2
+    ],
+    [
+      230,
+      [4, 5],
+      3
+    ],
+    [
+      280,
+      [6],
+      5
+    ],
+    [
+      313,
+      [7],
+      6
+    ],
+    [
+      316,
+      [8, 9],
+      7
+    ]
+  ],
+  "last_ms": 469
+}

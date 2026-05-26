@@ -1,0 +1,128 @@
+{
+  "filename": "0854IbnCarabshah.MarzubanNamah.Shamela0008305-ara1",
+  "sections": {
+    "1": {
+      "title": "مقدمة المترجم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "2": {
+      "title": "الباب الأول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 18
+    },
+    "3": {
+      "title": "الباب الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": 32
+    },
+    "4": {
+      "title": "الباب الثالث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 32,
+      "end_ms": 45
+    },
+    "5": {
+      "title": "الباب الرابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 45,
+      "end_ms": 61
+    },
+    "6": {
+      "title": "الباب الخامس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 61,
+      "end_ms": 80
+    },
+    "7": {
+      "title": "الباب السادس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 80,
+      "end_ms": 104
+    },
+    "8": {
+      "title": "الباب السابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 104,
+      "end_ms": 135
+    },
+    "9": {
+      "title": "الباب الثامن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 135,
+      "end_ms": 140
+    },
+    "10": {
+      "title": "الباب التاسع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 140,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      3,
+      [2],
+      1
+    ],
+    [
+      18,
+      [3],
+      2
+    ],
+    [
+      32,
+      [4],
+      3
+    ],
+    [
+      45,
+      [5],
+      4
+    ],
+    [
+      61,
+      [6],
+      5
+    ],
+    [
+      80,
+      [7],
+      6
+    ],
+    [
+      104,
+      [8],
+      7
+    ],
+    [
+      135,
+      [9],
+      8
+    ],
+    [
+      140,
+      [10],
+      9
+    ]
+  ],
+  "last_ms": 145
+}

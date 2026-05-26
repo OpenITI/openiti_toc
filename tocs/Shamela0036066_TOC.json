@@ -1,0 +1,94 @@
+{
+  "filename": "1270ShihabDinAlusi.AjwibaCiraqiyya.Shamela0036066-ara1",
+  "sections": {
+    "1": {
+      "title": "المقدمة في تعريف الصحابي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 6
+    },
+    "2": {
+      "title": "الفصل الأول ففي بيان أن الصحابة عدول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 21
+    },
+    "3": {
+      "title": "الفصل الثاني فيما شجر بين الصحابة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 21,
+      "end_ms": 21
+    },
+    "4": {
+      "title": "وقعة الجمل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 21,
+      "end_ms": 21
+    },
+    "5": {
+      "title": "وقعة صفين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 21,
+      "end_ms": 25
+    },
+    "6": {
+      "title": "وقعة صفين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 25,
+      "end_ms": 30
+    },
+    "7": {
+      "title": "الفصل الثالث في بيان حكم سب الصحابة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 30,
+      "end_ms": 40
+    },
+    "8": {
+      "title": "الخاتمة في تفاوت الصحابة في الفضل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 40,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      3,
+      [1],
+      null
+    ],
+    [
+      6,
+      [2],
+      1
+    ],
+    [
+      21,
+      [3, 4, 5],
+      2
+    ],
+    [
+      25,
+      [6],
+      5
+    ],
+    [
+      30,
+      [7],
+      6
+    ],
+    [
+      40,
+      [8],
+      7
+    ]
+  ],
+  "last_ms": 44
+}

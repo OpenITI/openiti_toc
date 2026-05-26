@@ -1,0 +1,44 @@
+{
+  "filename": "1126MuhammadHanbali.Mashyakha.Shamela0000202-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "ملحق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 39,
+      "end_ms": 47
+    },
+    "2": {
+      "title": "ترجمة صاحب المشيخة بخط تلميذه ناسخ الكتاب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 47,
+      "end_ms": 48
+    },
+    "3": {
+      "title": "سند صاحب المشيخة بمؤلفات ابن عربي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 48,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      39,
+      [1],
+      null
+    ],
+    [
+      47,
+      [2],
+      1
+    ],
+    [
+      48,
+      [3],
+      2
+    ]
+  ],
+  "last_ms": 49
+}

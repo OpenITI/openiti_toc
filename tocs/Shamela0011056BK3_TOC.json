@@ -1,0 +1,51 @@
+{
+  "filename": "1302IbrahimAhdab.DhaylThamaratAwraq.Shamela0011056BK3-ara1",
+  "sections": {
+    "1": {
+      "title": "بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 19
+    },
+    "2": {
+      "title": "أمنية أحمقين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 19,
+      "end_ms": 19
+    },
+    "3": {
+      "title": "بكاء زين العابدين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 19,
+      "end_ms": 41
+    },
+    "4": {
+      "title": "قصة أحمد اليتيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 41,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      19,
+      [2, 3],
+      1
+    ],
+    [
+      41,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 86
+}

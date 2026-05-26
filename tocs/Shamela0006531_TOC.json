@@ -1,0 +1,111 @@
+{
+  "filename": "0748Dhahabi.MuntaqaMinMinhajIctidal.Shamela0006531-ara1",
+  "sections": {
+    "1": {
+      "title": "بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "وبه نستعين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 7
+    },
+    "3": {
+      "title": "الفصل الأول في نقل المذاهب في هذه المسألة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 32
+    },
+    "4": {
+      "title": "الفصل الثاني في المذهب الواجب الإتباع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 32,
+      "end_ms": 127
+    },
+    "5": {
+      "title": "روى جدنا عن جبرئيل عن الباري",
+      "level": 1,
+      "parent": null,
+      "start_ms": 127,
+      "end_ms": 192
+    },
+    "6": {
+      "title": "الفصل الثالث في إمامة علي رضي الله عنه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 192,
+      "end_ms": 378
+    },
+    "7": {
+      "title": "الفصل الرابع في إمامة باقي الإثني عشر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 378,
+      "end_ms": 380
+    },
+    "8": {
+      "title": "الفصل الخامس تخرصات الشيعة في إمامة الصديق والفاروق وذي النورين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 380,
+      "end_ms": 387
+    },
+    "9": {
+      "title": "الفصل السادس في الحجج علي إمامة أبي بكر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 387,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      7,
+      [3],
+      2
+    ],
+    [
+      32,
+      [4],
+      3
+    ],
+    [
+      127,
+      [5],
+      4
+    ],
+    [
+      192,
+      [6],
+      5
+    ],
+    [
+      378,
+      [7],
+      6
+    ],
+    [
+      380,
+      [8],
+      7
+    ],
+    [
+      387,
+      [9],
+      8
+    ]
+  ],
+  "last_ms": 405
+}

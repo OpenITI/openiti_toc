@@ -1,0 +1,125 @@
+{
+  "filename": "0255Jahiz.Macrifa.Shamela0010428BK32-ara1.mARkdown",
+  "sections": {
+    "1": {
+      "title": "13- من كتابه في المسائل والجوابات في المعرفة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "فصل من صدر كتاب المسائل والجوابات في المعرفة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "فصل منه",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "4": {
+      "title": "فصل منه",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "5": {
+      "title": "فصل منه",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "6": {
+      "title": "فصل منه",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "7": {
+      "title": "فصل من رده على أبي إسحاق النظام وأصحابه",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 6
+    },
+    "8": {
+      "title": "فصل من هذا الكتاب في الجوابات",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "9": {
+      "title": "فصل في جواب من يسأل عن المعرفة باضطرار هي أم باكتساب",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 7,
+      "end_ms": 9
+    },
+    "10": {
+      "title": "فصل منه في هذا المعنى",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 9,
+      "end_ms": 10
+    },
+    "11": {
+      "title": "فصل منه",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 10,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3],
+      2
+    ],
+    [
+      3,
+      [4, 5, 6],
+      3
+    ],
+    [
+      4,
+      [7],
+      6
+    ],
+    [
+      6,
+      [8],
+      7
+    ],
+    [
+      7,
+      [9],
+      8
+    ],
+    [
+      9,
+      [10],
+      9
+    ],
+    [
+      10,
+      [11],
+      10
+    ]
+  ],
+  "last_ms": 10
+}

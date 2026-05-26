@@ -1,0 +1,260 @@
+{
+  "filename": "0346Istakhri.MasalikWaMamalik.Shamela0010791-ara2",
+  "sections": {
+    "1": {
+      "title": "[المقدمة]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 9
+    },
+    "2": {
+      "title": "ديار العرب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 21
+    },
+    "3": {
+      "title": "بحر فارس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 21,
+      "end_ms": 26
+    },
+    "4": {
+      "title": "ديار المغرب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 26,
+      "end_ms": 33
+    },
+    "5": {
+      "title": "ديار مصر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 33,
+      "end_ms": 38
+    },
+    "6": {
+      "title": "ارض الشام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 38,
+      "end_ms": 47
+    },
+    "7": {
+      "title": "بحر الروم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 47,
+      "end_ms": 49
+    },
+    "8": {
+      "title": "ارض الجزيرة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 49,
+      "end_ms": 53
+    },
+    "9": {
+      "title": "العراق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 53,
+      "end_ms": 59
+    },
+    "10": {
+      "title": "خوزستان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 59,
+      "end_ms": 64
+    },
+    "11": {
+      "title": "بلاد فارس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 64,
+      "end_ms": 98
+    },
+    "12": {
+      "title": "بلاد كرمان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 98,
+      "end_ms": 103
+    },
+    "13": {
+      "title": "بلاد السند",
+      "level": 1,
+      "parent": null,
+      "start_ms": 103,
+      "end_ms": 108
+    },
+    "14": {
+      "title": "ارمينية والران واذربيجان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 108,
+      "end_ms": 113
+    },
+    "15": {
+      "title": "الجبال",
+      "level": 1,
+      "parent": null,
+      "start_ms": 113,
+      "end_ms": 118
+    },
+    "16": {
+      "title": "الديلم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 118,
+      "end_ms": 124
+    },
+    "17": {
+      "title": "بحر الخزر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 124,
+      "end_ms": 130
+    },
+    "18": {
+      "title": "مفازة خراسان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 130,
+      "end_ms": 136
+    },
+    "19": {
+      "title": "سجستان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 136,
+      "end_ms": 143
+    },
+    "20": {
+      "title": "ذكر خراسان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 143,
+      "end_ms": 161
+    },
+    "21": {
+      "title": "ما وراء النهر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 161,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      9,
+      [2],
+      1
+    ],
+    [
+      21,
+      [3],
+      2
+    ],
+    [
+      26,
+      [4],
+      3
+    ],
+    [
+      33,
+      [5],
+      4
+    ],
+    [
+      38,
+      [6],
+      5
+    ],
+    [
+      47,
+      [7],
+      6
+    ],
+    [
+      49,
+      [8],
+      7
+    ],
+    [
+      53,
+      [9],
+      8
+    ],
+    [
+      59,
+      [10],
+      9
+    ],
+    [
+      64,
+      [11],
+      10
+    ],
+    [
+      98,
+      [12],
+      11
+    ],
+    [
+      103,
+      [13],
+      12
+    ],
+    [
+      108,
+      [14],
+      13
+    ],
+    [
+      113,
+      [15],
+      14
+    ],
+    [
+      118,
+      [16],
+      15
+    ],
+    [
+      124,
+      [17],
+      16
+    ],
+    [
+      130,
+      [18],
+      17
+    ],
+    [
+      136,
+      [19],
+      18
+    ],
+    [
+      143,
+      [20],
+      19
+    ],
+    [
+      161,
+      [21],
+      20
+    ]
+  ],
+  "last_ms": 191
+}

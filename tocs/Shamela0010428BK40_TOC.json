@@ -1,0 +1,84 @@
+{
+  "filename": "0255Jahiz.MawaddaWaKhulta.Shamela0010428BK40-ara1.mARkdown",
+  "sections": {
+    "1": {
+      "title": "21- من رسالته في المودة والخلطة إلى أبي الفرج",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "فصل من رسالته إلى أبي الفرج الكاتب في المودة والخلطة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "فصل منه",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "4": {
+      "title": "فصل منها",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "5": {
+      "title": "فصل منها",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "6": {
+      "title": "فصل منها",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "7": {
+      "title": "فصل منها",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "8": {
+      "title": "فصل منها",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 5,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      3,
+      [3],
+      2
+    ],
+    [
+      4,
+      [4, 5, 6, 7],
+      3
+    ],
+    [
+      5,
+      [8],
+      7
+    ]
+  ],
+  "last_ms": 6
+}

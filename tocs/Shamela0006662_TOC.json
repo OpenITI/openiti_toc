@@ -1,0 +1,58 @@
+{
+  "filename": "1200IbnAhmadSafiDinBukhari.TaqrizLiIbnHajarCasqalani.Shamela0006662-ara1",
+  "sections": {
+    "1": {
+      "title": "نص الرسالة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "سؤال وجوابه للعلامة ابن حجر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "4": {
+      "title": "وصورة الجواب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "5": {
+      "title": "كتبه صالح بن عمر البلقيني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      3,
+      [3, 4],
+      2
+    ],
+    [
+      4,
+      [5],
+      4
+    ]
+  ],
+  "last_ms": 5
+}

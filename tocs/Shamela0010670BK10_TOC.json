@@ -1,0 +1,84 @@
+{
+  "filename": "0255Jahiz.Futya.Shamela0010670BK10-ara2.mARkdown",
+  "sections": {
+    "1": {
+      "title": "10- رسالة الفتيا",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "[1- مدخل في مدح احمد بن أبي دؤاد]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "[2- صناعة الجاحظ]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "4": {
+      "title": "[3- التعريف بكتاب أصول الفتيا]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "5": {
+      "title": "[4- الكتاب افضل من صاحبه]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "6": {
+      "title": "[5- يجب ms2 على العالم اظهار ما عنده]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "7": {
+      "title": "[6- غرض الجاحظ من هذه الرسالة مساعدة القاضي وثوابه]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "8": {
+      "title": "[7- لدى الجاحظ كتب أخرى]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3, 4],
+      null
+    ],
+    [
+      2,
+      [5],
+      4
+    ],
+    [
+      3,
+      [6, 7],
+      null
+    ],
+    [
+      4,
+      [8],
+      7
+    ]
+  ],
+  "last_ms": 5
+}

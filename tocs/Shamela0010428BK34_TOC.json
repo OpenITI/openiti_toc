@@ -1,0 +1,79 @@
+{
+  "filename": "0255Jahiz.JaddWaHazl.Shamela0010428BK34-ara1.mARkdown",
+  "sections": {
+    "1": {
+      "title": "15 - من رسالته في الجد والهزل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "فصل من صدر رسالته إلى محمد بن عبد الملك في الجد والهزل",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "فصل منه",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "4": {
+      "title": "فصل منها",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "5": {
+      "title": "فصل منها",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "6": {
+      "title": "فصل منها",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "7": {
+      "title": "فصل منها",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "8": {
+      "title": "فصل منها",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3],
+      null
+    ],
+    [
+      2,
+      [4, 5, 6],
+      3
+    ],
+    [
+      3,
+      [7, 8],
+      6
+    ]
+  ],
+  "last_ms": 4
+}

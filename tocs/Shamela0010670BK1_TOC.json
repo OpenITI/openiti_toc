@@ -1,0 +1,154 @@
+{
+  "filename": "0255Jahiz.KitmanSirr.Shamela0010670BK1-ara2.mARkdown",
+  "sections": {
+    "1": {
+      "title": "[1- رسالة كتمان السر وحفظ اللسان]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "[1- موضوع الكتاب]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "[2- العقل واللسان]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "4": {
+      "title": "[3- حب الاخبار]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "5": {
+      "title": "[4- مساوىء إفشاء السر]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 7
+    },
+    "6": {
+      "title": "[5- من يذيع الاسرار]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 7,
+      "end_ms": 8
+    },
+    "7": {
+      "title": "[6- كل ممنوع مرغوب]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 8,
+      "end_ms": 10
+    },
+    "8": {
+      "title": "[7- اكثر الأمور عرضة لافشاء السر]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 10,
+      "end_ms": 11
+    },
+    "9": {
+      "title": "[8- الغيبة]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 11,
+      "end_ms": 12
+    },
+    "10": {
+      "title": "[9- العدل]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 12,
+      "end_ms": 13
+    },
+    "11": {
+      "title": "[10- الفضول]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 13,
+      "end_ms": 14
+    },
+    "12": {
+      "title": "[11- عودة الى الغيبة]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 14,
+      "end_ms": 15
+    },
+    "13": {
+      "title": "[12- حفظ اللسان]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 15,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3],
+      null
+    ],
+    [
+      3,
+      [4],
+      3
+    ],
+    [
+      4,
+      [5],
+      4
+    ],
+    [
+      7,
+      [6],
+      5
+    ],
+    [
+      8,
+      [7],
+      6
+    ],
+    [
+      10,
+      [8],
+      7
+    ],
+    [
+      11,
+      [9],
+      8
+    ],
+    [
+      12,
+      [10],
+      9
+    ],
+    [
+      13,
+      [11],
+      10
+    ],
+    [
+      14,
+      [12],
+      11
+    ],
+    [
+      15,
+      [13],
+      12
+    ]
+  ],
+  "last_ms": 18
+}

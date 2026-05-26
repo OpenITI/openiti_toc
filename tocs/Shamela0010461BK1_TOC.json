@@ -1,0 +1,147 @@
+{
+  "filename": "0748Dhahabi.ManaqibAbiHanifa.Shamela0010461BK1-ara1.mARkdown",
+  "sections": {
+    "1": {
+      "title": "من أخلاقه وورعه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "2": {
+      "title": "شيوخ أبي حنيفة وأصحابه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "عبادة أبي حنيفة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 9
+    },
+    "4": {
+      "title": "ذكر من وصفه بالفقه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 11
+    },
+    "5": {
+      "title": "ومن قوله في الرأي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 12
+    },
+    "6": {
+      "title": "فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 16
+    },
+    "7": {
+      "title": "فصل في ورعه سوى ما تقدم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": 17
+    },
+    "8": {
+      "title": "فصل في الاحتجاج بحديثه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 17,
+      "end_ms": 18
+    },
+    "9": {
+      "title": "فصل في منثور أخباره",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": 19
+    },
+    "10": {
+      "title": "فصل في وفاة أبي حنيفة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 19,
+      "end_ms": 19
+    },
+    "11": {
+      "title": "ومن حديثه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 19,
+      "end_ms": 20
+    },
+    "12": {
+      "title": "ومن المنامات المبشرة لأبي حنيفة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 20,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      2,
+      [1],
+      null
+    ],
+    [
+      3,
+      [2],
+      1
+    ],
+    [
+      4,
+      [3],
+      2
+    ],
+    [
+      9,
+      [4],
+      3
+    ],
+    [
+      11,
+      [5],
+      4
+    ],
+    [
+      12,
+      [6],
+      5
+    ],
+    [
+      16,
+      [7],
+      6
+    ],
+    [
+      17,
+      [8],
+      7
+    ],
+    [
+      18,
+      [9],
+      8
+    ],
+    [
+      19,
+      [10, 11],
+      9
+    ],
+    [
+      20,
+      [12],
+      11
+    ]
+  ],
+  "last_ms": 22
+}

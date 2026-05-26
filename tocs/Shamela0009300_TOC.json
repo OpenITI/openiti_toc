@@ -1,0 +1,172 @@
+{
+  "filename": "0458Bayhaqi.JamicFiKhatim.Shamela0009300-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "لبس خاتم الفضة في اليمين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "إباحة الخاتم للإمام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "الكتابة إلى الأعاجم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "4": {
+      "title": "مصير خاتم النبوة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "5": {
+      "title": "التختم في الخنصر من اليد اليسرى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "6": {
+      "title": "التختم في الإصبع اليسرى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "7": {
+      "title": "الرخصة في التختم بالفضة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "8": {
+      "title": "اتخاذ خاتم الفضة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "9": {
+      "title": "التختم في اليسار",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "10": {
+      "title": "الجمع بين الروايات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "11": {
+      "title": "التختم في اليمين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "12": {
+      "title": "ما يستحب في فص الخاتم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 6
+    },
+    "13": {
+      "title": "ختم الكتب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "14": {
+      "title": "نقش الخاتم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 8
+    },
+    "15": {
+      "title": "فقد خاتم النبوة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 8
+    },
+    "16": {
+      "title": "خطر خاتم الذهب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 9
+    },
+    "17": {
+      "title": "مذهب البيهقي التختم في اليسار",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3, 4, 5],
+      2
+    ],
+    [
+      3,
+      [6, 7, 8],
+      5
+    ],
+    [
+      4,
+      [9, 10],
+      8
+    ],
+    [
+      5,
+      [11],
+      10
+    ],
+    [
+      6,
+      [12, 13],
+      11
+    ],
+    [
+      7,
+      [14],
+      13
+    ],
+    [
+      8,
+      [15, 16],
+      14
+    ],
+    [
+      9,
+      [17],
+      16
+    ]
+  ],
+  "last_ms": 9
+}

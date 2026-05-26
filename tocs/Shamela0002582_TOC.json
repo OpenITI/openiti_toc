@@ -1,0 +1,77 @@
+{
+  "filename": "0748Dhahabi.RisalaTuruqHadith.Shamela0002582-ara1",
+  "sections": {
+    "1": {
+      "title": "مقدمة الإعداد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "مقدمة المحقق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "طرق حديث من كنت مولاه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 5
+    },
+    "4": {
+      "title": "15 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "5": {
+      "title": "17 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 12
+    },
+    "6": {
+      "title": "0 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 26
+    },
+    "7": {
+      "title": "تمت والحمد لله رب العالمين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 26,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3],
+      null
+    ],
+    [
+      5,
+      [4, 5],
+      3
+    ],
+    [
+      12,
+      [6],
+      5
+    ],
+    [
+      26,
+      [7],
+      6
+    ]
+  ],
+  "last_ms": 26
+}

@@ -1,0 +1,104 @@
+{
+  "filename": "0255Jahiz.Bighal.Shamela0010506-ara1.mARkdown",
+  "sections": {
+    "1": {
+      "title": "* [باب نوادر البغال] *",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 7
+    },
+    "2": {
+      "title": "[باب طباع البغال]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 11
+    },
+    "3": {
+      "title": "* [باب ذكر الانتفاع بالبغال في البريد] *",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 18
+    },
+    "4": {
+      "title": "* [باب ركوب البغلة والطمع في القضاء] *",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": 19
+    },
+    "5": {
+      "title": "* [باب تأثير البيئة في الحيوانات] *",
+      "level": 1,
+      "parent": null,
+      "start_ms": 19,
+      "end_ms": 20
+    },
+    "6": {
+      "title": "* [باب سفاد البغل وسائر الحيوانات] *",
+      "level": 1,
+      "parent": null,
+      "start_ms": 20,
+      "end_ms": 24
+    },
+    "7": {
+      "title": "* [باب مدح البغال وذمها] *",
+      "level": 1,
+      "parent": null,
+      "start_ms": 24,
+      "end_ms": 38
+    },
+    "8": {
+      "title": "[باب آخر في الخلق المركب]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 38,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      7,
+      [2],
+      1
+    ],
+    [
+      11,
+      [3],
+      2
+    ],
+    [
+      18,
+      [4],
+      3
+    ],
+    [
+      19,
+      [5],
+      4
+    ],
+    [
+      20,
+      [6],
+      5
+    ],
+    [
+      24,
+      [7],
+      6
+    ],
+    [
+      38,
+      [8],
+      7
+    ]
+  ],
+  "last_ms": 41
+}

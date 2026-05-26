@@ -1,0 +1,134 @@
+{
+  "filename": "0842IbnNasirDinDimashqi.ImlaAnfus.Shamela0009652-ara1",
+  "sections": {
+    "1": {
+      "title": "بعث بعثا من المسلمين إلى قوم من المشركين، وإنهم التقوا، فكان رجل من المشركين إذا شاء أن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "2": {
+      "title": "مثل الذي يعظ الناس وينسى نفسه كمثل المصباح يحرق نفسه ويضيء لغيره، وإن أول ما يتفقأ عن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 5
+    },
+    "3": {
+      "title": "2000 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "4": {
+      "title": "4000 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "5": {
+      "title": ": {والليل إذا عسعس {17} والصبح إذا تنفس} [التكوير: 17-18] .",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 6
+    },
+    "6": {
+      "title": "5000 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 6
+    },
+    "7": {
+      "title": "، يقرأ في الفجر: {والليل إذا عسعس} [التكوير: 17]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 6
+    },
+    "8": {
+      "title": "6000 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "9": {
+      "title": "7000 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "10": {
+      "title": "1000 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 8
+    },
+    "11": {
+      "title": "يقرأ في الفجر كأني أسمع قراءته: {فلا أقسم بالخنس {15} الجوار الكنس} [التكوير: 15-16] .",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 8
+    },
+    "12": {
+      "title": "3000 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 9
+    },
+    "13": {
+      "title": "10000 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      2,
+      [1],
+      null
+    ],
+    [
+      3,
+      [2],
+      1
+    ],
+    [
+      5,
+      [3, 4],
+      2
+    ],
+    [
+      6,
+      [5, 6, 7, 8],
+      4
+    ],
+    [
+      7,
+      [9, 10],
+      8
+    ],
+    [
+      8,
+      [11, 12],
+      10
+    ],
+    [
+      9,
+      [13],
+      12
+    ]
+  ],
+  "last_ms": 11
+}

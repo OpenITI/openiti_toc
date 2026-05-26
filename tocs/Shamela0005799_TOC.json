@@ -1,0 +1,91 @@
+{
+  "filename": "0643DiyaDinMaqdisi.JuzAwham.Shamela0005799-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "فمن ذلك في باب أحمد",
+      "level": 2,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "2": {
+      "title": "ومن ذلك في باب إبراهيم وغيره من الأسماء",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "وممن ذكر في باب الباء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "4": {
+      "title": "ومن الجيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "5": {
+      "title": "ومن الحاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "6": {
+      "title": "ومن الدال",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "7": {
+      "title": "ومن السين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "8": {
+      "title": "ومن العين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "9": {
+      "title": "ومن الميم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3, 4, 5],
+      2
+    ],
+    [
+      3,
+      [6, 7, 8],
+      5
+    ],
+    [
+      4,
+      [9],
+      8
+    ]
+  ],
+  "last_ms": 6
+}

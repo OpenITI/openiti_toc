@@ -1,0 +1,80 @@
+{
+  "filename": "0222IbnBakkarDabi.AkhbarWafidin.Shamela0006718-ara1",
+  "sections": {
+    "1": {
+      "title": "بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 10
+    },
+    "2": {
+      "title": "الوافدون على معاوية من طريق الحافظ ابن ms09 عساكر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 12
+    },
+    "3": {
+      "title": "خالد بن المعمر السدوسي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 13
+    },
+    "4": {
+      "title": "شريك الأعور",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 14
+    },
+    "5": {
+      "title": "صعصعة بن صوحان العبدي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 16
+    },
+    "6": {
+      "title": "أبو الطفيل عامر بن واثلة الكناني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      10,
+      [2],
+      null
+    ],
+    [
+      12,
+      [3],
+      2
+    ],
+    [
+      13,
+      [4],
+      3
+    ],
+    [
+      14,
+      [5],
+      4
+    ],
+    [
+      16,
+      [6],
+      5
+    ]
+  ],
+  "last_ms": 17
+}

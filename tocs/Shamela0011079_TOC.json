@@ -1,0 +1,44 @@
+{
+  "filename": "1282Ababutayn.TasisTaqdis.Shamela0011079-ara1",
+  "sections": {
+    "1": {
+      "title": "تأسيس التقديس في كشف شبهات داود بن جرجيس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 34
+    },
+    "2": {
+      "title": "........................",
+      "level": 1,
+      "parent": null,
+      "start_ms": 34,
+      "end_ms": 41
+    },
+    "3": {
+      "title": "....",
+      "level": 1,
+      "parent": null,
+      "start_ms": 41,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      34,
+      [2],
+      1
+    ],
+    [
+      41,
+      [3],
+      2
+    ]
+  ],
+  "last_ms": 120
+}

@@ -1,0 +1,190 @@
+{
+  "filename": "1206IbnCabdWahhab.MansikHajj.Shamela0012092-ara1",
+  "sections": {
+    "1": {
+      "title": "تعريف الحج والعمرة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "تأكد فسخ الحج إلى العمرة لمن لم يسق الهدي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "الإحرام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "4": {
+      "title": "محظورات الإحرام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "5": {
+      "title": "الفدية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "6": {
+      "title": "[دخول مكة]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "7": {
+      "title": "..........................................................................................",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "8": {
+      "title": "الطواف بالبيت",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "9": {
+      "title": "...............................................................................................",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "10": {
+      "title": "السعي بين الصفا والمروة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "11": {
+      "title": "الإحرام بالحج يوم التروية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "12": {
+      "title": "الوقوف بعرفة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "13": {
+      "title": "الدفع إلى مزدلفة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "14": {
+      "title": "الدفاع إلى منى ورمي جمرة العقبة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 6
+    },
+    "15": {
+      "title": "الإفاضة إلى البيت والتحلل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 6
+    },
+    "16": {
+      "title": "المبيت بمنى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 6
+    },
+    "17": {
+      "title": "رمي الجمرات أيام التشريق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 6
+    },
+    "18": {
+      "title": "طواف الوداع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 6
+    },
+    "19": {
+      "title": "الوقوف بالمتلزم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "20": {
+      "title": "................................................................",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "21": {
+      "title": "...............................................................................................",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3],
+      null
+    ],
+    [
+      2,
+      [4, 5],
+      3
+    ],
+    [
+      3,
+      [6, 7, 8],
+      5
+    ],
+    [
+      4,
+      [9, 10],
+      8
+    ],
+    [
+      5,
+      [11, 12, 13],
+      10
+    ],
+    [
+      6,
+      [14, 15, 16, 17, 18, 19],
+      13
+    ],
+    [
+      7,
+      [20, 21],
+      19
+    ]
+  ],
+  "last_ms": 7
+}

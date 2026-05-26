@@ -1,0 +1,111 @@
+{
+  "filename": "1066IbnYusufZaynCabidinKurani.MukhtasarYamaniyyat.Shamela0037631-ara1",
+  "sections": {
+    "1": {
+      "title": "مقدمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "2": {
+      "title": "مقدمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "المقالة الأولى في تفصيل الفرق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 7
+    },
+    "4": {
+      "title": "المقالة الثانية في الآيات الشاهدة بكفر الشيعة والأحاديث الواردة في حقهم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "5": {
+      "title": "المقصد الأول في الآيات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 10
+    },
+    "6": {
+      "title": "المقصد الثاني في الأحاديث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 13
+    },
+    "7": {
+      "title": "المقالة الثالثة في إفتاء العلماء بكفرهم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 15
+    },
+    "8": {
+      "title": "المقالة الرابعة في بيان حال المتأخرين منهم وحكم دارهم وإفتاء المسلمين في حقهم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 18
+    },
+    "9": {
+      "title": "خاتمة في التكلم إجمالا فيما سبق وبيان ما حصل منه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2],
+      1
+    ],
+    [
+      4,
+      [3],
+      2
+    ],
+    [
+      7,
+      [4, 5],
+      3
+    ],
+    [
+      10,
+      [6],
+      5
+    ],
+    [
+      13,
+      [7],
+      6
+    ],
+    [
+      15,
+      [8],
+      7
+    ],
+    [
+      18,
+      [9],
+      8
+    ]
+  ],
+  "last_ms": 19
+}

@@ -1,0 +1,150 @@
+{
+  "filename": "0360AbuBakrAjurri.MasalatTaifin.Shamela0006233-ara1",
+  "sections": {
+    "1": {
+      "title": "بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "1 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "2 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "4": {
+      "title": "3 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 4
+    },
+    "5": {
+      "title": "4 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "6": {
+      "title": "5 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "7": {
+      "title": "6 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "8": {
+      "title": "7 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 6
+    },
+    "9": {
+      "title": "- باب ذكر ما يقوله الطائف بين الركن اليماني والركن الأسود",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 6
+    },
+    "10": {
+      "title": "8 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 6
+    },
+    "11": {
+      "title": "9 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 6
+    },
+    "12": {
+      "title": "10 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 6
+    },
+    "13": {
+      "title": "11 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "14": {
+      "title": "12 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "15": {
+      "title": "13 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "16": {
+      "title": "14 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3, 4],
+      2
+    ],
+    [
+      4,
+      [5],
+      4
+    ],
+    [
+      5,
+      [6, 7],
+      5
+    ],
+    [
+      6,
+      [8, 9, 10, 11, 12, 13],
+      7
+    ],
+    [
+      7,
+      [14, 15, 16],
+      13
+    ]
+  ],
+  "last_ms": 8
+}

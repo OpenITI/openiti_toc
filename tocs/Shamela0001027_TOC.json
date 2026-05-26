@@ -1,0 +1,84 @@
+{
+  "filename": "0776LisanDinIbnKhatib.KatibaKamina.Shamela0001027-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "- 1 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 22
+    },
+    "2": {
+      "title": "فمن الخطباء الفصحاء، والصوفية الصلحاء:",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 22
+    },
+    "3": {
+      "title": "2",
+      "level": 1,
+      "parent": null,
+      "start_ms": 22,
+      "end_ms": 36
+    },
+    "4": {
+      "title": "طبقة المقرئين والمدرسين، والممهدين لقواعد المعارف والمؤسسين (1)",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 22,
+      "end_ms": 36
+    },
+    "5": {
+      "title": "- 3",
+      "level": 1,
+      "parent": null,
+      "start_ms": 36,
+      "end_ms": 63
+    },
+    "6": {
+      "title": "طبقة القضاء أولي الخلال المرتضاة (1)",
+      "level": 2,
+      "parent": 5,
+      "start_ms": 36,
+      "end_ms": 63
+    },
+    "7": {
+      "title": "- 4 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 63,
+      "end_ms": null
+    },
+    "8": {
+      "title": "طبقة من خدم أبواب الأمراء من الكتاب والشعراء (1)",
+      "level": 2,
+      "parent": 7,
+      "start_ms": 63,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      3,
+      [1, 2],
+      null
+    ],
+    [
+      22,
+      [3, 4],
+      2
+    ],
+    [
+      36,
+      [5, 6],
+      4
+    ],
+    [
+      63,
+      [7, 8],
+      6
+    ]
+  ],
+  "last_ms": 142
+}

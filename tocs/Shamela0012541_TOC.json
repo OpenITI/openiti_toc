@@ -1,0 +1,56 @@
+{
+  "filename": "0414AbuHayyanTawhidi.AkhlaqWazirayn.Shamela0012541-ara1.mARkdown",
+  "sections": {
+    "1": {
+      "title": "[مقدمة المؤلف]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 30
+    },
+    "2": {
+      "title": "[ابن عباد]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 30,
+      "end_ms": 115
+    },
+    "3": {
+      "title": "[ابن العميد]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 115,
+      "end_ms": 175
+    },
+    "4": {
+      "title": "[خاتمة الكتاب]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 175,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      30,
+      [2],
+      1
+    ],
+    [
+      115,
+      [3],
+      2
+    ],
+    [
+      175,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 198
+}

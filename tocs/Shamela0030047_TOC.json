@@ -1,0 +1,46 @@
+{
+  "filename": "0576AbuTahirSilafi.JuzThalathatAhadith.Shamela0030047-ara1",
+  "sections": {
+    "1": {
+      "title": "1 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "2": {
+      "title": "2 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "حديث آخر مسلسل على شرط السؤال عن الإخلاص ما هو؟",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "4": {
+      "title": "3 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2, 3, 4],
+      1
+    ]
+  ],
+  "last_ms": 3
+}

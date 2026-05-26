@@ -1,0 +1,171 @@
+{
+  "filename": "0544QadiCiyad.Ghunya.Shamela0026463-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "باب من اسمه محمد من شيوخنا",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 36
+    },
+    "2": {
+      "title": "حرف الألف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 36,
+      "end_ms": 52
+    },
+    "3": {
+      "title": "من اسمه أحمد",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 36,
+      "end_ms": 49
+    },
+    "4": {
+      "title": "بقية حرف الألف من اسمه إبراهيم",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 49,
+      "end_ms": 52
+    },
+    "5": {
+      "title": "حرف الحاء خمسة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 52,
+      "end_ms": 61
+    },
+    "6": {
+      "title": "حرف الخاء أربعة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 61,
+      "end_ms": 63
+    },
+    "7": {
+      "title": "حرف العين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 63,
+      "end_ms": 82
+    },
+    "8": {
+      "title": "من اسمه علي",
+      "level": 2,
+      "parent": 7,
+      "start_ms": 74,
+      "end_ms": 82
+    },
+    "9": {
+      "title": "حرف الغين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 82,
+      "end_ms": 83
+    },
+    "10": {
+      "title": "بقية حرم الميم اثنان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 83,
+      "end_ms": 86
+    },
+    "11": {
+      "title": "حرف السين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 86,
+      "end_ms": 91
+    },
+    "12": {
+      "title": "حرف الشين واحد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 91,
+      "end_ms": 92
+    },
+    "13": {
+      "title": "حرف الهاء اثنان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 92,
+      "end_ms": 94
+    },
+    "14": {
+      "title": "حرف الياء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 94,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      36,
+      [2, 3],
+      1
+    ],
+    [
+      49,
+      [4],
+      3
+    ],
+    [
+      52,
+      [5],
+      4
+    ],
+    [
+      61,
+      [6],
+      5
+    ],
+    [
+      63,
+      [7],
+      6
+    ],
+    [
+      74,
+      [8],
+      7
+    ],
+    [
+      82,
+      [9],
+      8
+    ],
+    [
+      83,
+      [10],
+      9
+    ],
+    [
+      86,
+      [11],
+      10
+    ],
+    [
+      91,
+      [12],
+      11
+    ],
+    [
+      92,
+      [13],
+      12
+    ],
+    [
+      94,
+      [14],
+      13
+    ]
+  ],
+  "last_ms": 98
+}

@@ -1,0 +1,108 @@
+{
+  "filename": "0597IbnJawzi.TanbihNaim.Shamela0011023-ara1",
+  "sections": {
+    "1": {
+      "title": "بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "باب ذكر مواسم العمر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "الباب الأول في ذكر الموسم الأول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "4": {
+      "title": "فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "5": {
+      "title": "الباب الثاني في ذكر الموسم الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "6": {
+      "title": "فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "7": {
+      "title": "فلينظر الشاب في أي مقام هو، فليس لمقامه مثل، وليتلمح شرف بضاعته وثمنها",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "8": {
+      "title": "الباب الثالث في الموسم الثالث وهو حال الكهولة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "9": {
+      "title": "الباب الرابع في الموسم الرابع وهو الشيخوخة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 7
+    },
+    "10": {
+      "title": "الباب الخامس في الموسم الخامس وهو حال الهرم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3],
+      null
+    ],
+    [
+      2,
+      [4, 5],
+      3
+    ],
+    [
+      3,
+      [6, 7],
+      5
+    ],
+    [
+      4,
+      [8],
+      7
+    ],
+    [
+      5,
+      [9],
+      8
+    ],
+    [
+      7,
+      [10],
+      9
+    ]
+  ],
+  "last_ms": 8
+}
