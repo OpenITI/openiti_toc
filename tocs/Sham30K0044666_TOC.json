@@ -1,0 +1,104 @@
+{
+  "filename": "1396KhayrDinZirikli.Aclam.Sham30K0044666-ara1",
+  "sections": {
+    "1": {
+      "title": "AUT الجزء 1 NOTMATCH",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 596
+    },
+    "2": {
+      "title": "AUT الجزء 2 NOTMATCH",
+      "level": 1,
+      "parent": null,
+      "start_ms": 596,
+      "end_ms": 1254
+    },
+    "3": {
+      "title": "AUT الجزء 3 NOTMATCH",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1254,
+      "end_ms": 1907
+    },
+    "4": {
+      "title": "AUT الجزء ms1906 4 NOTMATCH",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1907,
+      "end_ms": 2570
+    },
+    "5": {
+      "title": "AUT الجزء 5 NOTMATCH",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2570,
+      "end_ms": 3209
+    },
+    "6": {
+      "title": "AUT الجزء 6 NOTMATCH",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3209,
+      "end_ms": 3823
+    },
+    "7": {
+      "title": "AUT الجزء 7 NOTMATCH",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3823,
+      "end_ms": 4474
+    },
+    "8": {
+      "title": "AUT الجزء 8 NOTMATCH",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4474,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      596,
+      [2],
+      1
+    ],
+    [
+      1254,
+      [3],
+      2
+    ],
+    [
+      1907,
+      [4],
+      null
+    ],
+    [
+      2570,
+      [5],
+      4
+    ],
+    [
+      3209,
+      [6],
+      5
+    ],
+    [
+      3823,
+      [7],
+      6
+    ],
+    [
+      4474,
+      [8],
+      7
+    ]
+  ],
+  "last_ms": 5052
+}

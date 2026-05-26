@@ -1,0 +1,70 @@
+{
+  "filename": "0774IbnKathir.TalkhisIstighatha.ShamAY0034402BK1-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [جزء 1]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "CHECK [أول الكتاب]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "AUTO هذا مما وجد في مجموع مخطوط فيه مسائل شتى لشيخ الإسلام تقي",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 35
+    },
+    "4": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 35,
+      "end_ms": 85
+    },
+    "5": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 85,
+      "end_ms": 91
+    },
+    "6": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 91,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3],
+      null
+    ],
+    [
+      35,
+      [4],
+      3
+    ],
+    [
+      85,
+      [5],
+      4
+    ],
+    [
+      91,
+      [6],
+      5
+    ]
+  ],
+  "last_ms": 100
+}

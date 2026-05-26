@@ -1,0 +1,969 @@
+{
+  "filename": "0672IbnMalik.SharhTashilFawaid.Sham19Y0013257-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK مقدمة المؤلف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO باب شرح الكلمة والكلام وما يتعلق به",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 6
+    },
+    "3": {
+      "title": "CHECK علامات الأسماء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 10
+    },
+    "4": {
+      "title": "CHECK علامات الأفعال",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 23
+    },
+    "5": {
+      "title": "AUTO باب إعراب الصحيح الآخر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 23,
+      "end_ms": 30
+    },
+    "6": {
+      "title": "AUTO ما لا ينصرف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 30,
+      "end_ms": 31
+    },
+    "7": {
+      "title": "AUTO ما لا ينصرف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 31,
+      "end_ms": 31
+    },
+    "8": {
+      "title": "AUTO والجمع بالألف والتاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 31,
+      "end_ms": 32
+    },
+    "9": {
+      "title": "CHECK الأسماء الستة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 32,
+      "end_ms": 36
+    },
+    "10": {
+      "title": "CHECK الأفعال الخمسة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 36,
+      "end_ms": 38
+    },
+    "11": {
+      "title": "CHECK البناء وأنواعه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 38,
+      "end_ms": 39
+    },
+    "12": {
+      "title": "AUTO باب إعراب المعتل الآخر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 39,
+      "end_ms": 40
+    },
+    "13": {
+      "title": "AUTO باب إعراب المثنى والمجموع على حده",
+      "level": 1,
+      "parent": null,
+      "start_ms": 40,
+      "end_ms": 60
+    },
+    "14": {
+      "title": "AUTO باب كيفية التثنية وجمعي التصحيح",
+      "level": 1,
+      "parent": null,
+      "start_ms": 60,
+      "end_ms": 77
+    },
+    "15": {
+      "title": "AUTO باب المعرفة والنكرة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 77,
+      "end_ms": 81
+    },
+    "16": {
+      "title": "AUTO باب المضمر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 81,
+      "end_ms": 116
+    },
+    "17": {
+      "title": "AUTO باب الاسم العلم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 116,
+      "end_ms": 128
+    },
+    "18": {
+      "title": "AUTO باب الموصول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 128,
+      "end_ms": 168
+    },
+    "19": {
+      "title": "AUTO اسم الإشارة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 168,
+      "end_ms": 179
+    },
+    "20": {
+      "title": "AUTO باب المبتدأ",
+      "level": 1,
+      "parent": null,
+      "start_ms": 179,
+      "end_ms": 225
+    },
+    "21": {
+      "title": "AUTO باب الأفعال الرافعة الاسم الناصبة الخبر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 225,
+      "end_ms": 248
+    },
+    "22": {
+      "title": "CHECK ما النافية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 248,
+      "end_ms": 252
+    },
+    "23": {
+      "title": "CHECK إن ولا ولات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 252,
+      "end_ms": 258
+    },
+    "24": {
+      "title": "AUTO زيادة الباء في الخبر المنفي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 258,
+      "end_ms": 262
+    },
+    "25": {
+      "title": "AUTO باب أفعال المقاربة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 262,
+      "end_ms": 269
+    },
+    "26": {
+      "title": "AUTO باب الأحرف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 269,
+      "end_ms": 301
+    },
+    "27": {
+      "title": "AUTO باب لا العاملة عمل إن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 301,
+      "end_ms": 316
+    },
+    "28": {
+      "title": "AUTO باب الأفعال الداخلة على المبتدأ والخبر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 316,
+      "end_ms": 338
+    },
+    "29": {
+      "title": "AUTO باب الفاعل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 338,
+      "end_ms": 350
+    },
+    "30": {
+      "title": "AUTO باب النائب عن الفاعل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 350,
+      "end_ms": 359
+    },
+    "31": {
+      "title": "AUTO باب اشتغال العامل عن الاسم بضميره أو ملابسه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 359,
+      "end_ms": 369
+    },
+    "32": {
+      "title": "AUTO باب تعدي الفعل ولزومه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 369,
+      "end_ms": 381
+    },
+    "33": {
+      "title": "AUTO باب تنازع العاملين فصاعدا معمولا واحدا",
+      "level": 1,
+      "parent": null,
+      "start_ms": 381,
+      "end_ms": 391
+    },
+    "34": {
+      "title": "AUTO باب الواقع مفعولا مطلقا من ms390 مصدر وما جرى مجراه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 391,
+      "end_ms": 402
+    },
+    "35": {
+      "title": "AUTO باب المفعول له",
+      "level": 1,
+      "parent": null,
+      "start_ms": 402,
+      "end_ms": 405
+    },
+    "36": {
+      "title": "AUTO باب المفعول المسمى ظرفا ومفعولا فيه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 405,
+      "end_ms": 436
+    },
+    "37": {
+      "title": "AUTO باب المفعول معه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 436,
+      "end_ms": 450
+    },
+    "38": {
+      "title": "AUTO باب الاستثناء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 450,
+      "end_ms": 495
+    },
+    "39": {
+      "title": "AUTO باب الحال",
+      "level": 1,
+      "parent": null,
+      "start_ms": 495,
+      "end_ms": 532
+    },
+    "40": {
+      "title": "AUTO باب التمييز",
+      "level": 1,
+      "parent": null,
+      "start_ms": 532,
+      "end_ms": 542
+    },
+    "41": {
+      "title": "AUTO باب العدد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 542,
+      "end_ms": 563
+    },
+    "42": {
+      "title": "AUTO باب كم وكأين وكذا",
+      "level": 1,
+      "parent": null,
+      "start_ms": 563,
+      "end_ms": 567
+    },
+    "43": {
+      "title": "AUTO باب نعم وبئس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 567,
+      "end_ms": 581
+    },
+    "44": {
+      "title": "AUTO باب حبذا",
+      "level": 1,
+      "parent": null,
+      "start_ms": 581,
+      "end_ms": 585
+    },
+    "45": {
+      "title": "AUTO باب التعجب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 585,
+      "end_ms": 586
+    },
+    "46": {
+      "title": "AUTO باب التعجب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 586,
+      "end_ms": 602
+    },
+    "47": {
+      "title": "AUTO باب أفعل التفضيل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 602,
+      "end_ms": 616
+    },
+    "48": {
+      "title": "AUTO باب اسم الفاعل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 616,
+      "end_ms": 630
+    },
+    "49": {
+      "title": "AUTO باب الصفة المشبهة باسم الفاعل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 630,
+      "end_ms": 641
+    },
+    "50": {
+      "title": "AUTO باب إعمال المصدر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 641,
+      "end_ms": 657
+    },
+    "51": {
+      "title": "AUTO باب حروف الجر سوى المستثنى ms656 منها",
+      "level": 1,
+      "parent": null,
+      "start_ms": 657,
+      "end_ms": 693
+    },
+    "52": {
+      "title": "AUTO باب القسم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 693,
+      "end_ms": 709
+    },
+    "53": {
+      "title": "AUTO باب الإضافة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 709,
+      "end_ms": 751
+    },
+    "54": {
+      "title": "AUTO باب التابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 751,
+      "end_ms": 753
+    },
+    "55": {
+      "title": "AUTO باب التوكيد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 753,
+      "end_ms": 764
+    },
+    "56": {
+      "title": "AUTO باب النعت",
+      "level": 1,
+      "parent": null,
+      "start_ms": 764,
+      "end_ms": 777
+    },
+    "57": {
+      "title": "AUTO باب عطف البيان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 777,
+      "end_ms": 779
+    },
+    "58": {
+      "title": "AUTO باب البدل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 779,
+      "end_ms": 788
+    },
+    "59": {
+      "title": "AUTO باب المعطوف عطف النسق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 788,
+      "end_ms": 815
+    },
+    "60": {
+      "title": "AUTO باب النداء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 815,
+      "end_ms": 832
+    },
+    "61": {
+      "title": "AUTO باب الاستغاثة والتعجب المشبه بها",
+      "level": 1,
+      "parent": null,
+      "start_ms": 832,
+      "end_ms": 834
+    },
+    "62": {
+      "title": "AUTO باب الندبة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 834,
+      "end_ms": 838
+    },
+    "63": {
+      "title": "AUTO باب أسماء لازمت النداء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 838,
+      "end_ms": 839
+    },
+    "64": {
+      "title": "AUTO باب ترخيم المنادى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 839,
+      "end_ms": 848
+    },
+    "65": {
+      "title": "AUTO باب الاختصاص",
+      "level": 1,
+      "parent": null,
+      "start_ms": 848,
+      "end_ms": 849
+    },
+    "66": {
+      "title": "AUTO باب أبنية الفعل ومعانيها",
+      "level": 1,
+      "parent": null,
+      "start_ms": 849,
+      "end_ms": 870
+    },
+    "67": {
+      "title": "AUTO باب همزة الوصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 870,
+      "end_ms": 873
+    },
+    "68": {
+      "title": "AUTO باب مصادر الفعل الثلاثي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 873,
+      "end_ms": 875
+    },
+    "69": {
+      "title": "AUTO باب مصادر غير الثلاثي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 875,
+      "end_ms": 876
+    },
+    "70": {
+      "title": "AUTO باب إعراب الفعل وعوامله",
+      "level": 1,
+      "parent": null,
+      "start_ms": 876,
+      "end_ms": 912
+    },
+    "71": {
+      "title": "AUTO باب عوامل الجزم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 912,
+      "end_ms": 935
+    },
+    "72": {
+      "title": "AUTO لو",
+      "level": 1,
+      "parent": null,
+      "start_ms": 935,
+      "end_ms": 936
+    },
+    "73": {
+      "title": "AUTO لو",
+      "level": 1,
+      "parent": null,
+      "start_ms": 936,
+      "end_ms": 941
+    },
+    "74": {
+      "title": "AUTO لما",
+      "level": 1,
+      "parent": null,
+      "start_ms": 941,
+      "end_ms": 941
+    },
+    "75": {
+      "title": "AUTO لما",
+      "level": 1,
+      "parent": null,
+      "start_ms": 941,
+      "end_ms": 941
+    },
+    "76": {
+      "title": "AUTO لما",
+      "level": 1,
+      "parent": null,
+      "start_ms": 941,
+      "end_ms": 941
+    },
+    "77": {
+      "title": "AUTO لما",
+      "level": 1,
+      "parent": null,
+      "start_ms": 941,
+      "end_ms": 941
+    },
+    "78": {
+      "title": "AUTO لما",
+      "level": 1,
+      "parent": null,
+      "start_ms": 941,
+      "end_ms": 942
+    },
+    "79": {
+      "title": "AUTO ms941 لما PageV04P101 # جميع لدينا محضرون): (وإن كل ذلك لما متاع الحياة الدنيا) أي ما كل ذلك",
+      "level": 1,
+      "parent": null,
+      "start_ms": 942,
+      "end_ms": 942
+    },
+    "80": {
+      "title": "AUTO باب تتميم الكلام على كلمات مفتقرة إلى ذلك",
+      "level": 1,
+      "parent": null,
+      "start_ms": 942,
+      "end_ms": 946
+    },
+    "81": {
+      "title": "CHECK هل وهمزة الاستفهام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 946,
+      "end_ms": 949
+    },
+    "82": {
+      "title": "AUTO حروف التحضيض",
+      "level": 1,
+      "parent": null,
+      "start_ms": 949,
+      "end_ms": 950
+    },
+    "83": {
+      "title": "CHECK ها ويا",
+      "level": 1,
+      "parent": null,
+      "start_ms": 950,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      6,
+      [3],
+      2
+    ],
+    [
+      10,
+      [4],
+      3
+    ],
+    [
+      23,
+      [5],
+      4
+    ],
+    [
+      30,
+      [6],
+      5
+    ],
+    [
+      31,
+      [7, 8],
+      6
+    ],
+    [
+      32,
+      [9],
+      8
+    ],
+    [
+      36,
+      [10],
+      9
+    ],
+    [
+      38,
+      [11],
+      10
+    ],
+    [
+      39,
+      [12],
+      11
+    ],
+    [
+      40,
+      [13],
+      12
+    ],
+    [
+      60,
+      [14],
+      13
+    ],
+    [
+      77,
+      [15],
+      14
+    ],
+    [
+      81,
+      [16],
+      15
+    ],
+    [
+      116,
+      [17],
+      16
+    ],
+    [
+      128,
+      [18],
+      17
+    ],
+    [
+      168,
+      [19],
+      18
+    ],
+    [
+      179,
+      [20],
+      19
+    ],
+    [
+      225,
+      [21],
+      20
+    ],
+    [
+      248,
+      [22],
+      21
+    ],
+    [
+      252,
+      [23],
+      22
+    ],
+    [
+      258,
+      [24],
+      23
+    ],
+    [
+      262,
+      [25],
+      24
+    ],
+    [
+      269,
+      [26],
+      25
+    ],
+    [
+      301,
+      [27],
+      26
+    ],
+    [
+      316,
+      [28],
+      27
+    ],
+    [
+      338,
+      [29],
+      28
+    ],
+    [
+      350,
+      [30],
+      29
+    ],
+    [
+      359,
+      [31],
+      30
+    ],
+    [
+      369,
+      [32],
+      31
+    ],
+    [
+      381,
+      [33],
+      32
+    ],
+    [
+      391,
+      [34],
+      null
+    ],
+    [
+      402,
+      [35],
+      34
+    ],
+    [
+      405,
+      [36],
+      35
+    ],
+    [
+      436,
+      [37],
+      36
+    ],
+    [
+      450,
+      [38],
+      37
+    ],
+    [
+      495,
+      [39],
+      38
+    ],
+    [
+      532,
+      [40],
+      39
+    ],
+    [
+      542,
+      [41],
+      40
+    ],
+    [
+      563,
+      [42],
+      41
+    ],
+    [
+      567,
+      [43],
+      42
+    ],
+    [
+      581,
+      [44],
+      43
+    ],
+    [
+      585,
+      [45],
+      44
+    ],
+    [
+      586,
+      [46],
+      45
+    ],
+    [
+      602,
+      [47],
+      46
+    ],
+    [
+      616,
+      [48],
+      47
+    ],
+    [
+      630,
+      [49],
+      48
+    ],
+    [
+      641,
+      [50],
+      49
+    ],
+    [
+      657,
+      [51],
+      null
+    ],
+    [
+      693,
+      [52],
+      51
+    ],
+    [
+      709,
+      [53],
+      52
+    ],
+    [
+      751,
+      [54],
+      53
+    ],
+    [
+      753,
+      [55],
+      54
+    ],
+    [
+      764,
+      [56],
+      55
+    ],
+    [
+      777,
+      [57],
+      56
+    ],
+    [
+      779,
+      [58],
+      57
+    ],
+    [
+      788,
+      [59],
+      58
+    ],
+    [
+      815,
+      [60],
+      59
+    ],
+    [
+      832,
+      [61],
+      60
+    ],
+    [
+      834,
+      [62],
+      61
+    ],
+    [
+      838,
+      [63],
+      62
+    ],
+    [
+      839,
+      [64],
+      63
+    ],
+    [
+      848,
+      [65],
+      64
+    ],
+    [
+      849,
+      [66],
+      65
+    ],
+    [
+      870,
+      [67],
+      66
+    ],
+    [
+      873,
+      [68],
+      67
+    ],
+    [
+      875,
+      [69],
+      68
+    ],
+    [
+      876,
+      [70],
+      69
+    ],
+    [
+      912,
+      [71],
+      70
+    ],
+    [
+      935,
+      [72],
+      71
+    ],
+    [
+      936,
+      [73],
+      72
+    ],
+    [
+      941,
+      [74, 75, 76, 77, 78],
+      73
+    ],
+    [
+      942,
+      [79, 80],
+      null
+    ],
+    [
+      946,
+      [81],
+      80
+    ],
+    [
+      949,
+      [82],
+      81
+    ],
+    [
+      950,
+      [83],
+      82
+    ]
+  ],
+  "last_ms": 950
+}

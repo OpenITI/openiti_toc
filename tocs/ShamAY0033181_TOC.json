@@ -1,0 +1,56 @@
+{
+  "filename": "1014MullaCaliQari.FathBabCinaya.ShamAY0033181-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [شرح النقاية- ج1]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 561
+    },
+    "2": {
+      "title": "CHECK [شرح النقاية- ج2]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 561,
+      "end_ms": 1120
+    },
+    "3": {
+      "title": "CHECK [شرح النقاية- ج3]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1120,
+      "end_ms": 1686
+    },
+    "4": {
+      "title": "CHECK [شرح النقاية- ج4]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1686,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      561,
+      [2],
+      1
+    ],
+    [
+      1120,
+      [3],
+      2
+    ],
+    [
+      1686,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 1726
+}

@@ -1,0 +1,257 @@
+{
+  "filename": "0625SafiDinHalabi.UnsMasjun.ShamAY0031707-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO [تمهيد]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO بسم الله الرحمن الرحيم وأفضل الصلاة وأتم التسليم على محمد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 11
+    },
+    "3": {
+      "title": "AUTO الكاتب",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "4": {
+      "title": "AUTO ثقافته",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 6,
+      "end_ms": 8
+    },
+    "5": {
+      "title": "AUTO الكتاب",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 8,
+      "end_ms": 9
+    },
+    "6": {
+      "title": "AUTO وصف المخطوطة",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 9,
+      "end_ms": 10
+    },
+    "7": {
+      "title": "AUTO منهج التحقيق",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 10,
+      "end_ms": 11
+    },
+    "8": {
+      "title": "AUTO [مقدمة]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 12
+    },
+    "9": {
+      "title": "AUTO الفصل الأول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 20
+    },
+    "10": {
+      "title": "AUTO الفصل الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 20,
+      "end_ms": 24
+    },
+    "11": {
+      "title": "AUTO حكمة",
+      "level": 2,
+      "parent": 10,
+      "start_ms": 21,
+      "end_ms": 24
+    },
+    "12": {
+      "title": "AUTO الفصل الثالث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 24,
+      "end_ms": 53
+    },
+    "13": {
+      "title": "AUTO الفصل الرابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 53,
+      "end_ms": 76
+    },
+    "14": {
+      "title": "AUTO الفصل الخامس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 76,
+      "end_ms": 84
+    },
+    "15": {
+      "title": "AUTO الفصل السادس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 84,
+      "end_ms": 98
+    },
+    "16": {
+      "title": "AUTO الفصل السابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 98,
+      "end_ms": 108
+    },
+    "17": {
+      "title": "AUTO الفصل الثامن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 108,
+      "end_ms": 109
+    },
+    "18": {
+      "title": "AUTO الفصل التاسع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 109,
+      "end_ms": 117
+    },
+    "19": {
+      "title": "AUTO مصادر التحقيق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 117,
+      "end_ms": null
+    },
+    "20": {
+      "title": "AUTO الدوريات والمجلات",
+      "level": 2,
+      "parent": 19,
+      "start_ms": 123,
+      "end_ms": 123
+    },
+    "21": {
+      "title": "AUTO المخطوطات",
+      "level": 2,
+      "parent": 19,
+      "start_ms": 123,
+      "end_ms": 123
+    },
+    "22": {
+      "title": "AUTO المراجع الأجنبية",
+      "level": 2,
+      "parent": 19,
+      "start_ms": 123,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      5,
+      [3],
+      2
+    ],
+    [
+      6,
+      [4],
+      3
+    ],
+    [
+      8,
+      [5],
+      4
+    ],
+    [
+      9,
+      [6],
+      5
+    ],
+    [
+      10,
+      [7],
+      6
+    ],
+    [
+      11,
+      [8],
+      7
+    ],
+    [
+      12,
+      [9],
+      8
+    ],
+    [
+      20,
+      [10],
+      9
+    ],
+    [
+      21,
+      [11],
+      10
+    ],
+    [
+      24,
+      [12],
+      11
+    ],
+    [
+      53,
+      [13],
+      12
+    ],
+    [
+      76,
+      [14],
+      13
+    ],
+    [
+      84,
+      [15],
+      14
+    ],
+    [
+      98,
+      [16],
+      15
+    ],
+    [
+      108,
+      [17],
+      16
+    ],
+    [
+      109,
+      [18],
+      17
+    ],
+    [
+      117,
+      [19],
+      18
+    ],
+    [
+      123,
+      [20, 21, 22],
+      19
+    ]
+  ],
+  "last_ms": 182
+}

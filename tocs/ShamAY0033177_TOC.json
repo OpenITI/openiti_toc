@@ -1,0 +1,164 @@
+{
+  "filename": "1304CabdHayyLaknawi.Sicaya.ShamAY0033177-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [1 مقدمة السعاية]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 80
+    },
+    "2": {
+      "title": "CHECK [2 السعاية 2-35]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 80,
+      "end_ms": 143
+    },
+    "3": {
+      "title": "CHECK [3 السعاية 61-69]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 143,
+      "end_ms": 162
+    },
+    "4": {
+      "title": "CHECK [4 السعاية 103- 105]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 162,
+      "end_ms": 168
+    },
+    "5": {
+      "title": "CHECK [5 السعاية 123-140]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 168,
+      "end_ms": 204
+    },
+    "6": {
+      "title": "CHECK [6 السعاية 300-359]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 204,
+      "end_ms": 326
+    },
+    "7": {
+      "title": "CHECK [7 السعاية 370-403]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 326,
+      "end_ms": 396
+    },
+    "8": {
+      "title": "CHECK [8 السعاية 404-424]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 396,
+      "end_ms": 439
+    },
+    "9": {
+      "title": "CHECK [91 السعاية 425-436]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 439,
+      "end_ms": 463
+    },
+    "10": {
+      "title": "CHECK [92 السعاية 436-468]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 463,
+      "end_ms": 528
+    },
+    "11": {
+      "title": "CHECK [93 السعاية 469-481]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 528,
+      "end_ms": 553
+    },
+    "12": {
+      "title": "CHECK [94 السعاية 482-556]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 553,
+      "end_ms": 699
+    },
+    "13": {
+      "title": "CHECK [95 السعاية 577 -572]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 699,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      80,
+      [2],
+      1
+    ],
+    [
+      143,
+      [3],
+      2
+    ],
+    [
+      162,
+      [4],
+      3
+    ],
+    [
+      168,
+      [5],
+      4
+    ],
+    [
+      204,
+      [6],
+      5
+    ],
+    [
+      326,
+      [7],
+      6
+    ],
+    [
+      396,
+      [8],
+      7
+    ],
+    [
+      439,
+      [9],
+      8
+    ],
+    [
+      463,
+      [10],
+      9
+    ],
+    [
+      528,
+      [11],
+      10
+    ],
+    [
+      553,
+      [12],
+      11
+    ],
+    [
+      699,
+      [13],
+      12
+    ]
+  ],
+  "last_ms": 729
+}

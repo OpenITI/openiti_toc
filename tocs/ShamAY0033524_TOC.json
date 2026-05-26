@@ -1,0 +1,80 @@
+{
+  "filename": "1031CabdRaufMunawi.FaydQadir.ShamAY0033524-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [الجزء 1]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1057
+    },
+    "2": {
+      "title": "CHECK [الجزء 2]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1057,
+      "end_ms": 2036
+    },
+    "3": {
+      "title": "CHECK [الجزء 3]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2036,
+      "end_ms": 2986
+    },
+    "4": {
+      "title": "CHECK [الجزء 4]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2986,
+      "end_ms": 3871
+    },
+    "5": {
+      "title": "CHECK [الجزء 5]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3871,
+      "end_ms": 4738
+    },
+    "6": {
+      "title": "CHECK [الجزء 6]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4738,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      1057,
+      [2],
+      1
+    ],
+    [
+      2036,
+      [3],
+      2
+    ],
+    [
+      2986,
+      [4],
+      3
+    ],
+    [
+      3871,
+      [5],
+      4
+    ],
+    [
+      4738,
+      [6],
+      5
+    ]
+  ],
+  "last_ms": 5577
+}

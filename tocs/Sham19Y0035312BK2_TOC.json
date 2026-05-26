@@ -1,0 +1,201 @@
+{
+  "filename": "1450MarzuqZahrani.SharhManzumaTabriziyya.Sham19Y0035312BK2-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO شرح المنظومة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "2": {
+      "title": "AUTO المبحث الأول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 7
+    },
+    "3": {
+      "title": "AUTO المبحث الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 11
+    },
+    "4": {
+      "title": "AUTO الخوف",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "5": {
+      "title": "AUTO 1 -",
+      "level": 3,
+      "parent": 4,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "6": {
+      "title": "AUTO الخوف",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "7": {
+      "title": "AUTO الخوف",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 7,
+      "end_ms": 9
+    },
+    "8": {
+      "title": "AUTO 2 - الخوف الشرعي: ينقسم إلى قسمين",
+      "level": 3,
+      "parent": 7,
+      "start_ms": 8,
+      "end_ms": 9
+    },
+    "9": {
+      "title": "AUTO أ - خوف شرعي مأمور به",
+      "level": 4,
+      "parent": 8,
+      "start_ms": 8,
+      "end_ms": 8
+    },
+    "10": {
+      "title": "AUTO ب - خوف شرعي منهي عنه",
+      "level": 4,
+      "parent": 8,
+      "start_ms": 8,
+      "end_ms": 9
+    },
+    "11": {
+      "title": "AUTO الرجاء",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 9,
+      "end_ms": 11
+    },
+    "12": {
+      "title": "AUTO المبحث الثالث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 12
+    },
+    "13": {
+      "title": "AUTO المبحث الرابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 15
+    },
+    "14": {
+      "title": "AUTO المبحث الخامس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 18
+    },
+    "15": {
+      "title": "AUTO المبحث السادس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": 21
+    },
+    "16": {
+      "title": "AUTO المبحث السابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 21,
+      "end_ms": 21
+    },
+    "17": {
+      "title": "AUTO المبحث الثامن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 21,
+      "end_ms": 26
+    },
+    "18": {
+      "title": "AUTO المبحث التاسع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 26,
+      "end_ms": 27
+    },
+    "19": {
+      "title": "AUTO المبحث العاشر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 27,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      4,
+      [2],
+      1
+    ],
+    [
+      7,
+      [3, 4, 5, 6, 7],
+      2
+    ],
+    [
+      8,
+      [8, 9, 10],
+      7
+    ],
+    [
+      9,
+      [11],
+      10
+    ],
+    [
+      11,
+      [12],
+      11
+    ],
+    [
+      12,
+      [13],
+      12
+    ],
+    [
+      15,
+      [14],
+      13
+    ],
+    [
+      18,
+      [15],
+      14
+    ],
+    [
+      21,
+      [16, 17],
+      15
+    ],
+    [
+      26,
+      [18],
+      17
+    ],
+    [
+      27,
+      [19],
+      18
+    ]
+  ],
+  "last_ms": 33
+}

@@ -1,0 +1,156 @@
+{
+  "filename": "1304CabdHayyLaknawi.InsafFiHukmIctikaf.Sham19Y0017742-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO مقدمة المعتني بالكتاب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 5
+    },
+    "2": {
+      "title": "AUTO حكمة الاعتكاف",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "AUTO رسالة اللكنوي \"الإنصاف في حكم الاعتكاف\"",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "4": {
+      "title": "AUTO سبب تأليف الرسالة وتاريخ كتابتها",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "5": {
+      "title": "AUTO مباحث الرسالة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "6": {
+      "title": "AUTO حاشية الرسالة \"الاسعاف\" وترجمة مؤلفها",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "7": {
+      "title": "AUTO كلمة عن أصول الرسالتين وعملي فيهما",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "8": {
+      "title": "CHECK [مقدمة المصنف]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 7
+    },
+    "9": {
+      "title": "AUTO المقام الأول:",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 15
+    },
+    "10": {
+      "title": "AUTO المقام الثاني:",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 20
+    },
+    "11": {
+      "title": "AUTO المقام الثالث:",
+      "level": 1,
+      "parent": null,
+      "start_ms": 20,
+      "end_ms": 21
+    },
+    "12": {
+      "title": "CHECK المقام الرابع: الاعتكاف على تقدير كونه سنة كفاية كما هو الحق، هل هو سنة كفاية على أهل البلدة، كصلاة الجنازة، أم سنة كفاية على أهل كل محلة، كصلاة التراويح بالجماعة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 21,
+      "end_ms": 23
+    },
+    "13": {
+      "title": "AUTO المقام الخامس:",
+      "level": 1,
+      "parent": null,
+      "start_ms": 23,
+      "end_ms": 23
+    },
+    "14": {
+      "title": "AUTO المقام السادس:",
+      "level": 1,
+      "parent": null,
+      "start_ms": 23,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2],
+      1
+    ],
+    [
+      3,
+      [3, 4, 5],
+      2
+    ],
+    [
+      4,
+      [6],
+      5
+    ],
+    [
+      5,
+      [7, 8],
+      6
+    ],
+    [
+      7,
+      [9],
+      8
+    ],
+    [
+      15,
+      [10],
+      9
+    ],
+    [
+      20,
+      [11],
+      10
+    ],
+    [
+      21,
+      [12],
+      11
+    ],
+    [
+      23,
+      [13, 14],
+      12
+    ]
+  ],
+  "last_ms": 35
+}

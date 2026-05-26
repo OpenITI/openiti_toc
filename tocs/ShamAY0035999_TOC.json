@@ -1,0 +1,84 @@
+{
+  "filename": "1304CabdHayyLaknawi.AhkamSiwak.ShamAY0035999-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [أحكام السواك في السعاية]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "CHECK [معنى السواك]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "CHECK [مقدمة المؤلف]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 8
+    },
+    "4": {
+      "title": "AUTO مسألة السواك مخمسة الأقوال:",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 8,
+      "end_ms": 14
+    },
+    "5": {
+      "title": "AUTO من فقد الأسنان أو السواك، يستاك بالأصبع(1).",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 14,
+      "end_ms": 16
+    },
+    "6": {
+      "title": "AUTO قد اشتهر بين العوام كراهة الاستياك بسواك الغير:",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 16,
+      "end_ms": 16
+    },
+    "7": {
+      "title": "AUTO ذكر صاحب ((البحر))، والشرنبلالي(3)، وغيرهما(4): أن العلك",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 16,
+      "end_ms": 16
+    },
+    "8": {
+      "title": "AUTO اختلف في وقت السواك(1)عند الوضوء(2).",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 16,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3],
+      null
+    ],
+    [
+      8,
+      [4],
+      3
+    ],
+    [
+      14,
+      [5],
+      4
+    ],
+    [
+      16,
+      [6, 7, 8],
+      5
+    ]
+  ],
+  "last_ms": 21
+}

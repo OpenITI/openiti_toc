@@ -1,0 +1,187 @@
+{
+  "filename": "0333IbnMarwanDinawari.Qinaca.ShamAY0033920-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO $ باب دعاء النبي صلى الله عليه وسلم بالقناعة.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "2": {
+      "title": "AUTO باب الحث على لزوم القناعة والصبر عليها.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "AUTO باب في ذكر ما يبعث على استعمال القناعة.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "4": {
+      "title": "AUTO باب اقنع الناس هم اغنى الناس.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "5": {
+      "title": "AUTO باب ما يحبب الى الانسان القناعة.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "6": {
+      "title": "AUTO باب الاسباب التي تهون القناعة على الانسان $",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 6
+    },
+    "7": {
+      "title": "AUTO $ باب.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "8": {
+      "title": "AUTO باب.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 9
+    },
+    "9": {
+      "title": "AUTO $ باب الاستغناء عن استعمال الاردية.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 10
+    },
+    "10": {
+      "title": "AUTO $ باب.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 11
+    },
+    "11": {
+      "title": "AUTO باب.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 11
+    },
+    "12": {
+      "title": "AUTO باب.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 11
+    },
+    "13": {
+      "title": "AUTO $ باب.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 12
+    },
+    "14": {
+      "title": "AUTO $ باب. ms11",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 13
+    },
+    "15": {
+      "title": "AUTO باب ما يدفع به الانسان عن نفسه معرة الغنى.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 13
+    },
+    "16": {
+      "title": "AUTO $ باب.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 14
+    },
+    "17": {
+      "title": "AUTO $ باب.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      2,
+      [1],
+      null
+    ],
+    [
+      3,
+      [2, 3],
+      1
+    ],
+    [
+      4,
+      [4],
+      3
+    ],
+    [
+      5,
+      [5],
+      4
+    ],
+    [
+      6,
+      [6, 7],
+      5
+    ],
+    [
+      7,
+      [8],
+      7
+    ],
+    [
+      9,
+      [9],
+      8
+    ],
+    [
+      10,
+      [10],
+      9
+    ],
+    [
+      11,
+      [11, 12, 13],
+      10
+    ],
+    [
+      12,
+      [14],
+      null
+    ],
+    [
+      13,
+      [15, 16],
+      14
+    ],
+    [
+      14,
+      [17],
+      16
+    ]
+  ],
+  "last_ms": 15
+}

@@ -1,0 +1,104 @@
+{
+  "filename": "0170KhalilFarahidi.Cayn.ShamIbadiyya0000225-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK الجزء 1",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 223
+    },
+    "2": {
+      "title": "CHECK الجزء 2",
+      "level": 1,
+      "parent": null,
+      "start_ms": 223,
+      "end_ms": 379
+    },
+    "3": {
+      "title": "CHECK الجزء 3",
+      "level": 1,
+      "parent": null,
+      "start_ms": 379,
+      "end_ms": 594
+    },
+    "4": {
+      "title": "CHECK الجزء 4",
+      "level": 1,
+      "parent": null,
+      "start_ms": 594,
+      "end_ms": 820
+    },
+    "5": {
+      "title": "CHECK الجزء 5",
+      "level": 1,
+      "parent": null,
+      "start_ms": 820,
+      "end_ms": 1017
+    },
+    "6": {
+      "title": "CHECK الجزء 6",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1017,
+      "end_ms": 1143
+    },
+    "7": {
+      "title": "CHECK الجزء 7",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1143,
+      "end_ms": 1337
+    },
+    "8": {
+      "title": "CHECK الجزء 8",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1337,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      223,
+      [2],
+      1
+    ],
+    [
+      379,
+      [3],
+      2
+    ],
+    [
+      594,
+      [4],
+      3
+    ],
+    [
+      820,
+      [5],
+      4
+    ],
+    [
+      1017,
+      [6],
+      5
+    ],
+    [
+      1143,
+      [7],
+      6
+    ],
+    [
+      1337,
+      [8],
+      7
+    ]
+  ],
+  "last_ms": 1536
+}

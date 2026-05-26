@@ -1,0 +1,140 @@
+{
+  "filename": "0456IbnHazm.MuhallaBiAthar.ShamAY0034276-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [الجزء 1]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 226
+    },
+    "2": {
+      "title": "CHECK [الجزء 2]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 226,
+      "end_ms": 446
+    },
+    "3": {
+      "title": "CHECK [الجزء 3]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 446,
+      "end_ms": 651
+    },
+    "4": {
+      "title": "CHECK [الجزء 4]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 651,
+      "end_ms": 882
+    },
+    "5": {
+      "title": "CHECK [الجزء 5]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 882,
+      "end_ms": 1155
+    },
+    "6": {
+      "title": "CHECK [الجزء 6]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1155,
+      "end_ms": 1437
+    },
+    "7": {
+      "title": "CHECK [الجزء 7]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1437,
+      "end_ms": 2119
+    },
+    "8": {
+      "title": "CHECK [الجزء 8]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2119,
+      "end_ms": 2811
+    },
+    "9": {
+      "title": "CHECK [الجزء 9]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2811,
+      "end_ms": 3558
+    },
+    "10": {
+      "title": "CHECK [الجزء 10]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3558,
+      "end_ms": 4287
+    },
+    "11": {
+      "title": "CHECK [الجزء 11]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4287,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      226,
+      [2],
+      1
+    ],
+    [
+      446,
+      [3],
+      2
+    ],
+    [
+      651,
+      [4],
+      3
+    ],
+    [
+      882,
+      [5],
+      4
+    ],
+    [
+      1155,
+      [6],
+      5
+    ],
+    [
+      1437,
+      [7],
+      6
+    ],
+    [
+      2119,
+      [8],
+      7
+    ],
+    [
+      2811,
+      [9],
+      8
+    ],
+    [
+      3558,
+      [10],
+      9
+    ],
+    [
+      4287,
+      [11],
+      10
+    ]
+  ],
+  "last_ms": 5412
+}

@@ -1,0 +1,171 @@
+{
+  "filename": "0911Suyuti.LumacFiAsbabHadith.ShamAY0033525-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO أسباب ورود الحديث أو اللمع في أسباب الحديث PageV01P001",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "2": {
+      "title": "AUTO - * باب الطهارة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 6
+    },
+    "3": {
+      "title": "AUTO - * باب الصلاة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 13
+    },
+    "4": {
+      "title": "CHECK [باب الجنائز]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 17
+    },
+    "5": {
+      "title": "AUTO - * باب الصيام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 17,
+      "end_ms": 20
+    },
+    "6": {
+      "title": "AUTO - * باب الحج",
+      "level": 1,
+      "parent": null,
+      "start_ms": 20,
+      "end_ms": 21
+    },
+    "7": {
+      "title": "AUTO - * باب البيع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 21,
+      "end_ms": 25
+    },
+    "8": {
+      "title": "AUTO ms24 - * باب النكاح",
+      "level": 1,
+      "parent": null,
+      "start_ms": 25,
+      "end_ms": 26
+    },
+    "9": {
+      "title": "AUTO - * باب الجنايات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 26,
+      "end_ms": 28
+    },
+    "10": {
+      "title": "AUTO - * باب ( الاضحية ) ( 1 )",
+      "level": 1,
+      "parent": null,
+      "start_ms": 28,
+      "end_ms": 28
+    },
+    "11": {
+      "title": "AUTO - * باب الاطعمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 28,
+      "end_ms": 29
+    },
+    "12": {
+      "title": "AUTO باب الادب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 29,
+      "end_ms": 36
+    },
+    "13": {
+      "title": "CHECK [إذا رأى أحدكم الرؤيا يكرهها]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 36,
+      "end_ms": 50
+    },
+    "14": {
+      "title": "CHECK [فبلغ ذلك رسول الله صلى الله عليه وسلم فقال والذي نفسي بيده",
+      "level": 1,
+      "parent": null,
+      "start_ms": 50,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2],
+      1
+    ],
+    [
+      6,
+      [3],
+      2
+    ],
+    [
+      13,
+      [4],
+      3
+    ],
+    [
+      17,
+      [5],
+      4
+    ],
+    [
+      20,
+      [6],
+      5
+    ],
+    [
+      21,
+      [7],
+      6
+    ],
+    [
+      25,
+      [8],
+      null
+    ],
+    [
+      26,
+      [9],
+      8
+    ],
+    [
+      28,
+      [10, 11],
+      9
+    ],
+    [
+      29,
+      [12],
+      11
+    ],
+    [
+      36,
+      [13],
+      12
+    ],
+    [
+      50,
+      [14],
+      13
+    ]
+  ],
+  "last_ms": 54
+}

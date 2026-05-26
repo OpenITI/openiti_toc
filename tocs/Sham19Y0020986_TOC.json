@@ -1,0 +1,80 @@
+{
+  "filename": "0335IbnWahbKatib.BurhanFiWujuhBayan.Sham19Y0020986-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK مقدمة المؤلف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 10
+    },
+    "2": {
+      "title": "AUTO باب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 23
+    },
+    "3": {
+      "title": "AUTO باب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 23,
+      "end_ms": 28
+    },
+    "4": {
+      "title": "AUTO باب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 28,
+      "end_ms": 122
+    },
+    "5": {
+      "title": "AUTO باب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 122,
+      "end_ms": 197
+    },
+    "6": {
+      "title": "CHECK خاتمة الكتاب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 197,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      10,
+      [2],
+      1
+    ],
+    [
+      23,
+      [3],
+      2
+    ],
+    [
+      28,
+      [4],
+      3
+    ],
+    [
+      122,
+      [5],
+      4
+    ],
+    [
+      197,
+      [6],
+      5
+    ]
+  ],
+  "last_ms": 198
+}

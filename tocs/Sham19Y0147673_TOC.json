@@ -1,0 +1,32 @@
+{
+  "filename": "0744IbnCabdHadi.Ikhtiyarat.Sham19Y0147673-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO الفصل الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 31
+    },
+    "2": {
+      "title": "CHECK الفصل الثالث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 31,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      14,
+      [1],
+      null
+    ],
+    [
+      31,
+      [2],
+      1
+    ]
+  ],
+  "last_ms": 32
+}

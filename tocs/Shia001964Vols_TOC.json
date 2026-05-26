@@ -1,0 +1,80 @@
+{
+  "filename": "0303Nasai.SunanKubra.Shia001964Vols-ara1",
+  "sections": {
+    "1": {
+      "title": "كتاب الطهارة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 477
+    },
+    "2": {
+      "title": "كتاب الزكاة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 477,
+      "end_ms": 872
+    },
+    "3": {
+      "title": "كتاب الجهاد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 872,
+      "end_ms": 1256
+    },
+    "4": {
+      "title": "كتاب البيوع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1256,
+      "end_ms": 1654
+    },
+    "5": {
+      "title": "كتاب فضائل القرآن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1654,
+      "end_ms": 2084
+    },
+    "6": {
+      "title": "كتاب عمل اليوم والليلة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2084,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      15,
+      [1],
+      null
+    ],
+    [
+      477,
+      [2],
+      1
+    ],
+    [
+      872,
+      [3],
+      2
+    ],
+    [
+      1256,
+      [4],
+      3
+    ],
+    [
+      1654,
+      [5],
+      4
+    ],
+    [
+      2084,
+      [6],
+      5
+    ]
+  ],
+  "last_ms": 2565
+}

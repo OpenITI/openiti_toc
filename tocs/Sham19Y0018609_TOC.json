@@ -1,0 +1,171 @@
+{
+  "filename": "0422QadiCabdWahhabThaclabi.SharhRisala.Sham19Y0018609-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO باب صلاة العيدين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 21
+    },
+    "2": {
+      "title": "AUTO باب في صلاة الخسوف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 21,
+      "end_ms": 29
+    },
+    "3": {
+      "title": "AUTO باب: صلاة الاستسقاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 29,
+      "end_ms": 33
+    },
+    "4": {
+      "title": "AUTO باب: ما فعل بالمحتضر، وفي غسل الميت",
+      "level": 1,
+      "parent": null,
+      "start_ms": 33,
+      "end_ms": 52
+    },
+    "5": {
+      "title": "AUTO باب في الصلاة على الجنائز",
+      "level": 1,
+      "parent": null,
+      "start_ms": 52,
+      "end_ms": 64
+    },
+    "6": {
+      "title": "AUTO باب في الدعاء للطفل [وغسله] والصلاة عليه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 64,
+      "end_ms": 66
+    },
+    "7": {
+      "title": "AUTO كتاب الصيام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 66,
+      "end_ms": 159
+    },
+    "8": {
+      "title": "AUTO كتاب الاعتكاف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 159,
+      "end_ms": 169
+    },
+    "9": {
+      "title": "AUTO كتاب: الزكاة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 169,
+      "end_ms": 311
+    },
+    "10": {
+      "title": "AUTO باب: في زكاة العين، والحرف، والماشية، وما يخرج من المعدن، وما يؤخذ من تجارة أهل الذمة والحربيين",
+      "level": 2,
+      "parent": 9,
+      "start_ms": 169,
+      "end_ms": 223
+    },
+    "11": {
+      "title": "AUTO باب الجزية",
+      "level": 2,
+      "parent": 9,
+      "start_ms": 223,
+      "end_ms": 228
+    },
+    "12": {
+      "title": "AUTO باب في زكاة الماشية",
+      "level": 2,
+      "parent": 9,
+      "start_ms": 228,
+      "end_ms": 281
+    },
+    "13": {
+      "title": "AUTO باب زكاة الفطر",
+      "level": 2,
+      "parent": 9,
+      "start_ms": 281,
+      "end_ms": 311
+    },
+    "14": {
+      "title": "AUTO باب في الحج والعمرة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 311,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      21,
+      [2],
+      1
+    ],
+    [
+      29,
+      [3],
+      2
+    ],
+    [
+      33,
+      [4],
+      3
+    ],
+    [
+      52,
+      [5],
+      4
+    ],
+    [
+      64,
+      [6],
+      5
+    ],
+    [
+      66,
+      [7],
+      6
+    ],
+    [
+      159,
+      [8],
+      7
+    ],
+    [
+      169,
+      [9, 10],
+      8
+    ],
+    [
+      223,
+      [11],
+      10
+    ],
+    [
+      228,
+      [12],
+      11
+    ],
+    [
+      281,
+      [13],
+      12
+    ],
+    [
+      311,
+      [14],
+      13
+    ]
+  ],
+  "last_ms": 464
+}

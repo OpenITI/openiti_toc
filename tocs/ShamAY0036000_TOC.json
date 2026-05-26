@@ -1,0 +1,70 @@
+{
+  "filename": "1304CabdHayyLaknawi.IhkamQantara.ShamAY0036000-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [مقدمة المؤلف]",
+      "level": 2,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "AUTO المقدمة: في نبذ من فضائلها، وما يتعلق بها .",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "CHECK [فضائل البسملة]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "4": {
+      "title": "AUTO في ذكر الاختلافات الواقعة في كون البسملة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 16
+    },
+    "5": {
+      "title": "AUTO في نبذ من الأحكام المتعلقة بها",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 16,
+      "end_ms": 37
+    },
+    "6": {
+      "title": "AUTO ### || AUTO اختلفوا في قراءة البسملة في الصلاة عند الشروع في",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 37,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3],
+      null
+    ],
+    [
+      4,
+      [4],
+      3
+    ],
+    [
+      16,
+      [5],
+      4
+    ],
+    [
+      37,
+      [6],
+      5
+    ]
+  ],
+  "last_ms": 80
+}

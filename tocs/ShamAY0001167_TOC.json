@@ -1,0 +1,270 @@
+{
+  "filename": "0324Ashcari.MaqalatIslamiyyin.ShamAY0001167-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO هذا ذكر الاختلاف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "2": {
+      "title": "AUTO مقالات الشيع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 43
+    },
+    "3": {
+      "title": "AUTO مقالات الخوارج",
+      "level": 1,
+      "parent": null,
+      "start_ms": 43,
+      "end_ms": 66
+    },
+    "4": {
+      "title": "AUTO أول مقالات المرجئة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 66,
+      "end_ms": 78
+    },
+    "5": {
+      "title": "AUTO ذكر اختلاف المرجئة",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 66,
+      "end_ms": 78
+    },
+    "6": {
+      "title": "AUTO مقالات المعتزلة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 78,
+      "end_ms": 142
+    },
+    "7": {
+      "title": "AUTO وهذا شرح قول المعتزلة في التوحيد وغيره",
+      "level": 2,
+      "parent": 6,
+      "start_ms": 78,
+      "end_ms": 86
+    },
+    "8": {
+      "title": "AUTO وهذا شرح قول عبد الله بن كلاب في الأسماء والصفات",
+      "level": 2,
+      "parent": 6,
+      "start_ms": 86,
+      "end_ms": 106
+    },
+    "9": {
+      "title": "AUTO هذا شرح اختلاف الناس في التجسيم",
+      "level": 2,
+      "parent": 6,
+      "start_ms": 106,
+      "end_ms": 142
+    },
+    "10": {
+      "title": "AUTO ذكر قول الجهمية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 142,
+      "end_ms": 142
+    },
+    "11": {
+      "title": "AUTO ذكر قول الضرارية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 142,
+      "end_ms": 143
+    },
+    "12": {
+      "title": "AUTO أصحاب ضرار بن عمر",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 142,
+      "end_ms": 143
+    },
+    "13": {
+      "title": "AUTO ذكر قول الحسينية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 143,
+      "end_ms": 144
+    },
+    "14": {
+      "title": "AUTO الحسين بن محمد النجار",
+      "level": 2,
+      "parent": 13,
+      "start_ms": 143,
+      "end_ms": 144
+    },
+    "15": {
+      "title": "AUTO ذكر قول البكرية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 144,
+      "end_ms": 150
+    },
+    "16": {
+      "title": "AUTO هذه حكاية قول قوم من النساك",
+      "level": 2,
+      "parent": 15,
+      "start_ms": 145,
+      "end_ms": 146
+    },
+    "17": {
+      "title": "AUTO هذه حكاية جملة",
+      "level": 2,
+      "parent": 15,
+      "start_ms": 146,
+      "end_ms": 150
+    },
+    "18": {
+      "title": "AUTO قول أصحاب الحديث وأهل السنة",
+      "level": 3,
+      "parent": 17,
+      "start_ms": 146,
+      "end_ms": 150
+    },
+    "19": {
+      "title": "AUTO فأما أصحاب عبد الله بن سعيد القطان",
+      "level": 3,
+      "parent": 17,
+      "start_ms": 150,
+      "end_ms": 150
+    },
+    "20": {
+      "title": "AUTO ذكر قول زهير الأثري",
+      "level": 1,
+      "parent": null,
+      "start_ms": 150,
+      "end_ms": 151
+    },
+    "21": {
+      "title": "AUTO وأما أبو معاذ التومني",
+      "level": 2,
+      "parent": 20,
+      "start_ms": 151,
+      "end_ms": 151
+    },
+    "22": {
+      "title": "AUTO هذا ذكر اختلاف الناس في الدقيق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 151,
+      "end_ms": 241
+    },
+    "23": {
+      "title": "AUTO وهذا ذكر اختلاف الناس في الأسماء والصفات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 241,
+      "end_ms": 276
+    },
+    "24": {
+      "title": "AUTO ذكر قول الكلابية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 276,
+      "end_ms": null
+    },
+    "25": {
+      "title": "AUTO شرح قول عبد الله بن كلاب",
+      "level": 2,
+      "parent": 24,
+      "start_ms": 276,
+      "end_ms": 296
+    },
+    "26": {
+      "title": "AUTO القول في القرآن",
+      "level": 2,
+      "parent": 24,
+      "start_ms": 296,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      3,
+      [1, 2],
+      null
+    ],
+    [
+      43,
+      [3],
+      2
+    ],
+    [
+      66,
+      [4, 5],
+      3
+    ],
+    [
+      78,
+      [6, 7],
+      5
+    ],
+    [
+      86,
+      [8],
+      7
+    ],
+    [
+      106,
+      [9],
+      8
+    ],
+    [
+      142,
+      [10, 11, 12],
+      9
+    ],
+    [
+      143,
+      [13, 14],
+      12
+    ],
+    [
+      144,
+      [15],
+      14
+    ],
+    [
+      145,
+      [16],
+      15
+    ],
+    [
+      146,
+      [17, 18],
+      16
+    ],
+    [
+      150,
+      [19, 20],
+      18
+    ],
+    [
+      151,
+      [21, 22],
+      20
+    ],
+    [
+      241,
+      [23],
+      22
+    ],
+    [
+      276,
+      [24, 25],
+      23
+    ],
+    [
+      296,
+      [26],
+      25
+    ]
+  ],
+  "last_ms": 311
+}

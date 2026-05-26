@@ -1,0 +1,63 @@
+{
+  "filename": "0751IbnQayyimJawziyya.BadaicFawaid.ShamAY0034433-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO بدائع الفوائد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO المجلد الأول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 221
+    },
+    "3": {
+      "title": "AUTO المجلد الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 221,
+      "end_ms": 482
+    },
+    "4": {
+      "title": "AUTO المجلد الثالث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 482,
+      "end_ms": 734
+    },
+    "5": {
+      "title": "AUTO المجلد الرابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 734,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      221,
+      [3],
+      2
+    ],
+    [
+      482,
+      [4],
+      3
+    ],
+    [
+      734,
+      [5],
+      4
+    ]
+  ],
+  "last_ms": 921
+}

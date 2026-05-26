@@ -1,0 +1,142 @@
+{
+  "filename": "0728IbnTaymiyya.FaslFiTazkiyyatNafs.Sham19Y0133364-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK تعريف التزكية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "CHECK حمل الكلام على الأظهر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 4
+    },
+    "4": {
+      "title": "CHECK أثر الحسنة على النفس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "5": {
+      "title": "CHECK حال النفس المطمئنة واللوامة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 8
+    },
+    "6": {
+      "title": "AUTO الزكاة تستلزم ms07 الطهارة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 8
+    },
+    "7": {
+      "title": "CHECK أنواع أمراض القلب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 10
+    },
+    "8": {
+      "title": "CHECK القلب لا يمرض بالشبهات والشهوات إلا لنقصان الإيمان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 11
+    },
+    "9": {
+      "title": "CHECK مذهب أهل السنة على خلاف مذهب الخوارج",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 13
+    },
+    "10": {
+      "title": "CHECK السيئات تحبط بعض الحسنات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 15
+    },
+    "11": {
+      "title": "CHECK وزن الحسنات والسيئات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 19
+    },
+    "12": {
+      "title": "AUTO الوزن على وجهين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 19,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3],
+      2
+    ],
+    [
+      4,
+      [4],
+      3
+    ],
+    [
+      5,
+      [5],
+      4
+    ],
+    [
+      8,
+      [6, 7],
+      null
+    ],
+    [
+      10,
+      [8],
+      7
+    ],
+    [
+      11,
+      [9],
+      8
+    ],
+    [
+      13,
+      [10],
+      9
+    ],
+    [
+      15,
+      [11],
+      10
+    ],
+    [
+      19,
+      [12],
+      11
+    ]
+  ],
+  "last_ms": 22
+}

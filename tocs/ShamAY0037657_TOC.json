@@ -1,0 +1,99 @@
+{
+  "filename": "0827IbnShihabBazzazi.Fatawa.ShamAY0037657-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO الفتاوى البزازية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO حمدا لمن دعا إلى دار السلام بمحمد عليه أفضل الصلاة والسلام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 23
+    },
+    "3": {
+      "title": "AUTO بسنة فلا تصل رطوبة فمه وإن لا على وجه الغصب يجب لوصول رطوبة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 23,
+      "end_ms": 91
+    },
+    "4": {
+      "title": "AUTO فاتته الجماعة في حيه أن أقامها في مسجد آخر فحسن وإن صلى وحده",
+      "level": 1,
+      "parent": null,
+      "start_ms": 91,
+      "end_ms": 103
+    },
+    "5": {
+      "title": "AUTO السلطان العشر وتركه عند المزارع يصرفه المزارع إلى الفقراء وإن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 103,
+      "end_ms": 120
+    },
+    "6": {
+      "title": "AUTO خدمته لا يكره الخروج وإن احتاج واحد منها كره * وفي السير",
+      "level": 1,
+      "parent": null,
+      "start_ms": 120,
+      "end_ms": 645
+    },
+    "7": {
+      "title": "AUTO كتاب الصرف PageV06P001",
+      "level": 1,
+      "parent": null,
+      "start_ms": 645,
+      "end_ms": 909
+    },
+    "8": {
+      "title": "AUTO بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 909,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      23,
+      [3],
+      2
+    ],
+    [
+      91,
+      [4],
+      3
+    ],
+    [
+      103,
+      [5],
+      4
+    ],
+    [
+      120,
+      [6],
+      5
+    ],
+    [
+      645,
+      [7],
+      6
+    ],
+    [
+      909,
+      [8],
+      7
+    ]
+  ],
+  "last_ms": 1112
+}

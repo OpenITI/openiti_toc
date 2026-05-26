@@ -1,0 +1,131 @@
+{
+  "filename": "0571IbnCasakir.FadlShacban.ShamAY0032907-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "1 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "2 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "3 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "4": {
+      "title": "4 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "5": {
+      "title": "5 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "6": {
+      "title": "6 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "7": {
+      "title": "7 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "8": {
+      "title": "8 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "9": {
+      "title": "9 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "10": {
+      "title": "10 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "11": {
+      "title": "11 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "12": {
+      "title": "12 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "13": {
+      "title": "13 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "14": {
+      "title": "14 -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3],
+      null
+    ],
+    [
+      2,
+      [4, 5],
+      3
+    ],
+    [
+      3,
+      [6, 7, 8, 9],
+      5
+    ],
+    [
+      4,
+      [10, 11],
+      9
+    ],
+    [
+      5,
+      [12, 13, 14],
+      11
+    ]
+  ],
+  "last_ms": 6
+}

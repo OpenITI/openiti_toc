@@ -1,0 +1,87 @@
+{
+  "filename": "0852IbnHajarCasqalani.KashfSitr.ShamAY0034313-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO الفصل الأول في حال الحديث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "AUTO الفصل الثاني في بيان ما قع في إسناده من الاختلاف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 5
+    },
+    "4": {
+      "title": "AUTO الفصل الثالث في بيان ما وقع في ألفاظ المتن من اختلاف الرواة،",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "5": {
+      "title": "AUTO الفصل الرابع في معانيه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 8
+    },
+    "6": {
+      "title": "AUTO الفصل الخامس في بيان خصوص الحكم الذي ترجم به ابن حبان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 9
+    },
+    "7": {
+      "title": "AUTO الفصل السادس في بيان حكم الركعتين اللتين جاء أن النبي صلى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      3,
+      [3],
+      2
+    ],
+    [
+      5,
+      [4],
+      3
+    ],
+    [
+      6,
+      [5],
+      4
+    ],
+    [
+      8,
+      [6],
+      5
+    ],
+    [
+      9,
+      [7],
+      6
+    ]
+  ],
+  "last_ms": 18
+}

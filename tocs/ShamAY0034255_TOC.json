@@ -1,0 +1,99 @@
+{
+  "filename": "0204Shafici.Umm.ShamAY0034255-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [3]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 440,
+      "end_ms": 440
+    },
+    "2": {
+      "title": "CHECK [2]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 440,
+      "end_ms": 908
+    },
+    "3": {
+      "title": "CHECK [4]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 908,
+      "end_ms": 1365
+    },
+    "4": {
+      "title": "CHECK [5]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1365,
+      "end_ms": 1903
+    },
+    "5": {
+      "title": "CHECK [6]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1903,
+      "end_ms": 2496
+    },
+    "6": {
+      "title": "CHECK [7]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2496,
+      "end_ms": 2986
+    },
+    "7": {
+      "title": "CHECK [8]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2986,
+      "end_ms": 3513
+    },
+    "8": {
+      "title": "CHECK [9]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3513,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      440,
+      [1, 2],
+      null
+    ],
+    [
+      908,
+      [3],
+      2
+    ],
+    [
+      1365,
+      [4],
+      3
+    ],
+    [
+      1903,
+      [5],
+      4
+    ],
+    [
+      2496,
+      [6],
+      5
+    ],
+    [
+      2986,
+      [7],
+      6
+    ],
+    [
+      3513,
+      [8],
+      7
+    ]
+  ],
+  "last_ms": 3868
+}

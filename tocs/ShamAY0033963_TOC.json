@@ -1,0 +1,214 @@
+{
+  "filename": "0241IbnHanbal.Musnad.ShamAY0033963-ara5",
+  "sections": {
+    "1": {
+      "title": "AUTO الكتاب : مسند أحمد بن حنبل.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO المجلد الأول.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 898
+    },
+    "3": {
+      "title": "AUTO مسند أبي بكر الصديق رضي الله عنه.",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 1,
+      "end_ms": 26
+    },
+    "4": {
+      "title": "AUTO أول مسند عمر بن الخطاب رضي الله عنه.",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 26,
+      "end_ms": 108
+    },
+    "5": {
+      "title": "AUTO مسند عثمان بن عفان رضي الله عنه.",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 108,
+      "end_ms": 144
+    },
+    "6": {
+      "title": "AUTO مسند علي بن ms0143 أبي طالب رضي الله عنه.",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 144,
+      "end_ms": 306
+    },
+    "7": {
+      "title": "CHECK [مسند طلحة بن عبيد الله]",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 306,
+      "end_ms": 312
+    },
+    "8": {
+      "title": "AUTO مسند الزبير بن العوام رضي الله عنه.",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 312,
+      "end_ms": 319
+    },
+    "9": {
+      "title": "CHECK [مسند سعد بن أبي وقاص]",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 319,
+      "end_ms": 358
+    },
+    "10": {
+      "title": "AUTO مسند سعيد بن زيد بن عمرو بن نفيل رضي الله عنه.",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 358,
+      "end_ms": 364
+    },
+    "11": {
+      "title": "AUTO مسند عبد الرحمن بن عوف الزهري رضي الله عنه.",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 364,
+      "end_ms": 382
+    },
+    "12": {
+      "title": "AUTO حديث الحسن بن علي بن أبي طالب.",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 382,
+      "end_ms": 395
+    },
+    "13": {
+      "title": "AUTO حديث العباس بن عبد المطلب.",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 395,
+      "end_ms": 898
+    },
+    "14": {
+      "title": "AUTO المجلد الثاني.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 898,
+      "end_ms": 1946
+    },
+    "15": {
+      "title": "AUTO المجلد الثالث.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1946,
+      "end_ms": 2903
+    },
+    "16": {
+      "title": "AUTO المجلد الرابع.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2903,
+      "end_ms": 3744
+    },
+    "17": {
+      "title": "AUTO المجلد الخامس.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3744,
+      "end_ms": 4572
+    },
+    "18": {
+      "title": "AUTO المجلد السادس.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4572,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3],
+      null
+    ],
+    [
+      26,
+      [4],
+      3
+    ],
+    [
+      108,
+      [5],
+      4
+    ],
+    [
+      144,
+      [6],
+      null
+    ],
+    [
+      306,
+      [7],
+      6
+    ],
+    [
+      312,
+      [8],
+      7
+    ],
+    [
+      319,
+      [9],
+      8
+    ],
+    [
+      358,
+      [10],
+      9
+    ],
+    [
+      364,
+      [11],
+      10
+    ],
+    [
+      382,
+      [12],
+      11
+    ],
+    [
+      395,
+      [13],
+      12
+    ],
+    [
+      898,
+      [14],
+      13
+    ],
+    [
+      1946,
+      [15],
+      14
+    ],
+    [
+      2903,
+      [16],
+      15
+    ],
+    [
+      3744,
+      [17],
+      16
+    ],
+    [
+      4572,
+      [18],
+      17
+    ]
+  ],
+  "last_ms": 5311
+}

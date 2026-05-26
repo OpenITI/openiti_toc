@@ -1,0 +1,51 @@
+{
+  "filename": "0672IbnMalik.MacaniAbniyatAsma.Sham19Y0029575-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO من كلام الشيخ الإمام العلامة جمال الدين أبي عبد الله محمد بن عبد الله بن مالك، رحمه الله.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "2": {
+      "title": "AUTO الرباعي",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "AUTO الخماسي",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "4": {
+      "title": "AUTO ومن الأسماء الموجودة في المفصل، ولم يتكلم عليها",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2],
+      1
+    ],
+    [
+      3,
+      [3, 4],
+      2
+    ]
+  ],
+  "last_ms": 3
+}

@@ -1,0 +1,51 @@
+{
+  "filename": "1285IbnHasanAlShaykh.MawridCadhbZulal.ShamAY0033876-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO المورد العذب الزلالفي نقض شبه اهل الضلال",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 7
+    },
+    "3": {
+      "title": "AUTO فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 14
+    },
+    "4": {
+      "title": "AUTO فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      7,
+      [3],
+      2
+    ],
+    [
+      14,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 32
+}

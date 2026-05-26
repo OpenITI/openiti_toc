@@ -1,0 +1,94 @@
+{
+  "filename": "0751IbnQayyimJawziyya.ManarMunif.ShamAY0038386-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO المقدمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 14
+    },
+    "2": {
+      "title": "AUTO تحقيق الكتاب:",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 10,
+      "end_ms": 12
+    },
+    "3": {
+      "title": "AUTO عملي في الكتاب:",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 12,
+      "end_ms": 14
+    },
+    "4": {
+      "title": "AUTO نماذج من المخطوطة ms013 PageV00P029",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 14,
+      "end_ms": 14
+    },
+    "5": {
+      "title": "CHECK [النص المحقق]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 14
+    },
+    "6": {
+      "title": "AUTO فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 88
+    },
+    "7": {
+      "title": "AUTO فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 88,
+      "end_ms": 89
+    },
+    "8": {
+      "title": "AUTO فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 89,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      10,
+      [2],
+      1
+    ],
+    [
+      12,
+      [3],
+      2
+    ],
+    [
+      14,
+      [4, 5, 6],
+      null
+    ],
+    [
+      88,
+      [7],
+      6
+    ],
+    [
+      89,
+      [8],
+      7
+    ]
+  ],
+  "last_ms": 101
+}

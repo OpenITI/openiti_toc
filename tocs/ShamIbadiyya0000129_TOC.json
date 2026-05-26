@@ -1,0 +1,56 @@
+{
+  "filename": "0364AbuHasanBisyawi.Jamic.ShamIbadiyya0000129-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK جامع البسيوي ج1",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 291
+    },
+    "2": {
+      "title": "CHECK جامع البسيوي ج2",
+      "level": 1,
+      "parent": null,
+      "start_ms": 291,
+      "end_ms": 580
+    },
+    "3": {
+      "title": "CHECK جامع البسيوي ج3",
+      "level": 1,
+      "parent": null,
+      "start_ms": 580,
+      "end_ms": 736
+    },
+    "4": {
+      "title": "CHECK جامع البسيوي ج4",
+      "level": 1,
+      "parent": null,
+      "start_ms": 736,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      291,
+      [2],
+      1
+    ],
+    [
+      580,
+      [3],
+      2
+    ],
+    [
+      736,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 918
+}

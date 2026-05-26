@@ -1,0 +1,152 @@
+{
+  "filename": "0984BadrDinGhazzi.MatalicBadriya.ShamAY0000450-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO الخروج من دمشق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 9
+    },
+    "2": {
+      "title": "AUTO بعلبك",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 11
+    },
+    "3": {
+      "title": "AUTO حمص",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 15
+    },
+    "4": {
+      "title": "AUTO حماة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 20
+    },
+    "5": {
+      "title": "AUTO حلب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 20,
+      "end_ms": 26
+    },
+    "6": {
+      "title": "AUTO ذكر إرجاع ابن الفرفور وما حدث بعد ذلك من الأمور",
+      "level": 1,
+      "parent": null,
+      "start_ms": 26,
+      "end_ms": 36
+    },
+    "7": {
+      "title": "AUTO أدنة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 36,
+      "end_ms": 42
+    },
+    "8": {
+      "title": "AUTO قونية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 42,
+      "end_ms": 53
+    },
+    "9": {
+      "title": "AUTO القسطنطينية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 53,
+      "end_ms": 96
+    },
+    "10": {
+      "title": "AUTO ذكر الرحلة الأزنكمودية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 96,
+      "end_ms": 115
+    },
+    "11": {
+      "title": "AUTO ذكر العود إلى القسطنطينية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 115,
+      "end_ms": 131
+    },
+    "12": {
+      "title": "AUTO ذكر الرجوع الى الوطن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 131,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      5,
+      [1],
+      null
+    ],
+    [
+      9,
+      [2],
+      1
+    ],
+    [
+      11,
+      [3],
+      2
+    ],
+    [
+      15,
+      [4],
+      3
+    ],
+    [
+      20,
+      [5],
+      4
+    ],
+    [
+      26,
+      [6],
+      5
+    ],
+    [
+      36,
+      [7],
+      6
+    ],
+    [
+      42,
+      [8],
+      7
+    ],
+    [
+      53,
+      [9],
+      8
+    ],
+    [
+      96,
+      [10],
+      9
+    ],
+    [
+      115,
+      [11],
+      10
+    ],
+    [
+      131,
+      [12],
+      11
+    ]
+  ],
+  "last_ms": 155
+}

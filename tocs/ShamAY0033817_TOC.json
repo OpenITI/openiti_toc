@@ -1,0 +1,82 @@
+{
+  "filename": "0911Suyuti.Shamarikh.ShamAY0033817-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO الشماريخ في علم التاريخ تأليف الحافظ جلال الدين السيوطي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO علم التأريخ",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "AUTO الشماريخ في علم التاريخ",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "4": {
+      "title": "AUTO فقد وقعت لبعض شيوخنا على كتاب في علم التاريخ فلم أر فيه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "5": {
+      "title": "AUTO ذكر مبدأ التاريخ الهجري",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 7
+    },
+    "6": {
+      "title": "AUTO  الباب الثاني في فوائده",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 8
+    },
+    "7": {
+      "title": "AUTO  الباب الثالث في فوائد شتى تتعلق به",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      3,
+      [3, 4],
+      2
+    ],
+    [
+      4,
+      [5],
+      4
+    ],
+    [
+      7,
+      [6],
+      5
+    ],
+    [
+      8,
+      [7],
+      6
+    ]
+  ],
+  "last_ms": 13
+}

@@ -1,0 +1,116 @@
+{
+  "filename": "0911Suyuti.Iqtirah.Sham19Y0014246-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK مقدمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "2": {
+      "title": "AUTO المقدمات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 12
+    },
+    "3": {
+      "title": "AUTO السماع PageV01P065 # وأعني به ما ثبت في كلام من يوثق بفصاحته, فشمل كلام الله تعالى, وكلام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 31
+    },
+    "4": {
+      "title": "AUTO الإجماع PageV01P157 # والمراد به إجماع نحاة البلدين: البصرة والكوفة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 31,
+      "end_ms": 34
+    },
+    "5": {
+      "title": "AUTO القياس PageV01P173 # قال ابن الأنباري في (جدله)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 34,
+      "end_ms": 67
+    },
+    "6": {
+      "title": "AUTO الاستصحاب PageV01P351 # قال ابن الأنباري:",
+      "level": 1,
+      "parent": null,
+      "start_ms": 67,
+      "end_ms": 68
+    },
+    "7": {
+      "title": "AUTO أدلة شتى PageV01P359 # قال ابن الأنباري:",
+      "level": 1,
+      "parent": null,
+      "start_ms": 68,
+      "end_ms": 71
+    },
+    "8": {
+      "title": "CHECK التعارض والتراجيح",
+      "level": 1,
+      "parent": null,
+      "start_ms": 71,
+      "end_ms": 78
+    },
+    "9": {
+      "title": "AUTO أحوال مستنبط هذا العلم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 78,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      3,
+      [2],
+      1
+    ],
+    [
+      12,
+      [3],
+      2
+    ],
+    [
+      31,
+      [4],
+      3
+    ],
+    [
+      34,
+      [5],
+      4
+    ],
+    [
+      67,
+      [6],
+      5
+    ],
+    [
+      68,
+      [7],
+      6
+    ],
+    [
+      71,
+      [8],
+      7
+    ],
+    [
+      78,
+      [9],
+      8
+    ]
+  ],
+  "last_ms": 79
+}

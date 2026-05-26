@@ -1,0 +1,92 @@
+{
+  "filename": "1332NurDinSalimi.MacarijAmal.ShamIbadiyya0000229-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK مقدمات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 151
+    },
+    "2": {
+      "title": "CHECK الكتاب 1 في الطهارات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 151,
+      "end_ms": 944
+    },
+    "3": {
+      "title": "CHECK الكتاب 2 في الصلاة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 944,
+      "end_ms": 1940
+    },
+    "4": {
+      "title": "CHECK الكتاب 3 في الجنائز",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1940,
+      "end_ms": 2150
+    },
+    "5": {
+      "title": "CHECK الكتاب 4 في الزكاة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2150,
+      "end_ms": 2581
+    },
+    "6": {
+      "title": "CHECK الكتاب 5 في الصوم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2581,
+      "end_ms": 2809
+    },
+    "7": {
+      "title": "CHECK الكتاب 6 في الاعتكاف والنذور والفهرس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2809,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      151,
+      [2],
+      1
+    ],
+    [
+      944,
+      [3],
+      2
+    ],
+    [
+      1940,
+      [4],
+      3
+    ],
+    [
+      2150,
+      [5],
+      4
+    ],
+    [
+      2581,
+      [6],
+      5
+    ],
+    [
+      2809,
+      [7],
+      6
+    ]
+  ],
+  "last_ms": 2849
+}

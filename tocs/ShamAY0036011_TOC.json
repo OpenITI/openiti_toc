@@ -1,0 +1,72 @@
+{
+  "filename": "1304CabdHayyLaknawi.KalamJamil.ShamAY0036011-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [مقدمة المؤلف]",
+      "level": 2,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "AUTO في توضيح لفظ المنديل ومبناه",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "AUTO اختلفوا في مسح أعضاء الوضوء",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 5
+    },
+    "4": {
+      "title": "AUTO لا بأس بالتمسح بالمنديل بعد الغسل",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 5,
+      "end_ms": 7
+    },
+    "5": {
+      "title": "AUTO الأولى أن لا يصلي على منديل الوضوء الذي يمسح به؛ لشرافة ماء",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "6": {
+      "title": "AUTO يكره الاعتجار في الصلاة، وهو: أن يشد رأسه بالمنديل ويترك وسط",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "7": {
+      "title": "AUTO غسل اليد قبل الطعام أدب ولا يمسح يده حينئذ بالمنديل(1) كذا",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 7,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3],
+      null
+    ],
+    [
+      5,
+      [4],
+      3
+    ],
+    [
+      7,
+      [5, 6, 7],
+      4
+    ]
+  ],
+  "last_ms": 12
+}

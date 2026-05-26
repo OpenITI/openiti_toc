@@ -1,0 +1,101 @@
+{
+  "filename": "0842IbnNasirDinDimashqi.AsanidKutubSitta.ShamAY0033543-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO وصلى الله على محمد وآله وصحبه وسلم. يقول كاتبه محمد بن أبي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO بن شعيب السجزي الهروي قراءة عليه ونحن نسمع في اثني عشر مجلسا",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "AUTO ولابن سفيان فوات في ثلاثة مواضع من الصحيح ذكرت في شرح الصحيح",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "4": {
+      "title": "AUTO وأخبرنا به من غير طريق الخطيب أبو هريرة عبد الرحمن ابن الحافظ",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "5": {
+      "title": "AUTO [إسناد السنن الصغرى (المجتبى) للنسائي]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "6": {
+      "title": "AUTO وأخبرني بجميع كتاب السنن المجتبى تأليف الإمام أبي عبد الرحمن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "7": {
+      "title": "AUTO محمد عبد اللطيف بن يوسف بن محمد البغدادي، قال الزيني: حضورا،",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 11
+    },
+    "8": {
+      "title": "AUTO سنده بمسند الدارمي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 11
+    },
+    "9": {
+      "title": "AUTO سنده ب ((جزء أبي الجهم))",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3],
+      2
+    ],
+    [
+      3,
+      [4],
+      3
+    ],
+    [
+      4,
+      [5, 6],
+      4
+    ],
+    [
+      5,
+      [7],
+      6
+    ],
+    [
+      11,
+      [8, 9],
+      7
+    ]
+  ],
+  "last_ms": 12
+}

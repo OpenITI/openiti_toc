@@ -1,0 +1,111 @@
+{
+  "filename": "1304CabdHayyLaknawi.GhayatMaqal.ShamAY0036022-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [مقدمة المؤلف]",
+      "level": 2,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "AUTO في تحقيق لفظ: النعل وما يتعلق به",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 12
+    },
+    "3": {
+      "title": "AUTO في الصلاة وما يتعلق بها",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 12,
+      "end_ms": 28
+    },
+    "4": {
+      "title": "AUTO في الحج، وما يتعلق به",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 28,
+      "end_ms": 33
+    },
+    "5": {
+      "title": "AUTO في الجهاد",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 33,
+      "end_ms": 34
+    },
+    "6": {
+      "title": "AUTO في الحدود",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 34,
+      "end_ms": 61
+    },
+    "7": {
+      "title": "AUTO حادثة الفتوى: قد جرى في زماننا في بلاد الهند خصوصا في بلدنا",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 61,
+      "end_ms": 64
+    },
+    "8": {
+      "title": "AUTO فيما يتعلق بالنعال النبوية",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 64,
+      "end_ms": 84
+    },
+    "9": {
+      "title": "AUTO - خاتمة -",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 84,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      12,
+      [3],
+      2
+    ],
+    [
+      28,
+      [4],
+      3
+    ],
+    [
+      33,
+      [5],
+      4
+    ],
+    [
+      34,
+      [6],
+      5
+    ],
+    [
+      61,
+      [7],
+      6
+    ],
+    [
+      64,
+      [8],
+      7
+    ],
+    [
+      84,
+      [9],
+      8
+    ]
+  ],
+  "last_ms": 88
+}

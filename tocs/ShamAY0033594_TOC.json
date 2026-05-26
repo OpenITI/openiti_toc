@@ -1,0 +1,56 @@
+{
+  "filename": "0607IbnTabarzad.Muntaqa.ShamAY0033594-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO ومن حديث هناد النسفي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 6
+    },
+    "2": {
+      "title": "AUTO ومن حديث محمد بن إسماعيل الفارسي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 8
+    },
+    "3": {
+      "title": "AUTO ومن حديث ((أبو محمد الجوهري))",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 11
+    },
+    "4": {
+      "title": "AUTO 40- أخبرنا الشيخ أبو حفص عمر بن محمد بن معمر بن طبرزد، أنا",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      3,
+      [1],
+      null
+    ],
+    [
+      6,
+      [2],
+      1
+    ],
+    [
+      8,
+      [3],
+      2
+    ],
+    [
+      11,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 18
+}

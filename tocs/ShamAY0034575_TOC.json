@@ -1,0 +1,65 @@
+{
+  "filename": "1205MurtadaZabidi.TuhfatAhbab.ShamAY0034575-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO [الأصل في الكنى]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO [كنى غلبت على أسماء]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "AUTO فأول ما نبدأ به اسم نبينا محمد صلى الله عليه وسلم :",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "4": {
+      "title": "AUTO [الألقاب المقرونة بالدين]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "5": {
+      "title": "AUTO غير أنه قد صار ثم ألقاب اصطلح عليها ووضعت على اسمها، فجرت",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "6": {
+      "title": "AUTO [خاتمة]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3, 4],
+      2
+    ],
+    [
+      3,
+      [5, 6],
+      4
+    ]
+  ],
+  "last_ms": 4
+}

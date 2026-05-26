@@ -1,0 +1,87 @@
+{
+  "filename": "0744IbnCabdHadi.RisalaLatifaFiAhadithDacifa.ShamAY0034119-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO رأيت بخط الحافظ شمس الدين محمد بن عبد الهادي رحمه الله تعالى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 16
+    },
+    "2": {
+      "title": "AUTO وأما أسباب النزول: فغالبها مرسل، ليس بمسند، ولهذا قال الإمام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": 16
+    },
+    "3": {
+      "title": "AUTO مما يعلم به أنه صدق، فإن المخبر إنما يؤتى من جهة تعمد الكذب،",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": 17
+    },
+    "4": {
+      "title": "AUTO ينتظم أقوالا وأفعالا مختلفة، وجاء من ms16 علمنا أنه لم يواطئه على",
+      "level": 1,
+      "parent": null,
+      "start_ms": 17,
+      "end_ms": 19
+    },
+    "5": {
+      "title": "AUTO وقال إسحاق بن بشر: أنا مقاتل وجويبر عن الضحاك عن ابن عباس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 19,
+      "end_ms": 23
+    },
+    "6": {
+      "title": "AUTO وهذا أيضا موضوع.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 23,
+      "end_ms": 26
+    },
+    "7": {
+      "title": "AUTO وهكذا ذكر أبو يعقوب إسحاق بن إبراهيم بن عبد الرحمن الهروي في",
+      "level": 1,
+      "parent": null,
+      "start_ms": 26,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      16,
+      [2, 3],
+      1
+    ],
+    [
+      17,
+      [4],
+      null
+    ],
+    [
+      19,
+      [5],
+      4
+    ],
+    [
+      23,
+      [6],
+      5
+    ],
+    [
+      26,
+      [7],
+      6
+    ]
+  ],
+  "last_ms": 30
+}

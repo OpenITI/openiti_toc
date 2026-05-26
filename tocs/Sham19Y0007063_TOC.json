@@ -1,0 +1,89 @@
+{
+  "filename": "1348AhmadTaymurBasha.TashihLisanCarab.Sham19Y0007063-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 56
+    },
+    "2": {
+      "title": "AUTO القسم الثاني PageV01P081 # صفحة فارغة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 56,
+      "end_ms": 56
+    },
+    "3": {
+      "title": "AUTO بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 56,
+      "end_ms": 89
+    },
+    "4": {
+      "title": "AUTO حاشيتان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 89,
+      "end_ms": 89
+    },
+    "5": {
+      "title": "AUTO على موضعين في القسم الأول من هذه الرسالة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 89,
+      "end_ms": 91
+    },
+    "6": {
+      "title": "AUTO ثلاث حواش",
+      "level": 1,
+      "parent": null,
+      "start_ms": 91,
+      "end_ms": 91
+    },
+    "7": {
+      "title": "AUTO على ما كتبه الأستاذ العلامة لليازجي عن أغلاط اللسان في مجلة الضياء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 91,
+      "end_ms": 94
+    },
+    "8": {
+      "title": "AUTO الخاتمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 94,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      56,
+      [2, 3],
+      1
+    ],
+    [
+      89,
+      [4, 5],
+      3
+    ],
+    [
+      91,
+      [6, 7],
+      5
+    ],
+    [
+      94,
+      [8],
+      7
+    ]
+  ],
+  "last_ms": 99
+}

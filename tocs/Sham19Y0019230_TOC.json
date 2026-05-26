@@ -1,0 +1,6281 @@
+{
+  "filename": "0805SirajDinBulqini.TadribFiFiqhShafici.Sham19Y0019230-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK مقدمة المصنف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO كتاب الطهارة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 15
+    },
+    "3": {
+      "title": "AUTO باب المياه",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "4": {
+      "title": "AUTO باب الوضوء",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 2,
+      "end_ms": 5
+    },
+    "5": {
+      "title": "AUTO فصل",
+      "level": 3,
+      "parent": 4,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "6": {
+      "title": "AUTO باب المسح على الخف",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "7": {
+      "title": "AUTO باب الاغتسال",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 6,
+      "end_ms": 8
+    },
+    "8": {
+      "title": "AUTO باب التيمم",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 8,
+      "end_ms": 11
+    },
+    "9": {
+      "title": "AUTO باب النجاسة وإزالتها",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 11,
+      "end_ms": 13
+    },
+    "10": {
+      "title": "AUTO باب الحيض",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 13,
+      "end_ms": 15
+    },
+    "11": {
+      "title": "AUTO فصل في النفاس",
+      "level": 3,
+      "parent": 10,
+      "start_ms": 14,
+      "end_ms": 15
+    },
+    "12": {
+      "title": "AUTO كتاب الصلاة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 42
+    },
+    "13": {
+      "title": "AUTO باب مواقيت الصلاة",
+      "level": 2,
+      "parent": 12,
+      "start_ms": 16,
+      "end_ms": 17
+    },
+    "14": {
+      "title": "AUTO باب الأذان",
+      "level": 2,
+      "parent": 12,
+      "start_ms": 17,
+      "end_ms": 18
+    },
+    "15": {
+      "title": "AUTO باب أحكام الصلاة",
+      "level": 2,
+      "parent": 12,
+      "start_ms": 18,
+      "end_ms": 21
+    },
+    "16": {
+      "title": "AUTO باب ما يفسد الصلاة",
+      "level": 2,
+      "parent": 12,
+      "start_ms": 21,
+      "end_ms": 22
+    },
+    "17": {
+      "title": "AUTO فصل",
+      "level": 3,
+      "parent": 16,
+      "start_ms": 21,
+      "end_ms": 22
+    },
+    "18": {
+      "title": "AUTO باب الإمامة",
+      "level": 2,
+      "parent": 12,
+      "start_ms": 22,
+      "end_ms": 23
+    },
+    "19": {
+      "title": "AUTO فصل",
+      "level": 3,
+      "parent": 18,
+      "start_ms": 23,
+      "end_ms": 23
+    },
+    "20": {
+      "title": "AUTO باب صلاة المسافر",
+      "level": 2,
+      "parent": 12,
+      "start_ms": 23,
+      "end_ms": 24
+    },
+    "21": {
+      "title": "AUTO باب الجمع",
+      "level": 2,
+      "parent": 12,
+      "start_ms": 24,
+      "end_ms": 25
+    },
+    "22": {
+      "title": "AUTO باب الجمعة",
+      "level": 2,
+      "parent": 12,
+      "start_ms": 25,
+      "end_ms": 26
+    },
+    "23": {
+      "title": "AUTO باب صلاة الخوف",
+      "level": 2,
+      "parent": 12,
+      "start_ms": 26,
+      "end_ms": 27
+    },
+    "24": {
+      "title": "AUTO فصل في صلاة شدة الخوف",
+      "level": 3,
+      "parent": 23,
+      "start_ms": 27,
+      "end_ms": 27
+    },
+    "25": {
+      "title": "AUTO باب صلاة المريض والغريق والمعذور",
+      "level": 2,
+      "parent": 12,
+      "start_ms": 27,
+      "end_ms": 27
+    },
+    "26": {
+      "title": "AUTO باب القضاء والإعادة",
+      "level": 2,
+      "parent": 12,
+      "start_ms": 27,
+      "end_ms": 28
+    },
+    "27": {
+      "title": "AUTO باب صلاة الجنازة",
+      "level": 2,
+      "parent": 12,
+      "start_ms": 28,
+      "end_ms": 30
+    },
+    "28": {
+      "title": "AUTO باب صلاة الجماعة",
+      "level": 2,
+      "parent": 12,
+      "start_ms": 30,
+      "end_ms": 31
+    },
+    "29": {
+      "title": "AUTO أبواب السنن",
+      "level": 2,
+      "parent": 12,
+      "start_ms": 31,
+      "end_ms": 38
+    },
+    "30": {
+      "title": "AUTO باب صلاة العيدين",
+      "level": 3,
+      "parent": 29,
+      "start_ms": 31,
+      "end_ms": 32
+    },
+    "31": {
+      "title": "AUTO باب صلاة الخسوفين",
+      "level": 3,
+      "parent": 29,
+      "start_ms": 32,
+      "end_ms": 33
+    },
+    "32": {
+      "title": "AUTO باب صلاة الاستسقاء",
+      "level": 3,
+      "parent": 29,
+      "start_ms": 33,
+      "end_ms": 33
+    },
+    "33": {
+      "title": "CHECK باب السنن الرواتب",
+      "level": 3,
+      "parent": 29,
+      "start_ms": 33,
+      "end_ms": 34
+    },
+    "34": {
+      "title": "AUTO باب الوتر",
+      "level": 3,
+      "parent": 29,
+      "start_ms": 34,
+      "end_ms": 35
+    },
+    "35": {
+      "title": "AUTO باب قيام شهر رمضان",
+      "level": 3,
+      "parent": 29,
+      "start_ms": 35,
+      "end_ms": 35
+    },
+    "36": {
+      "title": "AUTO باب تحية المسجد",
+      "level": 3,
+      "parent": 29,
+      "start_ms": 35,
+      "end_ms": 35
+    },
+    "37": {
+      "title": "AUTO باب صلاة التوبة والاستخارة والحاجة وعند القتل",
+      "level": 3,
+      "parent": 29,
+      "start_ms": 35,
+      "end_ms": 37
+    },
+    "38": {
+      "title": "CHECK باب الصلاة ms036 عند الإحرام والرجوع من السفر وبعد الوضوء",
+      "level": 3,
+      "parent": 29,
+      "start_ms": 37,
+      "end_ms": 37
+    },
+    "39": {
+      "title": "AUTO باب صلاة التسبيح",
+      "level": 3,
+      "parent": 29,
+      "start_ms": 37,
+      "end_ms": 38
+    },
+    "40": {
+      "title": "AUTO باب قضاء ms037 السنن",
+      "level": 3,
+      "parent": 29,
+      "start_ms": 38,
+      "end_ms": 38
+    },
+    "41": {
+      "title": "AUTO باب السجود",
+      "level": 2,
+      "parent": 12,
+      "start_ms": 38,
+      "end_ms": 42
+    },
+    "42": {
+      "title": "AUTO فصل",
+      "level": 3,
+      "parent": 41,
+      "start_ms": 40,
+      "end_ms": 40
+    },
+    "43": {
+      "title": "AUTO فصل",
+      "level": 3,
+      "parent": 41,
+      "start_ms": 40,
+      "end_ms": 41
+    },
+    "44": {
+      "title": "AUTO فصل",
+      "level": 3,
+      "parent": 41,
+      "start_ms": 41,
+      "end_ms": 42
+    },
+    "45": {
+      "title": "AUTO كتاب الزكاة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 42,
+      "end_ms": 51
+    },
+    "46": {
+      "title": "AUTO باب زكاة النعم",
+      "level": 2,
+      "parent": 45,
+      "start_ms": 43,
+      "end_ms": 45
+    },
+    "47": {
+      "title": "AUTO باب زكاة الناض",
+      "level": 2,
+      "parent": 45,
+      "start_ms": 45,
+      "end_ms": 45
+    },
+    "48": {
+      "title": "CHECK باب المعدن",
+      "level": 2,
+      "parent": 45,
+      "start_ms": 45,
+      "end_ms": 46
+    },
+    "49": {
+      "title": "AUTO باب الركاز",
+      "level": 2,
+      "parent": 45,
+      "start_ms": 46,
+      "end_ms": 46
+    },
+    "50": {
+      "title": "AUTO باب زكاة المستنبت",
+      "level": 2,
+      "parent": 45,
+      "start_ms": 46,
+      "end_ms": 46
+    },
+    "51": {
+      "title": "AUTO باب زكاة التجارة",
+      "level": 2,
+      "parent": 45,
+      "start_ms": 46,
+      "end_ms": 47
+    },
+    "52": {
+      "title": "AUTO باب زكاة الرؤوس",
+      "level": 2,
+      "parent": 45,
+      "start_ms": 47,
+      "end_ms": 48
+    },
+    "53": {
+      "title": "CHECK باب أخذ القيمة في الزكوات",
+      "level": 2,
+      "parent": 45,
+      "start_ms": 48,
+      "end_ms": 49
+    },
+    "54": {
+      "title": "AUTO باب تعجيل الصدقة",
+      "level": 2,
+      "parent": 45,
+      "start_ms": 49,
+      "end_ms": 50
+    },
+    "55": {
+      "title": "AUTO باب قسم الصدقات",
+      "level": 2,
+      "parent": 45,
+      "start_ms": 50,
+      "end_ms": 51
+    },
+    "56": {
+      "title": "AUTO كتاب الصيام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 51,
+      "end_ms": 59
+    },
+    "57": {
+      "title": "AUTO باب الاعتكاف",
+      "level": 2,
+      "parent": 56,
+      "start_ms": 57,
+      "end_ms": 59
+    },
+    "58": {
+      "title": "AUTO كتاب الحج",
+      "level": 1,
+      "parent": null,
+      "start_ms": 59,
+      "end_ms": 81
+    },
+    "59": {
+      "title": "AUTO باب المواقيت",
+      "level": 2,
+      "parent": 58,
+      "start_ms": 62,
+      "end_ms": 63
+    },
+    "60": {
+      "title": "CHECK ms062 باب وجوه أداء الحج والعمرة",
+      "level": 2,
+      "parent": 58,
+      "start_ms": 63,
+      "end_ms": 64
+    },
+    "61": {
+      "title": "CHECK باب أركان الحج والعمرة وواجباتهما وسننها",
+      "level": 2,
+      "parent": 58,
+      "start_ms": 64,
+      "end_ms": 72
+    },
+    "62": {
+      "title": "AUTO فصل في بيان ذلك",
+      "level": 3,
+      "parent": 61,
+      "start_ms": 68,
+      "end_ms": 72
+    },
+    "63": {
+      "title": "AUTO باب محرمات الإحرام ومكروهاته",
+      "level": 2,
+      "parent": 58,
+      "start_ms": 72,
+      "end_ms": 74
+    },
+    "64": {
+      "title": "AUTO باب ما يفسد به الحج والعمرة",
+      "level": 2,
+      "parent": 58,
+      "start_ms": 74,
+      "end_ms": 75
+    },
+    "65": {
+      "title": "AUTO باب الفوات والإحصار، وأنواع التحلل",
+      "level": 2,
+      "parent": 58,
+      "start_ms": 75,
+      "end_ms": 77
+    },
+    "66": {
+      "title": "AUTO باب الدماء والهدي",
+      "level": 2,
+      "parent": 58,
+      "start_ms": 77,
+      "end_ms": 79
+    },
+    "67": {
+      "title": "AUTO باب دخول حرم مكة وحكم صيده وشجره",
+      "level": 2,
+      "parent": 58,
+      "start_ms": 79,
+      "end_ms": 80
+    },
+    "68": {
+      "title": "AUTO باب زيارة النبي -صلى الله عليه وسلم- وحكم حرم المدينة في صيده وشجره",
+      "level": 2,
+      "parent": 58,
+      "start_ms": 80,
+      "end_ms": 81
+    },
+    "69": {
+      "title": "AUTO كتاب البيع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 81,
+      "end_ms": 168
+    },
+    "70": {
+      "title": "AUTO باب بيوع الأعيان",
+      "level": 2,
+      "parent": 69,
+      "start_ms": 85,
+      "end_ms": 86
+    },
+    "71": {
+      "title": "AUTO باب بيع المطعوم بمثله والعرايا والصرف",
+      "level": 2,
+      "parent": 69,
+      "start_ms": 86,
+      "end_ms": 87
+    },
+    "72": {
+      "title": "CHECK باب التولية والإشراك والمرابحة وشراء ما باع",
+      "level": 2,
+      "parent": 69,
+      "start_ms": 87,
+      "end_ms": 88
+    },
+    "73": {
+      "title": "AUTO باب بيع الخيار",
+      "level": 2,
+      "parent": 69,
+      "start_ms": 88,
+      "end_ms": 92
+    },
+    "74": {
+      "title": "AUTO باب بيع العبد المأذون",
+      "level": 2,
+      "parent": 69,
+      "start_ms": 92,
+      "end_ms": 93
+    },
+    "75": {
+      "title": "AUTO فصل في العيب والتحالف",
+      "level": 3,
+      "parent": 74,
+      "start_ms": 92,
+      "end_ms": 93
+    },
+    "76": {
+      "title": "AUTO باب السلم",
+      "level": 2,
+      "parent": 69,
+      "start_ms": 93,
+      "end_ms": 98
+    },
+    "77": {
+      "title": "CHECK ولا يصح السلم إلا بشروط ثمانية",
+      "level": 3,
+      "parent": 76,
+      "start_ms": 93,
+      "end_ms": 97
+    },
+    "78": {
+      "title": "AUTO 1 - الأول",
+      "level": 4,
+      "parent": 77,
+      "start_ms": 93,
+      "end_ms": 94
+    },
+    "79": {
+      "title": "AUTO 2 - الشرط الثاني",
+      "level": 4,
+      "parent": 77,
+      "start_ms": 94,
+      "end_ms": 95
+    },
+    "80": {
+      "title": "AUTO 3 - الشرط الثالث",
+      "level": 4,
+      "parent": 77,
+      "start_ms": 95,
+      "end_ms": 95
+    },
+    "81": {
+      "title": "AUTO 4 - الشرط الرابع",
+      "level": 4,
+      "parent": 77,
+      "start_ms": 95,
+      "end_ms": 96
+    },
+    "82": {
+      "title": "AUTO 5 - الشرط الخامس",
+      "level": 4,
+      "parent": 77,
+      "start_ms": 96,
+      "end_ms": 96
+    },
+    "83": {
+      "title": "AUTO 6 - الشرط السادس",
+      "level": 4,
+      "parent": 77,
+      "start_ms": 96,
+      "end_ms": 96
+    },
+    "84": {
+      "title": "AUTO 7 - الشرط السابع",
+      "level": 4,
+      "parent": 77,
+      "start_ms": 96,
+      "end_ms": 96
+    },
+    "85": {
+      "title": "AUTO 8 - الشرط الثامن",
+      "level": 4,
+      "parent": 77,
+      "start_ms": 96,
+      "end_ms": 97
+    },
+    "86": {
+      "title": "AUTO فصل",
+      "level": 3,
+      "parent": 76,
+      "start_ms": 97,
+      "end_ms": 98
+    },
+    "87": {
+      "title": "AUTO باب القرض",
+      "level": 2,
+      "parent": 69,
+      "start_ms": 98,
+      "end_ms": 100
+    },
+    "88": {
+      "title": "AUTO قاعدة: المضمونات في الشريعة أربعة أقسام",
+      "level": 3,
+      "parent": 87,
+      "start_ms": 99,
+      "end_ms": 100
+    },
+    "89": {
+      "title": "AUTO باب الرهن",
+      "level": 2,
+      "parent": 69,
+      "start_ms": 100,
+      "end_ms": 102
+    },
+    "90": {
+      "title": "AUTO يشترط في المرهون شرطان",
+      "level": 3,
+      "parent": 89,
+      "start_ms": 100,
+      "end_ms": 100
+    },
+    "91": {
+      "title": "AUTO وما لا يصح بيعه لا يصح رهنه إلا في موضعين",
+      "level": 3,
+      "parent": 89,
+      "start_ms": 100,
+      "end_ms": 101
+    },
+    "92": {
+      "title": "AUTO والرهن غير مضمون إلا في ثمانية مواضع",
+      "level": 3,
+      "parent": 89,
+      "start_ms": 101,
+      "end_ms": 102
+    },
+    "93": {
+      "title": "AUTO باب التفليس",
+      "level": 2,
+      "parent": 69,
+      "start_ms": 102,
+      "end_ms": 103
+    },
+    "94": {
+      "title": "AUTO ويثبت بحجر الفلس أمران",
+      "level": 3,
+      "parent": 93,
+      "start_ms": 102,
+      "end_ms": 103
+    },
+    "95": {
+      "title": "AUTO باب الحجر",
+      "level": 2,
+      "parent": 69,
+      "start_ms": 103,
+      "end_ms": 106
+    },
+    "96": {
+      "title": "AUTO وهو أنواع",
+      "level": 3,
+      "parent": 95,
+      "start_ms": 103,
+      "end_ms": 106
+    },
+    "97": {
+      "title": "AUTO باب الصلح",
+      "level": 2,
+      "parent": 69,
+      "start_ms": 106,
+      "end_ms": 107
+    },
+    "98": {
+      "title": "AUTO الصلح أنواع",
+      "level": 3,
+      "parent": 97,
+      "start_ms": 106,
+      "end_ms": 107
+    },
+    "99": {
+      "title": "AUTO باب الحوالة",
+      "level": 2,
+      "parent": 69,
+      "start_ms": 107,
+      "end_ms": 109
+    },
+    "100": {
+      "title": "AUTO ويعتبر في صحتها سبعة أمور",
+      "level": 3,
+      "parent": 99,
+      "start_ms": 108,
+      "end_ms": 109
+    },
+    "101": {
+      "title": "AUTO باب الضمان",
+      "level": 2,
+      "parent": 69,
+      "start_ms": 109,
+      "end_ms": 111
+    },
+    "102": {
+      "title": "AUTO ويستثنى من الرجوع مع وجود الضمان بالإذن ست صور",
+      "level": 3,
+      "parent": 101,
+      "start_ms": 110,
+      "end_ms": 110
+    },
+    "103": {
+      "title": "AUTO ويعتبر في صحة الضمان أربعة أمور",
+      "level": 3,
+      "parent": 101,
+      "start_ms": 110,
+      "end_ms": 111
+    },
+    "104": {
+      "title": "AUTO باب الشركة",
+      "level": 2,
+      "parent": 69,
+      "start_ms": 111,
+      "end_ms": 112
+    },
+    "105": {
+      "title": "AUTO باب الوكالة",
+      "level": 2,
+      "parent": 69,
+      "start_ms": 112,
+      "end_ms": 117
+    },
+    "106": {
+      "title": "AUTO وللوكالة ثلاث قواعد",
+      "level": 3,
+      "parent": 105,
+      "start_ms": 113,
+      "end_ms": 116
+    },
+    "107": {
+      "title": "AUTO الأولى",
+      "level": 4,
+      "parent": 106,
+      "start_ms": 113,
+      "end_ms": 114
+    },
+    "108": {
+      "title": "AUTO القاعدة الثانية",
+      "level": 4,
+      "parent": 106,
+      "start_ms": 114,
+      "end_ms": 115
+    },
+    "109": {
+      "title": "AUTO القاعدة الثالثة",
+      "level": 4,
+      "parent": 106,
+      "start_ms": 115,
+      "end_ms": 116
+    },
+    "110": {
+      "title": "AUTO ويستثنى مما سبق مواضع",
+      "level": 3,
+      "parent": 105,
+      "start_ms": 116,
+      "end_ms": 117
+    },
+    "111": {
+      "title": "AUTO باب الإقرار",
+      "level": 2,
+      "parent": 69,
+      "start_ms": 117,
+      "end_ms": 125
+    },
+    "112": {
+      "title": "CHECK وأما المقر له فيعتبر فيه ثلاثة أمور",
+      "level": 3,
+      "parent": 111,
+      "start_ms": 119,
+      "end_ms": 120
+    },
+    "113": {
+      "title": "AUTO وقواعد الباب أربع",
+      "level": 3,
+      "parent": 111,
+      "start_ms": 120,
+      "end_ms": 124
+    },
+    "114": {
+      "title": "AUTO الأولى",
+      "level": 4,
+      "parent": 113,
+      "start_ms": 120,
+      "end_ms": 121
+    },
+    "115": {
+      "title": "AUTO القاعدة الثانية",
+      "level": 4,
+      "parent": 113,
+      "start_ms": 121,
+      "end_ms": 122
+    },
+    "116": {
+      "title": "AUTO القاعدة الثالثة",
+      "level": 4,
+      "parent": 113,
+      "start_ms": 122,
+      "end_ms": 124
+    },
+    "117": {
+      "title": "AUTO القاعدة الرابعة",
+      "level": 4,
+      "parent": 113,
+      "start_ms": 124,
+      "end_ms": 124
+    },
+    "118": {
+      "title": "AUTO ضابط",
+      "level": 3,
+      "parent": 111,
+      "start_ms": 124,
+      "end_ms": 125
+    },
+    "119": {
+      "title": "AUTO باب العارية",
+      "level": 2,
+      "parent": 69,
+      "start_ms": 125,
+      "end_ms": 131
+    },
+    "120": {
+      "title": "AUTO وقواعد الباب ثلاث",
+      "level": 3,
+      "parent": 119,
+      "start_ms": 128,
+      "end_ms": 130
+    },
+    "121": {
+      "title": "AUTO الأولى",
+      "level": 4,
+      "parent": 120,
+      "start_ms": 128,
+      "end_ms": 128
+    },
+    "122": {
+      "title": "AUTO الثانية",
+      "level": 4,
+      "parent": 120,
+      "start_ms": 128,
+      "end_ms": 129
+    },
+    "123": {
+      "title": "AUTO القاعدة الثالثة",
+      "level": 4,
+      "parent": 120,
+      "start_ms": 129,
+      "end_ms": 130
+    },
+    "124": {
+      "title": "AUTO شروط التخيير بين الخصال الثلاث في الأبواب كلها",
+      "level": 3,
+      "parent": 119,
+      "start_ms": 130,
+      "end_ms": 131
+    },
+    "125": {
+      "title": "AUTO باب الغصب",
+      "level": 2,
+      "parent": 69,
+      "start_ms": 131,
+      "end_ms": 138
+    },
+    "126": {
+      "title": "AUTO ويستثنى من وجوب الرد ثمان صور",
+      "level": 3,
+      "parent": 125,
+      "start_ms": 132,
+      "end_ms": 133
+    },
+    "127": {
+      "title": "AUTO والغاصب ضامن وإن كان غير مكلف إلا في عشرة مواضع",
+      "level": 3,
+      "parent": 125,
+      "start_ms": 133,
+      "end_ms": 133
+    },
+    "128": {
+      "title": "AUTO وتظهر بقية مقاصد الباب بذكر ثلاث قواعد",
+      "level": 3,
+      "parent": 125,
+      "start_ms": 133,
+      "end_ms": 138
+    },
+    "129": {
+      "title": "AUTO (1) إحداها",
+      "level": 4,
+      "parent": 128,
+      "start_ms": 133,
+      "end_ms": 135
+    },
+    "130": {
+      "title": "AUTO (2) القاعدة الثانية",
+      "level": 4,
+      "parent": 128,
+      "start_ms": 135,
+      "end_ms": 137
+    },
+    "131": {
+      "title": "AUTO ضابط",
+      "level": 5,
+      "parent": 130,
+      "start_ms": 135,
+      "end_ms": 137
+    },
+    "132": {
+      "title": "AUTO (3) القاعدة الثالثة",
+      "level": 4,
+      "parent": 128,
+      "start_ms": 137,
+      "end_ms": 138
+    },
+    "133": {
+      "title": "AUTO باب الشفعة",
+      "level": 2,
+      "parent": 69,
+      "start_ms": 138,
+      "end_ms": 142
+    },
+    "134": {
+      "title": "AUTO وقواعد الباب ثلاث",
+      "level": 3,
+      "parent": 133,
+      "start_ms": 139,
+      "end_ms": 142
+    },
+    "135": {
+      "title": "AUTO الأولى",
+      "level": 4,
+      "parent": 134,
+      "start_ms": 139,
+      "end_ms": 140
+    },
+    "136": {
+      "title": "AUTO القاعدة الثانية",
+      "level": 4,
+      "parent": 134,
+      "start_ms": 140,
+      "end_ms": 141
+    },
+    "137": {
+      "title": "AUTO القاعدة الثالثة",
+      "level": 4,
+      "parent": 134,
+      "start_ms": 141,
+      "end_ms": 142
+    },
+    "138": {
+      "title": "AUTO باب القراض",
+      "level": 2,
+      "parent": 69,
+      "start_ms": 142,
+      "end_ms": 144
+    },
+    "139": {
+      "title": "AUTO قاعدة",
+      "level": 3,
+      "parent": 138,
+      "start_ms": 144,
+      "end_ms": 144
+    },
+    "140": {
+      "title": "AUTO باب المساقاة",
+      "level": 2,
+      "parent": 69,
+      "start_ms": 144,
+      "end_ms": 147
+    },
+    "141": {
+      "title": "AUTO ومدارها على سبعة أشياء",
+      "level": 3,
+      "parent": 140,
+      "start_ms": 145,
+      "end_ms": 147
+    },
+    "142": {
+      "title": "AUTO أما العاقدان",
+      "level": 4,
+      "parent": 141,
+      "start_ms": 145,
+      "end_ms": 145
+    },
+    "143": {
+      "title": "AUTO وأما الصيغة",
+      "level": 4,
+      "parent": 141,
+      "start_ms": 145,
+      "end_ms": 145
+    },
+    "144": {
+      "title": "AUTO وأما الشجر",
+      "level": 4,
+      "parent": 141,
+      "start_ms": 145,
+      "end_ms": 145
+    },
+    "145": {
+      "title": "AUTO ضابط",
+      "level": 4,
+      "parent": 141,
+      "start_ms": 145,
+      "end_ms": 146
+    },
+    "146": {
+      "title": "AUTO وأما العمل",
+      "level": 4,
+      "parent": 141,
+      "start_ms": 146,
+      "end_ms": 146
+    },
+    "147": {
+      "title": "AUTO وأما المدة",
+      "level": 4,
+      "parent": 141,
+      "start_ms": 146,
+      "end_ms": 146
+    },
+    "148": {
+      "title": "AUTO وأما الثمرة",
+      "level": 4,
+      "parent": 141,
+      "start_ms": 146,
+      "end_ms": 147
+    },
+    "149": {
+      "title": "AUTO فصل ms146",
+      "level": 3,
+      "parent": 140,
+      "start_ms": 147,
+      "end_ms": 147
+    },
+    "150": {
+      "title": "AUTO باب الإجارة",
+      "level": 2,
+      "parent": 69,
+      "start_ms": 147,
+      "end_ms": 151
+    },
+    "151": {
+      "title": "AUTO ضابط",
+      "level": 3,
+      "parent": 150,
+      "start_ms": 147,
+      "end_ms": 148
+    },
+    "152": {
+      "title": "AUTO ضابط",
+      "level": 3,
+      "parent": 150,
+      "start_ms": 148,
+      "end_ms": 149
+    },
+    "153": {
+      "title": "AUTO قاعدتان",
+      "level": 3,
+      "parent": 150,
+      "start_ms": 149,
+      "end_ms": 151
+    },
+    "154": {
+      "title": "AUTO إحداهما",
+      "level": 4,
+      "parent": 153,
+      "start_ms": 149,
+      "end_ms": 150
+    },
+    "155": {
+      "title": "AUTO القاعدة الثانية",
+      "level": 4,
+      "parent": 153,
+      "start_ms": 150,
+      "end_ms": 151
+    },
+    "156": {
+      "title": "AUTO ضابط في الإبدال",
+      "level": 3,
+      "parent": 150,
+      "start_ms": 151,
+      "end_ms": 151
+    },
+    "157": {
+      "title": "AUTO باب الجعالة",
+      "level": 2,
+      "parent": 69,
+      "start_ms": 151,
+      "end_ms": 153
+    },
+    "158": {
+      "title": "AUTO ويستحق القسط من المسمى في خمس صور",
+      "level": 3,
+      "parent": 157,
+      "start_ms": 152,
+      "end_ms": 153
+    },
+    "159": {
+      "title": "AUTO باب إحياء الموات والحقوق المشتركة العامة وما يتبعها",
+      "level": 2,
+      "parent": 69,
+      "start_ms": 153,
+      "end_ms": 157
+    },
+    "160": {
+      "title": "AUTO الأرض قسمان: أرض مسلمين وأرض كفار.",
+      "level": 3,
+      "parent": 159,
+      "start_ms": 154,
+      "end_ms": 156
+    },
+    "161": {
+      "title": "AUTO 1 - القسم الأول: عامر وغير عامر",
+      "level": 4,
+      "parent": 160,
+      "start_ms": 154,
+      "end_ms": 154
+    },
+    "162": {
+      "title": "AUTO 2 - القسم الثاني: أرض الكفار،",
+      "level": 4,
+      "parent": 160,
+      "start_ms": 154,
+      "end_ms": 156
+    },
+    "163": {
+      "title": "AUTO فصل",
+      "level": 3,
+      "parent": 159,
+      "start_ms": 156,
+      "end_ms": 157
+    },
+    "164": {
+      "title": "AUTO باب الوقف",
+      "level": 2,
+      "parent": 69,
+      "start_ms": 157,
+      "end_ms": 160
+    },
+    "165": {
+      "title": "AUTO وذكر المحاملي أن التبرعات ستة",
+      "level": 3,
+      "parent": 164,
+      "start_ms": 158,
+      "end_ms": 158
+    },
+    "166": {
+      "title": "AUTO ويعتبر في الوقف أن يصدر من مالك مطلق التصرف أو وكيله إلا في خمس صور",
+      "level": 3,
+      "parent": 164,
+      "start_ms": 158,
+      "end_ms": 160
+    },
+    "167": {
+      "title": "AUTO ومدار الوقف على الشروط المعتبرة",
+      "level": 3,
+      "parent": 164,
+      "start_ms": 160,
+      "end_ms": 160
+    },
+    "168": {
+      "title": "AUTO باب الهبة",
+      "level": 2,
+      "parent": 69,
+      "start_ms": 160,
+      "end_ms": 162
+    },
+    "169": {
+      "title": "AUTO ضابط",
+      "level": 3,
+      "parent": 168,
+      "start_ms": 161,
+      "end_ms": 162
+    },
+    "170": {
+      "title": "AUTO وكل عين جاز بيعها يجوز ms161 هبتها، وما لا يجوز بيعه لا يجوز هبته إلا في خمس صور، يصح فيها الهبة دون البيع",
+      "level": 3,
+      "parent": 168,
+      "start_ms": 162,
+      "end_ms": 162
+    },
+    "171": {
+      "title": "AUTO ومدار الباب على ثلاثة أشياء",
+      "level": 3,
+      "parent": 168,
+      "start_ms": 162,
+      "end_ms": 162
+    },
+    "172": {
+      "title": "AUTO باب اللقطة",
+      "level": 2,
+      "parent": 69,
+      "start_ms": 162,
+      "end_ms": 165
+    },
+    "173": {
+      "title": "AUTO ومدار اللقطة على أربعة أشياء",
+      "level": 3,
+      "parent": 172,
+      "start_ms": 163,
+      "end_ms": 165
+    },
+    "174": {
+      "title": "AUTO باب اللقيط",
+      "level": 2,
+      "parent": 69,
+      "start_ms": 165,
+      "end_ms": 168
+    },
+    "175": {
+      "title": "AUTO ومدار الباب على تعريف ms165 أربعة أمور",
+      "level": 3,
+      "parent": 174,
+      "start_ms": 166,
+      "end_ms": 168
+    },
+    "176": {
+      "title": "AUTO 1 - أما الأول",
+      "level": 4,
+      "parent": 175,
+      "start_ms": 166,
+      "end_ms": 166
+    },
+    "177": {
+      "title": "AUTO 2 - وأما الأمر الثاني",
+      "level": 4,
+      "parent": 175,
+      "start_ms": 166,
+      "end_ms": 167
+    },
+    "178": {
+      "title": "AUTO 3 - وأما الثالث",
+      "level": 4,
+      "parent": 175,
+      "start_ms": 167,
+      "end_ms": 167
+    },
+    "179": {
+      "title": "AUTO 4 - وأما الرابع",
+      "level": 4,
+      "parent": 175,
+      "start_ms": 167,
+      "end_ms": 168
+    },
+    "180": {
+      "title": "AUTO كتاب الفرائض",
+      "level": 1,
+      "parent": null,
+      "start_ms": 168,
+      "end_ms": 188
+    },
+    "181": {
+      "title": "AUTO ضابط",
+      "level": 2,
+      "parent": 180,
+      "start_ms": 170,
+      "end_ms": 170
+    },
+    "182": {
+      "title": "AUTO فصل في معرفة سبب الإرث وشرطه ومانعه",
+      "level": 2,
+      "parent": 180,
+      "start_ms": 170,
+      "end_ms": 174
+    },
+    "183": {
+      "title": "AUTO وسبب الإرث يكون من أربعة أوجه",
+      "level": 3,
+      "parent": 182,
+      "start_ms": 171,
+      "end_ms": 171
+    },
+    "184": {
+      "title": "AUTO وشروط الإرث أربعة",
+      "level": 3,
+      "parent": 182,
+      "start_ms": 171,
+      "end_ms": 172
+    },
+    "185": {
+      "title": "AUTO ولا بد من انتفاء الموانع وهي سبعة",
+      "level": 3,
+      "parent": 182,
+      "start_ms": 172,
+      "end_ms": 174
+    },
+    "186": {
+      "title": "AUTO أحدها",
+      "level": 4,
+      "parent": 185,
+      "start_ms": 172,
+      "end_ms": 172
+    },
+    "187": {
+      "title": "AUTO الثاني",
+      "level": 4,
+      "parent": 185,
+      "start_ms": 172,
+      "end_ms": 172
+    },
+    "188": {
+      "title": "AUTO الثالث",
+      "level": 4,
+      "parent": 185,
+      "start_ms": 172,
+      "end_ms": 173
+    },
+    "189": {
+      "title": "AUTO الرابع",
+      "level": 4,
+      "parent": 185,
+      "start_ms": 173,
+      "end_ms": 173
+    },
+    "190": {
+      "title": "AUTO الخامس",
+      "level": 4,
+      "parent": 185,
+      "start_ms": 173,
+      "end_ms": 173
+    },
+    "191": {
+      "title": "AUTO السادس",
+      "level": 4,
+      "parent": 185,
+      "start_ms": 173,
+      "end_ms": 173
+    },
+    "192": {
+      "title": "AUTO السابع",
+      "level": 4,
+      "parent": 185,
+      "start_ms": 173,
+      "end_ms": 174
+    },
+    "193": {
+      "title": "AUTO فصل في معرفة من يرث ومن لا يرث",
+      "level": 2,
+      "parent": 180,
+      "start_ms": 174,
+      "end_ms": 180
+    },
+    "194": {
+      "title": "AUTO والوارثات من النساء سبع",
+      "level": 3,
+      "parent": 193,
+      "start_ms": 174,
+      "end_ms": 175
+    },
+    "195": {
+      "title": "CHECK وأما ذوو الأرحام، فهم الأقارب الخارجون عمن ذكرنا، وهم عشرة أصناف",
+      "level": 3,
+      "parent": 193,
+      "start_ms": 175,
+      "end_ms": 175
+    },
+    "196": {
+      "title": "CHECK أصحاب الفروض ثلاثة عشر",
+      "level": 3,
+      "parent": 193,
+      "start_ms": 175,
+      "end_ms": 175
+    },
+    "197": {
+      "title": "CHECK فصل في معرفة ذوي الفروض وفروضهم وذوي التعصب وأحوالهم",
+      "level": 3,
+      "parent": 193,
+      "start_ms": 175,
+      "end_ms": 176
+    },
+    "198": {
+      "title": "CHECK والفروض المقدرة في كتاب الله تعالى ستة",
+      "level": 3,
+      "parent": 193,
+      "start_ms": 176,
+      "end_ms": 178
+    },
+    "199": {
+      "title": "AUTO فالنصف فرض خمسة",
+      "level": 4,
+      "parent": 198,
+      "start_ms": 176,
+      "end_ms": 176
+    },
+    "200": {
+      "title": "AUTO والربع فرض اثنين",
+      "level": 4,
+      "parent": 198,
+      "start_ms": 176,
+      "end_ms": 176
+    },
+    "201": {
+      "title": "AUTO والثمن",
+      "level": 4,
+      "parent": 198,
+      "start_ms": 176,
+      "end_ms": 177
+    },
+    "202": {
+      "title": "AUTO ولا يتصور ميراث عدد زائد على الأربع بسبب الزوجية إلا في صورتين",
+      "level": 5,
+      "parent": 201,
+      "start_ms": 176,
+      "end_ms": 177
+    },
+    "203": {
+      "title": "AUTO والثلثان",
+      "level": 4,
+      "parent": 198,
+      "start_ms": 177,
+      "end_ms": 177
+    },
+    "204": {
+      "title": "AUTO والثلث: فرض ثلاثة",
+      "level": 4,
+      "parent": 198,
+      "start_ms": 177,
+      "end_ms": 177
+    },
+    "205": {
+      "title": "AUTO الإخوة للأم خالفوا غيرهم في خمس صور",
+      "level": 5,
+      "parent": 204,
+      "start_ms": 177,
+      "end_ms": 177
+    },
+    "206": {
+      "title": "AUTO والسدس فرض سبعة",
+      "level": 4,
+      "parent": 198,
+      "start_ms": 177,
+      "end_ms": 178
+    },
+    "207": {
+      "title": "AUTO وأما ذو التعصيب، فالعصبة ثلاثة أقسام",
+      "level": 3,
+      "parent": 193,
+      "start_ms": 178,
+      "end_ms": 178
+    },
+    "208": {
+      "title": "AUTO فالعصبة بنفسه",
+      "level": 3,
+      "parent": 193,
+      "start_ms": 178,
+      "end_ms": 179
+    },
+    "209": {
+      "title": "AUTO والعصبة بغيره",
+      "level": 3,
+      "parent": 193,
+      "start_ms": 179,
+      "end_ms": 179
+    },
+    "210": {
+      "title": "AUTO والعصبة مع غيره",
+      "level": 3,
+      "parent": 193,
+      "start_ms": 179,
+      "end_ms": 180
+    },
+    "211": {
+      "title": "AUTO ضابط يتعلق بالفرض والتعصيب",
+      "level": 3,
+      "parent": 193,
+      "start_ms": 180,
+      "end_ms": 180
+    },
+    "212": {
+      "title": "AUTO فصل في الحجب",
+      "level": 2,
+      "parent": 180,
+      "start_ms": 180,
+      "end_ms": 183
+    },
+    "213": {
+      "title": "AUTO ومداره على ست قواعد",
+      "level": 3,
+      "parent": 212,
+      "start_ms": 180,
+      "end_ms": 182
+    },
+    "214": {
+      "title": "CHECK والولاء نوعان: مباشرة وانجرار",
+      "level": 3,
+      "parent": 212,
+      "start_ms": 182,
+      "end_ms": 182
+    },
+    "215": {
+      "title": "AUTO وترتيبهم هنا كما سبق في النسب إلا في خمس مسائل",
+      "level": 3,
+      "parent": 212,
+      "start_ms": 182,
+      "end_ms": 182
+    },
+    "216": {
+      "title": "AUTO ضابط",
+      "level": 3,
+      "parent": 212,
+      "start_ms": 182,
+      "end_ms": 183
+    },
+    "217": {
+      "title": "AUTO فصل في الجد والإخوة أشقاء أو لأب",
+      "level": 2,
+      "parent": 180,
+      "start_ms": 183,
+      "end_ms": 184
+    },
+    "218": {
+      "title": "AUTO فصل في تأصيل المسائل وتصحيحها",
+      "level": 2,
+      "parent": 180,
+      "start_ms": 184,
+      "end_ms": 186
+    },
+    "219": {
+      "title": "CHECK فصل في قسمة التركات",
+      "level": 2,
+      "parent": 180,
+      "start_ms": 186,
+      "end_ms": 187
+    },
+    "220": {
+      "title": "AUTO فصل في المناسخات",
+      "level": 2,
+      "parent": 180,
+      "start_ms": 187,
+      "end_ms": 188
+    },
+    "221": {
+      "title": "AUTO باب الوصية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 188,
+      "end_ms": 201
+    },
+    "222": {
+      "title": "AUTO أما من يوصي بالتبرع، فيعتبر فيه ثلاثة أمور",
+      "level": 2,
+      "parent": 221,
+      "start_ms": 189,
+      "end_ms": 189
+    },
+    "223": {
+      "title": "AUTO وأما من يوصى له",
+      "level": 2,
+      "parent": 221,
+      "start_ms": 189,
+      "end_ms": 191
+    },
+    "224": {
+      "title": "CHECK وأما ما يوصى به: فيشترط أن يكون",
+      "level": 2,
+      "parent": 221,
+      "start_ms": 191,
+      "end_ms": 194
+    },
+    "225": {
+      "title": "AUTO ويستثنى عن الإقراع صورتان",
+      "level": 2,
+      "parent": 221,
+      "start_ms": 194,
+      "end_ms": 195
+    },
+    "226": {
+      "title": "CHECK وألحق بالمخوف أحوال عشرة",
+      "level": 2,
+      "parent": 221,
+      "start_ms": 195,
+      "end_ms": 196
+    },
+    "227": {
+      "title": "AUTO قاعدة",
+      "level": 2,
+      "parent": 221,
+      "start_ms": 196,
+      "end_ms": 196
+    },
+    "228": {
+      "title": "AUTO قاعدة",
+      "level": 2,
+      "parent": 221,
+      "start_ms": 196,
+      "end_ms": 197
+    },
+    "229": {
+      "title": "AUTO ضابط",
+      "level": 2,
+      "parent": 221,
+      "start_ms": 197,
+      "end_ms": 199
+    },
+    "230": {
+      "title": "AUTO ضابط",
+      "level": 2,
+      "parent": 221,
+      "start_ms": 199,
+      "end_ms": 201
+    },
+    "231": {
+      "title": "AUTO باب الوديعة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 201,
+      "end_ms": 206
+    },
+    "232": {
+      "title": "CHECK وقد يحصل نقصه بواحد من اثني عشر سببا، فيجب الضمان في غير المختص على ما سبق في الغصب",
+      "level": 2,
+      "parent": 231,
+      "start_ms": 202,
+      "end_ms": 205
+    },
+    "233": {
+      "title": "AUTO الأول",
+      "level": 3,
+      "parent": 232,
+      "start_ms": 202,
+      "end_ms": 203
+    },
+    "234": {
+      "title": "AUTO الثاني",
+      "level": 3,
+      "parent": 232,
+      "start_ms": 203,
+      "end_ms": 203
+    },
+    "235": {
+      "title": "AUTO الثالث",
+      "level": 3,
+      "parent": 232,
+      "start_ms": 203,
+      "end_ms": 203
+    },
+    "236": {
+      "title": "AUTO الرابع",
+      "level": 3,
+      "parent": 232,
+      "start_ms": 203,
+      "end_ms": 203
+    },
+    "237": {
+      "title": "AUTO الخامس",
+      "level": 3,
+      "parent": 232,
+      "start_ms": 203,
+      "end_ms": 203
+    },
+    "238": {
+      "title": "AUTO السادس",
+      "level": 3,
+      "parent": 232,
+      "start_ms": 203,
+      "end_ms": 204
+    },
+    "239": {
+      "title": "AUTO السابع",
+      "level": 3,
+      "parent": 232,
+      "start_ms": 204,
+      "end_ms": 204
+    },
+    "240": {
+      "title": "AUTO الثامن",
+      "level": 3,
+      "parent": 232,
+      "start_ms": 204,
+      "end_ms": 204
+    },
+    "241": {
+      "title": "AUTO التاسع",
+      "level": 3,
+      "parent": 232,
+      "start_ms": 204,
+      "end_ms": 204
+    },
+    "242": {
+      "title": "AUTO العاشر",
+      "level": 3,
+      "parent": 232,
+      "start_ms": 204,
+      "end_ms": 204
+    },
+    "243": {
+      "title": "AUTO الحادي عشر",
+      "level": 3,
+      "parent": 232,
+      "start_ms": 204,
+      "end_ms": 205
+    },
+    "244": {
+      "title": "AUTO الثاني عشر",
+      "level": 3,
+      "parent": 232,
+      "start_ms": 205,
+      "end_ms": 205
+    },
+    "245": {
+      "title": "AUTO قاعدتان",
+      "level": 2,
+      "parent": 231,
+      "start_ms": 205,
+      "end_ms": 206
+    },
+    "246": {
+      "title": "AUTO إحداهما",
+      "level": 3,
+      "parent": 245,
+      "start_ms": 205,
+      "end_ms": 205
+    },
+    "247": {
+      "title": "AUTO القاعدة الثانية",
+      "level": 3,
+      "parent": 245,
+      "start_ms": 205,
+      "end_ms": 206
+    },
+    "248": {
+      "title": "AUTO كتاب النكاح",
+      "level": 1,
+      "parent": null,
+      "start_ms": 206,
+      "end_ms": 238
+    },
+    "249": {
+      "title": "AUTO وخص الله تعالى نبيه محمدا -صلى الله عليه وسلم- بأمور كثيرة ليست لأمته تعظيما لشأنه العالي إذ هو المتفضل على الخلق أجمعين.",
+      "level": 2,
+      "parent": 248,
+      "start_ms": 207,
+      "end_ms": 207
+    },
+    "250": {
+      "title": "AUTO ونشير هنا إلى أنموذج على ترتيب أبواب الفقه، فمن ذلك",
+      "level": 2,
+      "parent": 248,
+      "start_ms": 207,
+      "end_ms": 211
+    },
+    "251": {
+      "title": "AUTO وذكروا أحكام النظر هنا",
+      "level": 2,
+      "parent": 248,
+      "start_ms": 211,
+      "end_ms": 214
+    },
+    "252": {
+      "title": "CHECK ومدار النكاح على خمسة أشياء تعتبر في صحة نكاح المسلمين، ولنكاح الكفار حكم يختص به، وخمسة أشياء تتعلق به بعد صحته.",
+      "level": 2,
+      "parent": 248,
+      "start_ms": 214,
+      "end_ms": 214
+    },
+    "253": {
+      "title": "CHECK وأما الخمسة التي تتعلق به بعد صحته",
+      "level": 3,
+      "parent": 252,
+      "start_ms": 214,
+      "end_ms": 214
+    },
+    "254": {
+      "title": "AUTO فأما الخمسة المعتبرة في صحته",
+      "level": 3,
+      "parent": 252,
+      "start_ms": 214,
+      "end_ms": 214
+    },
+    "255": {
+      "title": "AUTO (1) فصل في الزوج",
+      "level": 2,
+      "parent": 248,
+      "start_ms": 214,
+      "end_ms": 216
+    },
+    "256": {
+      "title": "AUTO لا يخلو الوطء من مهر أوحد إلا في عشر صور",
+      "level": 3,
+      "parent": 255,
+      "start_ms": 215,
+      "end_ms": 216
+    },
+    "257": {
+      "title": "AUTO (2) فصل في الزوجة",
+      "level": 2,
+      "parent": 248,
+      "start_ms": 216,
+      "end_ms": 220
+    },
+    "258": {
+      "title": "AUTO ويشترط خلو الزوجة من الموانع وهي",
+      "level": 3,
+      "parent": 257,
+      "start_ms": 216,
+      "end_ms": 218
+    },
+    "259": {
+      "title": "AUTO وضابط المحرمات أبدا",
+      "level": 3,
+      "parent": 257,
+      "start_ms": 218,
+      "end_ms": 220
+    },
+    "260": {
+      "title": "AUTO (3) فصل في الولي",
+      "level": 2,
+      "parent": 248,
+      "start_ms": 220,
+      "end_ms": 225
+    },
+    "261": {
+      "title": "AUTO ضابط",
+      "level": 3,
+      "parent": 260,
+      "start_ms": 222,
+      "end_ms": 223
+    },
+    "262": {
+      "title": "AUTO ضابط",
+      "level": 3,
+      "parent": 260,
+      "start_ms": 223,
+      "end_ms": 223
+    },
+    "263": {
+      "title": "AUTO ضابط",
+      "level": 3,
+      "parent": 260,
+      "start_ms": 223,
+      "end_ms": 223
+    },
+    "264": {
+      "title": "AUTO والحاكم يزوج مع وجود الولي في ست صور",
+      "level": 3,
+      "parent": 260,
+      "start_ms": 223,
+      "end_ms": 225
+    },
+    "265": {
+      "title": "AUTO (4) فصل في الصيغة",
+      "level": 2,
+      "parent": 248,
+      "start_ms": 225,
+      "end_ms": 227
+    },
+    "266": {
+      "title": "AUTO (5) فصل في الشهود",
+      "level": 2,
+      "parent": 248,
+      "start_ms": 227,
+      "end_ms": 227
+    },
+    "267": {
+      "title": "AUTO ضابط",
+      "level": 3,
+      "parent": 266,
+      "start_ms": 227,
+      "end_ms": 227
+    },
+    "268": {
+      "title": "AUTO (6) فصل في أنكحة الكفار",
+      "level": 2,
+      "parent": 248,
+      "start_ms": 227,
+      "end_ms": 231
+    },
+    "269": {
+      "title": "AUTO ويستثنى من أنكحتهم خمس صور لا يقرون عليها مطلقا",
+      "level": 3,
+      "parent": 268,
+      "start_ms": 228,
+      "end_ms": 231
+    },
+    "270": {
+      "title": "AUTO (7) فصل فيما يملكه الزوج على الزوجة من الاستمتاع ونحوه",
+      "level": 2,
+      "parent": 248,
+      "start_ms": 231,
+      "end_ms": 232
+    },
+    "271": {
+      "title": "AUTO ضابط",
+      "level": 3,
+      "parent": 270,
+      "start_ms": 231,
+      "end_ms": 232
+    },
+    "272": {
+      "title": "AUTO (8) فصل في العيوب المثبتة للخيار في النكاح الصحيح",
+      "level": 2,
+      "parent": 248,
+      "start_ms": 232,
+      "end_ms": 234
+    },
+    "273": {
+      "title": "AUTO وهي عشرة على المعتمد في الفتوى",
+      "level": 3,
+      "parent": 272,
+      "start_ms": 232,
+      "end_ms": 234
+    },
+    "274": {
+      "title": "AUTO (9) فصل في خلف الشرط",
+      "level": 2,
+      "parent": 248,
+      "start_ms": 234,
+      "end_ms": 235
+    },
+    "275": {
+      "title": "CHECK (10) فصل في عتق الأمة تحت العبد",
+      "level": 2,
+      "parent": 248,
+      "start_ms": 235,
+      "end_ms": 236
+    },
+    "276": {
+      "title": "AUTO ضابط",
+      "level": 3,
+      "parent": 275,
+      "start_ms": 236,
+      "end_ms": 236
+    },
+    "277": {
+      "title": "AUTO (11) فصل في حكم الاختلاف",
+      "level": 2,
+      "parent": 248,
+      "start_ms": 236,
+      "end_ms": 238
+    },
+    "278": {
+      "title": "AUTO ضابط",
+      "level": 3,
+      "parent": 277,
+      "start_ms": 237,
+      "end_ms": 238
+    },
+    "279": {
+      "title": "CHECK [باب. .]",
+      "level": 2,
+      "parent": 248,
+      "start_ms": 238,
+      "end_ms": 238
+    },
+    "280": {
+      "title": "AUTO كتاب الصداق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 238,
+      "end_ms": 259
+    },
+    "281": {
+      "title": "AUTO ضابط: يجوز إخلاء النكاح عن تسمية المهر، إلا في أربع صور",
+      "level": 3,
+      "parent": null,
+      "start_ms": 239,
+      "end_ms": 252
+    },
+    "282": {
+      "title": "AUTO ويتعين الحلول في أربعة مواضع",
+      "level": 3,
+      "parent": 281,
+      "start_ms": 240,
+      "end_ms": 241
+    },
+    "283": {
+      "title": "AUTO المضمونات في الأبواب كلها أربعة أقسام",
+      "level": 3,
+      "parent": 281,
+      "start_ms": 241,
+      "end_ms": 241
+    },
+    "284": {
+      "title": "AUTO ويحصل الفساد الموجب لمهر المثل بواحد من سبعة عشر سببا",
+      "level": 3,
+      "parent": 281,
+      "start_ms": 241,
+      "end_ms": 244
+    },
+    "285": {
+      "title": "AUTO وأما أحكام المسمى الصحيح، ومهر المثل غير ما سبق من الأحكام، فيستقر كل منهما بواحد من شيئين",
+      "level": 3,
+      "parent": 281,
+      "start_ms": 244,
+      "end_ms": 247
+    },
+    "286": {
+      "title": "AUTO 1 - أحدهما",
+      "level": 4,
+      "parent": 285,
+      "start_ms": 244,
+      "end_ms": 245
+    },
+    "287": {
+      "title": "AUTO 2 - الثاني",
+      "level": 4,
+      "parent": 285,
+      "start_ms": 245,
+      "end_ms": 247
+    },
+    "288": {
+      "title": "AUTO ضابط",
+      "level": 3,
+      "parent": 281,
+      "start_ms": 247,
+      "end_ms": 250
+    },
+    "289": {
+      "title": "AUTO ضابط",
+      "level": 3,
+      "parent": 281,
+      "start_ms": 250,
+      "end_ms": 252
+    },
+    "290": {
+      "title": "AUTO باب المتعة",
+      "level": 2,
+      "parent": 280,
+      "start_ms": 252,
+      "end_ms": 252
+    },
+    "291": {
+      "title": "AUTO ضابط",
+      "level": 3,
+      "parent": 290,
+      "start_ms": 252,
+      "end_ms": 252
+    },
+    "292": {
+      "title": "AUTO باب الوليمة",
+      "level": 2,
+      "parent": 280,
+      "start_ms": 252,
+      "end_ms": 255
+    },
+    "293": {
+      "title": "AUTO والولائم سبع",
+      "level": 3,
+      "parent": 292,
+      "start_ms": 253,
+      "end_ms": 254
+    },
+    "294": {
+      "title": "AUTO ثم إنما ms253 تجب الإجابة بشروط عشرة",
+      "level": 3,
+      "parent": 292,
+      "start_ms": 254,
+      "end_ms": 255
+    },
+    "295": {
+      "title": "AUTO وللأكل آداب منها",
+      "level": 3,
+      "parent": 292,
+      "start_ms": 255,
+      "end_ms": 255
+    },
+    "296": {
+      "title": "CHECK باب معاشرة النساء والقسم لهن، والشقاق",
+      "level": 2,
+      "parent": 280,
+      "start_ms": 255,
+      "end_ms": 259
+    },
+    "297": {
+      "title": "AUTO ضابط",
+      "level": 3,
+      "parent": 296,
+      "start_ms": 256,
+      "end_ms": 256
+    },
+    "298": {
+      "title": "AUTO وللقسم مكان وزمان، وحالة تقتضي التفصيل أو الانفراد في المبيت.",
+      "level": 3,
+      "parent": 296,
+      "start_ms": 256,
+      "end_ms": 259
+    },
+    "299": {
+      "title": "AUTO أما المكان",
+      "level": 4,
+      "parent": 298,
+      "start_ms": 256,
+      "end_ms": 257
+    },
+    "300": {
+      "title": "AUTO وأما الزمان",
+      "level": 4,
+      "parent": 298,
+      "start_ms": 257,
+      "end_ms": 257
+    },
+    "301": {
+      "title": "AUTO وأما الحالة التي تقتضي التفصيل",
+      "level": 4,
+      "parent": 298,
+      "start_ms": 257,
+      "end_ms": 259
+    },
+    "302": {
+      "title": "CHECK كتاب الخلع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 259,
+      "end_ms": 268
+    },
+    "303": {
+      "title": "AUTO وينقسم الخلع إلى",
+      "level": 2,
+      "parent": 302,
+      "start_ms": 261,
+      "end_ms": 261
+    },
+    "304": {
+      "title": "AUTO ضابط",
+      "level": 2,
+      "parent": 302,
+      "start_ms": 261,
+      "end_ms": 262
+    },
+    "305": {
+      "title": "AUTO وهو مكروه إلا في ثلاث صور",
+      "level": 2,
+      "parent": 302,
+      "start_ms": 262,
+      "end_ms": 267
+    },
+    "306": {
+      "title": "CHECK وأما الحالة التي يقع الطلاق فيها رجعيا، فالعبارة الوافية فيها أن يقال: لا يجب فيها بدل، ليشمل غير المدخول بها، والمستوفى عدد طلاقها، وذلك في صور",
+      "level": 2,
+      "parent": 302,
+      "start_ms": 267,
+      "end_ms": 268
+    },
+    "307": {
+      "title": "CHECK وأما الحالة التي لا يقع الطلاق فيها ممن عدم التوافق، ومن غيره في صور سبقت",
+      "level": 2,
+      "parent": 302,
+      "start_ms": 268,
+      "end_ms": 268
+    },
+    "308": {
+      "title": "AUTO كتاب الطلاق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 268,
+      "end_ms": 306
+    },
+    "309": {
+      "title": "AUTO فصل في صرائح الطلاق ms272 وكناياته",
+      "level": 2,
+      "parent": 308,
+      "start_ms": 273,
+      "end_ms": 279
+    },
+    "310": {
+      "title": "AUTO وحكم الصريح",
+      "level": 3,
+      "parent": 309,
+      "start_ms": 274,
+      "end_ms": 275
+    },
+    "311": {
+      "title": "AUTO وأما الكنايات",
+      "level": 3,
+      "parent": 309,
+      "start_ms": 275,
+      "end_ms": 275
+    },
+    "312": {
+      "title": "AUTO وضابط الكنايات",
+      "level": 3,
+      "parent": 309,
+      "start_ms": 275,
+      "end_ms": 276
+    },
+    "313": {
+      "title": "AUTO ومن الكنايات",
+      "level": 3,
+      "parent": 309,
+      "start_ms": 276,
+      "end_ms": 277
+    },
+    "314": {
+      "title": "AUTO ضابط",
+      "level": 3,
+      "parent": 309,
+      "start_ms": 277,
+      "end_ms": 277
+    },
+    "315": {
+      "title": "AUTO قاعدة",
+      "level": 3,
+      "parent": 309,
+      "start_ms": 277,
+      "end_ms": 278
+    },
+    "316": {
+      "title": "AUTO وقد استثني من القاعدة مواضع ms277",
+      "level": 3,
+      "parent": 309,
+      "start_ms": 278,
+      "end_ms": 278
+    },
+    "317": {
+      "title": "AUTO ضابط",
+      "level": 3,
+      "parent": 309,
+      "start_ms": 278,
+      "end_ms": 279
+    },
+    "318": {
+      "title": "AUTO فصل في الطلاق المنجز على صفات من تكرار وغيره",
+      "level": 2,
+      "parent": 308,
+      "start_ms": 279,
+      "end_ms": 288
+    },
+    "319": {
+      "title": "CHECK والمنصوص، وهو المشهور: انقسام الطلاق ثلاثة أقسام",
+      "level": 3,
+      "parent": 318,
+      "start_ms": 282,
+      "end_ms": 282
+    },
+    "320": {
+      "title": "AUTO ومن الصفات: طلاق السنة والبدعة، ونحو ذلك.",
+      "level": 3,
+      "parent": 318,
+      "start_ms": 282,
+      "end_ms": 282
+    },
+    "321": {
+      "title": "AUTO فالسني",
+      "level": 3,
+      "parent": 318,
+      "start_ms": 282,
+      "end_ms": 282
+    },
+    "322": {
+      "title": "AUTO والبدعي المحرم",
+      "level": 3,
+      "parent": 318,
+      "start_ms": 282,
+      "end_ms": 283
+    },
+    "323": {
+      "title": "AUTO والقسم الثالث الذي لا يوصف بسنة ولا بدعة",
+      "level": 3,
+      "parent": 318,
+      "start_ms": 283,
+      "end_ms": 283
+    },
+    "324": {
+      "title": "AUTO واقتصر الأصحاب على هؤلاء الأربع، وزدت ثلاثا لا سنة في طلاقهن ولا بدعة",
+      "level": 3,
+      "parent": 318,
+      "start_ms": 283,
+      "end_ms": 283
+    },
+    "325": {
+      "title": "AUTO والفسوخ كلها لا سنة فيها ولا بدعة، إلا",
+      "level": 3,
+      "parent": 318,
+      "start_ms": 283,
+      "end_ms": 288
+    },
+    "326": {
+      "title": "CHECK فصل في الاستثناء في الطلاق بالمشيئة أو بغيرها",
+      "level": 2,
+      "parent": 308,
+      "start_ms": 288,
+      "end_ms": 292
+    },
+    "327": {
+      "title": "CHECK ويشترط في إعماله، وإعمال كل الاستثناء أمران",
+      "level": 3,
+      "parent": 326,
+      "start_ms": 288,
+      "end_ms": 290
+    },
+    "328": {
+      "title": "AUTO 1 - أحدهما",
+      "level": 4,
+      "parent": 327,
+      "start_ms": 289,
+      "end_ms": 289
+    },
+    "329": {
+      "title": "AUTO 2 - الثاني",
+      "level": 4,
+      "parent": 327,
+      "start_ms": 289,
+      "end_ms": 290
+    },
+    "330": {
+      "title": "AUTO ضابط",
+      "level": 3,
+      "parent": 326,
+      "start_ms": 290,
+      "end_ms": 291
+    },
+    "331": {
+      "title": "AUTO ضابط",
+      "level": 3,
+      "parent": 326,
+      "start_ms": 291,
+      "end_ms": 292
+    },
+    "332": {
+      "title": "AUTO ويصح الاستثناء من الأحوال والزمان والمكان والنساء.",
+      "level": 3,
+      "parent": 326,
+      "start_ms": 292,
+      "end_ms": 292
+    },
+    "333": {
+      "title": "AUTO فمن الأحوال",
+      "level": 4,
+      "parent": 332,
+      "start_ms": 292,
+      "end_ms": 292
+    },
+    "334": {
+      "title": "AUTO ومن الزمان",
+      "level": 4,
+      "parent": 332,
+      "start_ms": 292,
+      "end_ms": 292
+    },
+    "335": {
+      "title": "AUTO ومن المكان",
+      "level": 4,
+      "parent": 332,
+      "start_ms": 292,
+      "end_ms": 292
+    },
+    "336": {
+      "title": "AUTO ومن النساء",
+      "level": 4,
+      "parent": 332,
+      "start_ms": 292,
+      "end_ms": 292
+    },
+    "337": {
+      "title": "AUTO فصل في تعليق الطلاق",
+      "level": 2,
+      "parent": 308,
+      "start_ms": 292,
+      "end_ms": 302
+    },
+    "338": {
+      "title": "AUTO وأما التعليق على الحمل وضده والحيض",
+      "level": 3,
+      "parent": 337,
+      "start_ms": 297,
+      "end_ms": 300
+    },
+    "339": {
+      "title": "AUTO وأما التعليق بالحيض",
+      "level": 3,
+      "parent": 337,
+      "start_ms": 300,
+      "end_ms": 301
+    },
+    "340": {
+      "title": "AUTO وأما المتحيرة",
+      "level": 3,
+      "parent": 337,
+      "start_ms": 301,
+      "end_ms": 302
+    },
+    "341": {
+      "title": "CHECK فصل في تفويض الطلاق إلى الزوجة",
+      "level": 2,
+      "parent": 308,
+      "start_ms": 302,
+      "end_ms": 306
+    },
+    "342": {
+      "title": "AUTO ونختم كتاب الطلاق بثلاثة أنواع",
+      "level": 3,
+      "parent": 341,
+      "start_ms": 304,
+      "end_ms": 306
+    },
+    "343": {
+      "title": "AUTO أحدها",
+      "level": 4,
+      "parent": 342,
+      "start_ms": 304,
+      "end_ms": 305
+    },
+    "344": {
+      "title": "AUTO النوع الثاني",
+      "level": 4,
+      "parent": 342,
+      "start_ms": 305,
+      "end_ms": 305
+    },
+    "345": {
+      "title": "AUTO النوع الثالث",
+      "level": 4,
+      "parent": 342,
+      "start_ms": 305,
+      "end_ms": 306
+    },
+    "346": {
+      "title": "AUTO وأما المكره فلا يحنث أيضا على الأصح.",
+      "level": 5,
+      "parent": 345,
+      "start_ms": 305,
+      "end_ms": 306
+    },
+    "347": {
+      "title": "AUTO كتاب الرجعة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 306,
+      "end_ms": 314
+    },
+    "348": {
+      "title": "AUTO ضابط",
+      "level": 2,
+      "parent": 347,
+      "start_ms": 310,
+      "end_ms": 314
+    },
+    "349": {
+      "title": "AUTO كتاب الإيلاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 314,
+      "end_ms": 318
+    },
+    "350": {
+      "title": "AUTO لا يوقف الإيلاء إلا في مواضع",
+      "level": 2,
+      "parent": 349,
+      "start_ms": 315,
+      "end_ms": 316
+    },
+    "351": {
+      "title": "AUTO والمحلوف عليه له صريح وله كناية",
+      "level": 2,
+      "parent": 349,
+      "start_ms": 316,
+      "end_ms": 317
+    },
+    "352": {
+      "title": "AUTO فمن الصريح",
+      "level": 3,
+      "parent": 351,
+      "start_ms": 316,
+      "end_ms": 316
+    },
+    "353": {
+      "title": "AUTO ومن الكناية",
+      "level": 3,
+      "parent": 351,
+      "start_ms": 316,
+      "end_ms": 317
+    },
+    "354": {
+      "title": "CHECK وقد ينحل الإيلاء ويبقى اليمين في مواضع",
+      "level": 2,
+      "parent": 349,
+      "start_ms": 317,
+      "end_ms": 318
+    },
+    "355": {
+      "title": "AUTO ضابط",
+      "level": 2,
+      "parent": 349,
+      "start_ms": 318,
+      "end_ms": 318
+    },
+    "356": {
+      "title": "AUTO كتاب الظهار",
+      "level": 1,
+      "parent": null,
+      "start_ms": 318,
+      "end_ms": 322
+    },
+    "357": {
+      "title": "AUTO ضابط",
+      "level": 2,
+      "parent": 356,
+      "start_ms": 319,
+      "end_ms": 321
+    },
+    "358": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 356,
+      "start_ms": 321,
+      "end_ms": 322
+    },
+    "359": {
+      "title": "AUTO كتاب اللعان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 322,
+      "end_ms": 332
+    },
+    "360": {
+      "title": "AUTO وأصله",
+      "level": 2,
+      "parent": 359,
+      "start_ms": 322,
+      "end_ms": 322
+    },
+    "361": {
+      "title": "CHECK وشروط صحته [من جهة الرجل]-إذا لم ينف ولدا ولا حملا- ثلاثة عشر شرطا",
+      "level": 2,
+      "parent": 359,
+      "start_ms": 322,
+      "end_ms": 326
+    },
+    "362": {
+      "title": "AUTO أحدها",
+      "level": 3,
+      "parent": 361,
+      "start_ms": 322,
+      "end_ms": 323
+    },
+    "363": {
+      "title": "AUTO الثاني",
+      "level": 3,
+      "parent": 361,
+      "start_ms": 323,
+      "end_ms": 323
+    },
+    "364": {
+      "title": "AUTO الثالث",
+      "level": 3,
+      "parent": 361,
+      "start_ms": 323,
+      "end_ms": 323
+    },
+    "365": {
+      "title": "AUTO الرابع",
+      "level": 3,
+      "parent": 361,
+      "start_ms": 323,
+      "end_ms": 323
+    },
+    "366": {
+      "title": "AUTO الخامس",
+      "level": 3,
+      "parent": 361,
+      "start_ms": 323,
+      "end_ms": 323
+    },
+    "367": {
+      "title": "AUTO السادس",
+      "level": 3,
+      "parent": 361,
+      "start_ms": 323,
+      "end_ms": 323
+    },
+    "368": {
+      "title": "AUTO السابع",
+      "level": 3,
+      "parent": 361,
+      "start_ms": 323,
+      "end_ms": 323
+    },
+    "369": {
+      "title": "AUTO الثامن",
+      "level": 3,
+      "parent": 361,
+      "start_ms": 323,
+      "end_ms": 323
+    },
+    "370": {
+      "title": "AUTO التاسع",
+      "level": 3,
+      "parent": 361,
+      "start_ms": 323,
+      "end_ms": 323
+    },
+    "371": {
+      "title": "AUTO العاشر",
+      "level": 3,
+      "parent": 361,
+      "start_ms": 323,
+      "end_ms": 324
+    },
+    "372": {
+      "title": "AUTO الحادي عشر",
+      "level": 3,
+      "parent": 361,
+      "start_ms": 324,
+      "end_ms": 324
+    },
+    "373": {
+      "title": "AUTO الثاني عشر",
+      "level": 3,
+      "parent": 361,
+      "start_ms": 324,
+      "end_ms": 324
+    },
+    "374": {
+      "title": "AUTO الثالث عشر",
+      "level": 3,
+      "parent": 361,
+      "start_ms": 324,
+      "end_ms": 326
+    },
+    "375": {
+      "title": "AUTO ويترتب على لعان الرجل أحكام كثيرة",
+      "level": 2,
+      "parent": 359,
+      "start_ms": 326,
+      "end_ms": 326
+    },
+    "376": {
+      "title": "AUTO وللثالث شاهد من النص والمعنى",
+      "level": 2,
+      "parent": 359,
+      "start_ms": 326,
+      "end_ms": 326
+    },
+    "377": {
+      "title": "AUTO أما النص",
+      "level": 3,
+      "parent": 376,
+      "start_ms": 326,
+      "end_ms": 326
+    },
+    "378": {
+      "title": "AUTO وأما المعنى",
+      "level": 3,
+      "parent": 376,
+      "start_ms": 326,
+      "end_ms": 326
+    },
+    "379": {
+      "title": "AUTO ضابط",
+      "level": 2,
+      "parent": 359,
+      "start_ms": 326,
+      "end_ms": 327
+    },
+    "380": {
+      "title": "AUTO وللسقوط شرطان",
+      "level": 2,
+      "parent": 359,
+      "start_ms": 327,
+      "end_ms": 328
+    },
+    "381": {
+      "title": "AUTO أحدهما",
+      "level": 3,
+      "parent": 380,
+      "start_ms": 327,
+      "end_ms": 327
+    },
+    "382": {
+      "title": "AUTO الثاني",
+      "level": 3,
+      "parent": 380,
+      "start_ms": 327,
+      "end_ms": 328
+    },
+    "383": {
+      "title": "AUTO وكلمات اللعان خمس",
+      "level": 2,
+      "parent": 359,
+      "start_ms": 328,
+      "end_ms": 331
+    },
+    "384": {
+      "title": "AUTO خاتمة",
+      "level": 2,
+      "parent": 359,
+      "start_ms": 331,
+      "end_ms": 332
+    },
+    "385": {
+      "title": "CHECK باب العدة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 332,
+      "end_ms": 355
+    },
+    "386": {
+      "title": "AUTO وهي أربعة أقسام",
+      "level": 2,
+      "parent": 385,
+      "start_ms": 332,
+      "end_ms": 332
+    },
+    "387": {
+      "title": "AUTO والعدة تكون عن",
+      "level": 2,
+      "parent": 385,
+      "start_ms": 332,
+      "end_ms": 333
+    },
+    "388": {
+      "title": "AUTO ضابط",
+      "level": 2,
+      "parent": 385,
+      "start_ms": 333,
+      "end_ms": 334
+    },
+    "389": {
+      "title": "AUTO والمعتدة ذات الأقراء لا ينظر في حقها إلى الأشهر إلا في موضعين ذكروهما وهما متعقبان",
+      "level": 2,
+      "parent": 385,
+      "start_ms": 334,
+      "end_ms": 335
+    },
+    "390": {
+      "title": "AUTO أحدهما",
+      "level": 3,
+      "parent": 389,
+      "start_ms": 334,
+      "end_ms": 334
+    },
+    "391": {
+      "title": "AUTO الثاني",
+      "level": 3,
+      "parent": 389,
+      "start_ms": 334,
+      "end_ms": 334
+    },
+    "392": {
+      "title": "AUTO الثاني",
+      "level": 3,
+      "parent": 389,
+      "start_ms": 334,
+      "end_ms": 335
+    },
+    "393": {
+      "title": "AUTO ولا تتبعض العدة المذكورة من أقراء أو أشهر إلا في موضعين على وجه",
+      "level": 2,
+      "parent": 385,
+      "start_ms": 335,
+      "end_ms": 335
+    },
+    "394": {
+      "title": "AUTO - أحدهما",
+      "level": 3,
+      "parent": 393,
+      "start_ms": 335,
+      "end_ms": 335
+    },
+    "395": {
+      "title": "AUTO - الموضع الثاني",
+      "level": 3,
+      "parent": 393,
+      "start_ms": 335,
+      "end_ms": 335
+    },
+    "396": {
+      "title": "AUTO وعلى هذا فللقرء المحسوب في العدة شرطان",
+      "level": 2,
+      "parent": 385,
+      "start_ms": 335,
+      "end_ms": 335
+    },
+    "397": {
+      "title": "AUTO وإن حصلت الحرية بعد الفراق قبل انقضاء العدة",
+      "level": 2,
+      "parent": 385,
+      "start_ms": 335,
+      "end_ms": 338
+    },
+    "398": {
+      "title": "CHECK وأما الحمل فإنه تنقضي به [العدة في كل حالة] في الحياة والوفاة بشروط",
+      "level": 2,
+      "parent": 385,
+      "start_ms": 338,
+      "end_ms": 340
+    },
+    "399": {
+      "title": "AUTO أحدها",
+      "level": 3,
+      "parent": 398,
+      "start_ms": 339,
+      "end_ms": 339
+    },
+    "400": {
+      "title": "AUTO الشرط الثاني",
+      "level": 3,
+      "parent": 398,
+      "start_ms": 339,
+      "end_ms": 340
+    },
+    "401": {
+      "title": "AUTO الشرط الثالث",
+      "level": 3,
+      "parent": 398,
+      "start_ms": 340,
+      "end_ms": 340
+    },
+    "402": {
+      "title": "AUTO ولنا حامل بحمل منسوب إلى صاحب العدة فيها غرائب",
+      "level": 2,
+      "parent": 385,
+      "start_ms": 340,
+      "end_ms": 341
+    },
+    "403": {
+      "title": "AUTO ضابط",
+      "level": 2,
+      "parent": 385,
+      "start_ms": 341,
+      "end_ms": 343
+    },
+    "404": {
+      "title": "AUTO ضابط",
+      "level": 2,
+      "parent": 385,
+      "start_ms": 343,
+      "end_ms": 344
+    },
+    "405": {
+      "title": "AUTO فصل في الإحداد وسكنى المعتدة وزوجة المفقود",
+      "level": 2,
+      "parent": 385,
+      "start_ms": 344,
+      "end_ms": 355
+    },
+    "406": {
+      "title": "AUTO وأما الحلي",
+      "level": 3,
+      "parent": 405,
+      "start_ms": 346,
+      "end_ms": 346
+    },
+    "407": {
+      "title": "AUTO وأما قلادة العنبر",
+      "level": 3,
+      "parent": 405,
+      "start_ms": 346,
+      "end_ms": 346
+    },
+    "408": {
+      "title": "AUTO وأما الكحل",
+      "level": 3,
+      "parent": 405,
+      "start_ms": 346,
+      "end_ms": 349
+    },
+    "409": {
+      "title": "AUTO وأما الفرقة بالإسلام",
+      "level": 3,
+      "parent": 405,
+      "start_ms": 349,
+      "end_ms": 349
+    },
+    "410": {
+      "title": "AUTO وأما الرضاع",
+      "level": 3,
+      "parent": 405,
+      "start_ms": 349,
+      "end_ms": 349
+    },
+    "411": {
+      "title": "AUTO وأما الفرقة بخيار العتق",
+      "level": 3,
+      "parent": 405,
+      "start_ms": 349,
+      "end_ms": 351
+    },
+    "412": {
+      "title": "CHECK والصور التي يجوز للمعتدة الانتقال من مسكن الفراق المستحق لها إلى غيره كثيرة",
+      "level": 4,
+      "parent": 411,
+      "start_ms": 350,
+      "end_ms": 351
+    },
+    "413": {
+      "title": "AUTO وبقي من المعتدات البدوية وساكنة السفينة مع زوجها الذي لا مسكن له سوى السفينة",
+      "level": 4,
+      "parent": 411,
+      "start_ms": 351,
+      "end_ms": 351
+    },
+    "414": {
+      "title": "AUTO فأما البدوية",
+      "level": 3,
+      "parent": 405,
+      "start_ms": 351,
+      "end_ms": 351
+    },
+    "415": {
+      "title": "AUTO وأما ساكنة السفينة",
+      "level": 3,
+      "parent": 405,
+      "start_ms": 351,
+      "end_ms": 354
+    },
+    "416": {
+      "title": "AUTO ضابط",
+      "level": 3,
+      "parent": 405,
+      "start_ms": 354,
+      "end_ms": 355
+    },
+    "417": {
+      "title": "AUTO فصل في زوجة المفقود",
+      "level": 2,
+      "parent": 385,
+      "start_ms": 355,
+      "end_ms": 355
+    },
+    "418": {
+      "title": "AUTO ضابط",
+      "level": 3,
+      "parent": 417,
+      "start_ms": 355,
+      "end_ms": 355
+    },
+    "419": {
+      "title": "AUTO باب الاستبراء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 355,
+      "end_ms": 364
+    },
+    "420": {
+      "title": "CHECK يجب الاستبراء بواحد من سبعة أسباب",
+      "level": 2,
+      "parent": 419,
+      "start_ms": 356,
+      "end_ms": 361
+    },
+    "421": {
+      "title": "AUTO أحدها",
+      "level": 3,
+      "parent": 420,
+      "start_ms": 356,
+      "end_ms": 356
+    },
+    "422": {
+      "title": "AUTO السبب الثاني",
+      "level": 3,
+      "parent": 420,
+      "start_ms": 356,
+      "end_ms": 356
+    },
+    "423": {
+      "title": "AUTO السبب الثالث",
+      "level": 3,
+      "parent": 420,
+      "start_ms": 356,
+      "end_ms": 356
+    },
+    "424": {
+      "title": "AUTO السبب الرابع",
+      "level": 3,
+      "parent": 420,
+      "start_ms": 356,
+      "end_ms": 357
+    },
+    "425": {
+      "title": "AUTO السبب الخامس",
+      "level": 3,
+      "parent": 420,
+      "start_ms": 357,
+      "end_ms": 358
+    },
+    "426": {
+      "title": "AUTO السبب السادس",
+      "level": 3,
+      "parent": 420,
+      "start_ms": 358,
+      "end_ms": 358
+    },
+    "427": {
+      "title": "AUTO السبب السابع",
+      "level": 3,
+      "parent": 420,
+      "start_ms": 358,
+      "end_ms": 361
+    },
+    "428": {
+      "title": "AUTO وأما الحامل",
+      "level": 2,
+      "parent": 419,
+      "start_ms": 361,
+      "end_ms": 364
+    },
+    "429": {
+      "title": "AUTO كتاب الرضاع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 364,
+      "end_ms": 374
+    },
+    "430": {
+      "title": "AUTO وشرط الرضاع المحرم",
+      "level": 2,
+      "parent": 429,
+      "start_ms": 364,
+      "end_ms": 367
+    },
+    "431": {
+      "title": "AUTO وأما المخلوط ففيه صور",
+      "level": 2,
+      "parent": 429,
+      "start_ms": 367,
+      "end_ms": 368
+    },
+    "432": {
+      "title": "AUTO أحدها",
+      "level": 3,
+      "parent": 431,
+      "start_ms": 367,
+      "end_ms": 367
+    },
+    "433": {
+      "title": "AUTO الصورة الثانية",
+      "level": 3,
+      "parent": 431,
+      "start_ms": 367,
+      "end_ms": 368
+    },
+    "434": {
+      "title": "AUTO وفي المراد بالمغلوب وجهان",
+      "level": 2,
+      "parent": 429,
+      "start_ms": 368,
+      "end_ms": 368
+    },
+    "435": {
+      "title": "AUTO ضابط",
+      "level": 2,
+      "parent": 429,
+      "start_ms": 368,
+      "end_ms": 369
+    },
+    "436": {
+      "title": "AUTO ويعتبر لتحريم الرضاع من جهة الرجل أربعة شروط",
+      "level": 2,
+      "parent": 429,
+      "start_ms": 369,
+      "end_ms": 374
+    },
+    "437": {
+      "title": "AUTO أحدها",
+      "level": 3,
+      "parent": 436,
+      "start_ms": 369,
+      "end_ms": 370
+    },
+    "438": {
+      "title": "AUTO الشرط الثاني",
+      "level": 3,
+      "parent": 436,
+      "start_ms": 370,
+      "end_ms": 370
+    },
+    "439": {
+      "title": "CHECK الشرط الثالث",
+      "level": 3,
+      "parent": 436,
+      "start_ms": 370,
+      "end_ms": 371
+    },
+    "440": {
+      "title": "AUTO الشرط الرابع",
+      "level": 3,
+      "parent": 436,
+      "start_ms": 371,
+      "end_ms": 373
+    },
+    "441": {
+      "title": "AUTO فصل",
+      "level": 3,
+      "parent": 436,
+      "start_ms": 373,
+      "end_ms": 374
+    },
+    "442": {
+      "title": "AUTO باب النفقات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 374,
+      "end_ms": 385
+    },
+    "443": {
+      "title": "AUTO ضابط",
+      "level": 2,
+      "parent": 442,
+      "start_ms": 375,
+      "end_ms": 376
+    },
+    "444": {
+      "title": "AUTO",
+      "level": 2,
+      "parent": 442,
+      "start_ms": 376,
+      "end_ms": 376
+    },
+    "445": {
+      "title": "AUTO ضابط",
+      "level": 2,
+      "parent": 442,
+      "start_ms": 376,
+      "end_ms": 376
+    },
+    "446": {
+      "title": "AUTO",
+      "level": 2,
+      "parent": 442,
+      "start_ms": 376,
+      "end_ms": 376
+    },
+    "447": {
+      "title": "AUTO ضابط",
+      "level": 2,
+      "parent": 442,
+      "start_ms": 376,
+      "end_ms": 378
+    },
+    "448": {
+      "title": "AUTO والفرق بين ما واجبه التمليك وما هو إمتاع من وجوه",
+      "level": 2,
+      "parent": 442,
+      "start_ms": 378,
+      "end_ms": 378
+    },
+    "449": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 442,
+      "start_ms": 378,
+      "end_ms": 378
+    },
+    "450": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 442,
+      "start_ms": 378,
+      "end_ms": 380
+    },
+    "451": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 442,
+      "start_ms": 380,
+      "end_ms": 383
+    },
+    "452": {
+      "title": "AUTO وفي كيفية نفقة العدة وجهان",
+      "level": 3,
+      "parent": 451,
+      "start_ms": 380,
+      "end_ms": 380
+    },
+    "453": {
+      "title": "AUTO فرع",
+      "level": 3,
+      "parent": 451,
+      "start_ms": 380,
+      "end_ms": 381
+    },
+    "454": {
+      "title": "AUTO فرع",
+      "level": 3,
+      "parent": 451,
+      "start_ms": 381,
+      "end_ms": 381
+    },
+    "455": {
+      "title": "AUTO فرع",
+      "level": 3,
+      "parent": 451,
+      "start_ms": 381,
+      "end_ms": 381
+    },
+    "456": {
+      "title": "AUTO فرع",
+      "level": 3,
+      "parent": 451,
+      "start_ms": 381,
+      "end_ms": 383
+    },
+    "457": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 442,
+      "start_ms": 383,
+      "end_ms": 385
+    },
+    "458": {
+      "title": "AUTO فرع",
+      "level": 3,
+      "parent": 457,
+      "start_ms": 384,
+      "end_ms": 385
+    },
+    "459": {
+      "title": "AUTO باب الحضانة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 385,
+      "end_ms": 395
+    },
+    "460": {
+      "title": "CHECK وقال المحاملي: الأم أولى بالحضانة من الأب ما لم يبلغ الولد سبع سنين إلا في ثمان مسائل",
+      "level": 2,
+      "parent": 459,
+      "start_ms": 386,
+      "end_ms": 387
+    },
+    "461": {
+      "title": "AUTO قال المحاملي: ويتعلق بالنسب اثنى عشر حكما",
+      "level": 2,
+      "parent": 459,
+      "start_ms": 387,
+      "end_ms": 392
+    },
+    "462": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 459,
+      "start_ms": 392,
+      "end_ms": 393
+    },
+    "463": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 459,
+      "start_ms": 393,
+      "end_ms": 395
+    },
+    "464": {
+      "title": "AUTO كتاب الجنايات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 395,
+      "end_ms": 422
+    },
+    "465": {
+      "title": "AUTO فصل في اجتماع مباشرين",
+      "level": 2,
+      "parent": 464,
+      "start_ms": 400,
+      "end_ms": 406
+    },
+    "466": {
+      "title": "AUTO فرع",
+      "level": 3,
+      "parent": 465,
+      "start_ms": 400,
+      "end_ms": 402
+    },
+    "467": {
+      "title": "AUTO ضابط",
+      "level": 3,
+      "parent": 465,
+      "start_ms": 402,
+      "end_ms": 402
+    },
+    "468": {
+      "title": "AUTO قاعدة",
+      "level": 3,
+      "parent": 465,
+      "start_ms": 402,
+      "end_ms": 403
+    },
+    "469": {
+      "title": "AUTO فرع",
+      "level": 3,
+      "parent": 465,
+      "start_ms": 403,
+      "end_ms": 404
+    },
+    "470": {
+      "title": "AUTO فرع",
+      "level": 3,
+      "parent": 465,
+      "start_ms": 404,
+      "end_ms": 406
+    },
+    "471": {
+      "title": "AUTO قاعدة",
+      "level": 3,
+      "parent": 465,
+      "start_ms": 406,
+      "end_ms": 406
+    },
+    "472": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 464,
+      "start_ms": 406,
+      "end_ms": 410
+    },
+    "473": {
+      "title": "AUTO ضابط: تفارق الأطراف النفس في أمور",
+      "level": 3,
+      "parent": 472,
+      "start_ms": 406,
+      "end_ms": 407
+    },
+    "474": {
+      "title": "AUTO والجراح الواقع على الرأس والوجه -ويسمى الشجاج- عشر",
+      "level": 3,
+      "parent": 472,
+      "start_ms": 407,
+      "end_ms": 409
+    },
+    "475": {
+      "title": "AUTO ضابط",
+      "level": 3,
+      "parent": 472,
+      "start_ms": 409,
+      "end_ms": 409
+    },
+    "476": {
+      "title": "AUTO فرع",
+      "level": 3,
+      "parent": 472,
+      "start_ms": 409,
+      "end_ms": 410
+    },
+    "477": {
+      "title": "AUTO فرع",
+      "level": 3,
+      "parent": 472,
+      "start_ms": 410,
+      "end_ms": 410
+    },
+    "478": {
+      "title": "AUTO ضابط",
+      "level": 3,
+      "parent": 472,
+      "start_ms": 410,
+      "end_ms": 410
+    },
+    "479": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 464,
+      "start_ms": 410,
+      "end_ms": 411
+    },
+    "480": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 464,
+      "start_ms": 411,
+      "end_ms": 411
+    },
+    "481": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 464,
+      "start_ms": 411,
+      "end_ms": 414
+    },
+    "482": {
+      "title": "AUTO فرع",
+      "level": 3,
+      "parent": 481,
+      "start_ms": 413,
+      "end_ms": 414
+    },
+    "483": {
+      "title": "AUTO نادرة فقهية",
+      "level": 3,
+      "parent": 481,
+      "start_ms": 414,
+      "end_ms": 414
+    },
+    "484": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 464,
+      "start_ms": 414,
+      "end_ms": 420
+    },
+    "485": {
+      "title": "AUTO ويستثنى من اعتبار المماثلة صور",
+      "level": 3,
+      "parent": 484,
+      "start_ms": 417,
+      "end_ms": 419
+    },
+    "486": {
+      "title": "AUTO فرع",
+      "level": 3,
+      "parent": 484,
+      "start_ms": 419,
+      "end_ms": 420
+    },
+    "487": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 464,
+      "start_ms": 420,
+      "end_ms": 422
+    },
+    "488": {
+      "title": "CHECK [باب. . .]",
+      "level": 2,
+      "parent": 464,
+      "start_ms": 422,
+      "end_ms": 422
+    },
+    "489": {
+      "title": "AUTO كتاب الديات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 422,
+      "end_ms": 459
+    },
+    "490": {
+      "title": "AUTO فصل",
+      "level": 3,
+      "parent": null,
+      "start_ms": 425,
+      "end_ms": 437
+    },
+    "491": {
+      "title": "AUTO فائدة",
+      "level": 4,
+      "parent": null,
+      "start_ms": 429,
+      "end_ms": 431
+    },
+    "492": {
+      "title": "AUTO فصل",
+      "level": 3,
+      "parent": 490,
+      "start_ms": 431,
+      "end_ms": 436
+    },
+    "493": {
+      "title": "AUTO تنبيه",
+      "level": 4,
+      "parent": 492,
+      "start_ms": 435,
+      "end_ms": 436
+    },
+    "494": {
+      "title": "AUTO فصل",
+      "level": 3,
+      "parent": 490,
+      "start_ms": 436,
+      "end_ms": 437
+    },
+    "495": {
+      "title": "AUTO باب ما يوجب الدية وما لا يوجبها غير ما سبق والعاقلة وكفارة القتل",
+      "level": 2,
+      "parent": 489,
+      "start_ms": 437,
+      "end_ms": 459
+    },
+    "496": {
+      "title": "AUTO فصل",
+      "level": 3,
+      "parent": 495,
+      "start_ms": 441,
+      "end_ms": 451
+    },
+    "497": {
+      "title": "AUTO فرع",
+      "level": 4,
+      "parent": 496,
+      "start_ms": 444,
+      "end_ms": 444
+    },
+    "498": {
+      "title": "AUTO فرع",
+      "level": 4,
+      "parent": 496,
+      "start_ms": 444,
+      "end_ms": 444
+    },
+    "499": {
+      "title": "AUTO فرع",
+      "level": 4,
+      "parent": 496,
+      "start_ms": 444,
+      "end_ms": 448
+    },
+    "500": {
+      "title": "AUTO فرع",
+      "level": 4,
+      "parent": 496,
+      "start_ms": 448,
+      "end_ms": 448
+    },
+    "501": {
+      "title": "AUTO ضابط",
+      "level": 4,
+      "parent": 496,
+      "start_ms": 448,
+      "end_ms": 451
+    },
+    "502": {
+      "title": "AUTO فصل في الغرة الواجبة بالجناية على الحامل ms450 بالجنين المضمون على الجاني الذي ظهر ميتا بتلك الجناية",
+      "level": 3,
+      "parent": 495,
+      "start_ms": 451,
+      "end_ms": 453
+    },
+    "503": {
+      "title": "AUTO فرع",
+      "level": 4,
+      "parent": 502,
+      "start_ms": 452,
+      "end_ms": 453
+    },
+    "504": {
+      "title": "AUTO باب دعوى الدم والقسامة والشهادة على الدم",
+      "level": 3,
+      "parent": 495,
+      "start_ms": 453,
+      "end_ms": 459
+    },
+    "505": {
+      "title": "AUTO ضابط: ليس لنا موضع تثبت فيه القسامة في غير القتل إلا في هذا الموضع.",
+      "level": 4,
+      "parent": 504,
+      "start_ms": 456,
+      "end_ms": 458
+    },
+    "506": {
+      "title": "AUTO فرع",
+      "level": 4,
+      "parent": 504,
+      "start_ms": 458,
+      "end_ms": 459
+    },
+    "507": {
+      "title": "AUTO كتاب اللغة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 459,
+      "end_ms": 463
+    },
+    "508": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 507,
+      "start_ms": 462,
+      "end_ms": 463
+    },
+    "509": {
+      "title": "AUTO كتاب الردة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 463,
+      "end_ms": 466
+    },
+    "510": {
+      "title": "AUTO كتاب الزنا",
+      "level": 1,
+      "parent": null,
+      "start_ms": 466,
+      "end_ms": 489
+    },
+    "511": {
+      "title": "AUTO باب القذف",
+      "level": 2,
+      "parent": 510,
+      "start_ms": 471,
+      "end_ms": 473
+    },
+    "512": {
+      "title": "AUTO وحد القذف واجب على الرامي في صورتين",
+      "level": 3,
+      "parent": 511,
+      "start_ms": 471,
+      "end_ms": 472
+    },
+    "513": {
+      "title": "AUTO ويستثنى من إيجاب الحد في الموضعين السابقين صور، منها: ما يعم الموضعين، ومنها ما يختص بالرمي بالزنا.",
+      "level": 3,
+      "parent": 511,
+      "start_ms": 472,
+      "end_ms": 473
+    },
+    "514": {
+      "title": "AUTO ضابط",
+      "level": 3,
+      "parent": 511,
+      "start_ms": 473,
+      "end_ms": 473
+    },
+    "515": {
+      "title": "AUTO باب السرقة",
+      "level": 2,
+      "parent": 510,
+      "start_ms": 473,
+      "end_ms": 482
+    },
+    "516": {
+      "title": "AUTO يشترط لوجوب القطع في المسروق ms473 شروط",
+      "level": 3,
+      "parent": 515,
+      "start_ms": 474,
+      "end_ms": 478
+    },
+    "517": {
+      "title": "AUTO [الشرط الأول]",
+      "level": 4,
+      "parent": 516,
+      "start_ms": 474,
+      "end_ms": 474
+    },
+    "518": {
+      "title": "AUTO الشرط الثاني",
+      "level": 4,
+      "parent": 516,
+      "start_ms": 474,
+      "end_ms": 475
+    },
+    "519": {
+      "title": "AUTO الشرط الثالث",
+      "level": 4,
+      "parent": 516,
+      "start_ms": 475,
+      "end_ms": 476
+    },
+    "520": {
+      "title": "AUTO",
+      "level": 5,
+      "parent": 519,
+      "start_ms": 475,
+      "end_ms": 475
+    },
+    "521": {
+      "title": "AUTO ضابط",
+      "level": 5,
+      "parent": 519,
+      "start_ms": 475,
+      "end_ms": 475
+    },
+    "522": {
+      "title": "AUTO",
+      "level": 5,
+      "parent": 519,
+      "start_ms": 475,
+      "end_ms": 475
+    },
+    "523": {
+      "title": "AUTO ضابط",
+      "level": 5,
+      "parent": 519,
+      "start_ms": 475,
+      "end_ms": 476
+    },
+    "524": {
+      "title": "AUTO الشرط الرابع",
+      "level": 4,
+      "parent": 516,
+      "start_ms": 476,
+      "end_ms": 478
+    },
+    "525": {
+      "title": "AUTO فصل",
+      "level": 3,
+      "parent": 515,
+      "start_ms": 478,
+      "end_ms": 482
+    },
+    "526": {
+      "title": "AUTO فرع",
+      "level": 4,
+      "parent": 525,
+      "start_ms": 480,
+      "end_ms": 482
+    },
+    "527": {
+      "title": "AUTO باب قاطع الطريق",
+      "level": 2,
+      "parent": 510,
+      "start_ms": 482,
+      "end_ms": 486
+    },
+    "528": {
+      "title": "AUTO فصل",
+      "level": 3,
+      "parent": 527,
+      "start_ms": 485,
+      "end_ms": 486
+    },
+    "529": {
+      "title": "AUTO باب الحدود",
+      "level": 2,
+      "parent": 510,
+      "start_ms": 486,
+      "end_ms": 489
+    },
+    "530": {
+      "title": "AUTO فصل",
+      "level": 3,
+      "parent": 529,
+      "start_ms": 488,
+      "end_ms": 489
+    },
+    "531": {
+      "title": "AUTO [كتاب الصيال وضمان الولاة]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 489,
+      "end_ms": 494
+    },
+    "532": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 531,
+      "start_ms": 493,
+      "end_ms": 494
+    },
+    "533": {
+      "title": "AUTO [كتاب الجهاد]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 494,
+      "end_ms": 503
+    },
+    "534": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 533,
+      "start_ms": 499,
+      "end_ms": 503
+    },
+    "535": {
+      "title": "AUTO كتاب الأمان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 503,
+      "end_ms": 508
+    },
+    "536": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 535,
+      "start_ms": 505,
+      "end_ms": 505
+    },
+    "537": {
+      "title": "AUTO ويقسم ذلك خمسه أسهم متساوية",
+      "level": 2,
+      "parent": 535,
+      "start_ms": 505,
+      "end_ms": 508
+    },
+    "538": {
+      "title": "AUTO باب الجزية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 508,
+      "end_ms": 514
+    },
+    "539": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 538,
+      "start_ms": 510,
+      "end_ms": 512
+    },
+    "540": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 538,
+      "start_ms": 512,
+      "end_ms": 514
+    },
+    "541": {
+      "title": "AUTO باب الهدنة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 514,
+      "end_ms": 516
+    },
+    "542": {
+      "title": "AUTO وفيه وجه أنه ينزل عند ضعف المسلمين على عشر، وعند القوة قولان",
+      "level": 2,
+      "parent": 541,
+      "start_ms": 515,
+      "end_ms": 516
+    },
+    "543": {
+      "title": "AUTO كتاب الصيد والذبائح",
+      "level": 1,
+      "parent": null,
+      "start_ms": 516,
+      "end_ms": 522
+    },
+    "544": {
+      "title": "AUTO فصل ms520",
+      "level": 2,
+      "parent": 543,
+      "start_ms": 521,
+      "end_ms": 522
+    },
+    "545": {
+      "title": "AUTO كتاب الأضحية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 522,
+      "end_ms": 526
+    },
+    "546": {
+      "title": "AUTO ولا تضحية عن الغير بغير إذنه إلا في مسائل",
+      "level": 2,
+      "parent": 545,
+      "start_ms": 524,
+      "end_ms": 525
+    },
+    "547": {
+      "title": "AUTO فرع",
+      "level": 2,
+      "parent": 545,
+      "start_ms": 525,
+      "end_ms": 525
+    },
+    "548": {
+      "title": "AUTO فرع",
+      "level": 2,
+      "parent": 545,
+      "start_ms": 525,
+      "end_ms": 525
+    },
+    "549": {
+      "title": "AUTO فرع",
+      "level": 2,
+      "parent": 545,
+      "start_ms": 525,
+      "end_ms": 526
+    },
+    "550": {
+      "title": "AUTO كتاب الأطعمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 526,
+      "end_ms": 530
+    },
+    "551": {
+      "title": "AUTO كتاب المسابقة والمناضلة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 530,
+      "end_ms": 535
+    },
+    "552": {
+      "title": "AUTO وشرط المسابقة",
+      "level": 2,
+      "parent": 551,
+      "start_ms": 531,
+      "end_ms": 533
+    },
+    "553": {
+      "title": "AUTO ومن شروط المناضلة",
+      "level": 2,
+      "parent": 551,
+      "start_ms": 533,
+      "end_ms": 535
+    },
+    "554": {
+      "title": "AUTO كتاب الأيمان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 535,
+      "end_ms": 548
+    },
+    "555": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 554,
+      "start_ms": 540,
+      "end_ms": 542
+    },
+    "556": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 554,
+      "start_ms": 542,
+      "end_ms": 544
+    },
+    "557": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 554,
+      "start_ms": 544,
+      "end_ms": 548
+    },
+    "558": {
+      "title": "AUTO كتاب النذر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 548,
+      "end_ms": 554
+    },
+    "559": {
+      "title": "CHECK [باب. . .]",
+      "level": 2,
+      "parent": 558,
+      "start_ms": 554,
+      "end_ms": 554
+    },
+    "560": {
+      "title": "AUTO كتاب القضاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 554,
+      "end_ms": 584
+    },
+    "561": {
+      "title": "AUTO ضابط",
+      "level": 3,
+      "parent": null,
+      "start_ms": 555,
+      "end_ms": 579
+    },
+    "562": {
+      "title": "AUTO ومن شروط القاضي",
+      "level": 3,
+      "parent": 561,
+      "start_ms": 555,
+      "end_ms": 558
+    },
+    "563": {
+      "title": "AUTO فصل",
+      "level": 3,
+      "parent": 561,
+      "start_ms": 558,
+      "end_ms": 560
+    },
+    "564": {
+      "title": "AUTO فصل",
+      "level": 3,
+      "parent": 561,
+      "start_ms": 560,
+      "end_ms": 561
+    },
+    "565": {
+      "title": "AUTO فصل",
+      "level": 3,
+      "parent": 561,
+      "start_ms": 561,
+      "end_ms": 561
+    },
+    "566": {
+      "title": "AUTO فصل",
+      "level": 3,
+      "parent": 561,
+      "start_ms": 561,
+      "end_ms": 568
+    },
+    "567": {
+      "title": "AUTO ويستثنى من ذلك صور",
+      "level": 4,
+      "parent": 566,
+      "start_ms": 564,
+      "end_ms": 568
+    },
+    "568": {
+      "title": "AUTO فصل",
+      "level": 3,
+      "parent": 561,
+      "start_ms": 568,
+      "end_ms": 571
+    },
+    "569": {
+      "title": "AUTO فصل في القضاء على الغائب المكلف والمفقود والميت، والصبي والمجنون، والجماعة العامة، والحاضر الممتنع من الحضور، وسماع البينة على من ذكر، والقضاء بالغائب وسماع البينة به، وكتاب القاضي إلى القاضي، وما يتعلق بذلك",
+      "level": 3,
+      "parent": 561,
+      "start_ms": 571,
+      "end_ms": 579
+    },
+    "570": {
+      "title": "AUTO القضاء على الغائب المكلف ولو حربيا ببلاد الحرب فيما لزمه جائز إلا في صورتين",
+      "level": 4,
+      "parent": 569,
+      "start_ms": 571,
+      "end_ms": 571
+    },
+    "571": {
+      "title": "AUTO ضابط",
+      "level": 4,
+      "parent": 569,
+      "start_ms": 571,
+      "end_ms": 576
+    },
+    "572": {
+      "title": "AUTO فرع",
+      "level": 4,
+      "parent": 569,
+      "start_ms": 576,
+      "end_ms": 578
+    },
+    "573": {
+      "title": "AUTO فرع",
+      "level": 4,
+      "parent": 569,
+      "start_ms": 578,
+      "end_ms": 579
+    },
+    "574": {
+      "title": "AUTO باب القسمة",
+      "level": 2,
+      "parent": 560,
+      "start_ms": 579,
+      "end_ms": 584
+    },
+    "575": {
+      "title": "AUTO وما لا يعظم ضرره فقسمته أنواع",
+      "level": 3,
+      "parent": 574,
+      "start_ms": 581,
+      "end_ms": 584
+    },
+    "576": {
+      "title": "AUTO كتاب الشهادات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 584,
+      "end_ms": 598
+    },
+    "577": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 576,
+      "start_ms": 590,
+      "end_ms": 594
+    },
+    "578": {
+      "title": "AUTO فرع",
+      "level": 3,
+      "parent": 577,
+      "start_ms": 593,
+      "end_ms": 594
+    },
+    "579": {
+      "title": "AUTO وأما الأداء فلوجوبه شروط",
+      "level": 3,
+      "parent": 577,
+      "start_ms": 594,
+      "end_ms": 594
+    },
+    "580": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 576,
+      "start_ms": 594,
+      "end_ms": 595
+    },
+    "581": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 576,
+      "start_ms": 595,
+      "end_ms": 598
+    },
+    "582": {
+      "title": "CHECK [باب. . .]",
+      "level": 2,
+      "parent": 576,
+      "start_ms": 598,
+      "end_ms": 598
+    },
+    "583": {
+      "title": "AUTO كتاب الدعوى والبينات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 598,
+      "end_ms": 616
+    },
+    "584": {
+      "title": "AUTO فصل",
+      "level": 3,
+      "parent": null,
+      "start_ms": 604,
+      "end_ms": 615
+    },
+    "585": {
+      "title": "AUTO فرع",
+      "level": 4,
+      "parent": null,
+      "start_ms": 606,
+      "end_ms": 610
+    },
+    "586": {
+      "title": "AUTO ضابط",
+      "level": 4,
+      "parent": 585,
+      "start_ms": 607,
+      "end_ms": 609
+    },
+    "587": {
+      "title": "AUTO وفي اليمين المردودة قولان",
+      "level": 4,
+      "parent": 585,
+      "start_ms": 609,
+      "end_ms": 610
+    },
+    "588": {
+      "title": "AUTO فصل",
+      "level": 3,
+      "parent": 584,
+      "start_ms": 610,
+      "end_ms": 612
+    },
+    "589": {
+      "title": "AUTO ثم في كيفية الاستعمال أقوال",
+      "level": 4,
+      "parent": 588,
+      "start_ms": 610,
+      "end_ms": 612
+    },
+    "590": {
+      "title": "AUTO فصل",
+      "level": 3,
+      "parent": 584,
+      "start_ms": 612,
+      "end_ms": 615
+    },
+    "591": {
+      "title": "AUTO باب إلحاق القائف",
+      "level": 2,
+      "parent": 583,
+      "start_ms": 615,
+      "end_ms": 616
+    },
+    "592": {
+      "title": "AUTO شرط القائف",
+      "level": 3,
+      "parent": 591,
+      "start_ms": 615,
+      "end_ms": 616
+    },
+    "593": {
+      "title": "AUTO كتاب العتق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 616,
+      "end_ms": 629
+    },
+    "594": {
+      "title": "AUTO يعتبر في المعتق أمور",
+      "level": 2,
+      "parent": 593,
+      "start_ms": 616,
+      "end_ms": 619
+    },
+    "595": {
+      "title": "AUTO وللعتق خاصيتان",
+      "level": 2,
+      "parent": 593,
+      "start_ms": 619,
+      "end_ms": 619
+    },
+    "596": {
+      "title": "AUTO (1) إحداهما",
+      "level": 3,
+      "parent": 595,
+      "start_ms": 619,
+      "end_ms": 619
+    },
+    "597": {
+      "title": "AUTO (2) الخاصية الثانية: الولاء.",
+      "level": 3,
+      "parent": 595,
+      "start_ms": 619,
+      "end_ms": 619
+    },
+    "598": {
+      "title": "AUTO ومن ينفذ إعتاقه في كل العبد إذا أعتق بعضه عتق كله، إلا في أربع صور",
+      "level": 2,
+      "parent": 593,
+      "start_ms": 619,
+      "end_ms": 619
+    },
+    "599": {
+      "title": "AUTO ويتصور عتق بعض عبده الخالص له في ست صور",
+      "level": 2,
+      "parent": 593,
+      "start_ms": 619,
+      "end_ms": 620
+    },
+    "600": {
+      "title": "AUTO وللسراية شروط",
+      "level": 2,
+      "parent": 593,
+      "start_ms": 620,
+      "end_ms": 628
+    },
+    "601": {
+      "title": "AUTO (1) أحدها",
+      "level": 3,
+      "parent": 600,
+      "start_ms": 620,
+      "end_ms": 623
+    },
+    "602": {
+      "title": "AUTO وإن كان في وقت السراية ثلاثة أقوال",
+      "level": 4,
+      "parent": 601,
+      "start_ms": 622,
+      "end_ms": 623
+    },
+    "603": {
+      "title": "AUTO (2) ثاني الشرط السراية",
+      "level": 3,
+      "parent": 600,
+      "start_ms": 623,
+      "end_ms": 624
+    },
+    "604": {
+      "title": "AUTO (3) ثالث شروط السراية",
+      "level": 3,
+      "parent": 600,
+      "start_ms": 624,
+      "end_ms": 625
+    },
+    "605": {
+      "title": "AUTO (4) رابع شروط السراية",
+      "level": 3,
+      "parent": 600,
+      "start_ms": 625,
+      "end_ms": 626
+    },
+    "606": {
+      "title": "AUTO (5) خامس شروط السراية",
+      "level": 3,
+      "parent": 600,
+      "start_ms": 626,
+      "end_ms": 626
+    },
+    "607": {
+      "title": "AUTO (6) سادس شروط السراية",
+      "level": 3,
+      "parent": 600,
+      "start_ms": 626,
+      "end_ms": 627
+    },
+    "608": {
+      "title": "AUTO (7) سابع شروط السراية",
+      "level": 3,
+      "parent": 600,
+      "start_ms": 627,
+      "end_ms": 628
+    },
+    "609": {
+      "title": "AUTO تنبيه",
+      "level": 4,
+      "parent": 608,
+      "start_ms": 627,
+      "end_ms": 628
+    },
+    "610": {
+      "title": "AUTO فرع: إذا ملك أهل التبرع أصله أو فرعه عتق عليه إلا في صور",
+      "level": 2,
+      "parent": 593,
+      "start_ms": 628,
+      "end_ms": 629
+    },
+    "611": {
+      "title": "AUTO كتاب التدبير",
+      "level": 1,
+      "parent": null,
+      "start_ms": 629,
+      "end_ms": 632
+    },
+    "612": {
+      "title": "AUTO ضابط",
+      "level": 2,
+      "parent": 611,
+      "start_ms": 630,
+      "end_ms": 632
+    },
+    "613": {
+      "title": "AUTO فرع",
+      "level": 2,
+      "parent": 611,
+      "start_ms": 632,
+      "end_ms": 632
+    },
+    "614": {
+      "title": "AUTO كتاب الكتابة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 632,
+      "end_ms": 643
+    },
+    "615": {
+      "title": "AUTO أما من يوجب الكتابة",
+      "level": 2,
+      "parent": 614,
+      "start_ms": 633,
+      "end_ms": 634
+    },
+    "616": {
+      "title": "AUTO وأما القابل",
+      "level": 2,
+      "parent": 614,
+      "start_ms": 634,
+      "end_ms": 634
+    },
+    "617": {
+      "title": "AUTO وأما الصيغة",
+      "level": 2,
+      "parent": 614,
+      "start_ms": 634,
+      "end_ms": 634
+    },
+    "618": {
+      "title": "AUTO وأما العوض",
+      "level": 2,
+      "parent": 614,
+      "start_ms": 634,
+      "end_ms": 635
+    },
+    "619": {
+      "title": "AUTO وأما الأحكام المترتبة على ذلك",
+      "level": 2,
+      "parent": 614,
+      "start_ms": 635,
+      "end_ms": 635
+    },
+    "620": {
+      "title": "AUTO فمما يتعلق بالسيد",
+      "level": 2,
+      "parent": 614,
+      "start_ms": 635,
+      "end_ms": 636
+    },
+    "621": {
+      "title": "AUTO ومما يتعلق بالمكاتب",
+      "level": 2,
+      "parent": 614,
+      "start_ms": 636,
+      "end_ms": 638
+    },
+    "622": {
+      "title": "AUTO ضابط",
+      "level": 2,
+      "parent": 614,
+      "start_ms": 638,
+      "end_ms": 639
+    },
+    "623": {
+      "title": "AUTO وتخالف الفاسدة الصحيحة في نحو مائة موضع أو أكثر، نذكرها على ترتيب أبواب الفقه",
+      "level": 2,
+      "parent": 614,
+      "start_ms": 639,
+      "end_ms": 643
+    },
+    "624": {
+      "title": "AUTO باب أم ms642 الولد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 643,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3],
+      null
+    ],
+    [
+      2,
+      [4],
+      3
+    ],
+    [
+      4,
+      [5],
+      4
+    ],
+    [
+      5,
+      [6],
+      5
+    ],
+    [
+      6,
+      [7],
+      6
+    ],
+    [
+      8,
+      [8],
+      7
+    ],
+    [
+      11,
+      [9],
+      8
+    ],
+    [
+      13,
+      [10],
+      9
+    ],
+    [
+      14,
+      [11],
+      10
+    ],
+    [
+      15,
+      [12],
+      11
+    ],
+    [
+      16,
+      [13],
+      12
+    ],
+    [
+      17,
+      [14],
+      13
+    ],
+    [
+      18,
+      [15],
+      14
+    ],
+    [
+      21,
+      [16, 17],
+      15
+    ],
+    [
+      22,
+      [18],
+      17
+    ],
+    [
+      23,
+      [19, 20],
+      18
+    ],
+    [
+      24,
+      [21],
+      20
+    ],
+    [
+      25,
+      [22],
+      21
+    ],
+    [
+      26,
+      [23],
+      22
+    ],
+    [
+      27,
+      [24, 25, 26],
+      23
+    ],
+    [
+      28,
+      [27],
+      26
+    ],
+    [
+      30,
+      [28],
+      27
+    ],
+    [
+      31,
+      [29, 30],
+      28
+    ],
+    [
+      32,
+      [31],
+      30
+    ],
+    [
+      33,
+      [32, 33],
+      31
+    ],
+    [
+      34,
+      [34],
+      33
+    ],
+    [
+      35,
+      [35, 36, 37],
+      34
+    ],
+    [
+      37,
+      [38, 39],
+      null
+    ],
+    [
+      38,
+      [40, 41],
+      null
+    ],
+    [
+      40,
+      [42, 43],
+      41
+    ],
+    [
+      41,
+      [44],
+      43
+    ],
+    [
+      42,
+      [45],
+      44
+    ],
+    [
+      43,
+      [46],
+      45
+    ],
+    [
+      45,
+      [47, 48],
+      46
+    ],
+    [
+      46,
+      [49, 50, 51],
+      48
+    ],
+    [
+      47,
+      [52],
+      51
+    ],
+    [
+      48,
+      [53],
+      52
+    ],
+    [
+      49,
+      [54],
+      53
+    ],
+    [
+      50,
+      [55],
+      54
+    ],
+    [
+      51,
+      [56],
+      55
+    ],
+    [
+      57,
+      [57],
+      56
+    ],
+    [
+      59,
+      [58],
+      57
+    ],
+    [
+      62,
+      [59],
+      58
+    ],
+    [
+      63,
+      [60],
+      null
+    ],
+    [
+      64,
+      [61],
+      60
+    ],
+    [
+      68,
+      [62],
+      61
+    ],
+    [
+      72,
+      [63],
+      62
+    ],
+    [
+      74,
+      [64],
+      63
+    ],
+    [
+      75,
+      [65],
+      64
+    ],
+    [
+      77,
+      [66],
+      65
+    ],
+    [
+      79,
+      [67],
+      66
+    ],
+    [
+      80,
+      [68],
+      67
+    ],
+    [
+      81,
+      [69],
+      68
+    ],
+    [
+      85,
+      [70],
+      69
+    ],
+    [
+      86,
+      [71],
+      70
+    ],
+    [
+      87,
+      [72],
+      71
+    ],
+    [
+      88,
+      [73],
+      72
+    ],
+    [
+      92,
+      [74, 75],
+      73
+    ],
+    [
+      93,
+      [76, 77, 78],
+      75
+    ],
+    [
+      94,
+      [79],
+      78
+    ],
+    [
+      95,
+      [80, 81],
+      79
+    ],
+    [
+      96,
+      [82, 83, 84, 85],
+      81
+    ],
+    [
+      97,
+      [86],
+      85
+    ],
+    [
+      98,
+      [87],
+      86
+    ],
+    [
+      99,
+      [88],
+      87
+    ],
+    [
+      100,
+      [89, 90, 91],
+      88
+    ],
+    [
+      101,
+      [92],
+      91
+    ],
+    [
+      102,
+      [93, 94],
+      92
+    ],
+    [
+      103,
+      [95, 96],
+      94
+    ],
+    [
+      106,
+      [97, 98],
+      96
+    ],
+    [
+      107,
+      [99],
+      98
+    ],
+    [
+      108,
+      [100],
+      99
+    ],
+    [
+      109,
+      [101],
+      100
+    ],
+    [
+      110,
+      [102, 103],
+      101
+    ],
+    [
+      111,
+      [104],
+      103
+    ],
+    [
+      112,
+      [105],
+      104
+    ],
+    [
+      113,
+      [106, 107],
+      105
+    ],
+    [
+      114,
+      [108],
+      107
+    ],
+    [
+      115,
+      [109],
+      108
+    ],
+    [
+      116,
+      [110],
+      109
+    ],
+    [
+      117,
+      [111],
+      110
+    ],
+    [
+      119,
+      [112],
+      111
+    ],
+    [
+      120,
+      [113, 114],
+      112
+    ],
+    [
+      121,
+      [115],
+      114
+    ],
+    [
+      122,
+      [116],
+      115
+    ],
+    [
+      124,
+      [117, 118],
+      116
+    ],
+    [
+      125,
+      [119],
+      118
+    ],
+    [
+      128,
+      [120, 121, 122],
+      119
+    ],
+    [
+      129,
+      [123],
+      122
+    ],
+    [
+      130,
+      [124],
+      123
+    ],
+    [
+      131,
+      [125],
+      124
+    ],
+    [
+      132,
+      [126],
+      125
+    ],
+    [
+      133,
+      [127, 128, 129],
+      126
+    ],
+    [
+      135,
+      [130, 131],
+      129
+    ],
+    [
+      137,
+      [132],
+      131
+    ],
+    [
+      138,
+      [133],
+      132
+    ],
+    [
+      139,
+      [134, 135],
+      133
+    ],
+    [
+      140,
+      [136],
+      135
+    ],
+    [
+      141,
+      [137],
+      136
+    ],
+    [
+      142,
+      [138],
+      137
+    ],
+    [
+      144,
+      [139, 140],
+      138
+    ],
+    [
+      145,
+      [141, 142, 143, 144, 145],
+      140
+    ],
+    [
+      146,
+      [146, 147, 148],
+      145
+    ],
+    [
+      147,
+      [149, 150, 151],
+      null
+    ],
+    [
+      148,
+      [152],
+      151
+    ],
+    [
+      149,
+      [153, 154],
+      152
+    ],
+    [
+      150,
+      [155],
+      154
+    ],
+    [
+      151,
+      [156, 157],
+      155
+    ],
+    [
+      152,
+      [158],
+      157
+    ],
+    [
+      153,
+      [159],
+      158
+    ],
+    [
+      154,
+      [160, 161, 162],
+      159
+    ],
+    [
+      156,
+      [163],
+      162
+    ],
+    [
+      157,
+      [164],
+      163
+    ],
+    [
+      158,
+      [165, 166],
+      164
+    ],
+    [
+      160,
+      [167, 168],
+      166
+    ],
+    [
+      161,
+      [169],
+      168
+    ],
+    [
+      162,
+      [170, 171, 172],
+      null
+    ],
+    [
+      163,
+      [173],
+      172
+    ],
+    [
+      165,
+      [174],
+      173
+    ],
+    [
+      166,
+      [175, 176, 177],
+      null
+    ],
+    [
+      167,
+      [178, 179],
+      177
+    ],
+    [
+      168,
+      [180],
+      179
+    ],
+    [
+      170,
+      [181, 182],
+      180
+    ],
+    [
+      171,
+      [183, 184],
+      182
+    ],
+    [
+      172,
+      [185, 186, 187, 188],
+      184
+    ],
+    [
+      173,
+      [189, 190, 191, 192],
+      188
+    ],
+    [
+      174,
+      [193, 194],
+      192
+    ],
+    [
+      175,
+      [195, 196, 197],
+      194
+    ],
+    [
+      176,
+      [198, 199, 200, 201, 202],
+      197
+    ],
+    [
+      177,
+      [203, 204, 205, 206],
+      202
+    ],
+    [
+      178,
+      [207, 208],
+      206
+    ],
+    [
+      179,
+      [209, 210],
+      208
+    ],
+    [
+      180,
+      [211, 212, 213],
+      210
+    ],
+    [
+      182,
+      [214, 215, 216],
+      213
+    ],
+    [
+      183,
+      [217],
+      216
+    ],
+    [
+      184,
+      [218],
+      217
+    ],
+    [
+      186,
+      [219],
+      218
+    ],
+    [
+      187,
+      [220],
+      219
+    ],
+    [
+      188,
+      [221],
+      220
+    ],
+    [
+      189,
+      [222, 223],
+      221
+    ],
+    [
+      191,
+      [224],
+      223
+    ],
+    [
+      194,
+      [225],
+      224
+    ],
+    [
+      195,
+      [226],
+      225
+    ],
+    [
+      196,
+      [227, 228],
+      226
+    ],
+    [
+      197,
+      [229],
+      228
+    ],
+    [
+      199,
+      [230],
+      229
+    ],
+    [
+      201,
+      [231],
+      230
+    ],
+    [
+      202,
+      [232, 233],
+      231
+    ],
+    [
+      203,
+      [234, 235, 236, 237, 238],
+      233
+    ],
+    [
+      204,
+      [239, 240, 241, 242, 243],
+      238
+    ],
+    [
+      205,
+      [244, 245, 246, 247],
+      243
+    ],
+    [
+      206,
+      [248],
+      247
+    ],
+    [
+      207,
+      [249, 250],
+      248
+    ],
+    [
+      211,
+      [251],
+      250
+    ],
+    [
+      214,
+      [252, 253, 254, 255],
+      251
+    ],
+    [
+      215,
+      [256],
+      255
+    ],
+    [
+      216,
+      [257, 258],
+      256
+    ],
+    [
+      218,
+      [259],
+      258
+    ],
+    [
+      220,
+      [260],
+      259
+    ],
+    [
+      222,
+      [261],
+      260
+    ],
+    [
+      223,
+      [262, 263, 264],
+      261
+    ],
+    [
+      225,
+      [265],
+      264
+    ],
+    [
+      227,
+      [266, 267, 268],
+      265
+    ],
+    [
+      228,
+      [269],
+      268
+    ],
+    [
+      231,
+      [270, 271],
+      269
+    ],
+    [
+      232,
+      [272, 273],
+      271
+    ],
+    [
+      234,
+      [274],
+      273
+    ],
+    [
+      235,
+      [275],
+      274
+    ],
+    [
+      236,
+      [276, 277],
+      275
+    ],
+    [
+      237,
+      [278],
+      277
+    ],
+    [
+      238,
+      [279, 280],
+      278
+    ],
+    [
+      239,
+      [281],
+      280
+    ],
+    [
+      240,
+      [282],
+      281
+    ],
+    [
+      241,
+      [283, 284],
+      282
+    ],
+    [
+      244,
+      [285, 286],
+      284
+    ],
+    [
+      245,
+      [287],
+      286
+    ],
+    [
+      247,
+      [288],
+      287
+    ],
+    [
+      250,
+      [289],
+      288
+    ],
+    [
+      252,
+      [290, 291, 292],
+      289
+    ],
+    [
+      253,
+      [293],
+      292
+    ],
+    [
+      254,
+      [294],
+      null
+    ],
+    [
+      255,
+      [295, 296],
+      294
+    ],
+    [
+      256,
+      [297, 298, 299],
+      296
+    ],
+    [
+      257,
+      [300, 301],
+      299
+    ],
+    [
+      259,
+      [302],
+      301
+    ],
+    [
+      261,
+      [303, 304],
+      302
+    ],
+    [
+      262,
+      [305],
+      304
+    ],
+    [
+      267,
+      [306],
+      305
+    ],
+    [
+      268,
+      [307, 308],
+      306
+    ],
+    [
+      273,
+      [309],
+      null
+    ],
+    [
+      274,
+      [310],
+      309
+    ],
+    [
+      275,
+      [311, 312],
+      310
+    ],
+    [
+      276,
+      [313],
+      312
+    ],
+    [
+      277,
+      [314, 315],
+      313
+    ],
+    [
+      278,
+      [316, 317],
+      null
+    ],
+    [
+      279,
+      [318],
+      317
+    ],
+    [
+      282,
+      [319, 320, 321, 322],
+      318
+    ],
+    [
+      283,
+      [323, 324, 325],
+      322
+    ],
+    [
+      288,
+      [326, 327],
+      325
+    ],
+    [
+      289,
+      [328, 329],
+      327
+    ],
+    [
+      290,
+      [330],
+      329
+    ],
+    [
+      291,
+      [331],
+      330
+    ],
+    [
+      292,
+      [332, 333, 334, 335, 336, 337],
+      331
+    ],
+    [
+      297,
+      [338],
+      337
+    ],
+    [
+      300,
+      [339],
+      338
+    ],
+    [
+      301,
+      [340],
+      339
+    ],
+    [
+      302,
+      [341],
+      340
+    ],
+    [
+      304,
+      [342, 343],
+      341
+    ],
+    [
+      305,
+      [344, 345, 346],
+      343
+    ],
+    [
+      306,
+      [347],
+      346
+    ],
+    [
+      310,
+      [348],
+      347
+    ],
+    [
+      314,
+      [349],
+      348
+    ],
+    [
+      315,
+      [350],
+      349
+    ],
+    [
+      316,
+      [351, 352, 353],
+      350
+    ],
+    [
+      317,
+      [354],
+      353
+    ],
+    [
+      318,
+      [355, 356],
+      354
+    ],
+    [
+      319,
+      [357],
+      356
+    ],
+    [
+      321,
+      [358],
+      357
+    ],
+    [
+      322,
+      [359, 360, 361, 362],
+      358
+    ],
+    [
+      323,
+      [363, 364, 365, 366, 367, 368, 369, 370, 371],
+      362
+    ],
+    [
+      324,
+      [372, 373, 374],
+      371
+    ],
+    [
+      326,
+      [375, 376, 377, 378, 379],
+      374
+    ],
+    [
+      327,
+      [380, 381, 382],
+      379
+    ],
+    [
+      328,
+      [383],
+      382
+    ],
+    [
+      331,
+      [384],
+      383
+    ],
+    [
+      332,
+      [385, 386, 387],
+      384
+    ],
+    [
+      333,
+      [388],
+      387
+    ],
+    [
+      334,
+      [389, 390, 391, 392],
+      388
+    ],
+    [
+      335,
+      [393, 394, 395, 396, 397],
+      392
+    ],
+    [
+      338,
+      [398],
+      397
+    ],
+    [
+      339,
+      [399, 400],
+      398
+    ],
+    [
+      340,
+      [401, 402],
+      400
+    ],
+    [
+      341,
+      [403],
+      402
+    ],
+    [
+      343,
+      [404],
+      403
+    ],
+    [
+      344,
+      [405],
+      404
+    ],
+    [
+      346,
+      [406, 407, 408],
+      405
+    ],
+    [
+      349,
+      [409, 410, 411],
+      408
+    ],
+    [
+      350,
+      [412],
+      411
+    ],
+    [
+      351,
+      [413, 414, 415],
+      412
+    ],
+    [
+      354,
+      [416],
+      415
+    ],
+    [
+      355,
+      [417, 418, 419],
+      416
+    ],
+    [
+      356,
+      [420, 421, 422, 423, 424],
+      419
+    ],
+    [
+      357,
+      [425],
+      424
+    ],
+    [
+      358,
+      [426, 427],
+      425
+    ],
+    [
+      361,
+      [428],
+      427
+    ],
+    [
+      364,
+      [429, 430],
+      428
+    ],
+    [
+      367,
+      [431, 432, 433],
+      430
+    ],
+    [
+      368,
+      [434, 435],
+      433
+    ],
+    [
+      369,
+      [436, 437],
+      435
+    ],
+    [
+      370,
+      [438, 439],
+      437
+    ],
+    [
+      371,
+      [440],
+      439
+    ],
+    [
+      373,
+      [441],
+      440
+    ],
+    [
+      374,
+      [442],
+      441
+    ],
+    [
+      375,
+      [443],
+      442
+    ],
+    [
+      376,
+      [444, 445, 446, 447],
+      443
+    ],
+    [
+      378,
+      [448, 449, 450],
+      447
+    ],
+    [
+      380,
+      [451, 452, 453],
+      450
+    ],
+    [
+      381,
+      [454, 455, 456],
+      453
+    ],
+    [
+      383,
+      [457],
+      456
+    ],
+    [
+      384,
+      [458],
+      457
+    ],
+    [
+      385,
+      [459],
+      458
+    ],
+    [
+      386,
+      [460],
+      459
+    ],
+    [
+      387,
+      [461],
+      460
+    ],
+    [
+      392,
+      [462],
+      461
+    ],
+    [
+      393,
+      [463],
+      462
+    ],
+    [
+      395,
+      [464],
+      463
+    ],
+    [
+      400,
+      [465, 466],
+      464
+    ],
+    [
+      402,
+      [467, 468],
+      466
+    ],
+    [
+      403,
+      [469],
+      468
+    ],
+    [
+      404,
+      [470],
+      469
+    ],
+    [
+      406,
+      [471, 472, 473],
+      470
+    ],
+    [
+      407,
+      [474],
+      473
+    ],
+    [
+      409,
+      [475, 476],
+      474
+    ],
+    [
+      410,
+      [477, 478, 479],
+      476
+    ],
+    [
+      411,
+      [480, 481],
+      479
+    ],
+    [
+      413,
+      [482],
+      481
+    ],
+    [
+      414,
+      [483, 484],
+      482
+    ],
+    [
+      417,
+      [485],
+      484
+    ],
+    [
+      419,
+      [486],
+      485
+    ],
+    [
+      420,
+      [487],
+      486
+    ],
+    [
+      422,
+      [488, 489],
+      487
+    ],
+    [
+      425,
+      [490],
+      489
+    ],
+    [
+      429,
+      [491],
+      490
+    ],
+    [
+      431,
+      [492],
+      491
+    ],
+    [
+      435,
+      [493],
+      492
+    ],
+    [
+      436,
+      [494],
+      493
+    ],
+    [
+      437,
+      [495],
+      494
+    ],
+    [
+      441,
+      [496],
+      495
+    ],
+    [
+      444,
+      [497, 498, 499],
+      496
+    ],
+    [
+      448,
+      [500, 501],
+      499
+    ],
+    [
+      451,
+      [502],
+      null
+    ],
+    [
+      452,
+      [503],
+      502
+    ],
+    [
+      453,
+      [504],
+      503
+    ],
+    [
+      456,
+      [505],
+      504
+    ],
+    [
+      458,
+      [506],
+      505
+    ],
+    [
+      459,
+      [507],
+      506
+    ],
+    [
+      462,
+      [508],
+      507
+    ],
+    [
+      463,
+      [509],
+      508
+    ],
+    [
+      466,
+      [510],
+      509
+    ],
+    [
+      471,
+      [511, 512],
+      510
+    ],
+    [
+      472,
+      [513],
+      512
+    ],
+    [
+      473,
+      [514, 515],
+      513
+    ],
+    [
+      474,
+      [516, 517, 518],
+      null
+    ],
+    [
+      475,
+      [519, 520, 521, 522, 523],
+      518
+    ],
+    [
+      476,
+      [524],
+      523
+    ],
+    [
+      478,
+      [525],
+      524
+    ],
+    [
+      480,
+      [526],
+      525
+    ],
+    [
+      482,
+      [527],
+      526
+    ],
+    [
+      485,
+      [528],
+      527
+    ],
+    [
+      486,
+      [529],
+      528
+    ],
+    [
+      488,
+      [530],
+      529
+    ],
+    [
+      489,
+      [531],
+      530
+    ],
+    [
+      493,
+      [532],
+      531
+    ],
+    [
+      494,
+      [533],
+      532
+    ],
+    [
+      499,
+      [534],
+      533
+    ],
+    [
+      503,
+      [535],
+      534
+    ],
+    [
+      505,
+      [536, 537],
+      535
+    ],
+    [
+      508,
+      [538],
+      537
+    ],
+    [
+      510,
+      [539],
+      538
+    ],
+    [
+      512,
+      [540],
+      539
+    ],
+    [
+      514,
+      [541],
+      540
+    ],
+    [
+      515,
+      [542],
+      541
+    ],
+    [
+      516,
+      [543],
+      542
+    ],
+    [
+      521,
+      [544],
+      null
+    ],
+    [
+      522,
+      [545],
+      544
+    ],
+    [
+      524,
+      [546],
+      545
+    ],
+    [
+      525,
+      [547, 548, 549],
+      546
+    ],
+    [
+      526,
+      [550],
+      549
+    ],
+    [
+      530,
+      [551],
+      550
+    ],
+    [
+      531,
+      [552],
+      551
+    ],
+    [
+      533,
+      [553],
+      552
+    ],
+    [
+      535,
+      [554],
+      553
+    ],
+    [
+      540,
+      [555],
+      554
+    ],
+    [
+      542,
+      [556],
+      555
+    ],
+    [
+      544,
+      [557],
+      556
+    ],
+    [
+      548,
+      [558],
+      557
+    ],
+    [
+      554,
+      [559, 560],
+      558
+    ],
+    [
+      555,
+      [561, 562],
+      560
+    ],
+    [
+      558,
+      [563],
+      562
+    ],
+    [
+      560,
+      [564],
+      563
+    ],
+    [
+      561,
+      [565, 566],
+      564
+    ],
+    [
+      564,
+      [567],
+      566
+    ],
+    [
+      568,
+      [568],
+      567
+    ],
+    [
+      571,
+      [569, 570, 571],
+      568
+    ],
+    [
+      576,
+      [572],
+      571
+    ],
+    [
+      578,
+      [573],
+      572
+    ],
+    [
+      579,
+      [574],
+      573
+    ],
+    [
+      581,
+      [575],
+      574
+    ],
+    [
+      584,
+      [576],
+      575
+    ],
+    [
+      590,
+      [577],
+      576
+    ],
+    [
+      593,
+      [578],
+      577
+    ],
+    [
+      594,
+      [579, 580],
+      578
+    ],
+    [
+      595,
+      [581],
+      580
+    ],
+    [
+      598,
+      [582, 583],
+      581
+    ],
+    [
+      604,
+      [584],
+      583
+    ],
+    [
+      606,
+      [585],
+      584
+    ],
+    [
+      607,
+      [586],
+      585
+    ],
+    [
+      609,
+      [587],
+      586
+    ],
+    [
+      610,
+      [588, 589],
+      587
+    ],
+    [
+      612,
+      [590],
+      589
+    ],
+    [
+      615,
+      [591, 592],
+      590
+    ],
+    [
+      616,
+      [593, 594],
+      592
+    ],
+    [
+      619,
+      [595, 596, 597, 598, 599],
+      594
+    ],
+    [
+      620,
+      [600, 601],
+      599
+    ],
+    [
+      622,
+      [602],
+      601
+    ],
+    [
+      623,
+      [603],
+      602
+    ],
+    [
+      624,
+      [604],
+      603
+    ],
+    [
+      625,
+      [605],
+      604
+    ],
+    [
+      626,
+      [606, 607],
+      605
+    ],
+    [
+      627,
+      [608, 609],
+      607
+    ],
+    [
+      628,
+      [610],
+      609
+    ],
+    [
+      629,
+      [611],
+      610
+    ],
+    [
+      630,
+      [612],
+      611
+    ],
+    [
+      632,
+      [613, 614],
+      612
+    ],
+    [
+      633,
+      [615],
+      614
+    ],
+    [
+      634,
+      [616, 617, 618],
+      615
+    ],
+    [
+      635,
+      [619, 620],
+      618
+    ],
+    [
+      636,
+      [621],
+      620
+    ],
+    [
+      638,
+      [622],
+      621
+    ],
+    [
+      639,
+      [623],
+      622
+    ],
+    [
+      643,
+      [624],
+      null
+    ]
+  ],
+  "last_ms": 645
+}

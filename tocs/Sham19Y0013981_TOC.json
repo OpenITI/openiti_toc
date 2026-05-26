@@ -1,0 +1,123 @@
+{
+  "filename": "0384AbuHasanRummani.NukatFiIcjazQuran.Sham19Y0013981-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO باب الإيجاز",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "2": {
+      "title": "AUTO باب التشبيه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 8
+    },
+    "3": {
+      "title": "AUTO باب الاستعارة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 15
+    },
+    "4": {
+      "title": "AUTO باب التلاؤم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 16
+    },
+    "5": {
+      "title": "AUTO باب الفواصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": 18
+    },
+    "6": {
+      "title": "AUTO باب التجانس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": 18
+    },
+    "7": {
+      "title": "AUTO باب التصريف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": 20
+    },
+    "8": {
+      "title": "AUTO باب التضمين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 20,
+      "end_ms": 21
+    },
+    "9": {
+      "title": "AUTO باب المبالغة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 21,
+      "end_ms": 22
+    },
+    "10": {
+      "title": "AUTO باب البيان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 22,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      4,
+      [2],
+      1
+    ],
+    [
+      8,
+      [3],
+      2
+    ],
+    [
+      15,
+      [4],
+      3
+    ],
+    [
+      16,
+      [5],
+      4
+    ],
+    [
+      18,
+      [6, 7],
+      5
+    ],
+    [
+      20,
+      [8],
+      7
+    ],
+    [
+      21,
+      [9],
+      8
+    ],
+    [
+      22,
+      [10],
+      9
+    ]
+  ],
+  "last_ms": 27
+}

@@ -1,0 +1,206 @@
+{
+  "filename": "1094IbnSacidMujaylidi.Taysir.Sham19Y0036116-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO المقدمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "2": {
+      "title": "CHECK الباب الأول في فضل الحسبة، وشروط المحتسب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "AUTO شروط المحتسب",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "4": {
+      "title": "AUTO شروط المحتسب",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "5": {
+      "title": "AUTO شروط المحتسب",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 2,
+      "end_ms": 4
+    },
+    "6": {
+      "title": "AUTO تكميل",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "7": {
+      "title": "AUTO الباب الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 6
+    },
+    "8": {
+      "title": "AUTO الباب الثالث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "9": {
+      "title": "AUTO الباب الرابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 8
+    },
+    "10": {
+      "title": "AUTO الباب الخامس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 10
+    },
+    "11": {
+      "title": "AUTO الباب السادس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 11
+    },
+    "12": {
+      "title": "AUTO الباب السابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 14
+    },
+    "13": {
+      "title": "AUTO فرع",
+      "level": 2,
+      "parent": 12,
+      "start_ms": 13,
+      "end_ms": 13
+    },
+    "14": {
+      "title": "AUTO فائدة",
+      "level": 2,
+      "parent": 12,
+      "start_ms": 13,
+      "end_ms": 14
+    },
+    "15": {
+      "title": "AUTO الباب الثامن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 17
+    },
+    "16": {
+      "title": "AUTO الباب التاسع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 17,
+      "end_ms": 19
+    },
+    "17": {
+      "title": "AUTO الباب العاشر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 19,
+      "end_ms": 23
+    },
+    "18": {
+      "title": "AUTO تنبيه",
+      "level": 2,
+      "parent": 17,
+      "start_ms": 22,
+      "end_ms": 23
+    },
+    "19": {
+      "title": "AUTO خاتمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 23,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      2,
+      [1, 2, 3, 4, 5],
+      null
+    ],
+    [
+      4,
+      [6, 7],
+      5
+    ],
+    [
+      6,
+      [8],
+      7
+    ],
+    [
+      7,
+      [9],
+      8
+    ],
+    [
+      8,
+      [10],
+      9
+    ],
+    [
+      10,
+      [11],
+      10
+    ],
+    [
+      11,
+      [12],
+      11
+    ],
+    [
+      13,
+      [13, 14],
+      12
+    ],
+    [
+      14,
+      [15],
+      14
+    ],
+    [
+      17,
+      [16],
+      15
+    ],
+    [
+      19,
+      [17],
+      16
+    ],
+    [
+      22,
+      [18],
+      17
+    ],
+    [
+      23,
+      [19],
+      18
+    ]
+  ],
+  "last_ms": 24
+}

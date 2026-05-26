@@ -1,0 +1,89 @@
+{
+  "filename": "1232MuhammadSanbawiAmir.SharhThumam.Sham19Y0017091-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO [خطبة الكتاب]",
+      "level": 2,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 5
+    },
+    "2": {
+      "title": "AUTO المقدمة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "AUTO باب الآداب ونحوها",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 5
+    },
+    "4": {
+      "title": "AUTO ثمر الثمام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": null
+    },
+    "5": {
+      "title": "AUTO [خطبة الكتاب]",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 5,
+      "end_ms": 16
+    },
+    "6": {
+      "title": "AUTO [المقدمة",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 16,
+      "end_ms": 16
+    },
+    "7": {
+      "title": "AUTO (المقدمة)",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 16,
+      "end_ms": 18
+    },
+    "8": {
+      "title": "AUTO (باب الآداب ونحوها)",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 18,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2, 3],
+      1
+    ],
+    [
+      5,
+      [4, 5],
+      3
+    ],
+    [
+      16,
+      [6, 7],
+      5
+    ],
+    [
+      18,
+      [8],
+      7
+    ]
+  ],
+  "last_ms": 30
+}

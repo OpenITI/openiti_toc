@@ -1,0 +1,32 @@
+{
+  "filename": "1225AnsariLaknawi.FawatihRahmut.ShamAY0037574-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [الجزء الأول من فواتح الرحموت بشرح مسلم الثبوت]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 730
+    },
+    "2": {
+      "title": "CHECK [الجزء الثاني من فواتح الرحموت بشرح مسلم الثبوت]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 730,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      730,
+      [2],
+      1
+    ]
+  ],
+  "last_ms": 1421
+}

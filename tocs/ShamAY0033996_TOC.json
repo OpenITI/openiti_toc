@@ -1,0 +1,68 @@
+{
+  "filename": "0385Daraqutni.Afrad.ShamAY0033996-ara2",
+  "sections": {
+    "1": {
+      "title": "CHECK [الجزء (2)]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 18
+    },
+    "2": {
+      "title": "CHECK [الجزء (3)]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": 38
+    },
+    "3": {
+      "title": "CHECK [الجزء (4)]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 38,
+      "end_ms": 57
+    },
+    "4": {
+      "title": "CHECK [الجزء (6)]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 57,
+      "end_ms": 78
+    },
+    "5": {
+      "title": "CHECK [الجزء (83)]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 78,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      18,
+      [2],
+      1
+    ],
+    [
+      38,
+      [3],
+      2
+    ],
+    [
+      57,
+      [4],
+      3
+    ],
+    [
+      78,
+      [5],
+      4
+    ]
+  ],
+  "last_ms": 99
+}

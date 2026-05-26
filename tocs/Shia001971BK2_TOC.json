@@ -1,0 +1,48 @@
+{
+  "filename": "0303Nasai.Tabaqat.Shia001971BK2-ara3",
+  "sections": {
+    "1": {
+      "title": "الطبقات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "[أصحاب نافع]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "الطبقة الأولى من أصحاب نافع مولى عبد الله بن عمر",
+      "level": 3,
+      "parent": 2,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "4": {
+      "title": "[أصحاب الأعمش]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "5": {
+      "title": "الطبقة الأولى من أصحاب الأعمش",
+      "level": 3,
+      "parent": 4,
+      "start_ms": 1,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3, 4, 5],
+      null
+    ]
+  ],
+  "last_ms": 2
+}

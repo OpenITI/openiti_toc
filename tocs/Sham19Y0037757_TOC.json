@@ -1,0 +1,68 @@
+{
+  "filename": "1174AbuBarakatSuwaydi.MutamarNajaf.Sham19Y0037757-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO [مقدمة المؤلف]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 13
+    },
+    "2": {
+      "title": "CHECK مسألتان لا تستطيع الشيعة الجواب عنهما",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 14
+    },
+    "3": {
+      "title": "AUTO المؤتمر في يومه الأول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 17
+    },
+    "4": {
+      "title": "AUTO المؤتمر في يومه الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 17,
+      "end_ms": 23
+    },
+    "5": {
+      "title": "CHECK ادعاء مذهب جعفر الصادق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 23,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      13,
+      [2],
+      1
+    ],
+    [
+      14,
+      [3],
+      2
+    ],
+    [
+      17,
+      [4],
+      3
+    ],
+    [
+      23,
+      [5],
+      4
+    ]
+  ],
+  "last_ms": 24
+}

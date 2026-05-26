@@ -1,0 +1,148 @@
+{
+  "filename": "0360AbuBakrAjurri.FadlQiyamLayl.ShamAY0001300-ara2",
+  "sections": {
+    "1": {
+      "title": "CHECK [الغلاف]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "CHECK [فضل عشر ذي الحجة للطبراني]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "AUTO باب تأويل قول الله عز وجل {واذكروا الله في أيام معدودات}",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "4": {
+      "title": "AUTO باب تأويل قول الله تعالى {وواعدنا موسى ثلاثين ليلة وأتممناها بعشر}",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "5": {
+      "title": "AUTO باب تأويل قول الله عز وجل {والفجر وليال عشر}",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "6": {
+      "title": "AUTO باب فضل صيام أيام العشر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "7": {
+      "title": "AUTO ms05 باب فضل صيام يوم عرفة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "8": {
+      "title": "AUTO باب تأويل قول الله عز وجل {والشفع والوتر}",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "9": {
+      "title": "AUTO باب من كان يغتسل يوم عرفة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "10": {
+      "title": "AUTO باب من كان يبتدئ بالتكبير يوم عرفة بعد صلاة الفجر ويقطع بعد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 9
+    },
+    "11": {
+      "title": "AUTO باب من كان يكبر من صلاة الصبح يوم عرفة إلى صلاة الظهر من آخر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 9
+    },
+    "12": {
+      "title": "AUTO باب من كان يكبر من صلاة الصبح يوم عرفة إلى صلاة العصر من يوم النحر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 9
+    },
+    "13": {
+      "title": "AUTO باب من كان يكبر من صلاة الظهر يوم النحر إلى صلاة الفجر من آخر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 10
+    },
+    "14": {
+      "title": "AUTO باب من كان يكبر من صلاة الظهر يوم النحر إلى صلاة العصر من آخر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 10
+    },
+    "15": {
+      "title": "AUTO باب ما يدعى به يوم عرفة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      4,
+      [3],
+      2
+    ],
+    [
+      5,
+      [4, 5, 6],
+      3
+    ],
+    [
+      6,
+      [7],
+      null
+    ],
+    [
+      7,
+      [8, 9, 10],
+      7
+    ],
+    [
+      9,
+      [11, 12, 13],
+      10
+    ],
+    [
+      10,
+      [14, 15],
+      13
+    ]
+  ],
+  "last_ms": 12
+}

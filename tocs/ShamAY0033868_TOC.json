@@ -1,0 +1,39 @@
+{
+  "filename": "0301AbuBakrFaryabi.SifatNifaq.ShamAY0033868-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [أول الكتاب]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO باب ما روي في صفة المنافق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 13
+    },
+    "3": {
+      "title": "AUTO باب فيمن كان يخاف النفاق ويشفق منه ولا يأمنه على نفسه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      13,
+      [3],
+      2
+    ]
+  ],
+  "last_ms": 20
+}

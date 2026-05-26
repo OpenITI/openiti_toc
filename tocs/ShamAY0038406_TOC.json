@@ -1,0 +1,68 @@
+{
+  "filename": "0911Samhudi.wafa.ShamAY0038406-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO الوفا بما يجب لحضرة المصطفى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "2": {
+      "title": "AUTO الباب الأول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": null
+    },
+    "3": {
+      "title": "AUTO تكميل لما نحن بصدده من إيجاب إزالة ما أصاب ذلك المحل الشريف",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 43,
+      "end_ms": 47
+    },
+    "4": {
+      "title": "AUTO قصة من ولي الخطابة من غير أهل السنة والجماعة:",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 47,
+      "end_ms": 62
+    },
+    "5": {
+      "title": "AUTO الخاتمة الموعود بها في أمور ينبغي إزالتها من الحضرة الشريفة:",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 62,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2],
+      1
+    ],
+    [
+      43,
+      [3],
+      2
+    ],
+    [
+      47,
+      [4],
+      3
+    ],
+    [
+      62,
+      [5],
+      4
+    ]
+  ],
+  "last_ms": 87
+}

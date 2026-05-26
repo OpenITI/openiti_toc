@@ -1,0 +1,32 @@
+{
+  "filename": "0241IbnHanbal.Zuhd.ShamAY0033738-ara3",
+  "sections": {
+    "1": {
+      "title": "AUTO (1) رواية عبد الله بن أحمد : وهي الرواية المطبوعة ، وقد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 418
+    },
+    "2": {
+      "title": "AUTO فيما يلي زوائد رواية صالح بن أحمد على رواية عبد الله بن أحمد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 418,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      418,
+      [2],
+      1
+    ]
+  ],
+  "last_ms": 457
+}

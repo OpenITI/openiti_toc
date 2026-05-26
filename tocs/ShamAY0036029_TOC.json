@@ -1,0 +1,150 @@
+{
+  "filename": "0710IbnRifca.Nafais.ShamAY0036029-ara2",
+  "sections": {
+    "1": {
+      "title": "AUTO النفائس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO المؤلف (¬1)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "AUTO اسمه ولقبه وكنيته ونسبته:",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "4": {
+      "title": "AUTO مولده:",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "5": {
+      "title": "AUTO شيوخه:",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "6": {
+      "title": "AUTO علومه",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "7": {
+      "title": "AUTO صفاته:",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "8": {
+      "title": "AUTO الأعمال التي وليها:",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "9": {
+      "title": "AUTO أقوال العلماء فيه:",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "10": {
+      "title": "AUTO مؤلفاته:",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "11": {
+      "title": "AUTO وفاته:",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "12": {
+      "title": "AUTO بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "13": {
+      "title": "AUTO ### | AUTO الدليل على رد ما ذكر في القاهرة المعزية من الدعوى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 14
+    },
+    "14": {
+      "title": "AUTO وقد آن لنا ذكر ما تقدم الوعد به من سؤال، هو عمدة من قام في",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 19
+    },
+    "15": {
+      "title": "AUTO قال الغزالي إن هذا الطريق هو الذي عليه أكثر الأصحاب، وإنه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 19,
+      "end_ms": 19
+    },
+    "16": {
+      "title": "AUTO وكان الفراغ من تأليف ذلك وتبييضه في النسخة التي بخط المصنف،",
+      "level": 1,
+      "parent": null,
+      "start_ms": 19,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3, 4, 5, 6, 7, 8, 9],
+      null
+    ],
+    [
+      2,
+      [10, 11],
+      9
+    ],
+    [
+      3,
+      [12],
+      11
+    ],
+    [
+      4,
+      [13],
+      12
+    ],
+    [
+      14,
+      [14],
+      13
+    ],
+    [
+      19,
+      [15, 16],
+      14
+    ]
+  ],
+  "last_ms": 28
+}

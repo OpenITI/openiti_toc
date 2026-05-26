@@ -1,0 +1,84 @@
+{
+  "filename": "0576AbuTahirSilafi.ShartQiraa.Sham19Y0142167-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK مقدمة المصنف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "2": {
+      "title": "AUTO إما أن يكون الراوي عارفا بما يرويه، عالما بالذي يؤديه، أو غير عارف بذلك ولا عالم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 8
+    },
+    "3": {
+      "title": "AUTO فإن كان عالما وبحديثه عارفا",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "4": {
+      "title": "AUTO وإن كان الراوي شيخا صحيح السماع، إلا أنه لا يعرف حديثه",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "5": {
+      "title": "AUTO وإن كان تخريجا عن شيوخ (شتى)، وفوائد من روايات متفاوتة",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "6": {
+      "title": "AUTO فإما أن يكون الشيخ أميا لا يفرق بين الصحيح من سماعه وبين السقيم",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 5,
+      "end_ms": 8
+    },
+    "7": {
+      "title": "CHECK قصة يرويها المصنف تبين ذلك",
+      "level": 3,
+      "parent": 6,
+      "start_ms": 5,
+      "end_ms": 8
+    },
+    "8": {
+      "title": "CHECK إذا كتبت فقمش، وإذا حدثت ففتش",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      4,
+      [2, 3, 4, 5],
+      1
+    ],
+    [
+      5,
+      [6, 7],
+      5
+    ],
+    [
+      8,
+      [8],
+      7
+    ]
+  ],
+  "last_ms": 11
+}

@@ -1,0 +1,92 @@
+{
+  "filename": "1348AhmadTaymurBasha.IclamMuhandisin.ShamAY0034656-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "مقدمة بقلم العلامة المحقق المغفور له أحمد تيمور",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "2": {
+      "title": "[أسماء الأعلام مرتبة على العصور بحسب الإمكان]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 32
+    },
+    "3": {
+      "title": "فن التصوير عند العرب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 32,
+      "end_ms": 35
+    },
+    "4": {
+      "title": "العرب الذين ms34 أحكموا صناعة النقش والدهان والرسم والزخرفة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 35,
+      "end_ms": 39
+    },
+    "5": {
+      "title": "مصطلحات هندسية فى البناء والأبنية والدور وما فيها 1",
+      "level": 1,
+      "parent": null,
+      "start_ms": 39,
+      "end_ms": 47
+    },
+    "6": {
+      "title": "المعادن والأحجار الكريمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 47,
+      "end_ms": 49
+    },
+    "7": {
+      "title": "مصطلحات هندسية عن بعض أرباب الحرف والصناعات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 49,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      3,
+      [2],
+      1
+    ],
+    [
+      32,
+      [3],
+      2
+    ],
+    [
+      35,
+      [4],
+      null
+    ],
+    [
+      39,
+      [5],
+      4
+    ],
+    [
+      47,
+      [6],
+      5
+    ],
+    [
+      49,
+      [7],
+      6
+    ]
+  ],
+  "last_ms": 53
+}

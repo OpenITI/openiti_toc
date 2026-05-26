@@ -1,0 +1,44 @@
+{
+  "filename": "0573NashwanHimyari.ShamsCulum.ShamIbadiyya0000880-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK شمس العلوم ودواء كلام العرب من الكلوم لنشوان الحميري ج3",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 183
+    },
+    "2": {
+      "title": "CHECK شمس العلوم ودواء كلام العرب من الكلوم لنشوان الحميري ج4",
+      "level": 1,
+      "parent": null,
+      "start_ms": 183,
+      "end_ms": 346
+    },
+    "3": {
+      "title": "CHECK شمس العلوم ودواء كلام العرب من الكلوم لنشوان الحميري ج5",
+      "level": 1,
+      "parent": null,
+      "start_ms": 346,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      183,
+      [2],
+      1
+    ],
+    [
+      346,
+      [3],
+      2
+    ]
+  ],
+  "last_ms": 500
+}

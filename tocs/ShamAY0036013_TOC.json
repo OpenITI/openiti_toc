@@ -1,0 +1,51 @@
+{
+  "filename": "1304CabdHayyLaknawi.Hashasa.ShamAY0036013-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [مقدمة المؤلف]",
+      "level": 2,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "AUTO في تقسيم الضحك",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "AUTO في ذكر اختلاف المذاهب",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 24
+    },
+    "4": {
+      "title": "AUTO في تفصيل نقض الوضوء بالقهقهة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 24,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      3,
+      [3],
+      2
+    ],
+    [
+      24,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 31
+}

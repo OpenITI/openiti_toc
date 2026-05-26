@@ -1,0 +1,32 @@
+{
+  "filename": "1226AhmadBarbir.Fasiha.Sham19Y0017736-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK أول الرسالة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 22
+    },
+    "2": {
+      "title": "CHECK آخر الرسالة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 22,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      11,
+      [1],
+      null
+    ],
+    [
+      22,
+      [2],
+      1
+    ]
+  ],
+  "last_ms": 23
+}

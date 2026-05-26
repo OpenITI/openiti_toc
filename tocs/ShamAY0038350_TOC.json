@@ -1,0 +1,202 @@
+{
+  "filename": "0751IbnQayyimJawziyya.RisalaIlaAhadIkhwan.ShamAY0038350-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO مقدمة التحقيق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 10
+    },
+    "2": {
+      "title": "AUTO دراسة موجزة للرسالة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "AUTO مدى صحة نسبة الرسالة لابن القيم",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 5
+    },
+    "4": {
+      "title": "AUTO أهمية هذه الرسالة:",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "5": {
+      "title": "AUTO وصف النسخ المطبوعة والنسخ المخطوطة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 6,
+      "end_ms": 10
+    },
+    "6": {
+      "title": "CHECK [بداية النص المحقق]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 18
+    },
+    "7": {
+      "title": "AUTO فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": 20
+    },
+    "8": {
+      "title": "AUTO فصل (3)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 20,
+      "end_ms": 26
+    },
+    "9": {
+      "title": "AUTO فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 26,
+      "end_ms": 28
+    },
+    "10": {
+      "title": "AUTO فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 28,
+      "end_ms": 33
+    },
+    "11": {
+      "title": "AUTO المشهد الأول: الإخلاص",
+      "level": 1,
+      "parent": null,
+      "start_ms": 33,
+      "end_ms": 33
+    },
+    "12": {
+      "title": "CHECK [المشهد الثاني: مشهد الصدق والنصح]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 33,
+      "end_ms": 34
+    },
+    "13": {
+      "title": "CHECK [المشهد الثالث: مشهد المتابعة والاقتداء]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 34,
+      "end_ms": 36
+    },
+    "14": {
+      "title": "CHECK [فصل المشهد الرابع: مشهد الإحسان]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 36,
+      "end_ms": 37
+    },
+    "15": {
+      "title": "CHECK [فصل المشهد الخامس: [مشهد المنة]]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 37,
+      "end_ms": 39
+    },
+    "16": {
+      "title": "CHECK [المشهد السادس: مشهد التقصير]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 39,
+      "end_ms": 41
+    },
+    "17": {
+      "title": "AUTO فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 41,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2, 3],
+      1
+    ],
+    [
+      5,
+      [4],
+      3
+    ],
+    [
+      6,
+      [5],
+      4
+    ],
+    [
+      10,
+      [6],
+      5
+    ],
+    [
+      18,
+      [7],
+      6
+    ],
+    [
+      20,
+      [8],
+      7
+    ],
+    [
+      26,
+      [9],
+      8
+    ],
+    [
+      28,
+      [10],
+      9
+    ],
+    [
+      33,
+      [11, 12],
+      10
+    ],
+    [
+      34,
+      [13],
+      12
+    ],
+    [
+      36,
+      [14],
+      13
+    ],
+    [
+      37,
+      [15],
+      14
+    ],
+    [
+      39,
+      [16],
+      15
+    ],
+    [
+      41,
+      [17],
+      16
+    ]
+  ],
+  "last_ms": 45
+}

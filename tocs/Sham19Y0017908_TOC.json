@@ -1,0 +1,94 @@
+{
+  "filename": "0902Sakhawi.Intihad.Sham19Y0017908-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK الديباجة، وفيها بيان بعض خصائصه - صلى الله عليه وسلم - ومعجزاته والصلاة عليه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "CHECK [مقدمة المصنف]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "CHECK الثناء على القاضي عياض وبيان بعض مناقبه ومآثره",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "4": {
+      "title": "CHECK ذكر بعض مصنفات القاضي عياض",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "5": {
+      "title": "CHECK الثناء على كتاب الشفا والإشادة بخصائصه ومزاياه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "6": {
+      "title": "CHECK ذكر بعض ما قيل في الثناء على كتاب الشفا نظما",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "7": {
+      "title": "CHECK أسانيد السخاوي التي يروي بها كتاب الشفا",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "8": {
+      "title": "CHECK خاتمة الكتاب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3],
+      2
+    ],
+    [
+      3,
+      [4, 5],
+      3
+    ],
+    [
+      4,
+      [6],
+      5
+    ],
+    [
+      5,
+      [7],
+      6
+    ],
+    [
+      6,
+      [8],
+      7
+    ]
+  ],
+  "last_ms": 6
+}

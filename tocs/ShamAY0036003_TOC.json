@@ -1,0 +1,44 @@
+{
+  "filename": "1304CabdHayyLaknawi.Ifsah.ShamAY0036003-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [مقدمة المؤلف]",
+      "level": 2,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "CHECK [لا يقبل قول المرأة الواحدة ولا شهادتها بإرضاح الزوج",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 5
+    },
+    "3": {
+      "title": "AUTO في عدم قبول شهادة امرأة واحدة وقولها",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 5,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2],
+      1
+    ],
+    [
+      5,
+      [3],
+      2
+    ]
+  ],
+  "last_ms": 8
+}

@@ -1,0 +1,51 @@
+{
+  "filename": "1304CabdHayyLaknawi.FalakMashhun.ShamAY0036007-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [مقدمة المؤلف]",
+      "level": 2,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "AUTO في ذكر اختلاف الأئمة مع ذكر الأدلة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 6
+    },
+    "3": {
+      "title": "AUTO في ذكر أقوال أصحابنا الحنفية PageV01P023",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 6,
+      "end_ms": 12
+    },
+    "4": {
+      "title": "AUTO في فروع مختلفةمتعلقة بانتفاع المرتهن",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 12,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      6,
+      [3],
+      2
+    ],
+    [
+      12,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 14
+}

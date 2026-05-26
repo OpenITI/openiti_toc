@@ -1,0 +1,159 @@
+{
+  "filename": "0676Nawawi.Tibyan.ShamAY0034087-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO خطبة الكتاب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "2": {
+      "title": "AUTO الباب الأول : في أطراف من فضيلة تلاوة القرآن وحملته",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 5
+    },
+    "3": {
+      "title": "AUTO الباب الثاني : في ترجيح القراءة والقارئ على غيرها",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "4": {
+      "title": "AUTO الباب الثالث : في إكرام أهل القرآن والنهي عن أذاهم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "5": {
+      "title": "AUTO الباب الرابع : في آداب معلم القرآن ومتعلمه وفيه فصول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 15
+    },
+    "6": {
+      "title": "AUTO الباب الخامس : في آداب حامل القرآن وفيه فصول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 21
+    },
+    "7": {
+      "title": "AUTO الباب السادس : في آداب القرآن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 21,
+      "end_ms": 33
+    },
+    "8": {
+      "title": "AUTO الباب السادس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 33,
+      "end_ms": 44
+    },
+    "9": {
+      "title": "AUTO الباب السادس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 44,
+      "end_ms": 58
+    },
+    "10": {
+      "title": "AUTO الباب السابع : في آداب الناس كلهم مع القرآن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 58,
+      "end_ms": 62
+    },
+    "11": {
+      "title": "AUTO الباب الثامن : في الآيات والسور المستحبة في أوقات وأحوال مخصوصة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 62,
+      "end_ms": 65
+    },
+    "12": {
+      "title": "AUTO الباب التاسع : في كتابة القرآن اكرام المصحف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 65,
+      "end_ms": 69
+    },
+    "13": {
+      "title": "AUTO ### || AUTO الباب العاشر : في ضبط الأسماء واللغات المذكورة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 69,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      3,
+      [2],
+      1
+    ],
+    [
+      5,
+      [3, 4],
+      2
+    ],
+    [
+      6,
+      [5],
+      4
+    ],
+    [
+      15,
+      [6],
+      5
+    ],
+    [
+      21,
+      [7],
+      6
+    ],
+    [
+      33,
+      [8],
+      7
+    ],
+    [
+      44,
+      [9],
+      8
+    ],
+    [
+      58,
+      [10],
+      9
+    ],
+    [
+      62,
+      [11],
+      10
+    ],
+    [
+      65,
+      [12],
+      11
+    ],
+    [
+      69,
+      [13],
+      12
+    ]
+  ],
+  "last_ms": 75
+}

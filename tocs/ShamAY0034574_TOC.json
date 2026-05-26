@@ -1,0 +1,94 @@
+{
+  "filename": "0600CabdGhaniMaqdisi.MihnaCalaImamAhmad.ShamAY0034574-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO ذكر ابتداء محنة الإمام أبي عبد الله أحمد بن محمد بن حنبل بن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 17
+    },
+    "3": {
+      "title": "AUTO ذكر أول ما دعا المأمون",
+      "level": 1,
+      "parent": null,
+      "start_ms": 17,
+      "end_ms": 33
+    },
+    "4": {
+      "title": "AUTO الجزء الثاني من كتاب المحنة على إمام أهل السنة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 33,
+      "end_ms": 33
+    },
+    "5": {
+      "title": "AUTO ذكر محنة أبي إسحاق المعتصم لأبي عبد الله أحمد بن محمد بن حنبل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 33,
+      "end_ms": 63
+    },
+    "6": {
+      "title": "AUTO الجزء الثالث من كتاب المحنة عن إمام أهل السنة وقائدهم إلى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 63,
+      "end_ms": 78
+    },
+    "7": {
+      "title": "AUTO ذكر محنة الواثق لأبي عبد الله أحمد بن محمد بن حنبل رحمه الله تعالى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 78,
+      "end_ms": 84
+    },
+    "8": {
+      "title": "AUTO ذكر ما جرى لأبي عبد الله أحمد بن محمد بن حنبل رحمه الله مع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 84,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      17,
+      [3],
+      2
+    ],
+    [
+      33,
+      [4, 5],
+      3
+    ],
+    [
+      63,
+      [6],
+      5
+    ],
+    [
+      78,
+      [7],
+      6
+    ],
+    [
+      84,
+      [8],
+      7
+    ]
+  ],
+  "last_ms": 101
+}

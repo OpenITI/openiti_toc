@@ -1,0 +1,177 @@
+{
+  "filename": "0728IbnTaymiyya.CaqidaWasitiyya.Sham19Y0018098-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO مقدمة المؤلف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO الإيمان بما وصف الله به نفسه في كتابه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 6
+    },
+    "3": {
+      "title": "AUTO الإيمان بما وصف الرسول صلى الله عليه وسلم به ربه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 8
+    },
+    "4": {
+      "title": "AUTO الإيمان بأنه فوق عرشه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 9
+    },
+    "5": {
+      "title": "AUTO الإيمان بأنه قريب مجيب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 9
+    },
+    "6": {
+      "title": "AUTO الإيمان بأنه قريب مجيب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 9
+    },
+    "7": {
+      "title": "AUTO الإيمان بأن القرآن كلام الله منزل غير مخلوق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 9
+    },
+    "8": {
+      "title": "AUTO الإيمان بأن القرآن كلام الله منزل غير مخلوق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 10
+    },
+    "9": {
+      "title": "AUTO الإيمان برؤية المؤمنين لربهم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 10
+    },
+    "10": {
+      "title": "AUTO الإيمان بما بعد الموت",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 12
+    },
+    "11": {
+      "title": "AUTO الإيمان بالقدر ms11 خيره وشره",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 13
+    },
+    "12": {
+      "title": "AUTO الإيمان قول وعمل يزيد وينقص",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 13
+    },
+    "13": {
+      "title": "AUTO وجوب حب الصحابة وأهل البيت",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 16
+    },
+    "14": {
+      "title": "AUTO وجوب التصديق بكرامات الأولياء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": 16
+    },
+    "15": {
+      "title": "AUTO من علامات أهل السنة الإتباع وليس الابتداع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": 17
+    },
+    "16": {
+      "title": "AUTO متفرقات والخاتمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 17,
+      "end_ms": 18
+    },
+    "17": {
+      "title": "AUTO خاتمة الطبع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      6,
+      [3],
+      2
+    ],
+    [
+      8,
+      [4],
+      3
+    ],
+    [
+      9,
+      [5, 6, 7, 8],
+      4
+    ],
+    [
+      10,
+      [9, 10],
+      8
+    ],
+    [
+      12,
+      [11],
+      null
+    ],
+    [
+      13,
+      [12, 13],
+      11
+    ],
+    [
+      16,
+      [14, 15],
+      13
+    ],
+    [
+      17,
+      [16],
+      15
+    ],
+    [
+      18,
+      [17],
+      16
+    ]
+  ],
+  "last_ms": 28
+}

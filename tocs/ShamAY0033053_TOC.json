@@ -1,0 +1,32 @@
+{
+  "filename": "0852IbnHajarCasqalani.MukhtasarZawaidMusnadBazzar.ShamAY0033053-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [01]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 303
+    },
+    "2": {
+      "title": "CHECK [02]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 303,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      303,
+      [2],
+      1
+    ]
+  ],
+  "last_ms": 564
+}

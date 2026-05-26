@@ -1,0 +1,118 @@
+{
+  "filename": "0275AbuDawudSijistani.Marasil.ShamAY0033999-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO الكتاب: المراسيل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "AUTO - باب الطهارة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "AUTO - باب من الصلاة.",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 50
+    },
+    "4": {
+      "title": "AUTO - كتاب الجهاد",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 50,
+      "end_ms": 63
+    },
+    "5": {
+      "title": "AUTO - كتاب الوصايا.",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 63,
+      "end_ms": 64
+    },
+    "6": {
+      "title": "AUTO - كتاب الفرائض.",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 64,
+      "end_ms": 67
+    },
+    "7": {
+      "title": "AUTO - كتاب الفيء ms66 والإمارة.",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 67,
+      "end_ms": 67
+    },
+    "8": {
+      "title": "AUTO - كتاب الضحايا والذبائح.",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 67,
+      "end_ms": 76
+    },
+    "9": {
+      "title": "AUTO - كتاب اللباس.",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 76,
+      "end_ms": 77
+    },
+    "10": {
+      "title": "AUTO - كتاب الترجل. ms76",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 77,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3],
+      2
+    ],
+    [
+      50,
+      [4],
+      3
+    ],
+    [
+      63,
+      [5],
+      4
+    ],
+    [
+      64,
+      [6],
+      5
+    ],
+    [
+      67,
+      [7, 8],
+      null
+    ],
+    [
+      76,
+      [9],
+      8
+    ],
+    [
+      77,
+      [10],
+      null
+    ]
+  ],
+  "last_ms": 93
+}

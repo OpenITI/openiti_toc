@@ -1,0 +1,56 @@
+{
+  "filename": "1332NurDinSalimi.JawharNizam.ShamIbadiyya0000471-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK جوهر النظام الجزء الأول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 91
+    },
+    "2": {
+      "title": "AUTO جوهر النظام الجزء الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 91,
+      "end_ms": 222
+    },
+    "3": {
+      "title": "CHECK جوهر النظام في علمي الأديان والأحكام3",
+      "level": 1,
+      "parent": null,
+      "start_ms": 222,
+      "end_ms": 304
+    },
+    "4": {
+      "title": "AUTO جوهر النظام الجزء الرابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 304,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      91,
+      [2],
+      1
+    ],
+    [
+      222,
+      [3],
+      2
+    ],
+    [
+      304,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 341
+}

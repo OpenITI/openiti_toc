@@ -1,0 +1,116 @@
+{
+  "filename": "0806IbnHusaynZaynDinCiraqi.QurratCain.Sham19Y0016877-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO [مقدمة المؤلف]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 6
+    },
+    "2": {
+      "title": "AUTO [حكمة التفضيل بين الناس في الرزق]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 6
+    },
+    "3": {
+      "title": "AUTO الباب الأول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 10
+    },
+    "4": {
+      "title": "AUTO الباب الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 15
+    },
+    "5": {
+      "title": "AUTO الباب الثالث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 21
+    },
+    "6": {
+      "title": "AUTO الباب الرابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 21,
+      "end_ms": 25
+    },
+    "7": {
+      "title": "AUTO الباب الخامس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 25,
+      "end_ms": 29
+    },
+    "8": {
+      "title": "AUTO الباب السادس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 29,
+      "end_ms": 35
+    },
+    "9": {
+      "title": "AUTO الباب السابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 35,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2],
+      1
+    ],
+    [
+      6,
+      [3],
+      2
+    ],
+    [
+      10,
+      [4],
+      3
+    ],
+    [
+      15,
+      [5],
+      4
+    ],
+    [
+      21,
+      [6],
+      5
+    ],
+    [
+      25,
+      [7],
+      6
+    ],
+    [
+      29,
+      [8],
+      7
+    ],
+    [
+      35,
+      [9],
+      8
+    ]
+  ],
+  "last_ms": 49
+}

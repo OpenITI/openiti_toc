@@ -1,0 +1,63 @@
+{
+  "filename": "1122MuhammadZurqani.Sabca.ShamAY0035907-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO السبعة الذين يظلهم الله يوم القيامة يوم لا ظل إلا ظله",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO مقدمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 5
+    },
+    "3": {
+      "title": "AUTO (بداية تحقيق المخطوطة)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 17
+    },
+    "4": {
+      "title": "AUTO النتائج التي توصل إليها الباحث: -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 17,
+      "end_ms": 18
+    },
+    "5": {
+      "title": "AUTO فهرس المصادر والمراجع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      5,
+      [3],
+      2
+    ],
+    [
+      17,
+      [4],
+      3
+    ],
+    [
+      18,
+      [5],
+      4
+    ]
+  ],
+  "last_ms": 29
+}

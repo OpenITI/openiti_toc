@@ -1,0 +1,876 @@
+{
+  "filename": "0646IbnCumarIbnHajibKurdi.KafiyaFiCilmNahw.Sham19Y0122234-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO [الكلمة والكلام]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO [الإعراب]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "AUTO [الممنوع من الصرف]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "4": {
+      "title": "AUTO المرفوعات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 5
+    },
+    "5": {
+      "title": "AUTO [الفاعل]",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "6": {
+      "title": "AUTO [التنازع]",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "7": {
+      "title": "AUTO [مفعول ما لم يسم فاعله]",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "8": {
+      "title": "AUTO [المبتدأ والخبر]",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "9": {
+      "title": "AUTO [مسوغات الابتداء بالنكرة]",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "10": {
+      "title": "AUTO [وقوع الخبر جملة]",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "11": {
+      "title": "AUTO [وجوب تقديم المبتدأ]",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "12": {
+      "title": "AUTO [وجوب تقديم الخبر]",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "13": {
+      "title": "AUTO [تعدد الخبر]",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "14": {
+      "title": "AUTO [دخول الفاء في خبر المبتدأ]",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "15": {
+      "title": "AUTO [حذف المبتدأ]",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "16": {
+      "title": "AUTO [حذف الخبر]",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "17": {
+      "title": "AUTO خبر (إن) وأخواتها",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "18": {
+      "title": "AUTO [خبر (لا) النافية للجنس]",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "19": {
+      "title": "AUTO [اسم (ما) و (لا) المشبهتين ب (ليس)]",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "20": {
+      "title": "AUTO المنصوبات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "21": {
+      "title": "AUTO المنصوبات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 11
+    },
+    "22": {
+      "title": "AUTO [المفعول المطلق]",
+      "level": 2,
+      "parent": 21,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "23": {
+      "title": "AUTO [المفعول به]",
+      "level": 2,
+      "parent": 21,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "24": {
+      "title": "AUTO [المنادى]",
+      "level": 2,
+      "parent": 21,
+      "start_ms": 6,
+      "end_ms": 6
+    },
+    "25": {
+      "title": "AUTO [توابع المنادى]",
+      "level": 2,
+      "parent": 21,
+      "start_ms": 6,
+      "end_ms": 6
+    },
+    "26": {
+      "title": "AUTO [ترخيم المنادى]",
+      "level": 2,
+      "parent": 21,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "27": {
+      "title": "AUTO [المندوب]",
+      "level": 2,
+      "parent": 21,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "28": {
+      "title": "AUTO [حذف حرف النداء]",
+      "level": 2,
+      "parent": 21,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "29": {
+      "title": "AUTO [الاشتغال]",
+      "level": 2,
+      "parent": 21,
+      "start_ms": 7,
+      "end_ms": 8
+    },
+    "30": {
+      "title": "AUTO [التحذير]",
+      "level": 2,
+      "parent": 21,
+      "start_ms": 8,
+      "end_ms": 8
+    },
+    "31": {
+      "title": "AUTO [المفعول فيه]",
+      "level": 2,
+      "parent": 21,
+      "start_ms": 8,
+      "end_ms": 8
+    },
+    "32": {
+      "title": "AUTO [المفعول له]",
+      "level": 2,
+      "parent": 21,
+      "start_ms": 8,
+      "end_ms": 8
+    },
+    "33": {
+      "title": "AUTO [المفعول معه]",
+      "level": 2,
+      "parent": 21,
+      "start_ms": 8,
+      "end_ms": 8
+    },
+    "34": {
+      "title": "AUTO [الحال]",
+      "level": 2,
+      "parent": 21,
+      "start_ms": 8,
+      "end_ms": 9
+    },
+    "35": {
+      "title": "AUTO [التمييز]",
+      "level": 2,
+      "parent": 21,
+      "start_ms": 9,
+      "end_ms": 9
+    },
+    "36": {
+      "title": "AUTO [المستثنى]",
+      "level": 2,
+      "parent": 21,
+      "start_ms": 9,
+      "end_ms": 10
+    },
+    "37": {
+      "title": "AUTO [خبر (كان) وأخواتها]",
+      "level": 2,
+      "parent": 21,
+      "start_ms": 10,
+      "end_ms": 10
+    },
+    "38": {
+      "title": "AUTO [اسم (إن) وأخواتها]",
+      "level": 2,
+      "parent": 21,
+      "start_ms": 10,
+      "end_ms": 10
+    },
+    "39": {
+      "title": "AUTO [المنصوب ب (لا) التي لنفي الجنس]",
+      "level": 2,
+      "parent": 21,
+      "start_ms": 10,
+      "end_ms": 11
+    },
+    "40": {
+      "title": "AUTO [خبر (ما) و (لا) المشبهتين ب (ليس)]",
+      "level": 2,
+      "parent": 21,
+      "start_ms": 11,
+      "end_ms": 11
+    },
+    "41": {
+      "title": "AUTO [المجرورات]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 14
+    },
+    "42": {
+      "title": "AUTO [التوابع]",
+      "level": 2,
+      "parent": 41,
+      "start_ms": 12,
+      "end_ms": 12
+    },
+    "43": {
+      "title": "AUTO [النعت]",
+      "level": 2,
+      "parent": 41,
+      "start_ms": 12,
+      "end_ms": 13
+    },
+    "44": {
+      "title": "AUTO العطف",
+      "level": 2,
+      "parent": 41,
+      "start_ms": 13,
+      "end_ms": 13
+    },
+    "45": {
+      "title": "AUTO العطف",
+      "level": 2,
+      "parent": 41,
+      "start_ms": 13,
+      "end_ms": 13
+    },
+    "46": {
+      "title": "AUTO [التأكيد]",
+      "level": 2,
+      "parent": 41,
+      "start_ms": 13,
+      "end_ms": 13
+    },
+    "47": {
+      "title": "AUTO [البدل]",
+      "level": 2,
+      "parent": 41,
+      "start_ms": 13,
+      "end_ms": 14
+    },
+    "48": {
+      "title": "AUTO [عطف البيان]",
+      "level": 2,
+      "parent": 41,
+      "start_ms": 14,
+      "end_ms": 14
+    },
+    "49": {
+      "title": "AUTO [المبني]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 17
+    },
+    "50": {
+      "title": "AUTO [المضمر]",
+      "level": 2,
+      "parent": 49,
+      "start_ms": 14,
+      "end_ms": 14
+    },
+    "51": {
+      "title": "AUTO [نون الوقاية]",
+      "level": 2,
+      "parent": 49,
+      "start_ms": 14,
+      "end_ms": 15
+    },
+    "52": {
+      "title": "AUTO [ضمير الفصل]",
+      "level": 2,
+      "parent": 49,
+      "start_ms": 15,
+      "end_ms": 15
+    },
+    "53": {
+      "title": "AUTO [ضمير الشأن والقصة]",
+      "level": 2,
+      "parent": 49,
+      "start_ms": 15,
+      "end_ms": 15
+    },
+    "54": {
+      "title": "AUTO [أسماء الإشارة]",
+      "level": 2,
+      "parent": 49,
+      "start_ms": 15,
+      "end_ms": 15
+    },
+    "55": {
+      "title": "AUTO [الموصول]",
+      "level": 2,
+      "parent": 49,
+      "start_ms": 15,
+      "end_ms": 16
+    },
+    "56": {
+      "title": "AUTO [أسماء الأفعال]",
+      "level": 2,
+      "parent": 49,
+      "start_ms": 16,
+      "end_ms": 16
+    },
+    "57": {
+      "title": "AUTO [أسماء الأصوات]",
+      "level": 2,
+      "parent": 49,
+      "start_ms": 16,
+      "end_ms": 16
+    },
+    "58": {
+      "title": "AUTO [المركبات]",
+      "level": 2,
+      "parent": 49,
+      "start_ms": 16,
+      "end_ms": 16
+    },
+    "59": {
+      "title": "AUTO [الكنايات]",
+      "level": 2,
+      "parent": 49,
+      "start_ms": 16,
+      "end_ms": 17
+    },
+    "60": {
+      "title": "AUTO [الظروف]",
+      "level": 2,
+      "parent": 49,
+      "start_ms": 17,
+      "end_ms": 17
+    },
+    "61": {
+      "title": "AUTO [المعرفة والنكرة]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 17,
+      "end_ms": 17
+    },
+    "62": {
+      "title": "AUTO [العدد]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 17,
+      "end_ms": 18
+    },
+    "63": {
+      "title": "AUTO [المذكر والمؤنث]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": 18
+    },
+    "64": {
+      "title": "AUTO [المثنى]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": 18
+    },
+    "65": {
+      "title": "AUTO [المجموع]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": 19
+    },
+    "66": {
+      "title": "AUTO [جمع المذكر السالم]",
+      "level": 2,
+      "parent": 65,
+      "start_ms": 18,
+      "end_ms": 19
+    },
+    "67": {
+      "title": "AUTO [جمع المؤنث السالم]",
+      "level": 2,
+      "parent": 65,
+      "start_ms": 19,
+      "end_ms": 19
+    },
+    "68": {
+      "title": "AUTO [جمع التكسير]",
+      "level": 2,
+      "parent": 65,
+      "start_ms": 19,
+      "end_ms": 19
+    },
+    "69": {
+      "title": "AUTO [المصدر]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 19,
+      "end_ms": 19
+    },
+    "70": {
+      "title": "AUTO [اسم الفاعل]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 19,
+      "end_ms": 20
+    },
+    "71": {
+      "title": "AUTO [اسم المفعول]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 20,
+      "end_ms": 20
+    },
+    "72": {
+      "title": "AUTO [الصفة المشبهة]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 20,
+      "end_ms": 20
+    },
+    "73": {
+      "title": "AUTO [اسم التفضيل]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 20,
+      "end_ms": 21
+    },
+    "74": {
+      "title": "AUTO [الأفعال]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 21,
+      "end_ms": 25
+    },
+    "75": {
+      "title": "AUTO [الفعل الماضي]",
+      "level": 2,
+      "parent": 74,
+      "start_ms": 21,
+      "end_ms": 21
+    },
+    "76": {
+      "title": "AUTO [الفعل المضارع]",
+      "level": 2,
+      "parent": 74,
+      "start_ms": 21,
+      "end_ms": 23
+    },
+    "77": {
+      "title": "AUTO [نواصب الفعل المضارع]",
+      "level": 3,
+      "parent": 76,
+      "start_ms": 21,
+      "end_ms": 22
+    },
+    "78": {
+      "title": "AUTO [جوازم الفعل المضارع]",
+      "level": 3,
+      "parent": 76,
+      "start_ms": 22,
+      "end_ms": 23
+    },
+    "79": {
+      "title": "AUTO [فعل الأمر]",
+      "level": 2,
+      "parent": 74,
+      "start_ms": 23,
+      "end_ms": 23
+    },
+    "80": {
+      "title": "AUTO [فعل ما لم يسم فاعله]",
+      "level": 2,
+      "parent": 74,
+      "start_ms": 23,
+      "end_ms": 23
+    },
+    "81": {
+      "title": "AUTO [المتعدي وغير المتعدي]",
+      "level": 2,
+      "parent": 74,
+      "start_ms": 23,
+      "end_ms": 23
+    },
+    "82": {
+      "title": "AUTO [أفعال القلوب]",
+      "level": 2,
+      "parent": 74,
+      "start_ms": 23,
+      "end_ms": 24
+    },
+    "83": {
+      "title": "AUTO [الأفعال الناقصة]",
+      "level": 2,
+      "parent": 74,
+      "start_ms": 24,
+      "end_ms": 24
+    },
+    "84": {
+      "title": "AUTO [أفعال المقاربة]",
+      "level": 2,
+      "parent": 74,
+      "start_ms": 24,
+      "end_ms": 25
+    },
+    "85": {
+      "title": "AUTO [أفعال التعجب]",
+      "level": 2,
+      "parent": 74,
+      "start_ms": 25,
+      "end_ms": 25
+    },
+    "86": {
+      "title": "AUTO [أفعال المدح والذم]",
+      "level": 2,
+      "parent": 74,
+      "start_ms": 25,
+      "end_ms": 25
+    },
+    "87": {
+      "title": "AUTO [الحروف]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 25,
+      "end_ms": null
+    },
+    "88": {
+      "title": "AUTO [حروف الجر]",
+      "level": 2,
+      "parent": 87,
+      "start_ms": 25,
+      "end_ms": 26
+    },
+    "89": {
+      "title": "AUTO [الحروف المشبهة بالفعل]",
+      "level": 2,
+      "parent": 87,
+      "start_ms": 26,
+      "end_ms": 27
+    },
+    "90": {
+      "title": "AUTO [الحروف العاطفة]",
+      "level": 2,
+      "parent": 87,
+      "start_ms": 27,
+      "end_ms": 27
+    },
+    "91": {
+      "title": "AUTO [حروف التنبيه]",
+      "level": 2,
+      "parent": 87,
+      "start_ms": 27,
+      "end_ms": 28
+    },
+    "92": {
+      "title": "AUTO [حروف النداء]",
+      "level": 2,
+      "parent": 87,
+      "start_ms": 28,
+      "end_ms": 28
+    },
+    "93": {
+      "title": "AUTO [حروف الإيجاب]",
+      "level": 2,
+      "parent": 87,
+      "start_ms": 28,
+      "end_ms": 28
+    },
+    "94": {
+      "title": "AUTO [حروف الزيادة]",
+      "level": 2,
+      "parent": 87,
+      "start_ms": 28,
+      "end_ms": 28
+    },
+    "95": {
+      "title": "AUTO [حرفا التفسير]",
+      "level": 2,
+      "parent": 87,
+      "start_ms": 28,
+      "end_ms": 28
+    },
+    "96": {
+      "title": "AUTO [حروف المصدر]",
+      "level": 2,
+      "parent": 87,
+      "start_ms": 28,
+      "end_ms": 28
+    },
+    "97": {
+      "title": "AUTO [حروف التحضيض]",
+      "level": 2,
+      "parent": 87,
+      "start_ms": 28,
+      "end_ms": 28
+    },
+    "98": {
+      "title": "AUTO [حرف التوقع]",
+      "level": 2,
+      "parent": 87,
+      "start_ms": 28,
+      "end_ms": 28
+    },
+    "99": {
+      "title": "AUTO [حرفا الاستفهام]",
+      "level": 2,
+      "parent": 87,
+      "start_ms": 28,
+      "end_ms": 28
+    },
+    "100": {
+      "title": "AUTO [حروف الشرط]",
+      "level": 2,
+      "parent": 87,
+      "start_ms": 28,
+      "end_ms": 29
+    },
+    "101": {
+      "title": "AUTO [حرف الردع]",
+      "level": 2,
+      "parent": 87,
+      "start_ms": 29,
+      "end_ms": 29
+    },
+    "102": {
+      "title": "AUTO [تاء التأنيث الساكنة]",
+      "level": 2,
+      "parent": 87,
+      "start_ms": 29,
+      "end_ms": 29
+    },
+    "103": {
+      "title": "AUTO [التنوين]",
+      "level": 2,
+      "parent": 87,
+      "start_ms": 29,
+      "end_ms": 29
+    },
+    "104": {
+      "title": "AUTO [نون التأكيد]",
+      "level": 2,
+      "parent": 87,
+      "start_ms": 29,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3],
+      null
+    ],
+    [
+      3,
+      [4, 5, 6, 7, 8],
+      3
+    ],
+    [
+      4,
+      [9, 10, 11, 12, 13, 14, 15, 16],
+      8
+    ],
+    [
+      5,
+      [17, 18, 19, 20, 21, 22, 23],
+      16
+    ],
+    [
+      6,
+      [24, 25, 26],
+      23
+    ],
+    [
+      7,
+      [27, 28, 29],
+      26
+    ],
+    [
+      8,
+      [30, 31, 32, 33, 34],
+      29
+    ],
+    [
+      9,
+      [35, 36],
+      34
+    ],
+    [
+      10,
+      [37, 38, 39],
+      36
+    ],
+    [
+      11,
+      [40, 41],
+      39
+    ],
+    [
+      12,
+      [42, 43],
+      41
+    ],
+    [
+      13,
+      [44, 45, 46, 47],
+      43
+    ],
+    [
+      14,
+      [48, 49, 50, 51],
+      47
+    ],
+    [
+      15,
+      [52, 53, 54, 55],
+      51
+    ],
+    [
+      16,
+      [56, 57, 58, 59],
+      55
+    ],
+    [
+      17,
+      [60, 61, 62],
+      59
+    ],
+    [
+      18,
+      [63, 64, 65, 66],
+      62
+    ],
+    [
+      19,
+      [67, 68, 69, 70],
+      66
+    ],
+    [
+      20,
+      [71, 72, 73],
+      70
+    ],
+    [
+      21,
+      [74, 75, 76, 77],
+      73
+    ],
+    [
+      22,
+      [78],
+      77
+    ],
+    [
+      23,
+      [79, 80, 81, 82],
+      78
+    ],
+    [
+      24,
+      [83, 84],
+      82
+    ],
+    [
+      25,
+      [85, 86, 87, 88],
+      84
+    ],
+    [
+      26,
+      [89],
+      88
+    ],
+    [
+      27,
+      [90, 91],
+      89
+    ],
+    [
+      28,
+      [92, 93, 94, 95, 96, 97, 98, 99, 100],
+      91
+    ],
+    [
+      29,
+      [101, 102, 103, 104],
+      100
+    ]
+  ],
+  "last_ms": 29
+}

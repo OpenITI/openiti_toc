@@ -1,0 +1,183 @@
+{
+  "filename": "0911Suyuti.AzharCurush.ShamAY0033659-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO ذكر أصل الحبوش",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "2": {
+      "title": "AUTO ذكر ما ورد في الحبشة من الأحاديث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 6
+    },
+    "3": {
+      "title": "AUTO ذكر لعب الحبشة في عهد النبي صلى الله عليه وسلم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "4": {
+      "title": "AUTO ذكر ما أنزل فيهم من القرآن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 8
+    },
+    "5": {
+      "title": "AUTO ذكر ما ورد في القرآن بلغة الحبشة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 10
+    },
+    "6": {
+      "title": "AUTO ذكر ما تكلم به النبي صلى الله عليه وسلم من لغة الحبشة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 11
+    },
+    "7": {
+      "title": "AUTO ذكر الإشارة إلى هجرة الحبشة وإسلام النجاشي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 15
+    },
+    "8": {
+      "title": "AUTO ذكر من عرف اسمه من الصحابة بالحبشة وموالي النبي صلى الله عليه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 16
+    },
+    "9": {
+      "title": "AUTO ذكر ما أتى العرب من أرض الحبشة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": 20
+    },
+    "10": {
+      "title": "AUTO ذكر السبب في جب فروج طائفة من بنات الحبشة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 20,
+      "end_ms": 21
+    },
+    "11": {
+      "title": "AUTO ذكر مجيء الحبشة آخر الزمان وهدمهم الكعبة شرفها الله وعظمها",
+      "level": 1,
+      "parent": null,
+      "start_ms": 21,
+      "end_ms": 22
+    },
+    "12": {
+      "title": "AUTO ذكر مجيء الحبشة آخر الزمان إلى مصر ونصرة أهل مصر عليهم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 22,
+      "end_ms": 23
+    },
+    "13": {
+      "title": "AUTO ذكر بعض من تقدم منهم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 23,
+      "end_ms": 23
+    },
+    "14": {
+      "title": "AUTO ذكر أبناء الحبشيات من قريش",
+      "level": 1,
+      "parent": null,
+      "start_ms": 23,
+      "end_ms": 24
+    },
+    "15": {
+      "title": "AUTO [ذكر] ما قاله الشعراء في الجواري الحبش",
+      "level": 1,
+      "parent": null,
+      "start_ms": 24,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      3,
+      [2],
+      1
+    ],
+    [
+      6,
+      [3],
+      2
+    ],
+    [
+      7,
+      [4],
+      3
+    ],
+    [
+      8,
+      [5],
+      4
+    ],
+    [
+      10,
+      [6],
+      5
+    ],
+    [
+      11,
+      [7],
+      6
+    ],
+    [
+      15,
+      [8],
+      7
+    ],
+    [
+      16,
+      [9],
+      8
+    ],
+    [
+      20,
+      [10],
+      9
+    ],
+    [
+      21,
+      [11],
+      10
+    ],
+    [
+      22,
+      [12],
+      11
+    ],
+    [
+      23,
+      [13, 14],
+      12
+    ],
+    [
+      24,
+      [15],
+      14
+    ]
+  ],
+  "last_ms": 28
+}

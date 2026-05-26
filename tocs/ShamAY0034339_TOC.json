@@ -1,0 +1,79 @@
+{
+  "filename": "0676Nawawi.AdabFatwa.ShamAY0034339-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [الغلاف]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO آداب الاستسقاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "AUTO والبوادي، والمسافرين، والنساء، والمنفرد.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "4": {
+      "title": "AUTO [الآداب المستحبة لمن خرج للاستسقاء]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "5": {
+      "title": "AUTO [من يستحب له الخروج]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "6": {
+      "title": "AUTO ويحترز عن النظر إلى المحرم - إلى امرأة أو أمرد -، وعن احتقار",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "7": {
+      "title": "AUTO ولو أدرك مسبوق الإمام وقد كبر التكبيرات أو بعضها؛ لم يقض ما",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "8": {
+      "title": "AUTO فصل في الأدعية المستحبة في خطبة الاستسقاء وغير الخطبة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3, 4, 5],
+      null
+    ],
+    [
+      2,
+      [6, 7],
+      5
+    ],
+    [
+      3,
+      [8],
+      7
+    ]
+  ],
+  "last_ms": 4
+}

@@ -1,0 +1,51 @@
+{
+  "filename": "0249CabdIbnHamid.MuntakhabMinMusnad.ShamAY0033973-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO الكتاب: المنتخب من مسند عبد بن حميد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO - المجلد الأول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 120
+    },
+    "3": {
+      "title": "AUTO - المجلد الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 120,
+      "end_ms": 246
+    },
+    "4": {
+      "title": "AUTO - المجلد الثالث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 246,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      120,
+      [3],
+      2
+    ],
+    [
+      246,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 382
+}

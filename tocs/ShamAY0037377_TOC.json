@@ -1,0 +1,51 @@
+{
+  "filename": "0821IbnCaliMaqdisi.ManzumatMufradatAhmad.ShamAY0037377-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [منظومة المفردات]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 33
+    },
+    "2": {
+      "title": "CHECK [منظومة مفردات أحمد]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 33,
+      "end_ms": null
+    },
+    "3": {
+      "title": "CHECK [مقدمة المنظومة]",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 33,
+      "end_ms": 34
+    },
+    "4": {
+      "title": "CHECK [منظومة المفردات]",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 34,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      33,
+      [2, 3],
+      1
+    ],
+    [
+      34,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 66
+}

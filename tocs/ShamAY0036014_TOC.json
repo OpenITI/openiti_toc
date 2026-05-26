@@ -1,0 +1,104 @@
+{
+  "filename": "1304CabdHayyLaknawi.ImamKalam.ShamAY0036014-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [إمام الكلام1]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 17
+    },
+    "2": {
+      "title": "CHECK [امام الكلام2]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 17,
+      "end_ms": 26
+    },
+    "3": {
+      "title": "CHECK [إمام الكلام3]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 26,
+      "end_ms": 46
+    },
+    "4": {
+      "title": "CHECK [امام الكلام4]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 46,
+      "end_ms": 74
+    },
+    "5": {
+      "title": "CHECK [امام الكلام5]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 74,
+      "end_ms": 98
+    },
+    "6": {
+      "title": "CHECK [امام الكلام7]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 98,
+      "end_ms": 124
+    },
+    "7": {
+      "title": "CHECK [امام الكلام 6]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 124,
+      "end_ms": 146
+    },
+    "8": {
+      "title": "CHECK [امام الكلام 8]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 146,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      17,
+      [2],
+      1
+    ],
+    [
+      26,
+      [3],
+      2
+    ],
+    [
+      46,
+      [4],
+      3
+    ],
+    [
+      74,
+      [5],
+      4
+    ],
+    [
+      98,
+      [6],
+      5
+    ],
+    [
+      124,
+      [7],
+      6
+    ],
+    [
+      146,
+      [8],
+      7
+    ]
+  ],
+  "last_ms": 292
+}

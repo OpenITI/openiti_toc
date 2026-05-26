@@ -1,0 +1,70 @@
+{
+  "filename": "0948MuhammadIbnKhidrRumi.TuhfaLatifa.ShamAY0038423-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [تهدم سور المدينة]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "CHECK [مقدمة]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "AUTO ### | AUTO آصف عصره، ولقمان دهره، حضرة سليمان باشا أعز الله",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "4": {
+      "title": "AUTO الموجودة الآن، واستمر في بناء الجدار القبلي، ثم إن الزيني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "5": {
+      "title": "AUTO في هذا العام من البحر عسكرا معينا بسبب الإقامة بالقلعة التي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "6": {
+      "title": "AUTO السلطانية، فكان مما عرضه على مولانا السلطان الأعظم والخاقان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3],
+      null
+    ],
+    [
+      3,
+      [4],
+      3
+    ],
+    [
+      4,
+      [5],
+      4
+    ],
+    [
+      5,
+      [6],
+      5
+    ]
+  ],
+  "last_ms": 8
+}

@@ -1,0 +1,166 @@
+{
+  "filename": "0774IbnKathir.TuhfatTalib.ShamAY0034127-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO المقدمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "2": {
+      "title": "AUTO مبادىء اللغة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 7
+    },
+    "3": {
+      "title": "AUTO الإجماع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 24
+    },
+    "4": {
+      "title": "AUTO الأمر PageV01P240",
+      "level": 1,
+      "parent": null,
+      "start_ms": 24,
+      "end_ms": 25
+    },
+    "5": {
+      "title": "AUTO العام والخاص",
+      "level": 1,
+      "parent": null,
+      "start_ms": 25,
+      "end_ms": 34
+    },
+    "6": {
+      "title": "AUTO التخصيص",
+      "level": 1,
+      "parent": null,
+      "start_ms": 34,
+      "end_ms": 38
+    },
+    "7": {
+      "title": "AUTO المجمل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 38,
+      "end_ms": 38
+    },
+    "8": {
+      "title": "AUTO البيان والمبين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 38,
+      "end_ms": 41
+    },
+    "9": {
+      "title": "AUTO الظاهر والمؤول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 41,
+      "end_ms": 44
+    },
+    "10": {
+      "title": "AUTO المفهوم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 44,
+      "end_ms": 46
+    },
+    "11": {
+      "title": "AUTO النسخ",
+      "level": 1,
+      "parent": null,
+      "start_ms": 46,
+      "end_ms": 55
+    },
+    "12": {
+      "title": "AUTO القياس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 55,
+      "end_ms": 61
+    },
+    "13": {
+      "title": "AUTO الاعتراضات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 61,
+      "end_ms": 61
+    },
+    "14": {
+      "title": "AUTO الاستدلال",
+      "level": 1,
+      "parent": null,
+      "start_ms": 61,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2],
+      1
+    ],
+    [
+      7,
+      [3],
+      2
+    ],
+    [
+      24,
+      [4],
+      3
+    ],
+    [
+      25,
+      [5],
+      4
+    ],
+    [
+      34,
+      [6],
+      5
+    ],
+    [
+      38,
+      [7, 8],
+      6
+    ],
+    [
+      41,
+      [9],
+      8
+    ],
+    [
+      44,
+      [10],
+      9
+    ],
+    [
+      46,
+      [11],
+      10
+    ],
+    [
+      55,
+      [12],
+      11
+    ],
+    [
+      61,
+      [13, 14],
+      12
+    ]
+  ],
+  "last_ms": 69
+}

@@ -1,0 +1,4534 @@
+{
+  "filename": "0561CabdQadirJilani.Ghunya.Sham19Y0017817-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK القسم الأول الفقه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 84
+    },
+    "2": {
+      "title": "CHECK باب من يريد الدخول في الإسلام ماذا يعمل",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "CHECK فصل: شرائط الصلاة",
+      "level": 3,
+      "parent": 2,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "4": {
+      "title": "CHECK سنن الصلاة",
+      "level": 3,
+      "parent": 2,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "5": {
+      "title": "CHECK فصل صفة الصلاة",
+      "level": 3,
+      "parent": 2,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "6": {
+      "title": "CHECK صفة الأذان وصفة الإقامة",
+      "level": 3,
+      "parent": 2,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "7": {
+      "title": "AUTO (فصل) فإذا كملت هذه الشروط دخل في الصلاة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "8": {
+      "title": "CHECK واجبات الصلاة",
+      "level": 3,
+      "parent": 7,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "9": {
+      "title": "CHECK أركان الصلاة",
+      "level": 3,
+      "parent": 7,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "10": {
+      "title": "CHECK هيئات الصلاة",
+      "level": 3,
+      "parent": 7,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "11": {
+      "title": "CHECK مسنونات الصلاة",
+      "level": 3,
+      "parent": 7,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "12": {
+      "title": "CHECK زكاة الإبل",
+      "level": 3,
+      "parent": 7,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "13": {
+      "title": "CHECK زكاة الذهب والفضة",
+      "level": 3,
+      "parent": 7,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "14": {
+      "title": "AUTO كتاب الزكاة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 5,
+      "end_ms": 7
+    },
+    "15": {
+      "title": "CHECK مصارف الزكاة",
+      "level": 3,
+      "parent": 14,
+      "start_ms": 6,
+      "end_ms": 6
+    },
+    "16": {
+      "title": "CHECK زكاة البقر",
+      "level": 3,
+      "parent": 14,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "17": {
+      "title": "AUTO صدقة التطوع",
+      "level": 3,
+      "parent": 14,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "18": {
+      "title": "AUTO زكاة الفطر",
+      "level": 3,
+      "parent": 14,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "19": {
+      "title": "AUTO كتاب الصيام",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 7,
+      "end_ms": 8
+    },
+    "20": {
+      "title": "CHECK ما يستحب للصائم",
+      "level": 3,
+      "parent": 19,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "21": {
+      "title": "CHECK ما يجتنبه الصائم",
+      "level": 3,
+      "parent": 19,
+      "start_ms": 7,
+      "end_ms": 8
+    },
+    "22": {
+      "title": "AUTO كتاب الاعتكاف",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 8,
+      "end_ms": 9
+    },
+    "23": {
+      "title": "CHECK مواقيت الحج",
+      "level": 3,
+      "parent": 22,
+      "start_ms": 9,
+      "end_ms": 9
+    },
+    "24": {
+      "title": "AUTO كتاب الحج",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 9,
+      "end_ms": 18
+    },
+    "25": {
+      "title": "AUTO شرائط الحج",
+      "level": 3,
+      "parent": 24,
+      "start_ms": 9,
+      "end_ms": 9
+    },
+    "26": {
+      "title": "CHECK محظورات الإحرام",
+      "level": 3,
+      "parent": 24,
+      "start_ms": 9,
+      "end_ms": 9
+    },
+    "27": {
+      "title": "CHECK الإحرام والنية والتلبية",
+      "level": 3,
+      "parent": 24,
+      "start_ms": 9,
+      "end_ms": 10
+    },
+    "28": {
+      "title": "CHECK دخول مكة المكرمة",
+      "level": 3,
+      "parent": 24,
+      "start_ms": 10,
+      "end_ms": 15
+    },
+    "29": {
+      "title": "CHECK مسنونات الحج",
+      "level": 3,
+      "parent": 24,
+      "start_ms": 15,
+      "end_ms": 15
+    },
+    "30": {
+      "title": "CHECK واجبات الحج",
+      "level": 3,
+      "parent": 24,
+      "start_ms": 15,
+      "end_ms": 15
+    },
+    "31": {
+      "title": "CHECK مبطلات الحج",
+      "level": 3,
+      "parent": 24,
+      "start_ms": 15,
+      "end_ms": 15
+    },
+    "32": {
+      "title": "AUTO العمرة",
+      "level": 3,
+      "parent": 24,
+      "start_ms": 15,
+      "end_ms": 15
+    },
+    "33": {
+      "title": "AUTO أركان الحج",
+      "level": 3,
+      "parent": 24,
+      "start_ms": 15,
+      "end_ms": 16
+    },
+    "34": {
+      "title": "CHECK دخول المدينة المنورة",
+      "level": 3,
+      "parent": 24,
+      "start_ms": 16,
+      "end_ms": 16
+    },
+    "35": {
+      "title": "CHECK سنن العمرة",
+      "level": 3,
+      "parent": 24,
+      "start_ms": 16,
+      "end_ms": 16
+    },
+    "36": {
+      "title": "CHECK واجبات العمرة",
+      "level": 3,
+      "parent": 24,
+      "start_ms": 16,
+      "end_ms": 16
+    },
+    "37": {
+      "title": "CHECK أركان العمرة",
+      "level": 3,
+      "parent": 24,
+      "start_ms": 16,
+      "end_ms": 18
+    },
+    "38": {
+      "title": "AUTO كتاب الآداب",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 18,
+      "end_ms": 66
+    },
+    "39": {
+      "title": "AUTO السلام",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 18,
+      "end_ms": 18
+    },
+    "40": {
+      "title": "AUTO السلام",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 18,
+      "end_ms": 18
+    },
+    "41": {
+      "title": "AUTO السلام",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 18,
+      "end_ms": 18
+    },
+    "42": {
+      "title": "AUTO السلام",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 18,
+      "end_ms": 18
+    },
+    "43": {
+      "title": "AUTO السلام",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 18,
+      "end_ms": 18
+    },
+    "44": {
+      "title": "AUTO السلام",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 18,
+      "end_ms": 19
+    },
+    "45": {
+      "title": "CHECK تشميت العاطس والتثاؤب",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 19,
+      "end_ms": 19
+    },
+    "46": {
+      "title": "CHECK القيام للاحترام",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 19,
+      "end_ms": 20
+    },
+    "47": {
+      "title": "AUTO (فصل: في العشر الخصال التي في الفطرة)",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 20,
+      "end_ms": 20
+    },
+    "48": {
+      "title": "CHECK فصل نتف الإبط",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 20,
+      "end_ms": 22
+    },
+    "49": {
+      "title": "CHECK فصل تقليم الأظفار",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 22,
+      "end_ms": 22
+    },
+    "50": {
+      "title": "CHECK فصل حلق الرأس في غير الحج والعمرة",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 22,
+      "end_ms": 23
+    },
+    "51": {
+      "title": "CHECK فصل كراهة التحذيف للرجال وهو إرسال الشعر",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 23,
+      "end_ms": 23
+    },
+    "52": {
+      "title": "CHECK فصل كراهة القزع",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 23,
+      "end_ms": 25
+    },
+    "53": {
+      "title": "CHECK فصل في الأدهان",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 25,
+      "end_ms": 25
+    },
+    "54": {
+      "title": "CHECK فصل في الاكتحال",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 25,
+      "end_ms": 26
+    },
+    "55": {
+      "title": "CHECK فصل فيما يكره من الخصال",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 26,
+      "end_ms": 26
+    },
+    "56": {
+      "title": "CHECK فصل ما يستحب للإنسان ألا يخلو منه سفرا وحضرا",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 26,
+      "end_ms": 27
+    },
+    "57": {
+      "title": "AUTO (فصل: في الاستئذان)",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 27,
+      "end_ms": 29
+    },
+    "58": {
+      "title": "AUTO (فصل: في آداب الأكل والشرب)",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 29,
+      "end_ms": 33
+    },
+    "59": {
+      "title": "CHECK دعاء الإفطار عند الغير",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 33,
+      "end_ms": 34
+    },
+    "60": {
+      "title": "AUTO (فصل: في آداب الحمام)",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 34,
+      "end_ms": 35
+    },
+    "61": {
+      "title": "AUTO (فصل: في النهي عن التعري في الجملة وفي حال الغسل)",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 35,
+      "end_ms": 36
+    },
+    "62": {
+      "title": "AUTO (فصل: في لبس الخواتم واتخاذه)",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 36,
+      "end_ms": 36
+    },
+    "63": {
+      "title": "CHECK فصل اختيار التختم في اليسرى وفي الخنصر",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 36,
+      "end_ms": 36
+    },
+    "64": {
+      "title": "CHECK فصل يكره التختم في الوسطى والسبابة",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 36,
+      "end_ms": 36
+    },
+    "65": {
+      "title": "CHECK فصل يكره اتخاذ الخاتم من الحديد والشبة",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 36,
+      "end_ms": 37
+    },
+    "66": {
+      "title": "AUTO (فصل: في آداب الخلاء والاستنجاء)",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 37,
+      "end_ms": 39
+    },
+    "67": {
+      "title": "CHECK فصل ما يجب له الاستنجاء",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 39,
+      "end_ms": 39
+    },
+    "68": {
+      "title": "CHECK فصل صفة ما يجوز من الاستجمار",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 39,
+      "end_ms": 39
+    },
+    "69": {
+      "title": "CHECK فصل إذا انتشرت النجاسة",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 39,
+      "end_ms": 40
+    },
+    "70": {
+      "title": "AUTO (فصل: في كيفية الطهارة الكبرى)",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 40,
+      "end_ms": 41
+    },
+    "71": {
+      "title": "AUTO (فصل: في الأذكار المستحب ذكرها عند غسل الأعضاء)",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 41,
+      "end_ms": 42
+    },
+    "72": {
+      "title": "CHECK فصل اللباس الواجب والمندوب والمكروه",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 42,
+      "end_ms": 42
+    },
+    "73": {
+      "title": "AUTO (فصل: في آداب اللباس)",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 42,
+      "end_ms": 44
+    },
+    "74": {
+      "title": "AUTO (فصل: في آداب النوم)",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 44,
+      "end_ms": 47
+    },
+    "75": {
+      "title": "AUTO (فصل: في دخول المنزل والكسب من الحلال والوحدة)",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 47,
+      "end_ms": 51
+    },
+    "76": {
+      "title": "AUTO (فصل: في آداب السفر والصحبة فيه)",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 51,
+      "end_ms": 53
+    },
+    "77": {
+      "title": "CHECK فصل المحظورات في المسجد",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 53,
+      "end_ms": 54
+    },
+    "78": {
+      "title": "AUTO (فصل: في الأصوات)",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 54,
+      "end_ms": 55
+    },
+    "79": {
+      "title": "AUTO (فصل: في الآداب في قتل الحيوان، ما يباح منه وما لا يباح)",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 55,
+      "end_ms": 59
+    },
+    "80": {
+      "title": "AUTO (فصل: فيما يستحب من الكنى والأسماء وما يكره منها)",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 59,
+      "end_ms": 59
+    },
+    "81": {
+      "title": "CHECK فصل ما يستحب لمن غضب",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 59,
+      "end_ms": 60
+    },
+    "82": {
+      "title": "CHECK التواضع وتوقير الشيوخ والرحمة بالأطفال",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 60,
+      "end_ms": 60
+    },
+    "83": {
+      "title": "CHECK الطيرة والتفاؤل",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 60,
+      "end_ms": 60
+    },
+    "84": {
+      "title": "CHECK ما يستحب لمن دخل المقابر",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 60,
+      "end_ms": 60
+    },
+    "85": {
+      "title": "CHECK سنن المجلس",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 60,
+      "end_ms": 61
+    },
+    "86": {
+      "title": "CHECK فصل في التعوذ والرقية",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 61,
+      "end_ms": 61
+    },
+    "87": {
+      "title": "CHECK (فصل: الأدب في الدعاء)",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 61,
+      "end_ms": 61
+    },
+    "88": {
+      "title": "AUTO (فصل: وتكره مصافحة أهل الذمة)",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 61,
+      "end_ms": 62
+    },
+    "89": {
+      "title": "CHECK فصل ما يفعل العائن",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 62,
+      "end_ms": 62
+    },
+    "90": {
+      "title": "CHECK فصل ما يكتب للمعسرة",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 62,
+      "end_ms": 62
+    },
+    "91": {
+      "title": "CHECK فصل ما يكتب للمحموم",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 62,
+      "end_ms": 63
+    },
+    "92": {
+      "title": "CHECK (فصل: التعالج في الأمراض جائز)",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 63,
+      "end_ms": 64
+    },
+    "93": {
+      "title": "CHECK فصل ما يقوله إذا ms063 طنت أذنه",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 64,
+      "end_ms": 64
+    },
+    "94": {
+      "title": "CHECK فصل ما يقوله إذا نظر في المرآة",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 64,
+      "end_ms": 64
+    },
+    "95": {
+      "title": "CHECK فصل حكم المسافرة بالمصحف إلى أرض العدو",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 64,
+      "end_ms": 64
+    },
+    "96": {
+      "title": "CHECK فصل الرفق بالمملوك",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 64,
+      "end_ms": 64
+    },
+    "97": {
+      "title": "CHECK فصل حكم الخلوة بالأجنبية",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 64,
+      "end_ms": 64
+    },
+    "98": {
+      "title": "CHECK فصل ما يقوله إذا دخل السوق",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 64,
+      "end_ms": 64
+    },
+    "99": {
+      "title": "CHECK فصل ما يقوله إذا سمع صوت الرعد",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 64,
+      "end_ms": 64
+    },
+    "100": {
+      "title": "CHECK فصل ما يقوله إذا رأى بيعة أو كنيسة",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 64,
+      "end_ms": 64
+    },
+    "101": {
+      "title": "CHECK فصل ما يقوله إذا رأى شيئا يتطير منه",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 64,
+      "end_ms": 64
+    },
+    "102": {
+      "title": "CHECK فصل ما يقوله إذا شتكى بدنه",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 64,
+      "end_ms": 65
+    },
+    "103": {
+      "title": "CHECK فصل ما يقوله حين يضع الميت في قبره",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 65,
+      "end_ms": 65
+    },
+    "104": {
+      "title": "CHECK فصل ما يقوله إذا عاد مريضا",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 65,
+      "end_ms": 65
+    },
+    "105": {
+      "title": "CHECK فصل ما يقوله للحاج إذا قدم من سفره",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 65,
+      "end_ms": 65
+    },
+    "106": {
+      "title": "CHECK فصل ما يقوله إذا رأى رأى مبتلى",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 65,
+      "end_ms": 65
+    },
+    "107": {
+      "title": "CHECK فصل ما يقوله إذا رأى الهلال",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 65,
+      "end_ms": 66
+    },
+    "108": {
+      "title": "AUTO باب في آداب النكاح",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 66,
+      "end_ms": 78
+    },
+    "109": {
+      "title": "AUTO إذا دعا امرأته للجماع",
+      "level": 3,
+      "parent": 108,
+      "start_ms": 74,
+      "end_ms": 75
+    },
+    "110": {
+      "title": "CHECK (فصل) حكم النثار",
+      "level": 3,
+      "parent": 108,
+      "start_ms": 75,
+      "end_ms": 75
+    },
+    "111": {
+      "title": "CHECK (فصل) وليمة العرس",
+      "level": 3,
+      "parent": 108,
+      "start_ms": 75,
+      "end_ms": 76
+    },
+    "112": {
+      "title": "CHECK (فصل) ماذا يجب بعد كمال شرائط عقد النكاح",
+      "level": 3,
+      "parent": 108,
+      "start_ms": 76,
+      "end_ms": 76
+    },
+    "113": {
+      "title": "AUTO خطبة النكاح",
+      "level": 3,
+      "parent": 108,
+      "start_ms": 76,
+      "end_ms": 78
+    },
+    "114": {
+      "title": "AUTO باب في الأمر بالمعروف والنهي عن المنكر",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 78,
+      "end_ms": 84
+    },
+    "115": {
+      "title": "CHECK فصل شرط القدرة في الأمر بالمعروف والنهي عن المنكر",
+      "level": 3,
+      "parent": 114,
+      "start_ms": 78,
+      "end_ms": 79
+    },
+    "116": {
+      "title": "CHECK فصل شروط الآمر بالمعروف والناهي عن المنكر",
+      "level": 3,
+      "parent": 114,
+      "start_ms": 79,
+      "end_ms": 79
+    },
+    "117": {
+      "title": "CHECK فصل أقسام المنكرين",
+      "level": 3,
+      "parent": 114,
+      "start_ms": 79,
+      "end_ms": 79
+    },
+    "118": {
+      "title": "CHECK فصل إذا غلب على ظنه عدم زوال المنكر",
+      "level": 3,
+      "parent": 114,
+      "start_ms": 79,
+      "end_ms": 81
+    },
+    "119": {
+      "title": "CHECK فصل ما يشترط في الأمر",
+      "level": 3,
+      "parent": 114,
+      "start_ms": 81,
+      "end_ms": 81
+    },
+    "120": {
+      "title": "CHECK فصل كيفية الأمر بالمعروف والنهي عن المنكر",
+      "level": 3,
+      "parent": 114,
+      "start_ms": 81,
+      "end_ms": 83
+    },
+    "121": {
+      "title": "CHECK فصل ينبغي لكل مؤمن العمل بهذه الآداب",
+      "level": 3,
+      "parent": 114,
+      "start_ms": 83,
+      "end_ms": 84
+    },
+    "122": {
+      "title": "AUTO القسم الثاني في العقائد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 84,
+      "end_ms": 151
+    },
+    "123": {
+      "title": "AUTO باب في معرفة الصانع عز وجل",
+      "level": 2,
+      "parent": 122,
+      "start_ms": 84,
+      "end_ms": 127
+    },
+    "124": {
+      "title": "CHECK فصل القرآن كلام الله",
+      "level": 3,
+      "parent": 123,
+      "start_ms": 90,
+      "end_ms": 93
+    },
+    "125": {
+      "title": "CHECK (فصل) نعتقد أن القرآن حروف مفهومة ... إلخ",
+      "level": 3,
+      "parent": 123,
+      "start_ms": 93,
+      "end_ms": 95
+    },
+    "126": {
+      "title": "AUTO (فصل) وكذلك حروف المعجم غير مخلوقة",
+      "level": 3,
+      "parent": 123,
+      "start_ms": 95,
+      "end_ms": 96
+    },
+    "127": {
+      "title": "CHECK (فصل) نعتقد أن الله عز وجل له تسعة وتسعون اسما",
+      "level": 3,
+      "parent": 123,
+      "start_ms": 96,
+      "end_ms": 97
+    },
+    "128": {
+      "title": "CHECK (فصل) نعتقد أن الإيمان قول باللسان، ومعرفة بالجنان",
+      "level": 3,
+      "parent": 123,
+      "start_ms": 97,
+      "end_ms": 102
+    },
+    "129": {
+      "title": "CHECK (فصل) ينبغي أن يؤمن بخير القدر وشره",
+      "level": 3,
+      "parent": 123,
+      "start_ms": 102,
+      "end_ms": 102
+    },
+    "130": {
+      "title": "CHECK (فصل) نعتقد أن من أدخله الله النار بكبيرته مع الإيمان فإنه لا يخلد",
+      "level": 3,
+      "parent": 123,
+      "start_ms": 102,
+      "end_ms": 103
+    },
+    "131": {
+      "title": "CHECK (فصل) نؤمن بأن النبي -صلى الله عليه وسلم- رأى ربه",
+      "level": 3,
+      "parent": 123,
+      "start_ms": 103,
+      "end_ms": 104
+    },
+    "132": {
+      "title": "CHECK (فصل) نؤمن بأن منكر ونكير",
+      "level": 3,
+      "parent": 123,
+      "start_ms": 104,
+      "end_ms": 110
+    },
+    "133": {
+      "title": "CHECK فصل في شفاعة النبي صلى الله عليه وسلم في أهل ms109 الكبائر",
+      "level": 3,
+      "parent": 123,
+      "start_ms": 110,
+      "end_ms": 111
+    },
+    "134": {
+      "title": "CHECK (فصل) أهل السنة يعتقدون أن لنبينا -صلى الله عليه وسلم- حوضا في القيامة",
+      "level": 3,
+      "parent": 123,
+      "start_ms": 111,
+      "end_ms": 111
+    },
+    "135": {
+      "title": "CHECK (فصل) الإيمان بالصراط",
+      "level": 3,
+      "parent": 123,
+      "start_ms": 111,
+      "end_ms": 112
+    },
+    "136": {
+      "title": "CHECK (فصل) أهل السنة يعتقدون أن الله يجلس رسوله ونبيه المختار على سائر رسله وأنبيائه معه على العرش يوم القيامة",
+      "level": 3,
+      "parent": 123,
+      "start_ms": 112,
+      "end_ms": 113
+    },
+    "137": {
+      "title": "CHECK فصل في الحساب",
+      "level": 3,
+      "parent": 123,
+      "start_ms": 113,
+      "end_ms": 114
+    },
+    "138": {
+      "title": "CHECK فصل في الميزان",
+      "level": 3,
+      "parent": 123,
+      "start_ms": 114,
+      "end_ms": 116
+    },
+    "139": {
+      "title": "CHECK (فصل) يعتقد أهل السنة أن الجنة والنار مخلوقتان",
+      "level": 3,
+      "parent": 123,
+      "start_ms": 116,
+      "end_ms": 118
+    },
+    "140": {
+      "title": "CHECK فصل في عموم بعثة النبي صلى الله عليه وسلم ومعجزاته",
+      "level": 3,
+      "parent": 123,
+      "start_ms": 118,
+      "end_ms": 119
+    },
+    "141": {
+      "title": "CHECK فصل في فضل الأمة المحمدية على سائر الأمم وبيان الأفضل من هذه الأمة رجالا ونساء",
+      "level": 3,
+      "parent": 123,
+      "start_ms": 119,
+      "end_ms": 127
+    },
+    "142": {
+      "title": "CHECK فصل لأهل البدع علامات يعرفون بها",
+      "level": 2,
+      "parent": 122,
+      "start_ms": 127,
+      "end_ms": 128
+    },
+    "143": {
+      "title": "CHECK فصل فيما لا يجوز إطلاقه على الباري من الصفات ويستحيل إضافته إليه",
+      "level": 2,
+      "parent": 122,
+      "start_ms": 128,
+      "end_ms": 133
+    },
+    "144": {
+      "title": "CHECK فصل في بيان مقالة الفرق الضالة عن طريق الهدى",
+      "level": 2,
+      "parent": 122,
+      "start_ms": 133,
+      "end_ms": 134
+    },
+    "145": {
+      "title": "CHECK فصل في أصل الفرق الثلاثة والسبعين",
+      "level": 2,
+      "parent": 122,
+      "start_ms": 134,
+      "end_ms": 151
+    },
+    "146": {
+      "title": "CHECK فصل في الرافضة",
+      "level": 3,
+      "parent": 145,
+      "start_ms": 138,
+      "end_ms": 138
+    },
+    "147": {
+      "title": "CHECK فصل في الشيعة",
+      "level": 3,
+      "parent": 145,
+      "start_ms": 138,
+      "end_ms": 143
+    },
+    "148": {
+      "title": "CHECK فصل في الجهمية",
+      "level": 3,
+      "parent": 145,
+      "start_ms": 143,
+      "end_ms": 143
+    },
+    "149": {
+      "title": "CHECK فصل في المرجئة",
+      "level": 3,
+      "parent": 145,
+      "start_ms": 143,
+      "end_ms": 144
+    },
+    "150": {
+      "title": "CHECK فصل في الكرامية",
+      "level": 3,
+      "parent": 145,
+      "start_ms": 144,
+      "end_ms": 145
+    },
+    "151": {
+      "title": "CHECK فصل في المعتزلة والقدرية",
+      "level": 3,
+      "parent": 145,
+      "start_ms": 145,
+      "end_ms": 145
+    },
+    "152": {
+      "title": "AUTO (فصل) في ذكر مقالة المعتزلة والقدرية",
+      "level": 3,
+      "parent": 145,
+      "start_ms": 145,
+      "end_ms": 148
+    },
+    "153": {
+      "title": "CHECK فصل في ذكر مقالة الجهمية",
+      "level": 3,
+      "parent": 145,
+      "start_ms": 148,
+      "end_ms": 148
+    },
+    "154": {
+      "title": "CHECK فصل في المشبهة",
+      "level": 3,
+      "parent": 145,
+      "start_ms": 148,
+      "end_ms": 148
+    },
+    "155": {
+      "title": "AUTO (فصل) في ذكر مقالة المشبهة، فهم ثلاث فرق: الهشامية، المقاتلية، الواسمية",
+      "level": 3,
+      "parent": 145,
+      "start_ms": 148,
+      "end_ms": 148
+    },
+    "156": {
+      "title": "AUTO (فصل) في ذكر مقالة الجهمية",
+      "level": 3,
+      "parent": 145,
+      "start_ms": 148,
+      "end_ms": 149
+    },
+    "157": {
+      "title": "CHECK فصل في ذكر مقالة السالمية",
+      "level": 3,
+      "parent": 145,
+      "start_ms": 149,
+      "end_ms": 149
+    },
+    "158": {
+      "title": "AUTO (فصل) في ذكر مقالة السالمية: وهي منسوبة إلى ابن سال",
+      "level": 3,
+      "parent": 145,
+      "start_ms": 149,
+      "end_ms": 151
+    },
+    "159": {
+      "title": "AUTO القسم الثالث في المجالس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 151,
+      "end_ms": 416
+    },
+    "160": {
+      "title": "AUTO باب وأما الاتعاظ بمواعظ القرآن والألفاظ النبوية ففي مجالس نسوقها",
+      "level": 2,
+      "parent": 159,
+      "start_ms": 151,
+      "end_ms": 151
+    },
+    "161": {
+      "title": "AUTO مجلس في قوله -عز وجل-: {فإذا قرأت القرآن فاستعذ بالله من الشيطان الرجيم}",
+      "level": 2,
+      "parent": 159,
+      "start_ms": 151,
+      "end_ms": 163
+    },
+    "162": {
+      "title": "CHECK فصل الشيطان بعيد ms152 من الله",
+      "level": 3,
+      "parent": 161,
+      "start_ms": 153,
+      "end_ms": 153
+    },
+    "163": {
+      "title": "CHECK فصل معنى التعوذ",
+      "level": 3,
+      "parent": 161,
+      "start_ms": 153,
+      "end_ms": 154
+    },
+    "164": {
+      "title": "CHECK فصل ويستفيد العبد من الاستعاذة خمسة أشياء",
+      "level": 3,
+      "parent": 161,
+      "start_ms": 154,
+      "end_ms": 155
+    },
+    "165": {
+      "title": "CHECK فصل ms154 والذي يخاف الشيطان منه",
+      "level": 3,
+      "parent": 161,
+      "start_ms": 155,
+      "end_ms": 155
+    },
+    "166": {
+      "title": "AUTO (فصل) وأولى ما يستعان به على محاربة الشيطان",
+      "level": 3,
+      "parent": 161,
+      "start_ms": 155,
+      "end_ms": 156
+    },
+    "167": {
+      "title": "AUTO (فصل) روى مقاتل عن الزهري",
+      "level": 3,
+      "parent": 161,
+      "start_ms": 156,
+      "end_ms": 159
+    },
+    "168": {
+      "title": "AUTO (فصل) وفي القلب لمتان",
+      "level": 3,
+      "parent": 161,
+      "start_ms": 159,
+      "end_ms": 160
+    },
+    "169": {
+      "title": "AUTO (فصل) وفي القلب خواطر ستة",
+      "level": 3,
+      "parent": 161,
+      "start_ms": 160,
+      "end_ms": 161
+    },
+    "170": {
+      "title": "AUTO (فصل) وللنفس والروح مكانان",
+      "level": 3,
+      "parent": 161,
+      "start_ms": 161,
+      "end_ms": 161
+    },
+    "171": {
+      "title": "AUTO (فصل) أعوذ برب العرش والكرسي",
+      "level": 3,
+      "parent": 161,
+      "start_ms": 161,
+      "end_ms": 162
+    },
+    "172": {
+      "title": "AUTO (فصل) ومجاهدة الشيطان",
+      "level": 3,
+      "parent": 161,
+      "start_ms": 162,
+      "end_ms": 163
+    },
+    "173": {
+      "title": "AUTO مجلس آخر: في قوله -عز وجل-: ms162 {إنه من سليمان وإنه بسم الله الرحمن الرحيم}",
+      "level": 2,
+      "parent": 159,
+      "start_ms": 163,
+      "end_ms": 183
+    },
+    "174": {
+      "title": "AUTO (فصل) وإنما استوفيت هذه القصة",
+      "level": 3,
+      "parent": 173,
+      "start_ms": 171,
+      "end_ms": 173
+    },
+    "175": {
+      "title": "AUTO (فصل) في فضل {بسم الله الرحمن الرحيم}",
+      "level": 3,
+      "parent": 173,
+      "start_ms": 173,
+      "end_ms": 174
+    },
+    "176": {
+      "title": "AUTO (فصل آخر): في فضل {بسم الله الرحمن الرحيم}",
+      "level": 3,
+      "parent": 173,
+      "start_ms": 174,
+      "end_ms": 176
+    },
+    "177": {
+      "title": "AUTO (فصل) في تفسير قوله: {بسم الله الرحمن الرحيم}",
+      "level": 3,
+      "parent": 173,
+      "start_ms": 176,
+      "end_ms": 178
+    },
+    "178": {
+      "title": "AUTO (فصل) اعلم أن الناس اختلفوا في هذا الاسم",
+      "level": 3,
+      "parent": 173,
+      "start_ms": 178,
+      "end_ms": 180
+    },
+    "179": {
+      "title": "AUTO (فصل) قل بسم الله تجد عفو ال",
+      "level": 3,
+      "parent": 173,
+      "start_ms": 180,
+      "end_ms": 181
+    },
+    "180": {
+      "title": "AUTO (فصل) قل بسم الله الذي تعالى عن الأضداد",
+      "level": 3,
+      "parent": 173,
+      "start_ms": 181,
+      "end_ms": 181
+    },
+    "181": {
+      "title": "CHECK (فصل) قل بسم الله حرفا حرفا",
+      "level": 3,
+      "parent": 173,
+      "start_ms": 181,
+      "end_ms": 181
+    },
+    "182": {
+      "title": "CHECK (فصل) بسم الله للذاكرين ذخر وللأقوياء عز .. إلخ",
+      "level": 3,
+      "parent": 173,
+      "start_ms": 181,
+      "end_ms": 182
+    },
+    "183": {
+      "title": "AUTO (فصل) قل بسم الله",
+      "level": 3,
+      "parent": 173,
+      "start_ms": 182,
+      "end_ms": 182
+    },
+    "184": {
+      "title": "AUTO (فصل) رحم الله من خالف الشيطان",
+      "level": 3,
+      "parent": 173,
+      "start_ms": 182,
+      "end_ms": 183
+    },
+    "185": {
+      "title": "AUTO مجلس: في قوله تعالى: {وتوبوا إلى الله جميعا أيها المؤمنون لعلكم تفلحون}",
+      "level": 2,
+      "parent": 159,
+      "start_ms": 183,
+      "end_ms": 225
+    },
+    "186": {
+      "title": "AUTO (فصل) والذي عنه التوبة",
+      "level": 3,
+      "parent": 185,
+      "start_ms": 184,
+      "end_ms": 184
+    },
+    "187": {
+      "title": "AUTO (فصل) وأما الصغائر",
+      "level": 3,
+      "parent": 185,
+      "start_ms": 184,
+      "end_ms": 186
+    },
+    "188": {
+      "title": "AUTO (فصل) والتوبة فرض عين",
+      "level": 3,
+      "parent": 185,
+      "start_ms": 186,
+      "end_ms": 192
+    },
+    "189": {
+      "title": "AUTO (فصل) في شروط التوبة وكيفيتها",
+      "level": 3,
+      "parent": 185,
+      "start_ms": 192,
+      "end_ms": 204
+    },
+    "190": {
+      "title": "AUTO (فصل) ولا بد أن يعرفه قدر جنايته",
+      "level": 3,
+      "parent": 185,
+      "start_ms": 204,
+      "end_ms": 204
+    },
+    "191": {
+      "title": "AUTO (فصل) فإذا تخلص من مظالم العباد",
+      "level": 3,
+      "parent": 185,
+      "start_ms": 204,
+      "end_ms": 211
+    },
+    "192": {
+      "title": "AUTO (فصل) ولا يتم الورع إلا أن يرى عشرة أشياء فريضة على نفسه",
+      "level": 3,
+      "parent": 185,
+      "start_ms": 211,
+      "end_ms": 212
+    },
+    "193": {
+      "title": "AUTO (فصل) ويجوز أن يتوب عن بعض الذنوب",
+      "level": 3,
+      "parent": 185,
+      "start_ms": 212,
+      "end_ms": 214
+    },
+    "194": {
+      "title": "AUTO (فصل: في ذكر الأخبار والآثار الواردة في التوبة)",
+      "level": 3,
+      "parent": 185,
+      "start_ms": 214,
+      "end_ms": 217
+    },
+    "195": {
+      "title": "AUTO (فصل آخر: في ذلك)",
+      "level": 3,
+      "parent": 185,
+      "start_ms": 217,
+      "end_ms": 218
+    },
+    "196": {
+      "title": "AUTO (فصل آخر: في ذلك)",
+      "level": 3,
+      "parent": 185,
+      "start_ms": 218,
+      "end_ms": 221
+    },
+    "197": {
+      "title": "AUTO (فصل) وإنما تعرف توبة التائب في أربعة أشياء",
+      "level": 3,
+      "parent": 185,
+      "start_ms": 221,
+      "end_ms": 223
+    },
+    "198": {
+      "title": "AUTO (فصل: في ذكر أقاويل شيوخ الطريقة في التوبة)",
+      "level": 3,
+      "parent": 185,
+      "start_ms": 223,
+      "end_ms": 225
+    },
+    "199": {
+      "title": "AUTO مجلس: في قوله تعالى: {إن أكرمكم عند ms224 الله أتقاكم}",
+      "level": 2,
+      "parent": 159,
+      "start_ms": 225,
+      "end_ms": 272
+    },
+    "200": {
+      "title": "AUTO (فصل) وطريق التقوى",
+      "level": 3,
+      "parent": 199,
+      "start_ms": 229,
+      "end_ms": 231
+    },
+    "201": {
+      "title": "AUTO (فصل) وقد دعا الله عز وجل خلقه إلى توحيده",
+      "level": 3,
+      "parent": 199,
+      "start_ms": 231,
+      "end_ms": 233
+    },
+    "202": {
+      "title": "AUTO (فصل) واعلم أن دخول النار بالكفر",
+      "level": 3,
+      "parent": 199,
+      "start_ms": 233,
+      "end_ms": 239
+    },
+    "203": {
+      "title": "AUTO (فصل) في صفة النار وما أعد الله لأهلها فيها وفي صفة الجنة وما أعد الله لأهلها فيها",
+      "level": 3,
+      "parent": 199,
+      "start_ms": 239,
+      "end_ms": 252
+    },
+    "204": {
+      "title": "AUTO (فصل) وقال أبو هريرة -رضي الله عنه-: أن رسول الله -صلى الله عليه وسلم- كان يقول: \"إن لجسر جهنم سبع قناطر",
+      "level": 3,
+      "parent": 199,
+      "start_ms": 252,
+      "end_ms": 265
+    },
+    "205": {
+      "title": "AUTO (فصل) في قوله عز وجل: {فوقاهم الله شر ذلك اليوم ولقاهم نضرة وسرورا ...} [الإنسان: 11] إلى آخر صفة أهل الجنة",
+      "level": 3,
+      "parent": 199,
+      "start_ms": 265,
+      "end_ms": 272
+    },
+    "206": {
+      "title": "CHECK باب في ذكر فضائل الشهور والأيام",
+      "level": 3,
+      "parent": 199,
+      "start_ms": 272,
+      "end_ms": 272
+    },
+    "207": {
+      "title": "AUTO [باب: في ذكر فضائل الشهور والأيام]",
+      "level": 3,
+      "parent": 199,
+      "start_ms": 272,
+      "end_ms": 272
+    },
+    "208": {
+      "title": "AUTO",
+      "level": 2,
+      "parent": 159,
+      "start_ms": 272,
+      "end_ms": 272
+    },
+    "209": {
+      "title": "AUTO مجلس في فضائل شهر رجب",
+      "level": 2,
+      "parent": 159,
+      "start_ms": 272,
+      "end_ms": 294
+    },
+    "210": {
+      "title": "AUTO (فصل) ورجب: هو اسم من الأسماء المشتقة",
+      "level": 3,
+      "parent": 209,
+      "start_ms": 273,
+      "end_ms": 274
+    },
+    "211": {
+      "title": "AUTO (فصل) ولرجب أسماء أخر",
+      "level": 3,
+      "parent": 209,
+      "start_ms": 274,
+      "end_ms": 280
+    },
+    "212": {
+      "title": "AUTO (فصل آخر)",
+      "level": 3,
+      "parent": 209,
+      "start_ms": 280,
+      "end_ms": 283
+    },
+    "213": {
+      "title": "AUTO (فصل) وقد جمع بعض العلماء -رحمهم الله- الليالي التي يستحب إحياؤها",
+      "level": 3,
+      "parent": 209,
+      "start_ms": 283,
+      "end_ms": 283
+    },
+    "214": {
+      "title": "AUTO (فصل: في الأدعية المأثورة في أول ليلة من رجب)",
+      "level": 3,
+      "parent": 209,
+      "start_ms": 283,
+      "end_ms": 284
+    },
+    "215": {
+      "title": "AUTO (فصل: في الصلاة الواردة في شهر رجب)",
+      "level": 3,
+      "parent": 209,
+      "start_ms": 284,
+      "end_ms": 286
+    },
+    "216": {
+      "title": "AUTO فصل في تأكيد الفضيلة في صوم أول الخميس ms285 من رجب والصلاة في أول ليلة الجمعة",
+      "level": 3,
+      "parent": 209,
+      "start_ms": 286,
+      "end_ms": 287
+    },
+    "217": {
+      "title": "AUTO (فصل: في فضل صيام يوم السابع والعشرين من رجب)",
+      "level": 3,
+      "parent": 209,
+      "start_ms": 287,
+      "end_ms": 288
+    },
+    "218": {
+      "title": "AUTO (فصل: في آداب الصيام، وما ينهي عنه من الآثام)",
+      "level": 3,
+      "parent": 209,
+      "start_ms": 288,
+      "end_ms": 288
+    },
+    "219": {
+      "title": "CHECK فصل في آداب الصيام",
+      "level": 3,
+      "parent": 209,
+      "start_ms": 288,
+      "end_ms": 288
+    },
+    "220": {
+      "title": "CHECK فصل في فضل صيام يوم السابع والعشرين من رجب",
+      "level": 3,
+      "parent": 209,
+      "start_ms": 288,
+      "end_ms": 290
+    },
+    "221": {
+      "title": "CHECK فصل استجابة الدعوة في شهر رجب",
+      "level": 3,
+      "parent": 209,
+      "start_ms": 290,
+      "end_ms": 290
+    },
+    "222": {
+      "title": "CHECK فصل ما يقوله عند الإفطار",
+      "level": 3,
+      "parent": 209,
+      "start_ms": 290,
+      "end_ms": 294
+    },
+    "223": {
+      "title": "AUTO مجلس في فضل شهر شعبان",
+      "level": 2,
+      "parent": 159,
+      "start_ms": 294,
+      "end_ms": 304
+    },
+    "224": {
+      "title": "AUTO (فصل) قال الله تعالى: {وربك يخلق ما يشاء ويختار}",
+      "level": 3,
+      "parent": 223,
+      "start_ms": 295,
+      "end_ms": 296
+    },
+    "225": {
+      "title": "AUTO (فصل) شعبان خمسة أحرف",
+      "level": 3,
+      "parent": 223,
+      "start_ms": 296,
+      "end_ms": 297
+    },
+    "226": {
+      "title": "AUTO (فصل: في ليلة البراءة: وما خصت به من الكرامة والفضائل)",
+      "level": 3,
+      "parent": 223,
+      "start_ms": 297,
+      "end_ms": 302
+    },
+    "227": {
+      "title": "AUTO (فصل) وقد سميت ليلة البراءة",
+      "level": 3,
+      "parent": 223,
+      "start_ms": 302,
+      "end_ms": 304
+    },
+    "228": {
+      "title": "AUTO مجلس: في فضائل شهر رمضان",
+      "level": 2,
+      "parent": 159,
+      "start_ms": 304,
+      "end_ms": 327
+    },
+    "229": {
+      "title": "AUTO (فصل) اختلف الناس في معنى قوله رمضان",
+      "level": 3,
+      "parent": 228,
+      "start_ms": 307,
+      "end_ms": 307
+    },
+    "230": {
+      "title": "AUTO فصل في قوله -عز وجل -: {شهر رمضان الذي أنزل فيه القرآن}",
+      "level": 3,
+      "parent": 228,
+      "start_ms": 307,
+      "end_ms": 308
+    },
+    "231": {
+      "title": "AUTO (فصل: فيما يختص بشهر رمضان من الفضائل)",
+      "level": 3,
+      "parent": 228,
+      "start_ms": 308,
+      "end_ms": 310
+    },
+    "232": {
+      "title": "AUTO (فصل) أخبرني أبو نصر عن والده بإسناده",
+      "level": 3,
+      "parent": 228,
+      "start_ms": 310,
+      "end_ms": 314
+    },
+    "233": {
+      "title": "CHECK فصل إن آدم سيد البشر (وذكر السادة من كل شيء)",
+      "level": 3,
+      "parent": 228,
+      "start_ms": 314,
+      "end_ms": 314
+    },
+    "234": {
+      "title": "AUTO (فصل) رمضان خمسة أحرف",
+      "level": 3,
+      "parent": 228,
+      "start_ms": 314,
+      "end_ms": 315
+    },
+    "235": {
+      "title": "AUTO (فصل: في فضائل ليلة القدر)",
+      "level": 3,
+      "parent": 228,
+      "start_ms": 315,
+      "end_ms": 317
+    },
+    "236": {
+      "title": "AUTO (فصل) وتلتمس ليلة القدر",
+      "level": 3,
+      "parent": 228,
+      "start_ms": 317,
+      "end_ms": 319
+    },
+    "237": {
+      "title": "AUTO (فصل: فهل ليلة الجمعة أفضل أم ليلة القدر؟)",
+      "level": 3,
+      "parent": 228,
+      "start_ms": 319,
+      "end_ms": 320
+    },
+    "238": {
+      "title": "CHECK (فصل) الله -عز وجل -أعطى المصطفى -صلى الله عليه وسلم -خمس ليالي",
+      "level": 3,
+      "parent": 228,
+      "start_ms": 320,
+      "end_ms": 320
+    },
+    "239": {
+      "title": "CHECK فصل لماذا لم يطلع الله عباده على ليلة القدر",
+      "level": 3,
+      "parent": 228,
+      "start_ms": 320,
+      "end_ms": 322
+    },
+    "240": {
+      "title": "CHECK فصل في صلاة التراويح",
+      "level": 3,
+      "parent": 228,
+      "start_ms": 322,
+      "end_ms": 323
+    },
+    "241": {
+      "title": "AUTO (فصل) والأمارة في أنها ليلة القدر",
+      "level": 3,
+      "parent": 228,
+      "start_ms": 323,
+      "end_ms": 324
+    },
+    "242": {
+      "title": "AUTO (فصل) ويستحب لها الجماعة والجهر بالقراءة",
+      "level": 3,
+      "parent": 228,
+      "start_ms": 324,
+      "end_ms": 326
+    },
+    "243": {
+      "title": "AUTO (فصل آخر: يختم به ما يتعلق بليلة القدر وجميع شهر رمضان)",
+      "level": 3,
+      "parent": 228,
+      "start_ms": 326,
+      "end_ms": 327
+    },
+    "244": {
+      "title": "AUTO [مجلس] في ذكر يوم الفطر",
+      "level": 2,
+      "parent": 159,
+      "start_ms": 327,
+      "end_ms": 335
+    },
+    "245": {
+      "title": "AUTO (فصل) وإنما سمى العيد عيدا لأنه يعيد الله إلى عبادة الفرح والسرور في يوم عيدهم",
+      "level": 3,
+      "parent": 244,
+      "start_ms": 328,
+      "end_ms": 330
+    },
+    "246": {
+      "title": "AUTO (فصل) وأربعة أيعاد لأربعة أقوام",
+      "level": 3,
+      "parent": 244,
+      "start_ms": 330,
+      "end_ms": 333
+    },
+    "247": {
+      "title": "AUTO (فصل) يشترك المؤمن والكافر في العيد",
+      "level": 3,
+      "parent": 244,
+      "start_ms": 333,
+      "end_ms": 334
+    },
+    "248": {
+      "title": "AUTO (فصل) ليس العيد بلبس الناعمات وأكل الطيبات ومعانقة المستحسنات والتمتع باللذات والشهوات",
+      "level": 3,
+      "parent": 244,
+      "start_ms": 334,
+      "end_ms": 335
+    },
+    "249": {
+      "title": "AUTO مجلس في فضائل أيام العشر",
+      "level": 2,
+      "parent": 159,
+      "start_ms": 335,
+      "end_ms": 344
+    },
+    "250": {
+      "title": "AUTO فصل فيما ورد في عشر ذي الحجة من كرامات الأنبياء",
+      "level": 3,
+      "parent": 249,
+      "start_ms": 337,
+      "end_ms": 340
+    },
+    "251": {
+      "title": "AUTO (فصل) وأما الصلاة الواردة في أيام العشر",
+      "level": 3,
+      "parent": 249,
+      "start_ms": 340,
+      "end_ms": 341
+    },
+    "252": {
+      "title": "AUTO (فصل) والعشر لخمسة أنبياء -عليهم السلام -",
+      "level": 3,
+      "parent": 249,
+      "start_ms": 341,
+      "end_ms": 341
+    },
+    "253": {
+      "title": "CHECK فصل من أكرم هذه الأيام العشرة أكرمه الله تعالى بعشر كرامات",
+      "level": 3,
+      "parent": 249,
+      "start_ms": 341,
+      "end_ms": 343
+    },
+    "254": {
+      "title": "AUTO (فصل) وقد أقسم الله تعالى ب {الفجر وليال عشر",
+      "level": 3,
+      "parent": 249,
+      "start_ms": 343,
+      "end_ms": 344
+    },
+    "255": {
+      "title": "AUTO [مجلس] في ذكر يوم التروية",
+      "level": 2,
+      "parent": 159,
+      "start_ms": 344,
+      "end_ms": 350
+    },
+    "256": {
+      "title": "AUTO (فصل: في فضل من أحرم بالحج ولبى وقصد البيت وإليه دنا)",
+      "level": 3,
+      "parent": 255,
+      "start_ms": 345,
+      "end_ms": 348
+    },
+    "257": {
+      "title": "AUTO (فصل) واختلفوا في تسمية يوم التروية",
+      "level": 3,
+      "parent": 255,
+      "start_ms": 348,
+      "end_ms": 350
+    },
+    "258": {
+      "title": "AUTO مجلس في فضائل يوم عرفة",
+      "level": 2,
+      "parent": 159,
+      "start_ms": 350,
+      "end_ms": 365
+    },
+    "259": {
+      "title": "AUTO (فصل) قوله: {اليوم أكملت لكم دينكم}",
+      "level": 3,
+      "parent": 258,
+      "start_ms": 352,
+      "end_ms": 352
+    },
+    "260": {
+      "title": "AUTO (فصل) واختلف العلماء في المعنى الذي لأجله قيل للموقف عرفات، وليوم الوقوف بها عرفة",
+      "level": 3,
+      "parent": 258,
+      "start_ms": 352,
+      "end_ms": 355
+    },
+    "261": {
+      "title": "AUTO (فصل: في شرف يوم عرفة وليلته)",
+      "level": 3,
+      "parent": 258,
+      "start_ms": 355,
+      "end_ms": 358
+    },
+    "262": {
+      "title": "AUTO (فصل) في تفصيل صيامه وما ورد فيه من الصلوات، وما أمر به من صنوف الدعوات",
+      "level": 3,
+      "parent": 258,
+      "start_ms": 358,
+      "end_ms": 361
+    },
+    "263": {
+      "title": "CHECK (فصل) ما أختص به رسول الله -صلى الله عليه وسلم -من الدعاء في عشية عرفة",
+      "level": 3,
+      "parent": 258,
+      "start_ms": 361,
+      "end_ms": 363
+    },
+    "264": {
+      "title": "AUTO ms362 (فصل) في دعا جبريل وميكائيل وإسرافيل والخضر وإلياس -عليهم السلام -عشية عرفة",
+      "level": 3,
+      "parent": 258,
+      "start_ms": 363,
+      "end_ms": 363
+    },
+    "265": {
+      "title": "CHECK فصل أكثر دعاء المسلم في الموقف",
+      "level": 3,
+      "parent": 258,
+      "start_ms": 363,
+      "end_ms": 365
+    },
+    "266": {
+      "title": "AUTO مجلس في فضائل يوم الأضحى ويوم النحر",
+      "level": 2,
+      "parent": 159,
+      "start_ms": 365,
+      "end_ms": 383
+    },
+    "267": {
+      "title": "AUTO (فصل) فأما الذكر",
+      "level": 3,
+      "parent": 266,
+      "start_ms": 367,
+      "end_ms": 370
+    },
+    "268": {
+      "title": "AUTO (فصل) وأما الدعاء",
+      "level": 3,
+      "parent": 266,
+      "start_ms": 370,
+      "end_ms": 372
+    },
+    "269": {
+      "title": "AUTO (فصل) وأما النحر",
+      "level": 3,
+      "parent": 266,
+      "start_ms": 372,
+      "end_ms": 374
+    },
+    "270": {
+      "title": "AUTO (فصل) ويستحب إذا خرج المؤمن إلى صلاة العيد في طريق أن يرجع في طريق أخرى",
+      "level": 3,
+      "parent": 266,
+      "start_ms": 374,
+      "end_ms": 375
+    },
+    "271": {
+      "title": "AUTO (فصل: في فضيلة يوم النحر والأضحية)",
+      "level": 3,
+      "parent": 266,
+      "start_ms": 375,
+      "end_ms": 377
+    },
+    "272": {
+      "title": "AUTO (فصل: في صلاة ليلة الأضحى)",
+      "level": 3,
+      "parent": 266,
+      "start_ms": 377,
+      "end_ms": 377
+    },
+    "273": {
+      "title": "AUTO (فصل) والأضحية سنة",
+      "level": 3,
+      "parent": 266,
+      "start_ms": 377,
+      "end_ms": 377
+    },
+    "274": {
+      "title": "AUTO (فصل) وأفضلها الإبل ثم البقر ثم الغنم، ولا يجزئ إلا الجذع من الضأن والثنى مما سواه",
+      "level": 3,
+      "parent": 266,
+      "start_ms": 377,
+      "end_ms": 379
+    },
+    "275": {
+      "title": "AUTO (فصل: في ذكر أيام التشريق)",
+      "level": 3,
+      "parent": 266,
+      "start_ms": 379,
+      "end_ms": 380
+    },
+    "276": {
+      "title": "AUTO (فصل) وقد سمى الله -عز وجل -أشياء في القرآن ذكرا",
+      "level": 3,
+      "parent": 266,
+      "start_ms": 380,
+      "end_ms": 381
+    },
+    "277": {
+      "title": "AUTO (فصل) واختلف لم سميت أيام التشريق",
+      "level": 3,
+      "parent": 266,
+      "start_ms": 381,
+      "end_ms": 382
+    },
+    "278": {
+      "title": "AUTO (فصل) واختلف في قدر التكبير في هذه الأيام",
+      "level": 3,
+      "parent": 266,
+      "start_ms": 382,
+      "end_ms": 383
+    },
+    "279": {
+      "title": "AUTO (فصل) وهذا التكبير الذي ذكرناه في عيد الأضحى في عيد الفطر بل هو آكد في الفطر",
+      "level": 3,
+      "parent": 266,
+      "start_ms": 383,
+      "end_ms": 383
+    },
+    "280": {
+      "title": "AUTO مجلس في فضائل يوم عاشوراء",
+      "level": 2,
+      "parent": 159,
+      "start_ms": 383,
+      "end_ms": 391
+    },
+    "281": {
+      "title": "AUTO (فصل) واختلف العلماء -رحمهم الله -في تسميته بيوم عاشوراء",
+      "level": 3,
+      "parent": 280,
+      "start_ms": 387,
+      "end_ms": 388
+    },
+    "282": {
+      "title": "CHECK فصل من فضائل يوم عاشوراء أن الحسين بن علي -رضي الله تعالى عنهما -قتل فيه",
+      "level": 3,
+      "parent": 280,
+      "start_ms": 388,
+      "end_ms": 388
+    },
+    "283": {
+      "title": "AUTO (فصل) واختلفوا في أي يوم هو من المحرم",
+      "level": 3,
+      "parent": 280,
+      "start_ms": 388,
+      "end_ms": 390
+    },
+    "284": {
+      "title": "AUTO (فصل) وقد طعن قوم على من صام هذا ms389 اليوم العظيم",
+      "level": 3,
+      "parent": 280,
+      "start_ms": 390,
+      "end_ms": 391
+    },
+    "285": {
+      "title": "AUTO مجلس في فضائل يوم الجمعة",
+      "level": 2,
+      "parent": 159,
+      "start_ms": 391,
+      "end_ms": 416
+    },
+    "286": {
+      "title": "AUTO (فصل: في فضائل يوم الجمعة من طريق الآثار)",
+      "level": 3,
+      "parent": 285,
+      "start_ms": 392,
+      "end_ms": 396
+    },
+    "287": {
+      "title": "CHECK فصل من اغتسل يوم الجمعة ثم راح",
+      "level": 3,
+      "parent": 285,
+      "start_ms": 396,
+      "end_ms": 399
+    },
+    "288": {
+      "title": "CHECK فصل أتاني جبريل في كفه كمأة بيضاء",
+      "level": 3,
+      "parent": 285,
+      "start_ms": 399,
+      "end_ms": 401
+    },
+    "289": {
+      "title": "CHECK فصل في يوم الجمعة ساعة لا يوافقها عبد يدعو الله تعالى إلا استجيبت دعوته",
+      "level": 3,
+      "parent": 285,
+      "start_ms": 401,
+      "end_ms": 403
+    },
+    "290": {
+      "title": "AUTO (فصل: في الصلاة على النبي -صلى الله عليه وسلم- في يوم الجمعة)",
+      "level": 3,
+      "parent": 285,
+      "start_ms": 403,
+      "end_ms": 404
+    },
+    "291": {
+      "title": "AUTO (فصل: فيما يستحب أن يقرأ في صلاة الصبح يوم الجمعة)",
+      "level": 3,
+      "parent": 285,
+      "start_ms": 404,
+      "end_ms": 405
+    },
+    "292": {
+      "title": "AUTO (فصل: في تسميته بيوم الجمعة)",
+      "level": 3,
+      "parent": 285,
+      "start_ms": 405,
+      "end_ms": 405
+    },
+    "293": {
+      "title": "AUTO (فصل) وجميع ما ذكرناه من صيام الأشهر والأضحية والعبادات من الصلاة والأذكار وغير ذلك",
+      "level": 3,
+      "parent": 285,
+      "start_ms": 405,
+      "end_ms": 406
+    },
+    "294": {
+      "title": "AUTO (فصل) وأما الإخلاص",
+      "level": 3,
+      "parent": 285,
+      "start_ms": 406,
+      "end_ms": 409
+    },
+    "295": {
+      "title": "AUTO (فصل) وينبغي لكل متعبد وعارف أن يحذر في جميع أحواله من الرياء ورؤية الخلق والعجب",
+      "level": 3,
+      "parent": 285,
+      "start_ms": 409,
+      "end_ms": 416
+    },
+    "296": {
+      "title": "AUTO القسم الرابع في فضائل الأعمال",
+      "level": 1,
+      "parent": null,
+      "start_ms": 416,
+      "end_ms": 552
+    },
+    "297": {
+      "title": "AUTO باب في ذكر فضائل أيام الأسبوع والأيام البيض وما ورد في صيام ذلك",
+      "level": 2,
+      "parent": 296,
+      "start_ms": 416,
+      "end_ms": 450
+    },
+    "298": {
+      "title": "AUTO (فصل) وأما صيام الأيام البيض ففيها فضل كثير",
+      "level": 3,
+      "parent": 297,
+      "start_ms": 418,
+      "end_ms": 421
+    },
+    "299": {
+      "title": "AUTO باب في صيام الدهر وما لمن صامه من الثواب والأجر",
+      "level": 3,
+      "parent": 297,
+      "start_ms": 421,
+      "end_ms": 422
+    },
+    "300": {
+      "title": "AUTO (فصل: في فضل الصيام في الجملة)",
+      "level": 3,
+      "parent": 297,
+      "start_ms": 422,
+      "end_ms": 424
+    },
+    "301": {
+      "title": "AUTO (فصل) وأما أوراد الليل والحث على قيامه",
+      "level": 3,
+      "parent": 297,
+      "start_ms": 424,
+      "end_ms": 428
+    },
+    "302": {
+      "title": "AUTO (فصل) وأما صلاة رسول الله -صلى الله عليه وسلم- المذكورة في المتفق عليه",
+      "level": 3,
+      "parent": 297,
+      "start_ms": 428,
+      "end_ms": 429
+    },
+    "303": {
+      "title": "AUTO (فصل آخر: في صلاة الليل)",
+      "level": 3,
+      "parent": 297,
+      "start_ms": 429,
+      "end_ms": 431
+    },
+    "304": {
+      "title": "AUTO (فصل: في فضل الصلاة بين العشاءين)",
+      "level": 3,
+      "parent": 297,
+      "start_ms": 431,
+      "end_ms": 433
+    },
+    "305": {
+      "title": "AUTO (فصل) وأما الركعتان قبل صلاة المغرب",
+      "level": 3,
+      "parent": 297,
+      "start_ms": 433,
+      "end_ms": 433
+    },
+    "306": {
+      "title": "AUTO (فصل آخر) في ذكر ما ورد فعله بين العشاءين",
+      "level": 3,
+      "parent": 297,
+      "start_ms": 433,
+      "end_ms": 437
+    },
+    "307": {
+      "title": "AUTO (فصل: في ذكر الصلاة بعد العشاء الآخرة)",
+      "level": 3,
+      "parent": 297,
+      "start_ms": 437,
+      "end_ms": 438
+    },
+    "308": {
+      "title": "AUTO (فصل) وأما الوتر فالأفضل فيه آخر الليل",
+      "level": 3,
+      "parent": 297,
+      "start_ms": 438,
+      "end_ms": 439
+    },
+    "309": {
+      "title": "AUTO (فصل) ومن أوتر أول الليل ثم قام إلى التهجد فهل يفسخ وتره أم يصلي ما يشاء من غير أن يفسخه",
+      "level": 3,
+      "parent": 297,
+      "start_ms": 439,
+      "end_ms": 440
+    },
+    "310": {
+      "title": "AUTO (فصل: في دعاء الوتر)",
+      "level": 3,
+      "parent": 297,
+      "start_ms": 440,
+      "end_ms": 440
+    },
+    "311": {
+      "title": "AUTO (فصل) وإذا كان ممن يصلي بالليل وغلبه النعاس، فالأولى له أن ينام",
+      "level": 3,
+      "parent": 297,
+      "start_ms": 440,
+      "end_ms": 443
+    },
+    "312": {
+      "title": "AUTO (فصل) وأما قيام الليل، فعمل الأقوياء الذين سبقت لهم منه العناية",
+      "level": 3,
+      "parent": 297,
+      "start_ms": 443,
+      "end_ms": 443
+    },
+    "313": {
+      "title": "AUTO (فصل) ومن استكملت غفلته، وأحاطت به خطيئاته",
+      "level": 3,
+      "parent": 297,
+      "start_ms": 443,
+      "end_ms": 444
+    },
+    "314": {
+      "title": "AUTO (فصل) ومن أنعم عليه بقيام الليل وفعل شيء من النوافل، فليجتهد في المداومة عليه من القدرة وعدم العذر",
+      "level": 3,
+      "parent": 297,
+      "start_ms": 444,
+      "end_ms": 445
+    },
+    "315": {
+      "title": "AUTO (فصل) ويستحب لمن قام من الليل للتهجد أن يقول",
+      "level": 3,
+      "parent": 297,
+      "start_ms": 445,
+      "end_ms": 446
+    },
+    "316": {
+      "title": "AUTO (فصل) ويستحب إذا قام لصلاة الليل أن يفتح صلاته بركعتين خفيفتين",
+      "level": 3,
+      "parent": 297,
+      "start_ms": 446,
+      "end_ms": 446
+    },
+    "317": {
+      "title": "AUTO (فصل) ويستحب ألا ينام حتى يقرأ ثلثمائة آية",
+      "level": 3,
+      "parent": 297,
+      "start_ms": 446,
+      "end_ms": 447
+    },
+    "318": {
+      "title": "AUTO (فصل) والذي يستعان به على قيام الليل أشياء",
+      "level": 3,
+      "parent": 297,
+      "start_ms": 447,
+      "end_ms": 448
+    },
+    "319": {
+      "title": "AUTO (فصل) ويستحب لمن قام الليل أن ينام آخره لوجهين",
+      "level": 3,
+      "parent": 297,
+      "start_ms": 448,
+      "end_ms": 449
+    },
+    "320": {
+      "title": "AUTO (فصل) فإن فاته قيام الليل بنوم أو شغل، فإن قضاه ما بين طلوع الشمس إلى زوالها كان كمن صلى في وقته في الليل",
+      "level": 3,
+      "parent": 297,
+      "start_ms": 449,
+      "end_ms": 450
+    },
+    "321": {
+      "title": "AUTO (فصل) فقد تحصل من هذه الجملة أن أوراد الليل خمسة",
+      "level": 3,
+      "parent": 297,
+      "start_ms": 450,
+      "end_ms": 450
+    },
+    "322": {
+      "title": "AUTO (فصل) وأما أوراد النهار فخمسة أيضا",
+      "level": 2,
+      "parent": 296,
+      "start_ms": 450,
+      "end_ms": 459
+    },
+    "323": {
+      "title": "AUTO (فصل) وأما الورد الأول من النهار",
+      "level": 3,
+      "parent": 322,
+      "start_ms": 450,
+      "end_ms": 453
+    },
+    "324": {
+      "title": "AUTO (فصل) وأما الورد الثاني: فصلاة الضحى",
+      "level": 3,
+      "parent": 322,
+      "start_ms": 453,
+      "end_ms": 454
+    },
+    "325": {
+      "title": "AUTO (فصل) وأما عدد صلاة الضحى، فأقلها ركعتان، وأعدلها ثمان ركعات، وأكثرها اثنتا عشرة ركعة",
+      "level": 3,
+      "parent": 322,
+      "start_ms": 454,
+      "end_ms": 455
+    },
+    "326": {
+      "title": "AUTO (فصل) وأما وقتها",
+      "level": 3,
+      "parent": 322,
+      "start_ms": 455,
+      "end_ms": 456
+    },
+    "327": {
+      "title": "AUTO (فصل) وأما الذي يقرأ فيها",
+      "level": 3,
+      "parent": 322,
+      "start_ms": 456,
+      "end_ms": 456
+    },
+    "328": {
+      "title": "AUTO (فصل) وقد ورد عن بعض الصحابة رضي الله عنهم إنكار صلاة الضحى",
+      "level": 3,
+      "parent": 322,
+      "start_ms": 456,
+      "end_ms": 457
+    },
+    "329": {
+      "title": "AUTO (فصل) وأما الورد الثالث: فالصلاة قبل الظهر وبعدها",
+      "level": 3,
+      "parent": 322,
+      "start_ms": 457,
+      "end_ms": 457
+    },
+    "330": {
+      "title": "AUTO (فصل) وأما الورد الرابع: ففيما بين الظهر والعصر",
+      "level": 3,
+      "parent": 322,
+      "start_ms": 457,
+      "end_ms": 458
+    },
+    "331": {
+      "title": "AUTO (فصل) وقد ورد حديث جامع للنوافل في هذه الأوقات",
+      "level": 3,
+      "parent": 322,
+      "start_ms": 458,
+      "end_ms": 459
+    },
+    "332": {
+      "title": "AUTO (فصل) وأما الورد الخامس، بعد صلاة العصر إلى غروب الشمس",
+      "level": 3,
+      "parent": 322,
+      "start_ms": 459,
+      "end_ms": 459
+    },
+    "333": {
+      "title": "AUTO باب في الصلوات الخمس وبيان أوقاتها وأعدادها وسنتها وفضائلها",
+      "level": 2,
+      "parent": 296,
+      "start_ms": 459,
+      "end_ms": 503
+    },
+    "334": {
+      "title": "AUTO (فصل) الصلوات المكتوبة خمس",
+      "level": 3,
+      "parent": 333,
+      "start_ms": 459,
+      "end_ms": 460
+    },
+    "335": {
+      "title": "AUTO (فصل) والأصل في وجوبها",
+      "level": 3,
+      "parent": 333,
+      "start_ms": 460,
+      "end_ms": 461
+    },
+    "336": {
+      "title": "AUTO (فصل: في ذكر من صلى هذه الصلوات أولا قبل نبينا -صلى الله عليه وسلم-)",
+      "level": 3,
+      "parent": 333,
+      "start_ms": 461,
+      "end_ms": 461
+    },
+    "337": {
+      "title": "AUTO (فصل) وأول ما وجب من الصلوات على نبينا -صلى الله عليه وسلم- وأمر بفعلها، صلاة الفجر والمغرب",
+      "level": 3,
+      "parent": 333,
+      "start_ms": 461,
+      "end_ms": 462
+    },
+    "338": {
+      "title": "AUTO (فصل: في بيان وقت صلاة الفجر)",
+      "level": 3,
+      "parent": 333,
+      "start_ms": 462,
+      "end_ms": 463
+    },
+    "339": {
+      "title": "AUTO (فصل) وأما الظهر",
+      "level": 3,
+      "parent": 333,
+      "start_ms": 463,
+      "end_ms": 464
+    },
+    "340": {
+      "title": "AUTO (فصل) وهذا الذي ذكرنا من الأقدام ونصب العمود، يختلف في الشتاء والصيف",
+      "level": 3,
+      "parent": 333,
+      "start_ms": 464,
+      "end_ms": 464
+    },
+    "341": {
+      "title": "AUTO (فصل: في معرفة الأقدام)",
+      "level": 3,
+      "parent": 333,
+      "start_ms": 464,
+      "end_ms": 465
+    },
+    "342": {
+      "title": "AUTO (فصل) وذكر بعضهم صفة أخرى",
+      "level": 3,
+      "parent": 333,
+      "start_ms": 465,
+      "end_ms": 466
+    },
+    "343": {
+      "title": "AUTO (فصل) وقد ذكر بعض شيوخنا لذلك صفة أخرى",
+      "level": 3,
+      "parent": 333,
+      "start_ms": 466,
+      "end_ms": 466
+    },
+    "344": {
+      "title": "AUTO (فصل) ومعرفة الزوال على هذه الصفات والتحديد ليس هو بأمر حتم",
+      "level": 3,
+      "parent": 333,
+      "start_ms": 466,
+      "end_ms": 467
+    },
+    "345": {
+      "title": "AUTO (فصل) ومعرفة الزوال على التحقيق أمر يدق ويصعب",
+      "level": 3,
+      "parent": 333,
+      "start_ms": 467,
+      "end_ms": 468
+    },
+    "346": {
+      "title": "AUTO (فصل) فإذا عرفت الزوال وأردت أن تعرف القبلة فاجعل ظلك على يسارك",
+      "level": 3,
+      "parent": 333,
+      "start_ms": 468,
+      "end_ms": 468
+    },
+    "347": {
+      "title": "AUTO (فصل) وأما وقت العصر",
+      "level": 3,
+      "parent": 333,
+      "start_ms": 468,
+      "end_ms": 468
+    },
+    "348": {
+      "title": "AUTO (فصل) فإذا غاب الشفق دخل وقت العشاء الآخرة",
+      "level": 3,
+      "parent": 333,
+      "start_ms": 468,
+      "end_ms": 469
+    },
+    "349": {
+      "title": "AUTO (فصل) وأما السنن الراتبة مع هذه الصلوات الخمس فثلاث عشرة ركعة",
+      "level": 3,
+      "parent": 333,
+      "start_ms": 469,
+      "end_ms": 470
+    },
+    "350": {
+      "title": "AUTO (فصل: في فضائل الصلوات الخمس)",
+      "level": 3,
+      "parent": 333,
+      "start_ms": 470,
+      "end_ms": 472
+    },
+    "351": {
+      "title": "AUTO (فصل: في الخروج إلى المسجد، وفضل الجماعة والخشوع في الصلاة)",
+      "level": 3,
+      "parent": 333,
+      "start_ms": 472,
+      "end_ms": 476
+    },
+    "352": {
+      "title": "AUTO (فصل: في المحافظة عليها وما ورد من العقوبة على من ضيعها)",
+      "level": 3,
+      "parent": 333,
+      "start_ms": 476,
+      "end_ms": 477
+    },
+    "353": {
+      "title": "AUTO (فصل) الصلاة خطرها عظيم، وأمرها جسيم",
+      "level": 3,
+      "parent": 333,
+      "start_ms": 477,
+      "end_ms": 479
+    },
+    "354": {
+      "title": "CHECK فصل مكروهات الصلاة",
+      "level": 3,
+      "parent": 333,
+      "start_ms": 479,
+      "end_ms": 482
+    },
+    "355": {
+      "title": "AUTO (فصل) وينبغي لكل مصل أن يقدم النية لصلاته",
+      "level": 3,
+      "parent": 333,
+      "start_ms": 482,
+      "end_ms": 486
+    },
+    "356": {
+      "title": "AUTO (فصل: فيما يختص بالإمام)",
+      "level": 3,
+      "parent": 333,
+      "start_ms": 486,
+      "end_ms": 489
+    },
+    "357": {
+      "title": "AUTO (فصل) وينبغي للإمام ألا يدخل في الصلاة ولا يكبر حتى ينوي الإمامة بقلبه",
+      "level": 3,
+      "parent": 333,
+      "start_ms": 489,
+      "end_ms": 492
+    },
+    "358": {
+      "title": "AUTO (فصل) ويجب على المأموم أن ينوي الائتمام",
+      "level": 3,
+      "parent": 333,
+      "start_ms": 492,
+      "end_ms": 492
+    },
+    "359": {
+      "title": "AUTO (فصل) وينبغي للمأموم أيضا ألا يسبق الإمام في التكبير",
+      "level": 3,
+      "parent": 333,
+      "start_ms": 492,
+      "end_ms": 496
+    },
+    "360": {
+      "title": "AUTO (فصل) ويجب على من رأى من يقصر في صلاته ويسقط أركانها وواجباتها وآدابها أن يعظه ويعلمه وينصحه",
+      "level": 3,
+      "parent": 333,
+      "start_ms": 496,
+      "end_ms": 498
+    },
+    "361": {
+      "title": "AUTO (فصل) ويجب على المؤذن أن يصلح من لسانه ما لا يلحن في الشهادتين، ويكون عارفا بالأوقات، وألا يؤذن إلا بعد دخول الوقت",
+      "level": 3,
+      "parent": 333,
+      "start_ms": 498,
+      "end_ms": 499
+    },
+    "362": {
+      "title": "AUTO (فصل) فرحم الله من أقبل على صلاته خاشعا خاضعا ذليلا لله عز وجل",
+      "level": 3,
+      "parent": 333,
+      "start_ms": 499,
+      "end_ms": 501
+    },
+    "363": {
+      "title": "AUTO ms500 (فصل) وأما صلاة الخاصة لإيقاظ الخاشعين المراقبين",
+      "level": 3,
+      "parent": 333,
+      "start_ms": 501,
+      "end_ms": 503
+    },
+    "364": {
+      "title": "AUTO باب نشير فيه إلى صلاة الجمعة والعيدين وصلاة الاستسقاء والكسوف والخوف والقصر والجمع وصلاة الجنازة مختصرا",
+      "level": 2,
+      "parent": 296,
+      "start_ms": 503,
+      "end_ms": 517
+    },
+    "365": {
+      "title": "AUTO (فصل) أما صلاة الجمعة",
+      "level": 3,
+      "parent": 364,
+      "start_ms": 503,
+      "end_ms": 504
+    },
+    "366": {
+      "title": "AUTO (فصل) وأما صلاة العيدين",
+      "level": 3,
+      "parent": 364,
+      "start_ms": 504,
+      "end_ms": 506
+    },
+    "367": {
+      "title": "AUTO (فصل) وأما صلاة الاستسقاء",
+      "level": 3,
+      "parent": 364,
+      "start_ms": 506,
+      "end_ms": 508
+    },
+    "368": {
+      "title": "AUTO (فصل) وأما صلاة الكسوف",
+      "level": 3,
+      "parent": 364,
+      "start_ms": 508,
+      "end_ms": 509
+    },
+    "369": {
+      "title": "AUTO (فصل) وأما صلاة الخوف",
+      "level": 3,
+      "parent": 364,
+      "start_ms": 509,
+      "end_ms": 511
+    },
+    "370": {
+      "title": "AUTO (فصل) وأما قصر الصلاة",
+      "level": 3,
+      "parent": 364,
+      "start_ms": 511,
+      "end_ms": 512
+    },
+    "371": {
+      "title": "AUTO (فصل) وأما الجمع بين الصلاتين",
+      "level": 3,
+      "parent": 364,
+      "start_ms": 512,
+      "end_ms": 514
+    },
+    "372": {
+      "title": "AUTO (فصل) وأما الصلاة على الجنازة",
+      "level": 3,
+      "parent": 364,
+      "start_ms": 514,
+      "end_ms": 517
+    },
+    "373": {
+      "title": "AUTO فصول فيما يفعل بمن حضره الموت وكيفية غسله وتكفينه وتحنيطه ودفنه",
+      "level": 2,
+      "parent": 296,
+      "start_ms": 517,
+      "end_ms": 524
+    },
+    "374": {
+      "title": "AUTO (فصل) يستحب لكل مؤمن موقن بالموت عاقل محصل أن يكثر ذكر الموت",
+      "level": 3,
+      "parent": 373,
+      "start_ms": 517,
+      "end_ms": 518
+    },
+    "375": {
+      "title": "AUTO (فصل) فإذا مرض المؤمن استحبت عيادته",
+      "level": 3,
+      "parent": 373,
+      "start_ms": 518,
+      "end_ms": 520
+    },
+    "376": {
+      "title": "AUTO (فصل) ثم يسارع في غسله وتجهيزه وتكفينه ودفنه",
+      "level": 3,
+      "parent": 373,
+      "start_ms": 520,
+      "end_ms": 524
+    },
+    "377": {
+      "title": "AUTO (فصل) في ذكر فضائل الصلوات في أيام الأسبوع ولياليه",
+      "level": 2,
+      "parent": 296,
+      "start_ms": 524,
+      "end_ms": 529
+    },
+    "378": {
+      "title": "AUTO (فصل: في ذكر صلاة يوم الأحد)",
+      "level": 3,
+      "parent": 377,
+      "start_ms": 525,
+      "end_ms": 525
+    },
+    "379": {
+      "title": "AUTO (فصل: في ذكر صلاة يوم الاثنين)",
+      "level": 3,
+      "parent": 377,
+      "start_ms": 525,
+      "end_ms": 526
+    },
+    "380": {
+      "title": "AUTO (فصل: في ذكر صلاة يوم الثلاثاء)",
+      "level": 3,
+      "parent": 377,
+      "start_ms": 526,
+      "end_ms": 526
+    },
+    "381": {
+      "title": "AUTO (فصل: في ذكر صلاة يوم الأربعاء)",
+      "level": 3,
+      "parent": 377,
+      "start_ms": 526,
+      "end_ms": 526
+    },
+    "382": {
+      "title": "AUTO (فصل: في ذكر صلاة يوم الخميس)",
+      "level": 3,
+      "parent": 377,
+      "start_ms": 526,
+      "end_ms": 527
+    },
+    "383": {
+      "title": "AUTO (فصل: في ذكر صلاة يوم الجمعة)",
+      "level": 3,
+      "parent": 377,
+      "start_ms": 527,
+      "end_ms": 528
+    },
+    "384": {
+      "title": "AUTO (فصل: في ذكر صلاة يوم السبت)",
+      "level": 3,
+      "parent": 377,
+      "start_ms": 528,
+      "end_ms": 529
+    },
+    "385": {
+      "title": "AUTO باب في ذكر صلاة الليالي",
+      "level": 2,
+      "parent": 296,
+      "start_ms": 529,
+      "end_ms": 541
+    },
+    "386": {
+      "title": "AUTO (فصل: في ذكر فضل صلاة ليلة الأحد)",
+      "level": 3,
+      "parent": 385,
+      "start_ms": 529,
+      "end_ms": 529
+    },
+    "387": {
+      "title": "AUTO (فصل: في ذكر فضل صلاة ليلة الاثنين)",
+      "level": 3,
+      "parent": 385,
+      "start_ms": 529,
+      "end_ms": 530
+    },
+    "388": {
+      "title": "AUTO (فصل: في ذكر فضل صلاة ليلة الثلاثاء)",
+      "level": 3,
+      "parent": 385,
+      "start_ms": 530,
+      "end_ms": 530
+    },
+    "389": {
+      "title": "AUTO (فصل: في ذكر فضل صلاة ليلة الأربعاء)",
+      "level": 3,
+      "parent": 385,
+      "start_ms": 530,
+      "end_ms": 530
+    },
+    "390": {
+      "title": "AUTO (فصل: في ذكر فضل صلاة ليلة الخميس)",
+      "level": 3,
+      "parent": 385,
+      "start_ms": 530,
+      "end_ms": 530
+    },
+    "391": {
+      "title": "AUTO (فصل: في ذكر صلاة ليلة الجمعة)",
+      "level": 3,
+      "parent": 385,
+      "start_ms": 530,
+      "end_ms": 531
+    },
+    "392": {
+      "title": "AUTO (فصل: في ذكر فضل صلاة ليلة السبت)",
+      "level": 3,
+      "parent": 385,
+      "start_ms": 531,
+      "end_ms": 531
+    },
+    "393": {
+      "title": "AUTO (فصل) وقد ذكرنا في مجلس التوبة",
+      "level": 3,
+      "parent": 385,
+      "start_ms": 531,
+      "end_ms": 531
+    },
+    "394": {
+      "title": "AUTO (فصل: في ذكر فضل صلاة التسبيح)",
+      "level": 3,
+      "parent": 385,
+      "start_ms": 531,
+      "end_ms": 533
+    },
+    "395": {
+      "title": "AUTO (فصل: في صلاة الاستخارة ودعائها للسفر وغيره)",
+      "level": 3,
+      "parent": 385,
+      "start_ms": 533,
+      "end_ms": 535
+    },
+    "396": {
+      "title": "AUTO (فصل: في حرز المسافر من كل سارق وسبع ومؤذ)",
+      "level": 3,
+      "parent": 385,
+      "start_ms": 535,
+      "end_ms": 536
+    },
+    "397": {
+      "title": "AUTO (فصل: في ذكر صلاة الكفاية)",
+      "level": 3,
+      "parent": 385,
+      "start_ms": 536,
+      "end_ms": 536
+    },
+    "398": {
+      "title": "AUTO (فصل: في ذكر صلاة الخصماء)",
+      "level": 3,
+      "parent": 385,
+      "start_ms": 536,
+      "end_ms": 536
+    },
+    "399": {
+      "title": "AUTO (فصل: في صلاة العتقاء في شوال)",
+      "level": 3,
+      "parent": 385,
+      "start_ms": 536,
+      "end_ms": 537
+    },
+    "400": {
+      "title": "AUTO (فصل: في فضل الصلاة لرفع عذاب القبر)",
+      "level": 3,
+      "parent": 385,
+      "start_ms": 537,
+      "end_ms": 538
+    },
+    "401": {
+      "title": "AUTO (فصل: في صلاة الحاجة)",
+      "level": 3,
+      "parent": 385,
+      "start_ms": 538,
+      "end_ms": 538
+    },
+    "402": {
+      "title": "AUTO (فصل: في الدعاء لدفع الظلم والاحتراز منه)",
+      "level": 3,
+      "parent": 385,
+      "start_ms": 538,
+      "end_ms": 539
+    },
+    "403": {
+      "title": "AUTO (دعاء آخر)",
+      "level": 3,
+      "parent": 385,
+      "start_ms": 539,
+      "end_ms": 539
+    },
+    "404": {
+      "title": "AUTO (فصل: في الدعاء لذهاب الهموم وقضاء الديون)",
+      "level": 3,
+      "parent": 385,
+      "start_ms": 539,
+      "end_ms": 540
+    },
+    "405": {
+      "title": "AUTO (دعاء آخر في ذلك)",
+      "level": 3,
+      "parent": 385,
+      "start_ms": 540,
+      "end_ms": 541
+    },
+    "406": {
+      "title": "AUTO باب الأدعية ms540 التي يدعي بها عقيب الصلوات الفرض ودعاء الختمة وغير ذلك",
+      "level": 2,
+      "parent": 296,
+      "start_ms": 541,
+      "end_ms": 552
+    },
+    "407": {
+      "title": "AUTO (فصل) فأما دعاء ختمة القرآن ms542 فهو",
+      "level": 3,
+      "parent": 406,
+      "start_ms": 543,
+      "end_ms": 552
+    },
+    "408": {
+      "title": "AUTO القسم الخامس في التصوف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 552,
+      "end_ms": null
+    },
+    "409": {
+      "title": "AUTO كتاب آداب المريدين من الفقراء الصادقين سالكي طريق الصوفية",
+      "level": 2,
+      "parent": 408,
+      "start_ms": 552,
+      "end_ms": 560
+    },
+    "410": {
+      "title": "AUTO (فصل: في الإرادة والمريد والمراد)",
+      "level": 3,
+      "parent": 409,
+      "start_ms": 552,
+      "end_ms": 555
+    },
+    "411": {
+      "title": "AUTO (فصل: ما المتصوف ومن الصوفي؟)",
+      "level": 3,
+      "parent": 409,
+      "start_ms": 555,
+      "end_ms": 560
+    },
+    "412": {
+      "title": "AUTO باب فيما يجب على المبتدي في هذه الطريقة",
+      "level": 2,
+      "parent": 408,
+      "start_ms": 560,
+      "end_ms": 570
+    },
+    "413": {
+      "title": "AUTO (فصل) وأما آدابه مع الشيخ",
+      "level": 3,
+      "parent": 412,
+      "start_ms": 562,
+      "end_ms": 567
+    },
+    "414": {
+      "title": "AUTO (فصل آخر: في أدبه مع شيخه)",
+      "level": 3,
+      "parent": 412,
+      "start_ms": 567,
+      "end_ms": 568
+    },
+    "415": {
+      "title": "AUTO (فصل) وأما الذي يجب على الشيخ في تأديب المريد",
+      "level": 3,
+      "parent": 412,
+      "start_ms": 568,
+      "end_ms": 570
+    },
+    "416": {
+      "title": "AUTO باب في صحبة الإخوان والصحبة مع الأجانب وكيف الصحبة مع الأغنياء والفقراء",
+      "level": 2,
+      "parent": 408,
+      "start_ms": 570,
+      "end_ms": 590
+    },
+    "417": {
+      "title": "AUTO (فصل) وأما الصحبة مع ms570 الأجانب",
+      "level": 3,
+      "parent": 416,
+      "start_ms": 571,
+      "end_ms": 571
+    },
+    "418": {
+      "title": "AUTO (فصل) وأما الصحبة مع الأغنياء",
+      "level": 3,
+      "parent": 416,
+      "start_ms": 571,
+      "end_ms": 572
+    },
+    "419": {
+      "title": "AUTO (فصل) وأما الصحبة مع الفقراء",
+      "level": 3,
+      "parent": 416,
+      "start_ms": 572,
+      "end_ms": 575
+    },
+    "420": {
+      "title": "AUTO (فصل: في آداب الفقير في فقره)",
+      "level": 3,
+      "parent": 416,
+      "start_ms": 575,
+      "end_ms": 577
+    },
+    "421": {
+      "title": "AUTO (فصل: في سؤال الفقير)",
+      "level": 3,
+      "parent": 416,
+      "start_ms": 577,
+      "end_ms": 578
+    },
+    "422": {
+      "title": "AUTO (فصل: في آداب العشرة)",
+      "level": 3,
+      "parent": 416,
+      "start_ms": 578,
+      "end_ms": 580
+    },
+    "423": {
+      "title": "AUTO (فصل: في آداب الفقراء عند الأكل)",
+      "level": 3,
+      "parent": 416,
+      "start_ms": 580,
+      "end_ms": 581
+    },
+    "424": {
+      "title": "AUTO (فصل: في آدابهم فيما بينهم)",
+      "level": 3,
+      "parent": 416,
+      "start_ms": 581,
+      "end_ms": 582
+    },
+    "425": {
+      "title": "AUTO (فصل: في آدابهم مع الأهل والولد)",
+      "level": 3,
+      "parent": 416,
+      "start_ms": 582,
+      "end_ms": 584
+    },
+    "426": {
+      "title": "AUTO (فصل: في آدابهم في السفر)",
+      "level": 3,
+      "parent": 416,
+      "start_ms": 584,
+      "end_ms": 586
+    },
+    "427": {
+      "title": "AUTO (فصل: في آدابهم في السماع)",
+      "level": 3,
+      "parent": 416,
+      "start_ms": 586,
+      "end_ms": 590
+    },
+    "428": {
+      "title": "AUTO باب المجاهدة والتوكل وحسن الخلق والشكر والصبر والرضا والصدق",
+      "level": 2,
+      "parent": 408,
+      "start_ms": 590,
+      "end_ms": null
+    },
+    "429": {
+      "title": "AUTO (فصل) أما المجاهدة",
+      "level": 3,
+      "parent": 428,
+      "start_ms": 590,
+      "end_ms": 593
+    },
+    "430": {
+      "title": "AUTO (فصل) والأصل في المجاهدة مخالفة الهوى",
+      "level": 3,
+      "parent": 428,
+      "start_ms": 593,
+      "end_ms": 593
+    },
+    "431": {
+      "title": "AUTO (فصل) ولا تتم المجاهدة إلا بالمراقبة",
+      "level": 3,
+      "parent": 428,
+      "start_ms": 593,
+      "end_ms": 598
+    },
+    "432": {
+      "title": "AUTO (فصل) ولأهل المجاهدة والمحاسبة وأولى العزم عشر خصال",
+      "level": 3,
+      "parent": 428,
+      "start_ms": 598,
+      "end_ms": 601
+    },
+    "433": {
+      "title": "AUTO (فصل) وأما التوكل",
+      "level": 3,
+      "parent": 428,
+      "start_ms": 601,
+      "end_ms": 605
+    },
+    "434": {
+      "title": "AUTO (فصل) وأما حسن الخلق",
+      "level": 3,
+      "parent": 428,
+      "start_ms": 605,
+      "end_ms": 607
+    },
+    "435": {
+      "title": "AUTO (فصل) وأما الشكر",
+      "level": 3,
+      "parent": 428,
+      "start_ms": 607,
+      "end_ms": 610
+    },
+    "436": {
+      "title": "AUTO (فصل) وأما الصبر",
+      "level": 3,
+      "parent": 428,
+      "start_ms": 610,
+      "end_ms": 612
+    },
+    "437": {
+      "title": "AUTO (فصل) وأما الرضا",
+      "level": 3,
+      "parent": 428,
+      "start_ms": 612,
+      "end_ms": 617
+    },
+    "438": {
+      "title": "AUTO (فصل) وأما الصدق",
+      "level": 3,
+      "parent": 428,
+      "start_ms": 617,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3],
+      2
+    ],
+    [
+      3,
+      [4, 5, 6],
+      3
+    ],
+    [
+      4,
+      [7, 8, 9, 10, 11],
+      6
+    ],
+    [
+      5,
+      [12, 13, 14],
+      11
+    ],
+    [
+      6,
+      [15, 16],
+      14
+    ],
+    [
+      7,
+      [17, 18, 19, 20, 21],
+      16
+    ],
+    [
+      8,
+      [22],
+      21
+    ],
+    [
+      9,
+      [23, 24, 25, 26, 27],
+      22
+    ],
+    [
+      10,
+      [28],
+      27
+    ],
+    [
+      15,
+      [29, 30, 31, 32, 33],
+      28
+    ],
+    [
+      16,
+      [34, 35, 36, 37],
+      33
+    ],
+    [
+      18,
+      [38, 39, 40, 41, 42, 43, 44],
+      37
+    ],
+    [
+      19,
+      [45, 46],
+      44
+    ],
+    [
+      20,
+      [47, 48],
+      46
+    ],
+    [
+      22,
+      [49, 50],
+      48
+    ],
+    [
+      23,
+      [51, 52],
+      50
+    ],
+    [
+      25,
+      [53, 54],
+      52
+    ],
+    [
+      26,
+      [55, 56],
+      54
+    ],
+    [
+      27,
+      [57],
+      56
+    ],
+    [
+      29,
+      [58],
+      57
+    ],
+    [
+      33,
+      [59],
+      58
+    ],
+    [
+      34,
+      [60],
+      59
+    ],
+    [
+      35,
+      [61],
+      60
+    ],
+    [
+      36,
+      [62, 63, 64, 65],
+      61
+    ],
+    [
+      37,
+      [66],
+      65
+    ],
+    [
+      39,
+      [67, 68, 69],
+      66
+    ],
+    [
+      40,
+      [70],
+      69
+    ],
+    [
+      41,
+      [71],
+      70
+    ],
+    [
+      42,
+      [72, 73],
+      71
+    ],
+    [
+      44,
+      [74],
+      73
+    ],
+    [
+      47,
+      [75],
+      74
+    ],
+    [
+      51,
+      [76],
+      75
+    ],
+    [
+      53,
+      [77],
+      76
+    ],
+    [
+      54,
+      [78],
+      77
+    ],
+    [
+      55,
+      [79],
+      78
+    ],
+    [
+      59,
+      [80, 81],
+      79
+    ],
+    [
+      60,
+      [82, 83, 84, 85],
+      81
+    ],
+    [
+      61,
+      [86, 87, 88],
+      85
+    ],
+    [
+      62,
+      [89, 90, 91],
+      88
+    ],
+    [
+      63,
+      [92],
+      91
+    ],
+    [
+      64,
+      [93, 94, 95, 96, 97, 98, 99, 100, 101, 102],
+      null
+    ],
+    [
+      65,
+      [103, 104, 105, 106, 107],
+      102
+    ],
+    [
+      66,
+      [108],
+      107
+    ],
+    [
+      74,
+      [109],
+      108
+    ],
+    [
+      75,
+      [110, 111],
+      109
+    ],
+    [
+      76,
+      [112, 113],
+      111
+    ],
+    [
+      78,
+      [114, 115],
+      113
+    ],
+    [
+      79,
+      [116, 117, 118],
+      115
+    ],
+    [
+      81,
+      [119, 120],
+      118
+    ],
+    [
+      83,
+      [121],
+      120
+    ],
+    [
+      84,
+      [122, 123],
+      121
+    ],
+    [
+      90,
+      [124],
+      123
+    ],
+    [
+      93,
+      [125],
+      124
+    ],
+    [
+      95,
+      [126],
+      125
+    ],
+    [
+      96,
+      [127],
+      126
+    ],
+    [
+      97,
+      [128],
+      127
+    ],
+    [
+      102,
+      [129, 130],
+      128
+    ],
+    [
+      103,
+      [131],
+      130
+    ],
+    [
+      104,
+      [132],
+      131
+    ],
+    [
+      110,
+      [133],
+      null
+    ],
+    [
+      111,
+      [134, 135],
+      133
+    ],
+    [
+      112,
+      [136],
+      135
+    ],
+    [
+      113,
+      [137],
+      136
+    ],
+    [
+      114,
+      [138],
+      137
+    ],
+    [
+      116,
+      [139],
+      138
+    ],
+    [
+      118,
+      [140],
+      139
+    ],
+    [
+      119,
+      [141],
+      140
+    ],
+    [
+      127,
+      [142],
+      141
+    ],
+    [
+      128,
+      [143],
+      142
+    ],
+    [
+      133,
+      [144],
+      143
+    ],
+    [
+      134,
+      [145],
+      144
+    ],
+    [
+      138,
+      [146, 147],
+      145
+    ],
+    [
+      143,
+      [148, 149],
+      147
+    ],
+    [
+      144,
+      [150],
+      149
+    ],
+    [
+      145,
+      [151, 152],
+      150
+    ],
+    [
+      148,
+      [153, 154, 155, 156],
+      152
+    ],
+    [
+      149,
+      [157, 158],
+      156
+    ],
+    [
+      151,
+      [159, 160, 161],
+      158
+    ],
+    [
+      153,
+      [162, 163],
+      null
+    ],
+    [
+      154,
+      [164],
+      163
+    ],
+    [
+      155,
+      [165, 166],
+      null
+    ],
+    [
+      156,
+      [167],
+      166
+    ],
+    [
+      159,
+      [168],
+      167
+    ],
+    [
+      160,
+      [169],
+      168
+    ],
+    [
+      161,
+      [170, 171],
+      169
+    ],
+    [
+      162,
+      [172],
+      171
+    ],
+    [
+      163,
+      [173],
+      null
+    ],
+    [
+      171,
+      [174],
+      173
+    ],
+    [
+      173,
+      [175],
+      174
+    ],
+    [
+      174,
+      [176],
+      175
+    ],
+    [
+      176,
+      [177],
+      176
+    ],
+    [
+      178,
+      [178],
+      177
+    ],
+    [
+      180,
+      [179],
+      178
+    ],
+    [
+      181,
+      [180, 181, 182],
+      179
+    ],
+    [
+      182,
+      [183, 184],
+      182
+    ],
+    [
+      183,
+      [185],
+      184
+    ],
+    [
+      184,
+      [186, 187],
+      185
+    ],
+    [
+      186,
+      [188],
+      187
+    ],
+    [
+      192,
+      [189],
+      188
+    ],
+    [
+      204,
+      [190, 191],
+      189
+    ],
+    [
+      211,
+      [192],
+      191
+    ],
+    [
+      212,
+      [193],
+      192
+    ],
+    [
+      214,
+      [194],
+      193
+    ],
+    [
+      217,
+      [195],
+      194
+    ],
+    [
+      218,
+      [196],
+      195
+    ],
+    [
+      221,
+      [197],
+      196
+    ],
+    [
+      223,
+      [198],
+      197
+    ],
+    [
+      225,
+      [199],
+      null
+    ],
+    [
+      229,
+      [200],
+      199
+    ],
+    [
+      231,
+      [201],
+      200
+    ],
+    [
+      233,
+      [202],
+      201
+    ],
+    [
+      239,
+      [203],
+      202
+    ],
+    [
+      252,
+      [204],
+      203
+    ],
+    [
+      265,
+      [205],
+      204
+    ],
+    [
+      272,
+      [206, 207, 208, 209],
+      205
+    ],
+    [
+      273,
+      [210],
+      209
+    ],
+    [
+      274,
+      [211],
+      210
+    ],
+    [
+      280,
+      [212],
+      211
+    ],
+    [
+      283,
+      [213, 214],
+      212
+    ],
+    [
+      284,
+      [215],
+      214
+    ],
+    [
+      286,
+      [216],
+      null
+    ],
+    [
+      287,
+      [217],
+      216
+    ],
+    [
+      288,
+      [218, 219, 220],
+      217
+    ],
+    [
+      290,
+      [221, 222],
+      220
+    ],
+    [
+      294,
+      [223],
+      222
+    ],
+    [
+      295,
+      [224],
+      223
+    ],
+    [
+      296,
+      [225],
+      224
+    ],
+    [
+      297,
+      [226],
+      225
+    ],
+    [
+      302,
+      [227],
+      226
+    ],
+    [
+      304,
+      [228],
+      227
+    ],
+    [
+      307,
+      [229, 230],
+      228
+    ],
+    [
+      308,
+      [231],
+      230
+    ],
+    [
+      310,
+      [232],
+      231
+    ],
+    [
+      314,
+      [233, 234],
+      232
+    ],
+    [
+      315,
+      [235],
+      234
+    ],
+    [
+      317,
+      [236],
+      235
+    ],
+    [
+      319,
+      [237],
+      236
+    ],
+    [
+      320,
+      [238, 239],
+      237
+    ],
+    [
+      322,
+      [240],
+      239
+    ],
+    [
+      323,
+      [241],
+      240
+    ],
+    [
+      324,
+      [242],
+      241
+    ],
+    [
+      326,
+      [243],
+      242
+    ],
+    [
+      327,
+      [244],
+      243
+    ],
+    [
+      328,
+      [245],
+      244
+    ],
+    [
+      330,
+      [246],
+      245
+    ],
+    [
+      333,
+      [247],
+      246
+    ],
+    [
+      334,
+      [248],
+      247
+    ],
+    [
+      335,
+      [249],
+      248
+    ],
+    [
+      337,
+      [250],
+      249
+    ],
+    [
+      340,
+      [251],
+      250
+    ],
+    [
+      341,
+      [252, 253],
+      251
+    ],
+    [
+      343,
+      [254],
+      253
+    ],
+    [
+      344,
+      [255],
+      254
+    ],
+    [
+      345,
+      [256],
+      255
+    ],
+    [
+      348,
+      [257],
+      256
+    ],
+    [
+      350,
+      [258],
+      257
+    ],
+    [
+      352,
+      [259, 260],
+      258
+    ],
+    [
+      355,
+      [261],
+      260
+    ],
+    [
+      358,
+      [262],
+      261
+    ],
+    [
+      361,
+      [263],
+      262
+    ],
+    [
+      363,
+      [264, 265],
+      null
+    ],
+    [
+      365,
+      [266],
+      265
+    ],
+    [
+      367,
+      [267],
+      266
+    ],
+    [
+      370,
+      [268],
+      267
+    ],
+    [
+      372,
+      [269],
+      268
+    ],
+    [
+      374,
+      [270],
+      269
+    ],
+    [
+      375,
+      [271],
+      270
+    ],
+    [
+      377,
+      [272, 273, 274],
+      271
+    ],
+    [
+      379,
+      [275],
+      274
+    ],
+    [
+      380,
+      [276],
+      275
+    ],
+    [
+      381,
+      [277],
+      276
+    ],
+    [
+      382,
+      [278],
+      277
+    ],
+    [
+      383,
+      [279, 280],
+      278
+    ],
+    [
+      387,
+      [281],
+      280
+    ],
+    [
+      388,
+      [282, 283],
+      281
+    ],
+    [
+      390,
+      [284],
+      null
+    ],
+    [
+      391,
+      [285],
+      284
+    ],
+    [
+      392,
+      [286],
+      285
+    ],
+    [
+      396,
+      [287],
+      286
+    ],
+    [
+      399,
+      [288],
+      287
+    ],
+    [
+      401,
+      [289],
+      288
+    ],
+    [
+      403,
+      [290],
+      289
+    ],
+    [
+      404,
+      [291],
+      290
+    ],
+    [
+      405,
+      [292, 293],
+      291
+    ],
+    [
+      406,
+      [294],
+      293
+    ],
+    [
+      409,
+      [295],
+      294
+    ],
+    [
+      416,
+      [296, 297],
+      295
+    ],
+    [
+      418,
+      [298],
+      297
+    ],
+    [
+      421,
+      [299],
+      298
+    ],
+    [
+      422,
+      [300],
+      299
+    ],
+    [
+      424,
+      [301],
+      300
+    ],
+    [
+      428,
+      [302],
+      301
+    ],
+    [
+      429,
+      [303],
+      302
+    ],
+    [
+      431,
+      [304],
+      303
+    ],
+    [
+      433,
+      [305, 306],
+      304
+    ],
+    [
+      437,
+      [307],
+      306
+    ],
+    [
+      438,
+      [308],
+      307
+    ],
+    [
+      439,
+      [309],
+      308
+    ],
+    [
+      440,
+      [310, 311],
+      309
+    ],
+    [
+      443,
+      [312, 313],
+      311
+    ],
+    [
+      444,
+      [314],
+      313
+    ],
+    [
+      445,
+      [315],
+      314
+    ],
+    [
+      446,
+      [316, 317],
+      315
+    ],
+    [
+      447,
+      [318],
+      317
+    ],
+    [
+      448,
+      [319],
+      318
+    ],
+    [
+      449,
+      [320],
+      319
+    ],
+    [
+      450,
+      [321, 322, 323],
+      320
+    ],
+    [
+      453,
+      [324],
+      323
+    ],
+    [
+      454,
+      [325],
+      324
+    ],
+    [
+      455,
+      [326],
+      325
+    ],
+    [
+      456,
+      [327, 328],
+      326
+    ],
+    [
+      457,
+      [329, 330],
+      328
+    ],
+    [
+      458,
+      [331],
+      330
+    ],
+    [
+      459,
+      [332, 333, 334],
+      331
+    ],
+    [
+      460,
+      [335],
+      334
+    ],
+    [
+      461,
+      [336, 337],
+      335
+    ],
+    [
+      462,
+      [338],
+      337
+    ],
+    [
+      463,
+      [339],
+      338
+    ],
+    [
+      464,
+      [340, 341],
+      339
+    ],
+    [
+      465,
+      [342],
+      341
+    ],
+    [
+      466,
+      [343, 344],
+      342
+    ],
+    [
+      467,
+      [345],
+      344
+    ],
+    [
+      468,
+      [346, 347, 348],
+      345
+    ],
+    [
+      469,
+      [349],
+      348
+    ],
+    [
+      470,
+      [350],
+      349
+    ],
+    [
+      472,
+      [351],
+      350
+    ],
+    [
+      476,
+      [352],
+      351
+    ],
+    [
+      477,
+      [353],
+      352
+    ],
+    [
+      479,
+      [354],
+      353
+    ],
+    [
+      482,
+      [355],
+      354
+    ],
+    [
+      486,
+      [356],
+      355
+    ],
+    [
+      489,
+      [357],
+      356
+    ],
+    [
+      492,
+      [358, 359],
+      357
+    ],
+    [
+      496,
+      [360],
+      359
+    ],
+    [
+      498,
+      [361],
+      360
+    ],
+    [
+      499,
+      [362],
+      361
+    ],
+    [
+      501,
+      [363],
+      null
+    ],
+    [
+      503,
+      [364, 365],
+      363
+    ],
+    [
+      504,
+      [366],
+      365
+    ],
+    [
+      506,
+      [367],
+      366
+    ],
+    [
+      508,
+      [368],
+      367
+    ],
+    [
+      509,
+      [369],
+      368
+    ],
+    [
+      511,
+      [370],
+      369
+    ],
+    [
+      512,
+      [371],
+      370
+    ],
+    [
+      514,
+      [372],
+      371
+    ],
+    [
+      517,
+      [373, 374],
+      372
+    ],
+    [
+      518,
+      [375],
+      374
+    ],
+    [
+      520,
+      [376],
+      375
+    ],
+    [
+      524,
+      [377],
+      376
+    ],
+    [
+      525,
+      [378, 379],
+      377
+    ],
+    [
+      526,
+      [380, 381, 382],
+      379
+    ],
+    [
+      527,
+      [383],
+      382
+    ],
+    [
+      528,
+      [384],
+      383
+    ],
+    [
+      529,
+      [385, 386, 387],
+      384
+    ],
+    [
+      530,
+      [388, 389, 390, 391],
+      387
+    ],
+    [
+      531,
+      [392, 393, 394],
+      391
+    ],
+    [
+      533,
+      [395],
+      394
+    ],
+    [
+      535,
+      [396],
+      395
+    ],
+    [
+      536,
+      [397, 398, 399],
+      396
+    ],
+    [
+      537,
+      [400],
+      399
+    ],
+    [
+      538,
+      [401, 402],
+      400
+    ],
+    [
+      539,
+      [403, 404],
+      402
+    ],
+    [
+      540,
+      [405],
+      404
+    ],
+    [
+      541,
+      [406],
+      null
+    ],
+    [
+      543,
+      [407],
+      null
+    ],
+    [
+      552,
+      [408, 409, 410],
+      407
+    ],
+    [
+      555,
+      [411],
+      410
+    ],
+    [
+      560,
+      [412],
+      411
+    ],
+    [
+      562,
+      [413],
+      412
+    ],
+    [
+      567,
+      [414],
+      413
+    ],
+    [
+      568,
+      [415],
+      414
+    ],
+    [
+      570,
+      [416],
+      415
+    ],
+    [
+      571,
+      [417, 418],
+      null
+    ],
+    [
+      572,
+      [419],
+      418
+    ],
+    [
+      575,
+      [420],
+      419
+    ],
+    [
+      577,
+      [421],
+      420
+    ],
+    [
+      578,
+      [422],
+      421
+    ],
+    [
+      580,
+      [423],
+      422
+    ],
+    [
+      581,
+      [424],
+      423
+    ],
+    [
+      582,
+      [425],
+      424
+    ],
+    [
+      584,
+      [426],
+      425
+    ],
+    [
+      586,
+      [427],
+      426
+    ],
+    [
+      590,
+      [428, 429],
+      427
+    ],
+    [
+      593,
+      [430, 431],
+      429
+    ],
+    [
+      598,
+      [432],
+      431
+    ],
+    [
+      601,
+      [433],
+      432
+    ],
+    [
+      605,
+      [434],
+      433
+    ],
+    [
+      607,
+      [435],
+      434
+    ],
+    [
+      610,
+      [436],
+      435
+    ],
+    [
+      612,
+      [437],
+      436
+    ],
+    [
+      617,
+      [438],
+      437
+    ]
+  ],
+  "last_ms": 619
+}

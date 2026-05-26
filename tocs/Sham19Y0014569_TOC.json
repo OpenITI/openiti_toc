@@ -1,0 +1,100 @@
+{
+  "filename": "0345IbnCabdWahidGhulamThaclab.MaqsurWaMamdud.Sham19Y0014569-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO الحروف المقصورة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO مما يكتب بالياء",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "AUTO ومما يكتب بالألف",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "4": {
+      "title": "AUTO أسماء ممدودة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "5": {
+      "title": "AUTO فمن الممدود على ألفاظها",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "6": {
+      "title": "AUTO ومن المقصور على ألفاظها",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "7": {
+      "title": "AUTO حروف المد المستعمل المخفوض الأول",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "8": {
+      "title": "AUTO ومن الممدود المفتوح الأول",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "9": {
+      "title": "AUTO الممدود المضموم الأول",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "10": {
+      "title": "AUTO ما يمد ms2 ويقصر، فإذا قصر كتب بالياء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "11": {
+      "title": "AUTO ما يقصر، فإذا غير بعض حركات بنائه مد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3, 4, 5, 6],
+      null
+    ],
+    [
+      2,
+      [7, 8, 9],
+      6
+    ],
+    [
+      3,
+      [10, 11],
+      null
+    ]
+  ],
+  "last_ms": 3
+}

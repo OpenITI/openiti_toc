@@ -1,0 +1,44 @@
+{
+  "filename": "0750IsmacilJaytali.ManasikHajj.ShamIbadiyya0000482-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK الركن الأول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 71
+    },
+    "2": {
+      "title": "AUTO الركن الثالث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 71,
+      "end_ms": 164
+    },
+    "3": {
+      "title": "AUTO الركن الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 164,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      71,
+      [2],
+      1
+    ],
+    [
+      164,
+      [3],
+      2
+    ]
+  ],
+  "last_ms": 386
+}

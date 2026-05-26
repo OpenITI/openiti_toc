@@ -1,0 +1,56 @@
+{
+  "filename": "0311IbnKhuzaymaNaysaburi.Sahih.ShamAY0033968-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [المجلد الأول]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 258
+    },
+    "2": {
+      "title": "AUTO المجلد الثاني.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 258,
+      "end_ms": 493
+    },
+    "3": {
+      "title": "AUTO المجلد الثالث.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 493,
+      "end_ms": 731
+    },
+    "4": {
+      "title": "AUTO المجلد الرابع.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 731,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      258,
+      [2],
+      1
+    ],
+    [
+      493,
+      [3],
+      2
+    ],
+    [
+      731,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 1006
+}

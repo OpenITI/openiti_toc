@@ -1,0 +1,51 @@
+{
+  "filename": "1304CabdHayyLaknawi.TuhfatNubala.ShamAY0036016-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [مقدمة المؤلف]",
+      "level": 2,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "AUTO في ذكر الأخبار والآثار الواردة في مشروعية جماعة النساء وحدهن",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "AUTO في ذكر اختلاف المذاهب في هذه المسألة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 19
+    },
+    "4": {
+      "title": "AUTO في الفوائد المتعلقة بمسلك أصحابنا الحنفية",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 19,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      4,
+      [3],
+      2
+    ],
+    [
+      19,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 22
+}

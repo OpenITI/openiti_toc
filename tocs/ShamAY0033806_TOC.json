@@ -1,0 +1,161 @@
+{
+  "filename": "0776LisanDinIbnKhatib.KhatratTayf.ShamAY0033806-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO استهلال",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "2": {
+      "title": "AUTO المقدمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "AUTO مقدمة الطبعة الأولى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 15
+    },
+    "4": {
+      "title": "AUTO مسار الرحلة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 15
+    },
+    "5": {
+      "title": "AUTO الرسالة الأولى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 28
+    },
+    "6": {
+      "title": "AUTO الرسالة الثانية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 28,
+      "end_ms": 32
+    },
+    "7": {
+      "title": "AUTO الرسالة الثالثة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 32,
+      "end_ms": 59
+    },
+    "8": {
+      "title": "AUTO الرسالة الرابعة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 59,
+      "end_ms": 80
+    },
+    "9": {
+      "title": "AUTO مراجع التحقيق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 80,
+      "end_ms": 85
+    },
+    "10": {
+      "title": "AUTO كشاف حضاري وفهارس أخرى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 85,
+      "end_ms": 89
+    },
+    "11": {
+      "title": "AUTO فهرس الأعلام والقبائل والجماعات",
+      "level": 2,
+      "parent": 10,
+      "start_ms": 85,
+      "end_ms": 88
+    },
+    "12": {
+      "title": "AUTO فهرس البلدان والجبال والأنهار",
+      "level": 2,
+      "parent": 10,
+      "start_ms": 88,
+      "end_ms": 89
+    },
+    "13": {
+      "title": "AUTO فهرس المصطلحات والألفاظ التي لها دلالات خاصة",
+      "level": 2,
+      "parent": 10,
+      "start_ms": 89,
+      "end_ms": 89
+    },
+    "14": {
+      "title": "AUTO المحتويات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 89,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      3,
+      [2],
+      1
+    ],
+    [
+      4,
+      [3],
+      2
+    ],
+    [
+      15,
+      [4, 5],
+      3
+    ],
+    [
+      28,
+      [6],
+      5
+    ],
+    [
+      32,
+      [7],
+      6
+    ],
+    [
+      59,
+      [8],
+      7
+    ],
+    [
+      80,
+      [9],
+      8
+    ],
+    [
+      85,
+      [10, 11],
+      9
+    ],
+    [
+      88,
+      [12],
+      11
+    ],
+    [
+      89,
+      [13, 14],
+      12
+    ]
+  ],
+  "last_ms": 89
+}

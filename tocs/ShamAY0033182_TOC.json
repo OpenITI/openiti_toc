@@ -1,0 +1,464 @@
+{
+  "filename": "1304CabdHayyLaknawi.CumdatRicaya.ShamAY0033182-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [مقدمة العمدة]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 100
+    },
+    "2": {
+      "title": "CHECK [ديباجة شرح الوقاية]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 100,
+      "end_ms": 101
+    },
+    "3": {
+      "title": "CHECK [كتاب الطهارة]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 101,
+      "end_ms": 135
+    },
+    "4": {
+      "title": "AUTO باب التيمم[(1)]",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 116,
+      "end_ms": 135
+    },
+    "5": {
+      "title": "AUTO كتاب الصلاة[(1)]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 135,
+      "end_ms": 175
+    },
+    "6": {
+      "title": "AUTO [ باب الحدث في الصلاة ][(1)][(2)](3)",
+      "level": 2,
+      "parent": 5,
+      "start_ms": 147,
+      "end_ms": 162
+    },
+    "7": {
+      "title": "CHECK [باب صلاة المريض]",
+      "level": 2,
+      "parent": 5,
+      "start_ms": 162,
+      "end_ms": 175
+    },
+    "8": {
+      "title": "AUTO كتاب الزكاة[(1)]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 175,
+      "end_ms": 188
+    },
+    "9": {
+      "title": "AUTO كتاب الصوم[(1)]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 188,
+      "end_ms": 195
+    },
+    "10": {
+      "title": "AUTO كتاب الحج[(1)]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 195,
+      "end_ms": 212
+    },
+    "11": {
+      "title": "AUTO كتاب النكاح[(1)] PageV04P005",
+      "level": 1,
+      "parent": null,
+      "start_ms": 212,
+      "end_ms": 233
+    },
+    "12": {
+      "title": "AUTO كتاب الرضاع[(1)] PageV04P217",
+      "level": 1,
+      "parent": null,
+      "start_ms": 233,
+      "end_ms": 234
+    },
+    "13": {
+      "title": "AUTO كتاب الطلاق[(6)](7) PageV04P235",
+      "level": 1,
+      "parent": null,
+      "start_ms": 234,
+      "end_ms": 275
+    },
+    "14": {
+      "title": "AUTO باب الحلف بالطلاق[(1)]",
+      "level": 2,
+      "parent": 13,
+      "start_ms": 245,
+      "end_ms": 261
+    },
+    "15": {
+      "title": "AUTO باب العدة[(1)] PageV05P005",
+      "level": 2,
+      "parent": 13,
+      "start_ms": 261,
+      "end_ms": 275
+    },
+    "16": {
+      "title": "AUTO كتاب العتاق(1)[(2)] PageV05P119",
+      "level": 1,
+      "parent": null,
+      "start_ms": 275,
+      "end_ms": 289
+    },
+    "17": {
+      "title": "AUTO كتاب الأيمان[(1)] PageV05P243",
+      "level": 1,
+      "parent": null,
+      "start_ms": 289,
+      "end_ms": 307
+    },
+    "18": {
+      "title": "AUTO كتاب الحدود[(1)]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 307,
+      "end_ms": 318
+    },
+    "19": {
+      "title": "AUTO كتاب السرقة(1)[(2)]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 318,
+      "end_ms": 342
+    },
+    "20": {
+      "title": "AUTO كتاب اللقيط(1)[(2)]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 342,
+      "end_ms": 351
+    },
+    "21": {
+      "title": "AUTO كتاب البيع[(1) PageV06P335",
+      "level": 1,
+      "parent": null,
+      "start_ms": 351,
+      "end_ms": 392
+    },
+    "22": {
+      "title": "AUTO باب الإقالة[(1) PageV07P005",
+      "level": 2,
+      "parent": 21,
+      "start_ms": 375,
+      "end_ms": 392
+    },
+    "23": {
+      "title": "CHECK [كتاب الصرف والكفالة والحوالة]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 392,
+      "end_ms": 409
+    },
+    "24": {
+      "title": "AUTO كتاب القضاء[(1) PageV07P195",
+      "level": 1,
+      "parent": null,
+      "start_ms": 409,
+      "end_ms": 423
+    },
+    "25": {
+      "title": "AUTO كتاب الشهادة والرجوع عنها[(1) PageV07P306",
+      "level": 1,
+      "parent": null,
+      "start_ms": 423,
+      "end_ms": 437
+    },
+    "26": {
+      "title": "CHECK [كتاب التوكيل]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 437,
+      "end_ms": 450
+    },
+    "27": {
+      "title": "AUTO كتاب الدعوى[(1) PageV08P092",
+      "level": 1,
+      "parent": null,
+      "start_ms": 450,
+      "end_ms": 466
+    },
+    "28": {
+      "title": "CHECK [كتاب الإقرار والصلح]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 466,
+      "end_ms": 481
+    },
+    "29": {
+      "title": "CHECK [كتاب المضاربة والوديعة والعارية]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 481,
+      "end_ms": 492
+    },
+    "30": {
+      "title": "CHECK [كتاب الهبة والإجارة]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 492,
+      "end_ms": 509
+    },
+    "31": {
+      "title": "CHECK [كتاب المكاتب والولاء]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 509,
+      "end_ms": 522
+    },
+    "32": {
+      "title": "CHECK [كتاب الإكراه والحجر والمأذون والغصب]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 522,
+      "end_ms": 539
+    },
+    "33": {
+      "title": "CHECK [كتاب الشفعة والقسمة والمزارعة]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 539,
+      "end_ms": 553
+    },
+    "34": {
+      "title": "CHECK [كتاب المساقاة والذبائح والأضحية والكراهية]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 553,
+      "end_ms": 568
+    },
+    "35": {
+      "title": "CHECK [كتاب إحياء الموات والأشربة والصيد]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 568,
+      "end_ms": 589
+    },
+    "36": {
+      "title": "AUTO كتاب الجنايات[(1) PageV10P221",
+      "level": 1,
+      "parent": null,
+      "start_ms": 589,
+      "end_ms": 602
+    },
+    "37": {
+      "title": "AUTO كتاب الديات[(1)]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 602,
+      "end_ms": 621
+    },
+    "38": {
+      "title": "CHECK [كتاب المعاقل والوصايا والخنثى]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 621,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      100,
+      [2],
+      1
+    ],
+    [
+      101,
+      [3],
+      2
+    ],
+    [
+      116,
+      [4],
+      3
+    ],
+    [
+      135,
+      [5],
+      4
+    ],
+    [
+      147,
+      [6],
+      5
+    ],
+    [
+      162,
+      [7],
+      6
+    ],
+    [
+      175,
+      [8],
+      7
+    ],
+    [
+      188,
+      [9],
+      8
+    ],
+    [
+      195,
+      [10],
+      9
+    ],
+    [
+      212,
+      [11],
+      10
+    ],
+    [
+      233,
+      [12],
+      11
+    ],
+    [
+      234,
+      [13],
+      12
+    ],
+    [
+      245,
+      [14],
+      13
+    ],
+    [
+      261,
+      [15],
+      14
+    ],
+    [
+      275,
+      [16],
+      15
+    ],
+    [
+      289,
+      [17],
+      16
+    ],
+    [
+      307,
+      [18],
+      17
+    ],
+    [
+      318,
+      [19],
+      18
+    ],
+    [
+      342,
+      [20],
+      19
+    ],
+    [
+      351,
+      [21],
+      20
+    ],
+    [
+      375,
+      [22],
+      21
+    ],
+    [
+      392,
+      [23],
+      22
+    ],
+    [
+      409,
+      [24],
+      23
+    ],
+    [
+      423,
+      [25],
+      24
+    ],
+    [
+      437,
+      [26],
+      25
+    ],
+    [
+      450,
+      [27],
+      26
+    ],
+    [
+      466,
+      [28],
+      27
+    ],
+    [
+      481,
+      [29],
+      28
+    ],
+    [
+      492,
+      [30],
+      29
+    ],
+    [
+      509,
+      [31],
+      30
+    ],
+    [
+      522,
+      [32],
+      31
+    ],
+    [
+      539,
+      [33],
+      32
+    ],
+    [
+      553,
+      [34],
+      33
+    ],
+    [
+      568,
+      [35],
+      34
+    ],
+    [
+      589,
+      [36],
+      35
+    ],
+    [
+      602,
+      [37],
+      36
+    ],
+    [
+      621,
+      [38],
+      37
+    ]
+  ],
+  "last_ms": 640
+}

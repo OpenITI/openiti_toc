@@ -1,0 +1,63 @@
+{
+  "filename": "1272HasanBaytar.IrshadCibad.Sham19Y0017796-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [مقدمة المصنف]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO مقدمة في حكم الجهاد في سبيل الله تعالى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "AUTO الباب الأول في التحريض على الجهاد والحث عليه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 8
+    },
+    "4": {
+      "title": "AUTO الباب الثاني في الأسباب التي تقتضي امتداد أطماع الكفرة اللئام في نيل شيء من بلاد الإسلام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 12
+    },
+    "5": {
+      "title": "AUTO خاتمة في حكم الغنيمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3],
+      2
+    ],
+    [
+      8,
+      [4],
+      3
+    ],
+    [
+      12,
+      [5],
+      4
+    ]
+  ],
+  "last_ms": 15
+}

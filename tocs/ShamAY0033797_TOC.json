@@ -1,0 +1,230 @@
+{
+  "filename": "0595IbnRushdHafid.TalkhisShicrLiAristutalis.ShamAY0033797-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO محتويات الكتاب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 5
+    },
+    "2": {
+      "title": "AUTO الفهارس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "3": {
+      "title": "AUTO تصدير",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 7
+    },
+    "4": {
+      "title": "AUTO مقدمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 24
+    },
+    "5": {
+      "title": "AUTO منهج التحقيق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 24,
+      "end_ms": 27
+    },
+    "6": {
+      "title": "AUTO رموز الكتاب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 27,
+      "end_ms": 27
+    },
+    "7": {
+      "title": "AUTO (الفصل الأول)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 27,
+      "end_ms": 29
+    },
+    "8": {
+      "title": "AUTO الفصل \"1\" (الثاني)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 29,
+      "end_ms": 30
+    },
+    "9": {
+      "title": "AUTO الفصل \"1\" (الثالث)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 30,
+      "end_ms": 33
+    },
+    "10": {
+      "title": "AUTO الفصل \"1\" (الرابع)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 33,
+      "end_ms": 36
+    },
+    "11": {
+      "title": "AUTO الفصل \"1\" (الخامس)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 36,
+      "end_ms": 41
+    },
+    "12": {
+      "title": "AUTO الفصل \"1\" (السادس)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 41,
+      "end_ms": 52
+    },
+    "13": {
+      "title": "AUTO الفصل \"1\" (السابع)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 52,
+      "end_ms": 63
+    },
+    "14": {
+      "title": "AUTO فهارس الكتاب \"1\"",
+      "level": 1,
+      "parent": null,
+      "start_ms": 63,
+      "end_ms": null
+    },
+    "15": {
+      "title": "AUTO الأعلام",
+      "level": 2,
+      "parent": 14,
+      "start_ms": 63,
+      "end_ms": 64
+    },
+    "16": {
+      "title": "AUTO فهرس مقابلة فقرات تلخيص كتاب الشعر لابن رشد بنصوص كتاب الشعر لأرسطو",
+      "level": 2,
+      "parent": 14,
+      "start_ms": 64,
+      "end_ms": 66
+    },
+    "17": {
+      "title": "AUTO قائمة مقابلة فقرات تلخيص كتاب الشعر لابن رشد بفصول كتاب",
+      "level": 2,
+      "parent": 14,
+      "start_ms": 66,
+      "end_ms": 66
+    },
+    "18": {
+      "title": "AUTO قائمة مقابلة فصول تلخيص كتاب الشعر لابن رشد بفصول كتاب الشعر",
+      "level": 2,
+      "parent": 14,
+      "start_ms": 66,
+      "end_ms": 66
+    },
+    "19": {
+      "title": "AUTO فهرس الآيات القرآنية",
+      "level": 2,
+      "parent": 14,
+      "start_ms": 66,
+      "end_ms": 66
+    },
+    "20": {
+      "title": "AUTO فهرس الأشعار",
+      "level": 2,
+      "parent": 14,
+      "start_ms": 66,
+      "end_ms": 68
+    },
+    "21": {
+      "title": "AUTO قائمة مصادر توثيق النص",
+      "level": 2,
+      "parent": 14,
+      "start_ms": 68,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      5,
+      [2, 3],
+      1
+    ],
+    [
+      7,
+      [4],
+      3
+    ],
+    [
+      24,
+      [5],
+      4
+    ],
+    [
+      27,
+      [6, 7],
+      5
+    ],
+    [
+      29,
+      [8],
+      7
+    ],
+    [
+      30,
+      [9],
+      8
+    ],
+    [
+      33,
+      [10],
+      9
+    ],
+    [
+      36,
+      [11],
+      10
+    ],
+    [
+      41,
+      [12],
+      11
+    ],
+    [
+      52,
+      [13],
+      12
+    ],
+    [
+      63,
+      [14, 15],
+      13
+    ],
+    [
+      64,
+      [16],
+      15
+    ],
+    [
+      66,
+      [17, 18, 19, 20],
+      16
+    ],
+    [
+      68,
+      [21],
+      20
+    ]
+  ],
+  "last_ms": 77
+}

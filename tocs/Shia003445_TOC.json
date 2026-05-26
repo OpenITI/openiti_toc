@@ -1,0 +1,56 @@
+{
+  "filename": "0459IbnSufi.Majdi.Shia003445-ara1.completed",
+  "sections": {
+    "1": {
+      "title": ".",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "اخبار بنى على لصلبه (ع)",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 8,
+      "end_ms": 12
+    },
+    "3": {
+      "title": "أخبار البنات",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 12,
+      "end_ms": 87
+    },
+    "4": {
+      "title": "الاخبار في معنى الخلف الصالح عليه السلام",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 87,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      8,
+      [2],
+      1
+    ],
+    [
+      12,
+      [3],
+      2
+    ],
+    [
+      87,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 209
+}

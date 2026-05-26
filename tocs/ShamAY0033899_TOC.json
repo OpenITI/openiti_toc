@@ -1,0 +1,196 @@
+{
+  "filename": "0476AbuIshaqShirazi.Ishara.ShamAY0033899-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO [مقدمة المؤلف]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO النظر أول الواجبات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "AUTO إيمان المقلد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "4": {
+      "title": "AUTO حدوث العالم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "5": {
+      "title": "AUTO صفة الوحدانية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "6": {
+      "title": "AUTO صفة القدم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "7": {
+      "title": "AUTO مخالفته- تعالى- للحوادث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "8": {
+      "title": "AUTO الله تعالى ليس بجسم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "9": {
+      "title": "AUTO صفاته تعالى أزلية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "10": {
+      "title": "AUTO صفة العلم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "11": {
+      "title": "AUTO صفة القدرة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "12": {
+      "title": "AUTO صفة الإرادة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 9
+    },
+    "13": {
+      "title": "AUTO صفة السمع والبصر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 10
+    },
+    "14": {
+      "title": "AUTO صفة الكلام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 19
+    },
+    "15": {
+      "title": "AUTO صفة الحياة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 19,
+      "end_ms": 20
+    },
+    "16": {
+      "title": "AUTO علاقة الصفات بالذات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 20,
+      "end_ms": 20
+    },
+    "17": {
+      "title": "AUTO صفة الاستواء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 20,
+      "end_ms": 25
+    },
+    "18": {
+      "title": "AUTO نبوة محمد صلى الله عليه وسلم إلى قيام الساعة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 25,
+      "end_ms": 27
+    },
+    "19": {
+      "title": "AUTO ترتيب الصحابة في الفضل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 27,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3],
+      2
+    ],
+    [
+      3,
+      [4, 5, 6],
+      3
+    ],
+    [
+      4,
+      [7, 8, 9, 10],
+      6
+    ],
+    [
+      5,
+      [11, 12],
+      10
+    ],
+    [
+      9,
+      [13],
+      12
+    ],
+    [
+      10,
+      [14],
+      13
+    ],
+    [
+      19,
+      [15],
+      14
+    ],
+    [
+      20,
+      [16, 17],
+      15
+    ],
+    [
+      25,
+      [18],
+      17
+    ],
+    [
+      27,
+      [19],
+      18
+    ]
+  ],
+  "last_ms": 39
+}

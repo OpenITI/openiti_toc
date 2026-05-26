@@ -1,0 +1,63 @@
+{
+  "filename": "0728IbnTaymiyya.MasalaFiKanais.ShamAY0038206-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO ### | CHECK [مسألة في الكنائس لابن تيمية وفتاوى النووي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 10
+    },
+    "2": {
+      "title": "AUTO * وقال شيخ الإسلام رحمه الله: \"الحمد لله، ما فتحه المسلمون",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 15
+    },
+    "3": {
+      "title": "AUTO من فتاوى شيخ الإسلام النووي (ت 676 ه) رحمه الله ورضي عنه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 15
+    },
+    "4": {
+      "title": "AUTO من فتاوى قاضي مصر شيخ الإسلام سراج الدين البلقيني الشافعي (ت",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 16
+    },
+    "5": {
+      "title": "AUTO قصة الإمام أبي بكر محمد بن الوليد الطرطوشي المالكي (ت 530 ه)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      10,
+      [2],
+      1
+    ],
+    [
+      15,
+      [3, 4],
+      2
+    ],
+    [
+      16,
+      [5],
+      4
+    ]
+  ],
+  "last_ms": 16
+}

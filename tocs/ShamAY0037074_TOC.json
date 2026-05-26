@@ -1,0 +1,44 @@
+{
+  "filename": "0669IbnCusfurHadramiIshbili.SharhJumalZajjaji.ShamAY0037074-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [شرح جمل الزجاجى 3]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 195
+    },
+    "2": {
+      "title": "CHECK [شرح جمل الزجاجى 2]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 195,
+      "end_ms": 432
+    },
+    "3": {
+      "title": "CHECK [شرح جمل الزجاجى 1]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 432,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      195,
+      [2],
+      1
+    ],
+    [
+      432,
+      [3],
+      2
+    ]
+  ],
+  "last_ms": 720
+}

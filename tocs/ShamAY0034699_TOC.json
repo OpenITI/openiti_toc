@@ -1,0 +1,32 @@
+{
+  "filename": "0769IbnCaqilBahaDinMisri.SharhCalaAlfiyya.ShamAY0034699-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [الجزء 1]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 157
+    },
+    "2": {
+      "title": "CHECK [الجزء 2]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 157,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      157,
+      [2],
+      1
+    ]
+  ],
+  "last_ms": 774
+}

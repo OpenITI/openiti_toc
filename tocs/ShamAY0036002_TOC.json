@@ -1,0 +1,111 @@
+{
+  "filename": "1304CabdHayyLaknawi.AkamNafaish.ShamAY0036002-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [مقدمة المؤلف]",
+      "level": 2,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "AUTO في الأذان والإقامة والإجابة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "AUTO كثيرا ما سئلت عن التلفظ بالنية:",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 14
+    },
+    "4": {
+      "title": "AUTO اختلفوا في قراءة القرآن بالفارسية في الصلاة على ثلاثة أقوال:",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 14,
+      "end_ms": 33
+    },
+    "5": {
+      "title": "AUTO الدعاء بعد الصلاة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 33,
+      "end_ms": 36
+    },
+    "6": {
+      "title": "AUTO القنوت بغير العربية على الخلاف، ذكره قاضي خان(1)، وغيره.",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 36,
+      "end_ms": 49
+    },
+    "7": {
+      "title": "AUTO في مس القرآن المكتوب بالفارسية لغير المتطهر",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 49,
+      "end_ms": 56
+    },
+    "8": {
+      "title": "AUTO في الحج",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 56,
+      "end_ms": 56
+    },
+    "9": {
+      "title": "AUTO في مسائل متفرقة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 56,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2],
+      1
+    ],
+    [
+      4,
+      [3],
+      2
+    ],
+    [
+      14,
+      [4],
+      3
+    ],
+    [
+      33,
+      [5],
+      4
+    ],
+    [
+      36,
+      [6],
+      5
+    ],
+    [
+      49,
+      [7],
+      6
+    ],
+    [
+      56,
+      [8, 9],
+      7
+    ]
+  ],
+  "last_ms": 58
+}

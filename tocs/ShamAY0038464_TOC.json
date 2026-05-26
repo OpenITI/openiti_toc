@@ -1,0 +1,68 @@
+{
+  "filename": "0778BadrDinBacli.ShifaCalil.ShamAY0038464-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO (144/ب) مسألة (1)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 33
+    },
+    "2": {
+      "title": "AUTO فصل (1)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 33,
+      "end_ms": 42
+    },
+    "3": {
+      "title": "AUTO فصل (3)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 42,
+      "end_ms": 60
+    },
+    "4": {
+      "title": "AUTO فصل (1)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 60,
+      "end_ms": 73
+    },
+    "5": {
+      "title": "AUTO فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 73,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      3,
+      [1],
+      null
+    ],
+    [
+      33,
+      [2],
+      1
+    ],
+    [
+      42,
+      [3],
+      2
+    ],
+    [
+      60,
+      [4],
+      3
+    ],
+    [
+      73,
+      [5],
+      4
+    ]
+  ],
+  "last_ms": 79
+}

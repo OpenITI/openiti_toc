@@ -1,0 +1,63 @@
+{
+  "filename": "0728IbnTaymiyya.RafcMalam.ShamAY0034369-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO وجوب موالاة المسلمين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO الأسباب التي دعت العلماء إلى مخالفة بعض النصوص",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 13
+    },
+    "3": {
+      "title": "AUTO للمجتهد المصيب أجران وللمخطىء أجر واحد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 16
+    },
+    "4": {
+      "title": "AUTO من الأحاديث ما دلالته قطعية ومنها ما دلالته ظنية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": 23
+    },
+    "5": {
+      "title": "AUTO حكم الله واحد في كل مسألة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 23,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      13,
+      [3],
+      2
+    ],
+    [
+      16,
+      [4],
+      3
+    ],
+    [
+      23,
+      [5],
+      4
+    ]
+  ],
+  "last_ms": 37
+}

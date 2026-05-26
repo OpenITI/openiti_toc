@@ -1,0 +1,141 @@
+{
+  "filename": "0606FakhrDinRazi.MinAsrarTanzil.ShamAY0034048-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [فى أسرار كلمة لاإله ألا الله]",
+      "level": 2,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO الفصل الأول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 18
+    },
+    "3": {
+      "title": "AUTO الفصل الثانى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": 25
+    },
+    "4": {
+      "title": "AUTO فى فوائد كلمة لا أله ألاالله",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 18,
+      "end_ms": 25
+    },
+    "5": {
+      "title": "AUTO الفصل الثالث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 25,
+      "end_ms": 44
+    },
+    "6": {
+      "title": "AUTO فى اسماء كلمة التوحيد",
+      "level": 2,
+      "parent": 5,
+      "start_ms": 25,
+      "end_ms": 44
+    },
+    "7": {
+      "title": "AUTO الفصل الرابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 44,
+      "end_ms": 53
+    },
+    "8": {
+      "title": "AUTO فى الأشياء التى شبه الله تعالى بها كلمة التوحيد",
+      "level": 2,
+      "parent": 7,
+      "start_ms": 44,
+      "end_ms": 53
+    },
+    "9": {
+      "title": "AUTO الفصل الخامس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 53,
+      "end_ms": 62
+    },
+    "10": {
+      "title": "AUTO فى شرح المباحث المتعلقة بكلمة لا إله إلا الله",
+      "level": 2,
+      "parent": 9,
+      "start_ms": 53,
+      "end_ms": 62
+    },
+    "11": {
+      "title": "AUTO الفصل السادس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 62,
+      "end_ms": 71
+    },
+    "12": {
+      "title": "AUTO فى فضل المؤمن",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 62,
+      "end_ms": 71
+    },
+    "13": {
+      "title": "AUTO الفصل السابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 71,
+      "end_ms": null
+    },
+    "14": {
+      "title": "AUTO فى الأحكام الفقهية المتفرعة على قولنا لا إله إلا الله",
+      "level": 2,
+      "parent": 13,
+      "start_ms": 71,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      18,
+      [3, 4],
+      2
+    ],
+    [
+      25,
+      [5, 6],
+      4
+    ],
+    [
+      44,
+      [7, 8],
+      6
+    ],
+    [
+      53,
+      [9, 10],
+      8
+    ],
+    [
+      62,
+      [11, 12],
+      10
+    ],
+    [
+      71,
+      [13, 14],
+      12
+    ]
+  ],
+  "last_ms": 81
+}

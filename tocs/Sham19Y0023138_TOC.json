@@ -1,0 +1,240 @@
+{
+  "filename": "1450HusaynCatwan.ShicrFiKhurasan.Sham19Y0023138-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO مقدمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "2": {
+      "title": "AUTO الفصل الأول: الجغرافية التاريخية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 56
+    },
+    "3": {
+      "title": "AUTO وصف خراسان",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 2,
+      "end_ms": 9
+    },
+    "4": {
+      "title": "AUTO ولاة خراسان",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 9,
+      "end_ms": 24
+    },
+    "5": {
+      "title": "AUTO القبائل العربية بخراسان",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 24,
+      "end_ms": 56
+    },
+    "6": {
+      "title": "AUTO الفصل الثاني: موضوعات الشعر وخصائصه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 56,
+      "end_ms": 149
+    },
+    "7": {
+      "title": "AUTO تصوير الأحوال السياسية",
+      "level": 2,
+      "parent": 6,
+      "start_ms": 56,
+      "end_ms": 90
+    },
+    "8": {
+      "title": "AUTO تسجيل الغزوات الحربية",
+      "level": 2,
+      "parent": 6,
+      "start_ms": 90,
+      "end_ms": 114
+    },
+    "9": {
+      "title": "AUTO موضوعات أخرى تقليدية",
+      "level": 2,
+      "parent": 6,
+      "start_ms": 114,
+      "end_ms": 145
+    },
+    "10": {
+      "title": "AUTO خصائص موضوعية وفنية ولفظية",
+      "level": 2,
+      "parent": 6,
+      "start_ms": 145,
+      "end_ms": 149
+    },
+    "11": {
+      "title": "AUTO الفصل الثالث: شعراء القبائل بخراسان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 149,
+      "end_ms": 205
+    },
+    "12": {
+      "title": "AUTO شاعر أزدي متعصب موتور",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 149,
+      "end_ms": 149
+    },
+    "13": {
+      "title": "AUTO شاعر أزدي متعصب موتور",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 149,
+      "end_ms": 164
+    },
+    "14": {
+      "title": "AUTO شاعر أزدي مفتون متهور",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 164,
+      "end_ms": 175
+    },
+    "15": {
+      "title": "AUTO شاعر بكري مضطرب متحزب",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 175,
+      "end_ms": 181
+    },
+    "16": {
+      "title": "AUTO شاعر تميمي سوي متبصر",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 181,
+      "end_ms": 191
+    },
+    "17": {
+      "title": "AUTO شاعر تميمي منافق متقلب",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 191,
+      "end_ms": 196
+    },
+    "18": {
+      "title": "AUTO شاعر مولى جوال متكسب",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 196,
+      "end_ms": 205
+    },
+    "19": {
+      "title": "AUTO خاتمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 205,
+      "end_ms": 208
+    },
+    "20": {
+      "title": "AUTO المصادر والمراجع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 208,
+      "end_ms": 213
+    },
+    "21": {
+      "title": "AUTO محتويات الكتاب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 213,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2, 3],
+      1
+    ],
+    [
+      9,
+      [4],
+      3
+    ],
+    [
+      24,
+      [5],
+      4
+    ],
+    [
+      56,
+      [6, 7],
+      5
+    ],
+    [
+      90,
+      [8],
+      7
+    ],
+    [
+      114,
+      [9],
+      8
+    ],
+    [
+      145,
+      [10],
+      9
+    ],
+    [
+      149,
+      [11, 12, 13],
+      10
+    ],
+    [
+      164,
+      [14],
+      13
+    ],
+    [
+      175,
+      [15],
+      14
+    ],
+    [
+      181,
+      [16],
+      15
+    ],
+    [
+      191,
+      [17],
+      16
+    ],
+    [
+      196,
+      [18],
+      17
+    ],
+    [
+      205,
+      [19],
+      18
+    ],
+    [
+      208,
+      [20],
+      19
+    ],
+    [
+      213,
+      [21],
+      20
+    ]
+  ],
+  "last_ms": 249
+}

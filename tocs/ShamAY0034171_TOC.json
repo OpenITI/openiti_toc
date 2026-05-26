@@ -1,0 +1,128 @@
+{
+  "filename": "0385Daraqutni.CilalWarida.ShamAY0034171-ara3",
+  "sections": {
+    "1": {
+      "title": "CHECK [علل الدارقطني 385]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 67
+    },
+    "2": {
+      "title": "AUTO - المجلد الأول.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 67,
+      "end_ms": 281
+    },
+    "3": {
+      "title": "AUTO - المجلد الثاني.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 281,
+      "end_ms": 539
+    },
+    "4": {
+      "title": "AUTO - المجلد الثالث.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 539,
+      "end_ms": 750
+    },
+    "5": {
+      "title": "AUTO - المجلد الرابع.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 750,
+      "end_ms": 1016
+    },
+    "6": {
+      "title": "AUTO - المجلد الخامس.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1016,
+      "end_ms": 1253
+    },
+    "7": {
+      "title": "AUTO - المجلد السادس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1253,
+      "end_ms": 1460
+    },
+    "8": {
+      "title": "AUTO - المجلد السابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1460,
+      "end_ms": 1694
+    },
+    "9": {
+      "title": "AUTO - المجلد الثامن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1694,
+      "end_ms": 1902
+    },
+    "10": {
+      "title": "AUTO - المجلد التاسع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1902,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      67,
+      [2],
+      1
+    ],
+    [
+      281,
+      [3],
+      2
+    ],
+    [
+      539,
+      [4],
+      3
+    ],
+    [
+      750,
+      [5],
+      4
+    ],
+    [
+      1016,
+      [6],
+      5
+    ],
+    [
+      1253,
+      [7],
+      6
+    ],
+    [
+      1460,
+      [8],
+      7
+    ],
+    [
+      1694,
+      [9],
+      8
+    ],
+    [
+      1902,
+      [10],
+      9
+    ]
+  ],
+  "last_ms": 2158
+}

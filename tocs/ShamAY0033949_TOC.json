@@ -1,0 +1,123 @@
+{
+  "filename": "0327AbuBakrKharaiti.MakarimAkhlaq.ShamAY0033949-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [مكارم الأخلاق للخرائطي]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO الجزء الأول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 14
+    },
+    "3": {
+      "title": "AUTO الجزء الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 58
+    },
+    "4": {
+      "title": "AUTO الجزء الثالث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 58,
+      "end_ms": 88
+    },
+    "5": {
+      "title": "AUTO الجزء الرابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 88,
+      "end_ms": 126
+    },
+    "6": {
+      "title": "AUTO الجزء الخامس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 126,
+      "end_ms": 159
+    },
+    "7": {
+      "title": "AUTO الجزء السادس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 159,
+      "end_ms": 181
+    },
+    "8": {
+      "title": "AUTO الجزء السابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 181,
+      "end_ms": 193
+    },
+    "9": {
+      "title": "AUTO الجزء الثامن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 193,
+      "end_ms": 214
+    },
+    "10": {
+      "title": "AUTO الجزء التاسع والأخير",
+      "level": 1,
+      "parent": null,
+      "start_ms": 214,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      14,
+      [3],
+      2
+    ],
+    [
+      58,
+      [4],
+      3
+    ],
+    [
+      88,
+      [5],
+      4
+    ],
+    [
+      126,
+      [6],
+      5
+    ],
+    [
+      159,
+      [7],
+      6
+    ],
+    [
+      181,
+      [8],
+      7
+    ],
+    [
+      193,
+      [9],
+      8
+    ],
+    [
+      214,
+      [10],
+      9
+    ]
+  ],
+  "last_ms": 238
+}

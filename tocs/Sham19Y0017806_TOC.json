@@ -1,0 +1,68 @@
+{
+  "filename": "1179AhmadShafici.IclamMultazam.Sham19Y0017806-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK مقدمة [المصنف]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "2": {
+      "title": "AUTO الباب الأول فيمن أظهرها",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 5
+    },
+    "3": {
+      "title": "AUTO الباب الثاني في فضلها",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 7
+    },
+    "4": {
+      "title": "AUTO الباب الثالث في بيان أفضل أنواع الماء مطلقا وبيان الترتيب في ms6 الفضيلة بينها",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 8
+    },
+    "5": {
+      "title": "AUTO خاتمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      3,
+      [2],
+      1
+    ],
+    [
+      5,
+      [3],
+      2
+    ],
+    [
+      7,
+      [4],
+      null
+    ],
+    [
+      8,
+      [5],
+      4
+    ]
+  ],
+  "last_ms": 9
+}

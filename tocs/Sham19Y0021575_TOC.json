@@ -1,0 +1,223 @@
+{
+  "filename": "1420AbuHasanNadwi.MadhaKhasaraCalam.Sham19Y0021575-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO الباب الأول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": 52
+    },
+    "2": {
+      "title": "AUTO الفصل الأول",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 16,
+      "end_ms": 44
+    },
+    "3": {
+      "title": "AUTO الفصل الثاني",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 44,
+      "end_ms": 52
+    },
+    "4": {
+      "title": "AUTO الباب الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 52,
+      "end_ms": 77
+    },
+    "5": {
+      "title": "AUTO الفصل الأول",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 52,
+      "end_ms": 55
+    },
+    "6": {
+      "title": "AUTO الفصل الثاني",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 55,
+      "end_ms": 67
+    },
+    "7": {
+      "title": "AUTO الفصل الثالث",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 67,
+      "end_ms": 74
+    },
+    "8": {
+      "title": "AUTO الفصل الرابع",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 74,
+      "end_ms": 77
+    },
+    "9": {
+      "title": "AUTO الباب الثالث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 77,
+      "end_ms": 109
+    },
+    "10": {
+      "title": "AUTO الفصل الأول",
+      "level": 2,
+      "parent": 9,
+      "start_ms": 77,
+      "end_ms": 89
+    },
+    "11": {
+      "title": "AUTO الفصل الثاني",
+      "level": 2,
+      "parent": 9,
+      "start_ms": 89,
+      "end_ms": 100
+    },
+    "12": {
+      "title": "AUTO الفصل الثالث",
+      "level": 2,
+      "parent": 9,
+      "start_ms": 100,
+      "end_ms": 109
+    },
+    "13": {
+      "title": "AUTO الباب الرابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 109,
+      "end_ms": 184
+    },
+    "14": {
+      "title": "AUTO الفصل الأول",
+      "level": 2,
+      "parent": 13,
+      "start_ms": 109,
+      "end_ms": 139
+    },
+    "15": {
+      "title": "AUTO الفصل الثاني",
+      "level": 2,
+      "parent": 13,
+      "start_ms": 139,
+      "end_ms": 151
+    },
+    "16": {
+      "title": "AUTO الفصل الثالث",
+      "level": 2,
+      "parent": 13,
+      "start_ms": 151,
+      "end_ms": 162
+    },
+    "17": {
+      "title": "AUTO الفصل الرابع",
+      "level": 2,
+      "parent": 13,
+      "start_ms": 162,
+      "end_ms": 184
+    },
+    "18": {
+      "title": "AUTO الباب الخامس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 184,
+      "end_ms": null
+    },
+    "19": {
+      "title": "AUTO الفصل الأول",
+      "level": 2,
+      "parent": 18,
+      "start_ms": 184,
+      "end_ms": 199
+    },
+    "20": {
+      "title": "AUTO الفصل الثاني",
+      "level": 2,
+      "parent": 18,
+      "start_ms": 199,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      16,
+      [1, 2],
+      null
+    ],
+    [
+      44,
+      [3],
+      2
+    ],
+    [
+      52,
+      [4, 5],
+      3
+    ],
+    [
+      55,
+      [6],
+      5
+    ],
+    [
+      67,
+      [7],
+      6
+    ],
+    [
+      74,
+      [8],
+      7
+    ],
+    [
+      77,
+      [9, 10],
+      8
+    ],
+    [
+      89,
+      [11],
+      10
+    ],
+    [
+      100,
+      [12],
+      11
+    ],
+    [
+      109,
+      [13, 14],
+      12
+    ],
+    [
+      139,
+      [15],
+      14
+    ],
+    [
+      151,
+      [16],
+      15
+    ],
+    [
+      162,
+      [17],
+      16
+    ],
+    [
+      184,
+      [18, 19],
+      17
+    ],
+    [
+      199,
+      [20],
+      19
+    ]
+  ],
+  "last_ms": 223
+}

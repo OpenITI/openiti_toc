@@ -1,0 +1,51 @@
+{
+  "filename": "1200IbnAhmadSafiDinBukhari.Carus.Sham19Y0017797-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK أول الرسالة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "CHECK أقسام المسلسلات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "CHECK تبيان طرق الشيخ صفي الدين البخاري في سماع الحديث المسلسل بالأولية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 14
+    },
+    "4": {
+      "title": "AUTO خاتمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3],
+      2
+    ],
+    [
+      14,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 15
+}

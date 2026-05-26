@@ -1,0 +1,143 @@
+{
+  "filename": "0911Suyuti.WusulAmani.ShamAY0033743-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [مقدمة المؤلف]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO التهنئة بالفضائل العلية والمناقب الدينية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "AUTO التهنئة بالتوبة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "4": {
+      "title": "AUTO التهنئة بالعافية من المرض",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "5": {
+      "title": "AUTO التهنئة بتمام الحج",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "6": {
+      "title": "AUTO التهنئة بالقدوم من الحج",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "7": {
+      "title": "AUTO التهنئة بالقدوم من الغزو",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "8": {
+      "title": "AUTO التهنئة بالنكاح",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "9": {
+      "title": "AUTO التهنئة بالمولود",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "10": {
+      "title": "AUTO التهنئة بدخول الحمام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "11": {
+      "title": "AUTO التهنئة بشهر رمضان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "12": {
+      "title": "AUTO التهنئة بالعيد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "13": {
+      "title": "AUTO التهنئة بالثوب الجديد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "14": {
+      "title": "AUTO التهنئة بالصباح والمساء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "15": {
+      "title": "AUTO خاتمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3, 4, 5, 6],
+      2
+    ],
+    [
+      3,
+      [7, 8, 9],
+      6
+    ],
+    [
+      4,
+      [10, 11, 12],
+      9
+    ],
+    [
+      5,
+      [13, 14],
+      12
+    ],
+    [
+      6,
+      [15],
+      14
+    ]
+  ],
+  "last_ms": 6
+}

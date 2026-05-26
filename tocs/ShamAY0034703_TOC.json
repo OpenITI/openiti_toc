@@ -1,0 +1,56 @@
+{
+  "filename": "0686RadiDinAstarabadhi.SharhRadiCalaKafiya.ShamAY0034703-ara2",
+  "sections": {
+    "1": {
+      "title": "CHECK [الجزء 1]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 321
+    },
+    "2": {
+      "title": "CHECK [الجزء 2]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 321,
+      "end_ms": 617
+    },
+    "3": {
+      "title": "CHECK [الجزء 3]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 617,
+      "end_ms": 921
+    },
+    "4": {
+      "title": "CHECK [الجزء 4]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 921,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      321,
+      [2],
+      1
+    ],
+    [
+      617,
+      [3],
+      2
+    ],
+    [
+      921,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 1537
+}

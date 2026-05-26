@@ -1,0 +1,260 @@
+{
+  "filename": "0728IbnTaymiyya.TanbihRajulCaqil.ShamAY0034386-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [المقدمة]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "2": {
+      "title": "AUTO فصل في التلازم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 50
+    },
+    "3": {
+      "title": "AUTO فصل في الدوران",
+      "level": 1,
+      "parent": null,
+      "start_ms": 50,
+      "end_ms": 65
+    },
+    "4": {
+      "title": "AUTO فصل في القياس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 65,
+      "end_ms": 137
+    },
+    "5": {
+      "title": "AUTO قال المصنف القياس قد يكون مخصصا كما يقال في مسألة شرائط ms136",
+      "level": 1,
+      "parent": null,
+      "start_ms": 137,
+      "end_ms": 184
+    },
+    "6": {
+      "title": "AUTO فصل في تعدية العدم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 184,
+      "end_ms": 202
+    },
+    "7": {
+      "title": "AUTO فصل في توجيه النقوض",
+      "level": 1,
+      "parent": null,
+      "start_ms": 202,
+      "end_ms": 227
+    },
+    "8": {
+      "title": "AUTO فصل في النقض المجهول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 227,
+      "end_ms": 235
+    },
+    "9": {
+      "title": "CHECK [فصل في النقض المفرد]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 235,
+      "end_ms": 246
+    },
+    "10": {
+      "title": "CHECK [فصل في القياس على أصل مجهول معلوم الحكم]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 246,
+      "end_ms": 254
+    },
+    "11": {
+      "title": "CHECK [فصل في المعارضة بالقياس المجهول]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 254,
+      "end_ms": 256
+    },
+    "12": {
+      "title": "AUTO فصل في التنافي بين الحكمين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 256,
+      "end_ms": 284
+    },
+    "13": {
+      "title": "AUTO فصل في التمسك بالنص وهو الكتاب والسنة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 284,
+      "end_ms": 294
+    },
+    "14": {
+      "title": "CHECK [فصل: التمسك بالنص من وجوه]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 294,
+      "end_ms": 301
+    },
+    "15": {
+      "title": "CHECK [فصل في دعوى الإرادة]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 301,
+      "end_ms": 306
+    },
+    "16": {
+      "title": "CHECK [فصل في الأمر]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 306,
+      "end_ms": 311
+    },
+    "17": {
+      "title": "CHECK [فصل في النهي]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 311,
+      "end_ms": 318
+    },
+    "18": {
+      "title": "AUTO فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 318,
+      "end_ms": 334
+    },
+    "19": {
+      "title": "AUTO فصل في الأثر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 334,
+      "end_ms": 356
+    },
+    "20": {
+      "title": "AUTO فصل في الإجماع المركب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 356,
+      "end_ms": 362
+    },
+    "21": {
+      "title": "AUTO فصل في الاستصحاب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 362,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      3,
+      [2],
+      1
+    ],
+    [
+      50,
+      [3],
+      2
+    ],
+    [
+      65,
+      [4],
+      3
+    ],
+    [
+      137,
+      [5],
+      null
+    ],
+    [
+      184,
+      [6],
+      5
+    ],
+    [
+      202,
+      [7],
+      6
+    ],
+    [
+      227,
+      [8],
+      7
+    ],
+    [
+      235,
+      [9],
+      8
+    ],
+    [
+      246,
+      [10],
+      9
+    ],
+    [
+      254,
+      [11],
+      10
+    ],
+    [
+      256,
+      [12],
+      11
+    ],
+    [
+      284,
+      [13],
+      12
+    ],
+    [
+      294,
+      [14],
+      13
+    ],
+    [
+      301,
+      [15],
+      14
+    ],
+    [
+      306,
+      [16],
+      15
+    ],
+    [
+      311,
+      [17],
+      16
+    ],
+    [
+      318,
+      [18],
+      17
+    ],
+    [
+      334,
+      [19],
+      18
+    ],
+    [
+      356,
+      [20],
+      19
+    ],
+    [
+      362,
+      [21],
+      20
+    ]
+  ],
+  "last_ms": 377
+}

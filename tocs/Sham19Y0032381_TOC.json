@@ -1,0 +1,178 @@
+{
+  "filename": "0762MughultayIbnQilij.DurrManzur.Sham19Y0032381-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [مقدمة المصنف]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO كتاب الطهارة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 10
+    },
+    "3": {
+      "title": "AUTO كتاب الصلاة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 21
+    },
+    "4": {
+      "title": "AUTO كتاب الزكاة واللقطة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 21,
+      "end_ms": 22
+    },
+    "5": {
+      "title": "AUTO كتاب الحج",
+      "level": 1,
+      "parent": null,
+      "start_ms": 22,
+      "end_ms": 23
+    },
+    "6": {
+      "title": "AUTO كتاب النكاح والطلاق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 23,
+      "end_ms": 28
+    },
+    "7": {
+      "title": "AUTO كتاب الصيام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 28,
+      "end_ms": 31
+    },
+    "8": {
+      "title": "AUTO كتاب الجهاد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 31,
+      "end_ms": 32
+    },
+    "9": {
+      "title": "AUTO كتاب الوصايا والضحايا والفرائض",
+      "level": 1,
+      "parent": null,
+      "start_ms": 32,
+      "end_ms": 35
+    },
+    "10": {
+      "title": "CHECK [كتاب] الجنائز",
+      "level": 1,
+      "parent": null,
+      "start_ms": 35,
+      "end_ms": 38
+    },
+    "11": {
+      "title": "CHECK [كتاب] الأيمان والنذور",
+      "level": 1,
+      "parent": null,
+      "start_ms": 38,
+      "end_ms": 40
+    },
+    "12": {
+      "title": "AUTO كتاب البيوع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 40,
+      "end_ms": 43
+    },
+    "13": {
+      "title": "AUTO كتاب القضاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 43,
+      "end_ms": 44
+    },
+    "14": {
+      "title": "AUTO كتاب الأشربة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 44,
+      "end_ms": 44
+    },
+    "15": {
+      "title": "CHECK كتاب الأطعمة، والحدود والديات، وغير ذلك",
+      "level": 1,
+      "parent": null,
+      "start_ms": 44,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      10,
+      [3],
+      2
+    ],
+    [
+      21,
+      [4],
+      3
+    ],
+    [
+      22,
+      [5],
+      4
+    ],
+    [
+      23,
+      [6],
+      5
+    ],
+    [
+      28,
+      [7],
+      6
+    ],
+    [
+      31,
+      [8],
+      7
+    ],
+    [
+      32,
+      [9],
+      8
+    ],
+    [
+      35,
+      [10],
+      9
+    ],
+    [
+      38,
+      [11],
+      10
+    ],
+    [
+      40,
+      [12],
+      11
+    ],
+    [
+      43,
+      [13],
+      12
+    ],
+    [
+      44,
+      [14, 15],
+      13
+    ]
+  ],
+  "last_ms": 51
+}

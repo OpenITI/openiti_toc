@@ -1,0 +1,111 @@
+{
+  "filename": "0740JunaydShirazi.ShaddIzar.ShamAY0034640-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO يبتغيه* وسميت الكتاب بشد الأزار فى حط الأوزار عن زوار المزار",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO [مقدمة الكتاب]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 21
+    },
+    "3": {
+      "title": "AUTO النوبة الأولى للروضة الكبيرية وما يليها",
+      "level": 1,
+      "parent": null,
+      "start_ms": 21,
+      "end_ms": 45
+    },
+    "4": {
+      "title": "AUTO النوبة الثانية للمقبرة الباهلية وما يدانيها",
+      "level": 1,
+      "parent": null,
+      "start_ms": 45,
+      "end_ms": 57
+    },
+    "5": {
+      "title": "AUTO النوبة الثالثه لمقبرة سلم وما يقتفيها",
+      "level": 1,
+      "parent": null,
+      "start_ms": 57,
+      "end_ms": 70
+    },
+    "6": {
+      "title": "AUTO النوبة الرابعة لمقبرة ام كلثوم وشيرويه وما يحتذيها",
+      "level": 1,
+      "parent": null,
+      "start_ms": 70,
+      "end_ms": 95
+    },
+    "7": {
+      "title": "AUTO النوبة الخامسة للمقبرة الباغنوية ونواحيها",
+      "level": 1,
+      "parent": null,
+      "start_ms": 95,
+      "end_ms": 120
+    },
+    "8": {
+      "title": "AUTO النوبة السادسة للجامع العتيق وما فى حواليه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 120,
+      "end_ms": 144
+    },
+    "9": {
+      "title": "AUTO النوبة السابعة لمقابر المصلى وما يقرب اليه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 144,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      21,
+      [3],
+      2
+    ],
+    [
+      45,
+      [4],
+      3
+    ],
+    [
+      57,
+      [5],
+      4
+    ],
+    [
+      70,
+      [6],
+      5
+    ],
+    [
+      95,
+      [7],
+      6
+    ],
+    [
+      120,
+      [8],
+      7
+    ],
+    [
+      144,
+      [9],
+      8
+    ]
+  ],
+  "last_ms": 178
+}

@@ -1,0 +1,111 @@
+{
+  "filename": "0806IbnHusaynZaynDinCiraqi.FadlSharafCilmHadith.ShamAY0037282-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO فضل شرف علم الحديث وأهله",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 5
+    },
+    "2": {
+      "title": "AUTO فصل طالب العلم يقول الشاعر ** رأيت العلم صاحبه شريف ** وإن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "3": {
+      "title": "AUTO قال القارى خص مبلغ الحديث كما سمعه بهذا الدعاء لأنه سعى في",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 6
+    },
+    "4": {
+      "title": "AUTO وقال أيضا إذا رأيت صاحب حديث فكأني رأيت احدا من أصحاب رسول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 12
+    },
+    "5": {
+      "title": "CHECK [مات في يوم الجمعة قبل العصر سادس المحرم سنة ست وتسعين وصلى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 15
+    },
+    "6": {
+      "title": "CHECK [مصنافته إخبار الاحياء بأخبار الاحياء وهو تخريجه الكبير",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 17
+    },
+    "7": {
+      "title": "AUTO قال تلميذه ابن حجر شرع في املاء الحديث من سنة ست وتسعين فأحيا",
+      "level": 1,
+      "parent": null,
+      "start_ms": 17,
+      "end_ms": 18
+    },
+    "8": {
+      "title": "AUTO واخرها ** وأنت فغفار الذنوب وسائر ال ** عيوب وكشاف الكروب إذا",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": 19
+    },
+    "9": {
+      "title": "AUTO فقال له عدة بن فقدتك وليكن المستملى على موضع مرتفع من كرسي أو",
+      "level": 1,
+      "parent": null,
+      "start_ms": 19,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      5,
+      [2],
+      1
+    ],
+    [
+      6,
+      [3, 4],
+      2
+    ],
+    [
+      12,
+      [5],
+      4
+    ],
+    [
+      15,
+      [6],
+      5
+    ],
+    [
+      17,
+      [7],
+      6
+    ],
+    [
+      18,
+      [8],
+      7
+    ],
+    [
+      19,
+      [9],
+      8
+    ]
+  ],
+  "last_ms": 40
+}

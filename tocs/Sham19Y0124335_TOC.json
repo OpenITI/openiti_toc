@@ -1,0 +1,87 @@
+{
+  "filename": "0328AbuBakrIbnAnbari.SharhQasaidSabc.Sham19Y0124335-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO 1 - قصيدة امرئ القيس بن حجر PageV01P001",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 73
+    },
+    "2": {
+      "title": "AUTO 2 - قصيدة طرفة بن العبد PageV01P113",
+      "level": 1,
+      "parent": null,
+      "start_ms": 73,
+      "end_ms": 146
+    },
+    "3": {
+      "title": "AUTO 3 - قصيدة زهير بن أبي سلمى PageV01P233",
+      "level": 1,
+      "parent": null,
+      "start_ms": 146,
+      "end_ms": 183
+    },
+    "4": {
+      "title": "CHECK 5 - قصيدة عمرو بن كلثوم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 183,
+      "end_ms": 183
+    },
+    "5": {
+      "title": "AUTO 4 - قصيدة عنترة بن شداد PageV01P291",
+      "level": 1,
+      "parent": null,
+      "start_ms": 183,
+      "end_ms": 264
+    },
+    "6": {
+      "title": "AUTO 6 - قصيدة الحارث بن حلزة PageV01P429",
+      "level": 1,
+      "parent": null,
+      "start_ms": 264,
+      "end_ms": 308
+    },
+    "7": {
+      "title": "AUTO 7 - قصيدة لبيد بن ربيعة PageV01P503",
+      "level": 1,
+      "parent": null,
+      "start_ms": 308,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      73,
+      [2],
+      1
+    ],
+    [
+      146,
+      [3],
+      2
+    ],
+    [
+      183,
+      [4, 5],
+      3
+    ],
+    [
+      264,
+      [6],
+      5
+    ],
+    [
+      308,
+      [7],
+      6
+    ]
+  ],
+  "last_ms": 367
+}

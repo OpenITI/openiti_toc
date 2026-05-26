@@ -1,0 +1,196 @@
+{
+  "filename": "0427AbuIshaqThaclabi.QatlaQuran.ShamAY0033631-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "2": {
+      "title": "AUTO فمنهم علي بن الفضيل بن عياض -رحمه الله-",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "AUTO ومنهم شيخ كوفي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "4": {
+      "title": "AUTO ومنهم نفر من الجن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 6
+    },
+    "5": {
+      "title": "AUTO ومنهم نجاد الفقعسي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 6
+    },
+    "6": {
+      "title": "AUTO ومنهم زرارة بن أوفى الحرشي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 6
+    },
+    "7": {
+      "title": "AUTO ومنهم أعرابي بدوي رحمه الله",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "8": {
+      "title": "AUTO ومنهم أخ لمحمد بن المنكدر رحمه الله",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "9": {
+      "title": "AUTO ومنهم شاب من أهل الكوفة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 8
+    },
+    "10": {
+      "title": "AUTO ومهم أبو عثمان سعيد بن إسماعيل الحيري الزاهد رحمه الله",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 8
+    },
+    "11": {
+      "title": "AUTO ومنهم بعض العارفين رحمه الله تعالى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 9
+    },
+    "12": {
+      "title": "AUTO ومنهم شاب من أهل نيسابور",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 10
+    },
+    "13": {
+      "title": "AUTO ومنهم مسور جار عتبة رحمهما الله",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 10
+    },
+    "14": {
+      "title": "AUTO ومنهم لقمان الحكيم عليه السلام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 10
+    },
+    "15": {
+      "title": "AUTO ومنهم شيخ من المهالبة وجارية له رحمهما الله",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 12
+    },
+    "16": {
+      "title": "AUTO ومنهم أبو جهير الضرير رحمة الله عليه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 15
+    },
+    "17": {
+      "title": "AUTO ومنهم بعض العارفين رحمهم الله",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 15
+    },
+    "18": {
+      "title": "AUTO ومنهم أسد بن صلهب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 16
+    },
+    "19": {
+      "title": "AUTO ومنهم فتى من أصحاب أمير المؤمنين عمر رضي الله عنه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      3,
+      [2],
+      1
+    ],
+    [
+      4,
+      [3, 4],
+      2
+    ],
+    [
+      6,
+      [5, 6, 7],
+      4
+    ],
+    [
+      7,
+      [8, 9],
+      7
+    ],
+    [
+      8,
+      [10, 11],
+      9
+    ],
+    [
+      9,
+      [12],
+      11
+    ],
+    [
+      10,
+      [13, 14, 15],
+      12
+    ],
+    [
+      12,
+      [16],
+      15
+    ],
+    [
+      15,
+      [17, 18],
+      16
+    ],
+    [
+      16,
+      [19],
+      18
+    ]
+  ],
+  "last_ms": 16
+}

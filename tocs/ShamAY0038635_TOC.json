@@ -1,0 +1,63 @@
+{
+  "filename": "0544QadiCiyad.Shifa.ShamAY0038635-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO الشفا بتعريف حقوق المصطفى صلى الله عليه وسلم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO الافتتاحية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "AUTO مقدمة المحقق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 23
+    },
+    "4": {
+      "title": "AUTO ترجمة موجزة للقاضي عياض (1)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 23,
+      "end_ms": 32
+    },
+    "5": {
+      "title": "CHECK [النص المحقق]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 32,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      3,
+      [3],
+      2
+    ],
+    [
+      23,
+      [4],
+      3
+    ],
+    [
+      32,
+      [5],
+      4
+    ]
+  ],
+  "last_ms": 793
+}

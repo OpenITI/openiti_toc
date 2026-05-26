@@ -1,0 +1,58 @@
+{
+  "filename": "1413TajDinKhui.MucjamRijal.Shia002992Vols-ara1",
+  "sections": {
+    "1": {
+      "title": "(أ) - باب الألف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 71,
+      "end_ms": null
+    },
+    "2": {
+      "title": "آ",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 71,
+      "end_ms": 76
+    },
+    "3": {
+      "title": "أب",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 76,
+      "end_ms": 236
+    },
+    "4": {
+      "title": "ا ج",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 236,
+      "end_ms": 236
+    },
+    "5": {
+      "title": "أ ح",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 236,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      71,
+      [1, 2],
+      null
+    ],
+    [
+      76,
+      [3],
+      2
+    ],
+    [
+      236,
+      [4, 5],
+      3
+    ]
+  ],
+  "last_ms": 7515
+}

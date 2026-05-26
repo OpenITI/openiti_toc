@@ -1,0 +1,51 @@
+{
+  "filename": "0572CuthmaniDibaji.Hadith.Sham19Y0009450-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO أحب أن آكل من عمل يدي \"",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO ازهد في الدنيا لا تنازع أهلها، وكن فيها كالنحلة، إن وقعت على عود لم تكسره، وإن أكلت أكلت",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "AUTO فليت، وكان معتوها، وكانت له خالة عجوز كبيرة لها عقل ودين، قال: فقالت له: فليت! أيسرك أنك",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "4": {
+      "title": "AUTO أي شيء أولى بك؟ قال: العمل الصالح \" ms2",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3],
+      2
+    ],
+    [
+      3,
+      [4],
+      null
+    ]
+  ],
+  "last_ms": 2
+}

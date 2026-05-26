@@ -1,0 +1,39 @@
+{
+  "filename": "0728IbnTaymiyya.BayanTalbisJahmiyya.ShamAY0034382-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO بيان تلبيس الجهمية في تأسيس بدعهم الكلامية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "CHECK [1_بيان تلبيس الجهمية - الجزء الأول]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 514
+    },
+    "3": {
+      "title": "CHECK [2_بيان تلبيس الجهمية - الجزء الثاني]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 514,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      514,
+      [3],
+      2
+    ]
+  ],
+  "last_ms": 989
+}

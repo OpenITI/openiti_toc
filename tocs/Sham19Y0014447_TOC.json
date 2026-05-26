@@ -1,0 +1,195 @@
+{
+  "filename": "0665AbuShama.KhutbatMuammal.Sham19Y0014447-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK مقدمة المؤلف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "CHECK فضل العلم والعلماء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "CHECK فصل [طلب العلم من أحسن العبادات]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 8
+    },
+    "4": {
+      "title": "CHECK فصل [الفقه شعار الصحابة] ms07",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 9
+    },
+    "5": {
+      "title": "CHECK فصل [بعض الصحابة أشهر من بعض]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 11
+    },
+    "6": {
+      "title": "CHECK فصل [تفاوت المجتهدين]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 15
+    },
+    "7": {
+      "title": "CHECK فصل [أصحاب الشافعي]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 17
+    },
+    "8": {
+      "title": "AUTO فصل في صفة أهل العلم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 17,
+      "end_ms": 20
+    },
+    "9": {
+      "title": "CHECK فصل [إن الله لا يقبض العلم انتزاعا]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 20,
+      "end_ms": 22
+    },
+    "10": {
+      "title": "CHECK فصل [الكلام في المسائل التي لم تقع]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 22,
+      "end_ms": 26
+    },
+    "11": {
+      "title": "CHECK فصل [جمع كتاب شامل في الشريعة]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 26,
+      "end_ms": 31
+    },
+    "12": {
+      "title": "CHECK فصل [خلل التصنيف]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 31,
+      "end_ms": 37
+    },
+    "13": {
+      "title": "CHECK فصل [معنى التعصب]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 37,
+      "end_ms": 43
+    },
+    "14": {
+      "title": "CHECK ms42 فصل [مختصر المزني]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 43,
+      "end_ms": 47
+    },
+    "15": {
+      "title": "CHECK فصل [مذهب الشافعي]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 47,
+      "end_ms": 50
+    },
+    "16": {
+      "title": "CHECK فصل [كلام الغزالي في نصح أهل العلم]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 50,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      3,
+      [3],
+      2
+    ],
+    [
+      8,
+      [4],
+      null
+    ],
+    [
+      9,
+      [5],
+      4
+    ],
+    [
+      11,
+      [6],
+      5
+    ],
+    [
+      15,
+      [7],
+      6
+    ],
+    [
+      17,
+      [8],
+      7
+    ],
+    [
+      20,
+      [9],
+      8
+    ],
+    [
+      22,
+      [10],
+      9
+    ],
+    [
+      26,
+      [11],
+      10
+    ],
+    [
+      31,
+      [12],
+      11
+    ],
+    [
+      37,
+      [13],
+      12
+    ],
+    [
+      43,
+      [14],
+      null
+    ],
+    [
+      47,
+      [15],
+      14
+    ],
+    [
+      50,
+      [16],
+      15
+    ]
+  ],
+  "last_ms": 66
+}

@@ -1,0 +1,199 @@
+{
+  "filename": "0276IbnQutaybaDinawari.IslahGhalat.Sham19Y0018197-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO مقدمة المؤلف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "2": {
+      "title": "AUTO حديث النبي صلى الله عليه وسلم تسليما",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 25
+    },
+    "3": {
+      "title": "AUTO وفي حديث عمر بن الخطاب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 25,
+      "end_ms": 27
+    },
+    "4": {
+      "title": "CHECK وفي حديث عثمان -رضي الله عنه-",
+      "level": 1,
+      "parent": null,
+      "start_ms": 27,
+      "end_ms": 28
+    },
+    "5": {
+      "title": "CHECK وفي حديث علي -رضي الله عنه-",
+      "level": 1,
+      "parent": null,
+      "start_ms": 28,
+      "end_ms": 32
+    },
+    "6": {
+      "title": "CHECK وفي حديث الزبير -رحمه الله-",
+      "level": 1,
+      "parent": null,
+      "start_ms": 32,
+      "end_ms": 32
+    },
+    "7": {
+      "title": "CHECK وفي حديث طلحة -رحمه الله-",
+      "level": 1,
+      "parent": null,
+      "start_ms": 32,
+      "end_ms": 33
+    },
+    "8": {
+      "title": "CHECK وفي حديث عبد الله بن مسعود -رحمه الله-",
+      "level": 1,
+      "parent": null,
+      "start_ms": 33,
+      "end_ms": 34
+    },
+    "9": {
+      "title": "CHECK وفي حديث حذيفة -رحمه الله-",
+      "level": 1,
+      "parent": null,
+      "start_ms": 34,
+      "end_ms": 35
+    },
+    "10": {
+      "title": "CHECK وفي حديث عمرو بن العاص -رحمه الله-",
+      "level": 1,
+      "parent": null,
+      "start_ms": 35,
+      "end_ms": 35
+    },
+    "11": {
+      "title": "CHECK وفي حديث أبي هريرة -رحمه الله-",
+      "level": 1,
+      "parent": null,
+      "start_ms": 35,
+      "end_ms": 37
+    },
+    "12": {
+      "title": "CHECK وفي حديث عبد الله بن عمر -رحمه الله-",
+      "level": 1,
+      "parent": null,
+      "start_ms": 37,
+      "end_ms": 37
+    },
+    "13": {
+      "title": "AUTO وفي حديث عبيد بن عمير",
+      "level": 1,
+      "parent": null,
+      "start_ms": 37,
+      "end_ms": 38
+    },
+    "14": {
+      "title": "AUTO وفي حديث شريح",
+      "level": 1,
+      "parent": null,
+      "start_ms": 38,
+      "end_ms": 38
+    },
+    "15": {
+      "title": "AUTO في حديث الحسن البصري",
+      "level": 1,
+      "parent": null,
+      "start_ms": 38,
+      "end_ms": 39
+    },
+    "16": {
+      "title": "AUTO في حديث الحجاج",
+      "level": 1,
+      "parent": null,
+      "start_ms": 39,
+      "end_ms": 39
+    },
+    "17": {
+      "title": "AUTO حرف في حديث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 39,
+      "end_ms": 40
+    },
+    "18": {
+      "title": "AUTO حرف في حديث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 40,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      4,
+      [2],
+      1
+    ],
+    [
+      25,
+      [3],
+      2
+    ],
+    [
+      27,
+      [4],
+      3
+    ],
+    [
+      28,
+      [5],
+      4
+    ],
+    [
+      32,
+      [6, 7],
+      5
+    ],
+    [
+      33,
+      [8],
+      7
+    ],
+    [
+      34,
+      [9],
+      8
+    ],
+    [
+      35,
+      [10, 11],
+      9
+    ],
+    [
+      37,
+      [12, 13],
+      11
+    ],
+    [
+      38,
+      [14, 15],
+      13
+    ],
+    [
+      39,
+      [16, 17],
+      15
+    ],
+    [
+      40,
+      [18],
+      17
+    ]
+  ],
+  "last_ms": 41
+}

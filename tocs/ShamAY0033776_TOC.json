@@ -1,0 +1,65 @@
+{
+  "filename": "0429AbuMansurThacalibi.IcjazWaIjaz.ShamAY0033776-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO الكتاب : الإعجاز والإيجاز",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "2": {
+      "title": "AUTO فصل فيما يجري مجرى المثل من ألفاظ القرآن ويجمع الإعجاب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "AUTO فصل في جوامع تشبيهاته وتمثيلاته عليه السلام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "4": {
+      "title": "AUTO فصل في استعاراته ( صلى الله عليه وسلم )",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "5": {
+      "title": "AUTO فصل فيما يروى من مطابقاته عليه السلام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "6": {
+      "title": "AUTO فصل في سائر أمثاله وروايع أقواله وأحاسين حكمه في جوامع كلمه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      4,
+      [2, 3, 4],
+      1
+    ],
+    [
+      5,
+      [5, 6],
+      4
+    ]
+  ],
+  "last_ms": 87
+}

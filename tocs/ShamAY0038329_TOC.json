@@ -1,0 +1,70 @@
+{
+  "filename": "0751IbnQayyimJawziyya.KafiyaShafiya.ShamAY0038329-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO المجلد الأول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 176
+    },
+    "2": {
+      "title": "AUTO المجلد الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 176,
+      "end_ms": 176
+    },
+    "3": {
+      "title": "AUTO فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 176,
+      "end_ms": 583
+    },
+    "4": {
+      "title": "AUTO المجلد الثالث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 583,
+      "end_ms": 583
+    },
+    "5": {
+      "title": "AUTO فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 583,
+      "end_ms": 881
+    },
+    "6": {
+      "title": "AUTO المتن مجردا من التعليقات PageV04P001",
+      "level": 1,
+      "parent": null,
+      "start_ms": 881,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      176,
+      [2, 3],
+      1
+    ],
+    [
+      583,
+      [4, 5],
+      3
+    ],
+    [
+      881,
+      [6],
+      5
+    ]
+  ],
+  "last_ms": 1109
+}

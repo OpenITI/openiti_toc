@@ -1,0 +1,56 @@
+{
+  "filename": "0385Daraqutni.Afrad.ShamAY0038051-ara2",
+  "sections": {
+    "1": {
+      "title": "AUTO مقدمة بقلم أحمد الخضري",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "2": {
+      "title": "AUTO الجزء الثاني من الفوائد الأفراد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 20
+    },
+    "3": {
+      "title": "AUTO الجزء الثالث من الفوائد الأفراد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 20,
+      "end_ms": 40
+    },
+    "4": {
+      "title": "AUTO الجزء الثالث والثمانون من الفوائد الأفراد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 40,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      4,
+      [2],
+      1
+    ],
+    [
+      20,
+      [3],
+      2
+    ],
+    [
+      40,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 61
+}

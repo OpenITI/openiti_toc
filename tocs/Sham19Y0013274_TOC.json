@@ -1,0 +1,92 @@
+{
+  "filename": "0691IbnYusufLabli.TuhfatMajd.Sham19Y0013274-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK مقدمة المؤلف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "2": {
+      "title": "AUTO باب \"فعلت بفتح العين\"",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 47
+    },
+    "3": {
+      "title": "AUTO باب \"فعلت بكسر العين\"",
+      "level": 1,
+      "parent": null,
+      "start_ms": 47,
+      "end_ms": 75
+    },
+    "4": {
+      "title": "AUTO باب \"فعلت بغير ألف\"",
+      "level": 1,
+      "parent": null,
+      "start_ms": 75,
+      "end_ms": 103
+    },
+    "5": {
+      "title": "AUTO باب \"فعل بضم الفاء\"",
+      "level": 1,
+      "parent": null,
+      "start_ms": 103,
+      "end_ms": 128
+    },
+    "6": {
+      "title": "AUTO باب \"فعلت وفعلت باختلاف المعنى\"",
+      "level": 1,
+      "parent": null,
+      "start_ms": 128,
+      "end_ms": 148
+    },
+    "7": {
+      "title": "AUTO باب «فعلت وأفعلت باختلاف المعنى»",
+      "level": 1,
+      "parent": null,
+      "start_ms": 148,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      4,
+      [2],
+      1
+    ],
+    [
+      47,
+      [3],
+      2
+    ],
+    [
+      75,
+      [4],
+      3
+    ],
+    [
+      103,
+      [5],
+      4
+    ],
+    [
+      128,
+      [6],
+      5
+    ],
+    [
+      148,
+      [7],
+      6
+    ]
+  ],
+  "last_ms": 176
+}

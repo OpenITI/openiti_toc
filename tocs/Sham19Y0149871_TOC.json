@@ -1,0 +1,144 @@
+{
+  "filename": "0011CamirIbnTufayl.Diwan.Sham19Y0149871-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO حرف الباء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "2": {
+      "title": "AUTO حرف التاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "AUTO حرف الجيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "4": {
+      "title": "AUTO حرف الحاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "5": {
+      "title": "AUTO حرف الدال",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 6
+    },
+    "6": {
+      "title": "AUTO حرف الراء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 8
+    },
+    "7": {
+      "title": "AUTO حرف العين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 8
+    },
+    "8": {
+      "title": "AUTO حرف الفاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 9
+    },
+    "9": {
+      "title": "AUTO حرف الكاف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 9
+    },
+    "10": {
+      "title": "AUTO حرف اللام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 11
+    },
+    "11": {
+      "title": "AUTO حرف الميم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 14
+    },
+    "12": {
+      "title": "AUTO حرف النون",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 15
+    },
+    "13": {
+      "title": "AUTO حرف الياء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      3,
+      [2, 3, 4],
+      1
+    ],
+    [
+      4,
+      [5],
+      4
+    ],
+    [
+      6,
+      [6],
+      5
+    ],
+    [
+      8,
+      [7, 8],
+      6
+    ],
+    [
+      9,
+      [9, 10],
+      8
+    ],
+    [
+      11,
+      [11],
+      10
+    ],
+    [
+      14,
+      [12],
+      11
+    ],
+    [
+      15,
+      [13],
+      12
+    ]
+  ],
+  "last_ms": 15
+}

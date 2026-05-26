@@ -1,0 +1,39 @@
+{
+  "filename": "0271CabbasDuri.TarikhIbnMacin.ShamAY0038167-ara3",
+  "sections": {
+    "1": {
+      "title": "CHECK [بطاقة الكتاب]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO من كتاب التاريخ والعلل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 358
+    },
+    "3": {
+      "title": "CHECK [المستدرك]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 358,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      358,
+      [3],
+      2
+    ]
+  ],
+  "last_ms": 485
+}

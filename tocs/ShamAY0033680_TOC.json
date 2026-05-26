@@ -1,0 +1,144 @@
+{
+  "filename": "0330IbnIsmacilMahamili.Duca.ShamAY0033680-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO باب ما يدعو به الرجل إذا خرج من بيته يريد سفرا",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "2": {
+      "title": "AUTO باب: مايدعو به الرجل إذا ركب الدابة PageV01P103",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 7
+    },
+    "3": {
+      "title": "AUTO باب: ما يدعو به المسافر إذا توجه لسفره PageV01P118",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 10
+    },
+    "4": {
+      "title": "AUTO باب: ما يدعو إذا علا شرفا أو هبط واديا PageV01P134",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 11
+    },
+    "5": {
+      "title": "AUTO باب: ما يدعو إذا أشرف على المنزل يريد دخوله PageV01P142",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 13
+    },
+    "6": {
+      "title": "AUTO باب: ما يدعو إذا نزل المنزل PageV01P154",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 13
+    },
+    "7": {
+      "title": "AUTO باب ما يدعو به إذا أدركه الليل PageV01P160",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 14
+    },
+    "8": {
+      "title": "AUTO باب: ما يدعو به إذا غشيه الصبح PageV01P163",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 14
+    },
+    "9": {
+      "title": "AUTO باب ما يستحب من الدعاء عشية عرفة PageV01P167",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 16
+    },
+    "10": {
+      "title": "AUTO باب: ما يستحب من الدعاء بين الركن والمقام PageV01P174",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": 16
+    },
+    "11": {
+      "title": "AUTO باب: ما يدعو به إذا قفل من سفر PageV01P176",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": 21
+    },
+    "12": {
+      "title": "AUTO باب: ما يقول إذا أشرف ms20 على المدينة راجعا من سفر PageV01P199",
+      "level": 1,
+      "parent": null,
+      "start_ms": 21,
+      "end_ms": 21
+    },
+    "13": {
+      "title": "AUTO باب: ما يدعوه إذا دخل بيته PageV01P202",
+      "level": 1,
+      "parent": null,
+      "start_ms": 21,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      4,
+      [2],
+      1
+    ],
+    [
+      7,
+      [3],
+      2
+    ],
+    [
+      10,
+      [4],
+      3
+    ],
+    [
+      11,
+      [5],
+      4
+    ],
+    [
+      13,
+      [6, 7],
+      5
+    ],
+    [
+      14,
+      [8, 9],
+      7
+    ],
+    [
+      16,
+      [10, 11],
+      9
+    ],
+    [
+      21,
+      [12, 13],
+      null
+    ]
+  ],
+  "last_ms": 21
+}

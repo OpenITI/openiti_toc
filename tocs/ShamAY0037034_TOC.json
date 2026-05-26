@@ -1,0 +1,72 @@
+{
+  "filename": "0672IbnMalik.NazmQawacidIcrab.ShamAY0037034-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO نظم قواعد الإعراب (1)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO رحمه الله تعالى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "AUTO فصل : في الجملة وأحكامها",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "4": {
+      "title": "AUTO فصل : في الجار والمجرور",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "5": {
+      "title": "AUTO فصل : في تفسير كلمات يحتاج إليها المعرب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "6": {
+      "title": "AUTO فصل : في ألفاظ محررة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "7": {
+      "title": "AUTO خاتمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3, 4, 5],
+      null
+    ],
+    [
+      2,
+      [6],
+      5
+    ],
+    [
+      3,
+      [7],
+      6
+    ]
+  ],
+  "last_ms": 3
+}

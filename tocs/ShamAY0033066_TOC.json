@@ -1,0 +1,152 @@
+{
+  "filename": "0852IbnHajarCasqalani.TakhrijAdhkar.ShamAY0033066-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO المجلس 468",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "2": {
+      "title": "AUTO المجلس 469",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 5
+    },
+    "3": {
+      "title": "AUTO المجلس 470",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 7
+    },
+    "4": {
+      "title": "AUTO المجلس 471",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 9
+    },
+    "5": {
+      "title": "AUTO المجلس 472",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 12
+    },
+    "6": {
+      "title": "AUTO المجلس 473",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 14
+    },
+    "7": {
+      "title": "AUTO المجلس 474",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 16
+    },
+    "8": {
+      "title": "AUTO المجلس 475",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": 19
+    },
+    "9": {
+      "title": "AUTO المجلس 476",
+      "level": 1,
+      "parent": null,
+      "start_ms": 19,
+      "end_ms": 21
+    },
+    "10": {
+      "title": "AUTO المجلس 477",
+      "level": 1,
+      "parent": null,
+      "start_ms": 21,
+      "end_ms": 23
+    },
+    "11": {
+      "title": "AUTO المجلس 478",
+      "level": 1,
+      "parent": null,
+      "start_ms": 23,
+      "end_ms": 25
+    },
+    "12": {
+      "title": "AUTO المجلس 479",
+      "level": 1,
+      "parent": null,
+      "start_ms": 25,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      3,
+      [2],
+      1
+    ],
+    [
+      5,
+      [3],
+      2
+    ],
+    [
+      7,
+      [4],
+      3
+    ],
+    [
+      9,
+      [5],
+      4
+    ],
+    [
+      12,
+      [6],
+      5
+    ],
+    [
+      14,
+      [7],
+      6
+    ],
+    [
+      16,
+      [8],
+      7
+    ],
+    [
+      19,
+      [9],
+      8
+    ],
+    [
+      21,
+      [10],
+      9
+    ],
+    [
+      23,
+      [11],
+      10
+    ],
+    [
+      25,
+      [12],
+      11
+    ]
+  ],
+  "last_ms": 25
+}

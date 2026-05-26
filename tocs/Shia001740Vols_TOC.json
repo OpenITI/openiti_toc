@@ -1,0 +1,104 @@
+{
+  "filename": "0303Nasai.SunanSughra.Shia001740Vols-ara1",
+  "sections": {
+    "1": {
+      "title": "تأويل قوله عز وجل إذا قمتم إلى الصلاة فاغسلوا وجوهكم وأيديكم إلى المرافق",
+      "level": 2,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 127
+    },
+    "2": {
+      "title": "كتاب ms0126 الأذان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 127,
+      "end_ms": 244
+    },
+    "3": {
+      "title": "كتاب السهو",
+      "level": 1,
+      "parent": null,
+      "start_ms": 244,
+      "end_ms": 385
+    },
+    "4": {
+      "title": "كتاب الجنائز",
+      "level": 1,
+      "parent": null,
+      "start_ms": 385,
+      "end_ms": 505
+    },
+    "5": {
+      "title": "كتاب الزكاة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 505,
+      "end_ms": 639
+    },
+    "6": {
+      "title": "كتاب الجهاد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 639,
+      "end_ms": 796
+    },
+    "7": {
+      "title": "كتاب الأيمان والنذور أخبرنا أحمد بن سليمان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 796,
+      "end_ms": 985
+    },
+    "8": {
+      "title": "كتاب القسامة ذكر القسامة التي كانت في الجاهلية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 985,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      127,
+      [2],
+      null
+    ],
+    [
+      244,
+      [3],
+      2
+    ],
+    [
+      385,
+      [4],
+      3
+    ],
+    [
+      505,
+      [5],
+      4
+    ],
+    [
+      639,
+      [6],
+      5
+    ],
+    [
+      796,
+      [7],
+      6
+    ],
+    [
+      985,
+      [8],
+      7
+    ]
+  ],
+  "last_ms": 1183
+}

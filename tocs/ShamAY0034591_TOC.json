@@ -1,0 +1,68 @@
+{
+  "filename": "0748Dhahabi.CibarFiKhabar.ShamAY0034591-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO ### | AUTO القسم الأول السنوات الناقصة من المطبوع سنة ست",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "2": {
+      "title": "AUTO وأبو صادق جمال الدين محمد بن الشيخ الحافظ رشيد الدين أبي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "AUTO والحاج ياسين المغربي الحجام الأسود كان جرائحيا على باب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 5
+    },
+    "4": {
+      "title": "AUTO 228 ب سنة ست وتسعين وست مئة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 7
+    },
+    "5": {
+      "title": "AUTO ابن الزبيدي وابن باسويه وتوفي بدمشق في المحرم وله إحدى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2],
+      1
+    ],
+    [
+      3,
+      [3],
+      2
+    ],
+    [
+      5,
+      [4],
+      3
+    ],
+    [
+      7,
+      [5],
+      4
+    ]
+  ],
+  "last_ms": 8
+}

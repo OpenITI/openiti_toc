@@ -1,0 +1,94 @@
+{
+  "filename": "0983IbnMuhammadSahgirAkhdari.MukhtasarFiCibadat.ShamAY0031995-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO (أول ما يجب على المكلف): تصحيح إيمانه ثم معرفة ما يصلح به فرض",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "2": {
+      "title": "AUTO فصل في الطهارة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "AUTO فصل في التيمم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "4": {
+      "title": "AUTO فصل في الحيض",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "5": {
+      "title": "AUTO فصل في النفاس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "6": {
+      "title": "AUTO فصل في الأوقات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "7": {
+      "title": "AUTO فصل في شروط الصلاة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 7
+    },
+    "8": {
+      "title": "AUTO باب في السهو",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2],
+      1
+    ],
+    [
+      3,
+      [3],
+      2
+    ],
+    [
+      4,
+      [4, 5, 6],
+      3
+    ],
+    [
+      5,
+      [7],
+      6
+    ],
+    [
+      7,
+      [8],
+      7
+    ]
+  ],
+  "last_ms": 12
+}

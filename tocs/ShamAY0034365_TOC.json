@@ -1,0 +1,221 @@
+{
+  "filename": "0728IbnTaymiyya.QawacidNuraniyya.ShamAY0034365-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO الأصل الأول: الصلاة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 73
+    },
+    "2": {
+      "title": "AUTO الطهارة والنجاسة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 11
+    },
+    "3": {
+      "title": "AUTO المواقيت",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 11,
+      "end_ms": 12
+    },
+    "4": {
+      "title": "AUTO الأذان",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 12,
+      "end_ms": 14
+    },
+    "5": {
+      "title": "AUTO صفة الصلاة ms013",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 14,
+      "end_ms": 16
+    },
+    "6": {
+      "title": "AUTO النصوص المبينة لواجبات الصلاة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 16,
+      "end_ms": 45
+    },
+    "7": {
+      "title": "AUTO القدر المشروع في الصلاة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 45,
+      "end_ms": 63
+    },
+    "8": {
+      "title": "AUTO صلاة الجماعة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 63,
+      "end_ms": 71
+    },
+    "9": {
+      "title": "AUTO القراءة خلف الإمام",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 71,
+      "end_ms": 72
+    },
+    "10": {
+      "title": "AUTO الصلوات في الأحوال العارضة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 72,
+      "end_ms": 73
+    },
+    "11": {
+      "title": "AUTO الأصل الثاني: الزكاة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 73,
+      "end_ms": 76
+    },
+    "12": {
+      "title": "AUTO الأصل الثالث: الصيام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 76,
+      "end_ms": 79
+    },
+    "13": {
+      "title": "AUTO الأصل الرابع: الحج",
+      "level": 1,
+      "parent": null,
+      "start_ms": 79,
+      "end_ms": 88
+    },
+    "14": {
+      "title": "AUTO الأصل الخامس: المعاملات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 88,
+      "end_ms": null
+    },
+    "15": {
+      "title": "AUTO القاعدة الأولى: الأصل في العقود الإيجاب والقبول",
+      "level": 2,
+      "parent": 14,
+      "start_ms": 88,
+      "end_ms": 98
+    },
+    "16": {
+      "title": "AUTO القاعدة الثانية: في المعاقد حلالها وحرامها",
+      "level": 2,
+      "parent": 14,
+      "start_ms": 98,
+      "end_ms": 161
+    },
+    "17": {
+      "title": "AUTO القاعدة الثالثة: في العقود والشروط فيها فيما يحل منها ويحرم",
+      "level": 2,
+      "parent": 14,
+      "start_ms": 161,
+      "end_ms": 195
+    },
+    "18": {
+      "title": "AUTO القاعدة الرابعة: أن الشرط المتقدم على العقد بمنزلة المقارن له",
+      "level": 2,
+      "parent": 14,
+      "start_ms": 195,
+      "end_ms": 195
+    },
+    "19": {
+      "title": "AUTO القاعدة الخامسة: في الأيمان والنذور",
+      "level": 2,
+      "parent": 14,
+      "start_ms": 195,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      11,
+      [3],
+      2
+    ],
+    [
+      12,
+      [4],
+      3
+    ],
+    [
+      14,
+      [5],
+      null
+    ],
+    [
+      16,
+      [6],
+      5
+    ],
+    [
+      45,
+      [7],
+      6
+    ],
+    [
+      63,
+      [8],
+      7
+    ],
+    [
+      71,
+      [9],
+      8
+    ],
+    [
+      72,
+      [10],
+      9
+    ],
+    [
+      73,
+      [11],
+      10
+    ],
+    [
+      76,
+      [12],
+      11
+    ],
+    [
+      79,
+      [13],
+      12
+    ],
+    [
+      88,
+      [14, 15],
+      13
+    ],
+    [
+      98,
+      [16],
+      15
+    ],
+    [
+      161,
+      [17],
+      16
+    ],
+    [
+      195,
+      [18, 19],
+      17
+    ]
+  ],
+  "last_ms": 241
+}

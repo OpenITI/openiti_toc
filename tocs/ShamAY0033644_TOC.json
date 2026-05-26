@@ -1,0 +1,80 @@
+{
+  "filename": "0444AbuFadlIbnMahdi.DhikrShuyukh.ShamAY0033644-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "[ذكر بني هاشم والشهود المعدلين المجمع على ثقتهم]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 8
+    },
+    "2": {
+      "title": "الفقهاء والمفتون",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 11
+    },
+    "3": {
+      "title": "ذكر القراء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 16
+    },
+    "4": {
+      "title": "ذكر من لقيت من الحفاظ للحديث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": 17
+    },
+    "5": {
+      "title": "ذكر الشيوخ الوعاظ",
+      "level": 1,
+      "parent": null,
+      "start_ms": 17,
+      "end_ms": 19
+    },
+    "6": {
+      "title": "ذكر الشيوخ المحدثين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 19,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      8,
+      [2],
+      1
+    ],
+    [
+      11,
+      [3],
+      2
+    ],
+    [
+      16,
+      [4],
+      3
+    ],
+    [
+      17,
+      [5],
+      4
+    ],
+    [
+      19,
+      [6],
+      5
+    ]
+  ],
+  "last_ms": 35
+}

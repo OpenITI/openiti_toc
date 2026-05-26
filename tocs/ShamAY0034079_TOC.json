@@ -1,0 +1,104 @@
+{
+  "filename": "0620IbnQudamaMaqdisi.Burhan.ShamAY0034079-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 10
+    },
+    "2": {
+      "title": "AUTO فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 13
+    },
+    "3": {
+      "title": "AUTO فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 20
+    },
+    "4": {
+      "title": "AUTO فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 20,
+      "end_ms": 21
+    },
+    "5": {
+      "title": "AUTO فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 21,
+      "end_ms": 22
+    },
+    "6": {
+      "title": "AUTO فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 22,
+      "end_ms": 24
+    },
+    "7": {
+      "title": "AUTO فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 24,
+      "end_ms": 26
+    },
+    "8": {
+      "title": "AUTO فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 26,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      10,
+      [2],
+      1
+    ],
+    [
+      13,
+      [3],
+      2
+    ],
+    [
+      20,
+      [4],
+      3
+    ],
+    [
+      21,
+      [5],
+      4
+    ],
+    [
+      22,
+      [6],
+      5
+    ],
+    [
+      24,
+      [7],
+      6
+    ],
+    [
+      26,
+      [8],
+      7
+    ]
+  ],
+  "last_ms": 30
+}

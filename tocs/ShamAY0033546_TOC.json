@@ -1,0 +1,77 @@
+{
+  "filename": "0842IbnNasirDinDimashqi.Ithaf.ShamAY0033546-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO الإتحاف بحديث فضل الإنصاف في حديث عمار بن ياسر رضي الله عنهما:",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO رواية عبد الرزاق عن معمر عن أبي إسحاق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "AUTO رواية هارون بن سعد عن أبي إسحاق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "4": {
+      "title": "AUTO رواية الثوري وابن أسباط",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "5": {
+      "title": "AUTO رواية أبي أمامة عن عمار",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "6": {
+      "title": "AUTO حديث أبي ذر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "7": {
+      "title": "AUTO نظم حديث الإنصاف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      3,
+      [3],
+      2
+    ],
+    [
+      4,
+      [4, 5],
+      3
+    ],
+    [
+      5,
+      [6, 7],
+      5
+    ]
+  ],
+  "last_ms": 6
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "0496IbnBahijAndalusi.QasidaWadahiyya.Sham19Y0017861-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK مقدمة وسند القصيدة إلى ابن بهيج أبي عمران",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "CHECK أول القصيدة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "CHECK الخاتمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      3,
+      [3],
+      2
+    ]
+  ],
+  "last_ms": 3
+}

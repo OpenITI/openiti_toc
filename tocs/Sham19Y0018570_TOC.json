@@ -1,0 +1,606 @@
+{
+  "filename": "0694MuzaffarDinIbnSacati.BadicNizam.Sham19Y0018570-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK مقدمة المصنف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO القاعدة الأولى في المبادئ",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 64
+    },
+    "3": {
+      "title": "AUTO المبادئ الكلامية",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "4": {
+      "title": "CHECK تقسيم [المبادئ اللغوية]",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 3,
+      "end_ms": 30
+    },
+    "5": {
+      "title": "AUTO المبادئ الفقهية",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 30,
+      "end_ms": 64
+    },
+    "6": {
+      "title": "AUTO الأول: الحاكم الله تعالى",
+      "level": 3,
+      "parent": 5,
+      "start_ms": 30,
+      "end_ms": 34
+    },
+    "7": {
+      "title": "AUTO الأصل الثاني: في الحكم وأقسامه",
+      "level": 3,
+      "parent": 5,
+      "start_ms": 34,
+      "end_ms": 51
+    },
+    "8": {
+      "title": "AUTO الأصل الثالث: في المحكوم فيه",
+      "level": 3,
+      "parent": 5,
+      "start_ms": 51,
+      "end_ms": 53
+    },
+    "9": {
+      "title": "AUTO الأصل الرابع: في المحكوم عليه",
+      "level": 3,
+      "parent": 5,
+      "start_ms": 53,
+      "end_ms": 64
+    },
+    "10": {
+      "title": "AUTO تقسيم الأهلية",
+      "level": 4,
+      "parent": 9,
+      "start_ms": 53,
+      "end_ms": 56
+    },
+    "11": {
+      "title": "CHECK فصل [عوارض الأهلية السماوية]",
+      "level": 4,
+      "parent": 9,
+      "start_ms": 56,
+      "end_ms": 59
+    },
+    "12": {
+      "title": "CHECK فصل [عوارض الأهلية المكتسبة]",
+      "level": 4,
+      "parent": 9,
+      "start_ms": 59,
+      "end_ms": 64
+    },
+    "13": {
+      "title": "AUTO القاعدة الثانية في الأدلة الشرعية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 64,
+      "end_ms": 194
+    },
+    "14": {
+      "title": "AUTO أما الكتاب",
+      "level": 2,
+      "parent": 13,
+      "start_ms": 64,
+      "end_ms": 65
+    },
+    "15": {
+      "title": "AUTO أما السنة",
+      "level": 2,
+      "parent": 13,
+      "start_ms": 65,
+      "end_ms": 70
+    },
+    "16": {
+      "title": "AUTO الإجماع",
+      "level": 2,
+      "parent": 13,
+      "start_ms": 70,
+      "end_ms": 85
+    },
+    "17": {
+      "title": "AUTO وتشترك هذه الأصول الثلاثة في السند والمتن",
+      "level": 2,
+      "parent": 13,
+      "start_ms": 85,
+      "end_ms": 161
+    },
+    "18": {
+      "title": "AUTO النوع الأول: السند",
+      "level": 3,
+      "parent": 17,
+      "start_ms": 85,
+      "end_ms": 107
+    },
+    "19": {
+      "title": "AUTO خبر الواحد",
+      "level": 4,
+      "parent": 18,
+      "start_ms": 91,
+      "end_ms": 91
+    },
+    "20": {
+      "title": "AUTO الأول: في حقيقته",
+      "level": 5,
+      "parent": 19,
+      "start_ms": 91,
+      "end_ms": 91
+    },
+    "21": {
+      "title": "AUTO خبر الواحد",
+      "level": 4,
+      "parent": 18,
+      "start_ms": 91,
+      "end_ms": 107
+    },
+    "22": {
+      "title": "AUTO الثاني في شروطه",
+      "level": 5,
+      "parent": 21,
+      "start_ms": 95,
+      "end_ms": 99
+    },
+    "23": {
+      "title": "AUTO الثالث في مستند الراوي",
+      "level": 5,
+      "parent": 21,
+      "start_ms": 99,
+      "end_ms": 101
+    },
+    "24": {
+      "title": "AUTO الرابع:",
+      "level": 5,
+      "parent": 21,
+      "start_ms": 101,
+      "end_ms": 107
+    },
+    "25": {
+      "title": "AUTO النوع الثاني: المتن",
+      "level": 3,
+      "parent": 17,
+      "start_ms": 107,
+      "end_ms": 161
+    },
+    "26": {
+      "title": "AUTO الأول: فيما تشترك فيه الثلاثة من دلالة المنطوق",
+      "level": 4,
+      "parent": 25,
+      "start_ms": 107,
+      "end_ms": 154
+    },
+    "27": {
+      "title": "AUTO فمنه: الأمر",
+      "level": 5,
+      "parent": 26,
+      "start_ms": 107,
+      "end_ms": 119
+    },
+    "28": {
+      "title": "AUTO ومنه النهي",
+      "level": 5,
+      "parent": 26,
+      "start_ms": 119,
+      "end_ms": 122
+    },
+    "29": {
+      "title": "AUTO ومنه العام والخاص",
+      "level": 5,
+      "parent": 26,
+      "start_ms": 122,
+      "end_ms": 134
+    },
+    "30": {
+      "title": "AUTO ومنه التخصيص",
+      "level": 5,
+      "parent": 26,
+      "start_ms": 134,
+      "end_ms": 138
+    },
+    "31": {
+      "title": "AUTO ومنه المطلق والمقيد",
+      "level": 5,
+      "parent": 26,
+      "start_ms": 138,
+      "end_ms": 139
+    },
+    "32": {
+      "title": "AUTO ومنه المجمل والمبين",
+      "level": 5,
+      "parent": 26,
+      "start_ms": 139,
+      "end_ms": 141
+    },
+    "33": {
+      "title": "AUTO ومنه البيان",
+      "level": 5,
+      "parent": 26,
+      "start_ms": 141,
+      "end_ms": 146
+    },
+    "34": {
+      "title": "AUTO بيان الضرورة",
+      "level": 5,
+      "parent": 26,
+      "start_ms": 146,
+      "end_ms": 148
+    },
+    "35": {
+      "title": "AUTO التبديل وهو النسخ",
+      "level": 5,
+      "parent": 26,
+      "start_ms": 148,
+      "end_ms": 154
+    },
+    "36": {
+      "title": "AUTO الفصل الثاني:",
+      "level": 4,
+      "parent": 25,
+      "start_ms": 154,
+      "end_ms": 157
+    },
+    "37": {
+      "title": "AUTO الفصل الثالث:",
+      "level": 4,
+      "parent": 25,
+      "start_ms": 157,
+      "end_ms": 161
+    },
+    "38": {
+      "title": "AUTO القياس",
+      "level": 2,
+      "parent": 13,
+      "start_ms": 161,
+      "end_ms": 193
+    },
+    "39": {
+      "title": "AUTO استصحاب الحال PageV02P601 # وهو صحيح عند الشافعي موجبا، وعندنا دافعا حتى أجزنا الصلح على الإنكار",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 173,
+      "end_ms": 174
+    },
+    "40": {
+      "title": "AUTO وحكم العلة",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 174,
+      "end_ms": 175
+    },
+    "41": {
+      "title": "AUTO والاستحسان",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 175,
+      "end_ms": 176
+    },
+    "42": {
+      "title": "AUTO فصل:",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 176,
+      "end_ms": 177
+    },
+    "43": {
+      "title": "AUTO الثالث: السبر والتقسيم",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 177,
+      "end_ms": 179
+    },
+    "44": {
+      "title": "AUTO تقسيم المقاصد",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 179,
+      "end_ms": 180
+    },
+    "45": {
+      "title": "AUTO الطرد والعكس",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 180,
+      "end_ms": 182
+    },
+    "46": {
+      "title": "AUTO فصل:",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 182,
+      "end_ms": 187
+    },
+    "47": {
+      "title": "AUTO فساد الوضع",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 187,
+      "end_ms": 187
+    },
+    "48": {
+      "title": "AUTO المناقضة",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 187,
+      "end_ms": 190
+    },
+    "49": {
+      "title": "AUTO تقسيم:",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 190,
+      "end_ms": 191
+    },
+    "50": {
+      "title": "AUTO تقسيم الشرط",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 191,
+      "end_ms": 192
+    },
+    "51": {
+      "title": "CHECK فصل [في الاستدلال]",
+      "level": 3,
+      "parent": 38,
+      "start_ms": 192,
+      "end_ms": 193
+    },
+    "52": {
+      "title": "AUTO حجية مذهب الصحابي",
+      "level": 2,
+      "parent": 13,
+      "start_ms": 193,
+      "end_ms": 194
+    },
+    "53": {
+      "title": "AUTO القاعدة الثالثة في الاجتهاد وما يتبعه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 194,
+      "end_ms": 200
+    },
+    "54": {
+      "title": "AUTO القاعدة الرابعة: في الترجيح",
+      "level": 1,
+      "parent": null,
+      "start_ms": 200,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3],
+      2
+    ],
+    [
+      3,
+      [4],
+      3
+    ],
+    [
+      30,
+      [5, 6],
+      4
+    ],
+    [
+      34,
+      [7],
+      6
+    ],
+    [
+      51,
+      [8],
+      7
+    ],
+    [
+      53,
+      [9, 10],
+      8
+    ],
+    [
+      56,
+      [11],
+      10
+    ],
+    [
+      59,
+      [12],
+      11
+    ],
+    [
+      64,
+      [13, 14],
+      12
+    ],
+    [
+      65,
+      [15],
+      14
+    ],
+    [
+      70,
+      [16],
+      15
+    ],
+    [
+      85,
+      [17, 18],
+      16
+    ],
+    [
+      91,
+      [19, 20, 21],
+      18
+    ],
+    [
+      95,
+      [22],
+      21
+    ],
+    [
+      99,
+      [23],
+      22
+    ],
+    [
+      101,
+      [24],
+      23
+    ],
+    [
+      107,
+      [25, 26, 27],
+      24
+    ],
+    [
+      119,
+      [28],
+      27
+    ],
+    [
+      122,
+      [29],
+      28
+    ],
+    [
+      134,
+      [30],
+      29
+    ],
+    [
+      138,
+      [31],
+      30
+    ],
+    [
+      139,
+      [32],
+      31
+    ],
+    [
+      141,
+      [33],
+      32
+    ],
+    [
+      146,
+      [34],
+      33
+    ],
+    [
+      148,
+      [35],
+      34
+    ],
+    [
+      154,
+      [36],
+      35
+    ],
+    [
+      157,
+      [37],
+      36
+    ],
+    [
+      161,
+      [38],
+      37
+    ],
+    [
+      173,
+      [39],
+      38
+    ],
+    [
+      174,
+      [40],
+      39
+    ],
+    [
+      175,
+      [41],
+      40
+    ],
+    [
+      176,
+      [42],
+      41
+    ],
+    [
+      177,
+      [43],
+      42
+    ],
+    [
+      179,
+      [44],
+      43
+    ],
+    [
+      180,
+      [45],
+      44
+    ],
+    [
+      182,
+      [46],
+      45
+    ],
+    [
+      187,
+      [47, 48],
+      46
+    ],
+    [
+      190,
+      [49],
+      48
+    ],
+    [
+      191,
+      [50],
+      49
+    ],
+    [
+      192,
+      [51],
+      50
+    ],
+    [
+      193,
+      [52],
+      51
+    ],
+    [
+      194,
+      [53],
+      52
+    ],
+    [
+      200,
+      [54],
+      53
+    ]
+  ],
+  "last_ms": 203
+}

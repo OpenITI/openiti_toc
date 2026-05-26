@@ -1,0 +1,128 @@
+{
+  "filename": "1072IbnAhmadMayyaraFasi.DurrThamin.Sham19Y0014249-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO مقدمة المؤلف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 20
+    },
+    "2": {
+      "title": "AUTO مقدمة لكتاب الاعتقاد معينة لقارئها على المراد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 20,
+      "end_ms": 31
+    },
+    "3": {
+      "title": "CHECK كتاب أم القواعد، وما انطوت عليه من العقائد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 31,
+      "end_ms": 116
+    },
+    "4": {
+      "title": "CHECK مقدمة من الأصول معينة في فروعها على الوصول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 116,
+      "end_ms": 133
+    },
+    "5": {
+      "title": "AUTO كتاب الطهارة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 133,
+      "end_ms": 264
+    },
+    "6": {
+      "title": "AUTO كتاب الصلاة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 264,
+      "end_ms": 467
+    },
+    "7": {
+      "title": "AUTO كتاب الزكاة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 467,
+      "end_ms": 524
+    },
+    "8": {
+      "title": "AUTO (كتاب الصيام)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 524,
+      "end_ms": 581
+    },
+    "9": {
+      "title": "AUTO كتاب الحج",
+      "level": 1,
+      "parent": null,
+      "start_ms": 581,
+      "end_ms": 641
+    },
+    "10": {
+      "title": "CHECK كتاب مباديء التصوف!، وهوادي التعرف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 641,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      20,
+      [2],
+      1
+    ],
+    [
+      31,
+      [3],
+      2
+    ],
+    [
+      116,
+      [4],
+      3
+    ],
+    [
+      133,
+      [5],
+      4
+    ],
+    [
+      264,
+      [6],
+      5
+    ],
+    [
+      467,
+      [7],
+      6
+    ],
+    [
+      524,
+      [8],
+      7
+    ],
+    [
+      581,
+      [9],
+      8
+    ],
+    [
+      641,
+      [10],
+      9
+    ]
+  ],
+  "last_ms": 729
+}

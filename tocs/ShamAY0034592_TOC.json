@@ -1,0 +1,63 @@
+{
+  "filename": "0765AbuMahasinHusayni.DhaylTadhkira.ShamAY0034592-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO ذيل تذكرة الحفاظ- الذهبي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "CHECK [مقدمة التحقيق]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 11
+    },
+    "3": {
+      "title": "CHECK [ذيل تذكرة الحفاظ للذهبي - الحسيني]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 38
+    },
+    "4": {
+      "title": "AUTO لحظ الالحاظ بذيل طبقات الحفاظ * (تأليف) * الحافط تقي الدين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 38,
+      "end_ms": 189
+    },
+    "5": {
+      "title": "CHECK [ذيل طبقات الحفاظ للذهبي - السيوطي]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 189,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      11,
+      [3],
+      2
+    ],
+    [
+      38,
+      [4],
+      3
+    ],
+    [
+      189,
+      [5],
+      4
+    ]
+  ],
+  "last_ms": 275
+}

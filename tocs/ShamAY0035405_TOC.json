@@ -1,0 +1,142 @@
+{
+  "filename": "0387IbnBattaCukbari.IbanaCanSharica.ShamAY0035405-ara3",
+  "sections": {
+    "1": {
+      "title": "AUTO مقدمة (1)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "2": {
+      "title": "AUTO عصر ابن بطة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 10
+    },
+    "3": {
+      "title": "AUTO حياته",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 18
+    },
+    "4": {
+      "title": "AUTO شخصيته وتدينه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": 21
+    },
+    "5": {
+      "title": "AUTO الفصل الرابع ثقافته في العقيدة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 21,
+      "end_ms": 29
+    },
+    "6": {
+      "title": "AUTO الفصل الخامس مؤلفاته",
+      "level": 1,
+      "parent": null,
+      "start_ms": 29,
+      "end_ms": 30
+    },
+    "7": {
+      "title": "AUTO الفصل السادس شيوخه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 30,
+      "end_ms": 33
+    },
+    "8": {
+      "title": "AUTO الباب الثاني دراسة تمهيدية عن المخطوطة ويحتوي على فصلين] -",
+      "level": 1,
+      "parent": null,
+      "start_ms": 33,
+      "end_ms": 33
+    },
+    "9": {
+      "title": "AUTO التعريف بالكتاب وتحليل موضوعاته",
+      "level": 1,
+      "parent": null,
+      "start_ms": 33,
+      "end_ms": 42
+    },
+    "10": {
+      "title": "AUTO الفصل الثاني التعريف بالمخطوطة وبيان منهج تحقيقها",
+      "level": 1,
+      "parent": null,
+      "start_ms": 42,
+      "end_ms": 42
+    },
+    "11": {
+      "title": "AUTO منهج التحقيق والتعليق على الكتاب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 42,
+      "end_ms": 43
+    },
+    "12": {
+      "title": "AUTO الباب الثالث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 43,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      3,
+      [2],
+      1
+    ],
+    [
+      10,
+      [3],
+      2
+    ],
+    [
+      18,
+      [4],
+      3
+    ],
+    [
+      21,
+      [5],
+      4
+    ],
+    [
+      29,
+      [6],
+      5
+    ],
+    [
+      30,
+      [7],
+      6
+    ],
+    [
+      33,
+      [8, 9],
+      7
+    ],
+    [
+      42,
+      [10, 11],
+      9
+    ],
+    [
+      43,
+      [12],
+      11
+    ]
+  ],
+  "last_ms": 254
+}

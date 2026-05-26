@@ -1,0 +1,32 @@
+{
+  "filename": "0461AbuZakariyaBukhari.Majlisan.Sham19Y0030388BK2-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "مجلس من إملاء أبي زكريا عبد الرحيم بن أحمد بن نصر البخاري رحمه الله ورضي عنه.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 5
+    },
+    "2": {
+      "title": "مجلس ثان من إملاء البخاري رضي الله عنه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      5,
+      [2],
+      1
+    ]
+  ],
+  "last_ms": 8
+}

@@ -1,0 +1,211 @@
+{
+  "filename": "0444AbuCamrDani.CilmHadith.ShamAY0034012-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO باب ذكر بيان المسانيد من الآثار وتقسيمها",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 7
+    },
+    "2": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "4": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "5": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "6": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "7": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "8": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "9": {
+      "title": "AUTO باب ذكر بيان المرسل من الآثار وتفصيله",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 9
+    },
+    "10": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 9,
+      "start_ms": 8,
+      "end_ms": 8
+    },
+    "11": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 9,
+      "start_ms": 8,
+      "end_ms": 9
+    },
+    "12": {
+      "title": "AUTO باب ذكر بيان الموقوف في الآثار وتفصيله",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 12
+    },
+    "13": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 12,
+      "start_ms": 9,
+      "end_ms": 10
+    },
+    "14": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 12,
+      "start_ms": 10,
+      "end_ms": 11
+    },
+    "15": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 12,
+      "start_ms": 11,
+      "end_ms": 12
+    },
+    "16": {
+      "title": "AUTO باب ذكر بيان المقطوع من الآثار وتمثيله",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 14
+    },
+    "17": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 16,
+      "start_ms": 13,
+      "end_ms": 13
+    },
+    "18": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 16,
+      "start_ms": 13,
+      "end_ms": 14
+    },
+    "19": {
+      "title": "AUTO باب ذكر المدلسين من أصحاب الحديث وتقسيم طبقاتهم وشرح مذاهبهم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2],
+      1
+    ],
+    [
+      3,
+      [3],
+      2
+    ],
+    [
+      4,
+      [4, 5],
+      3
+    ],
+    [
+      5,
+      [6, 7],
+      5
+    ],
+    [
+      6,
+      [8],
+      7
+    ],
+    [
+      7,
+      [9],
+      8
+    ],
+    [
+      8,
+      [10, 11],
+      9
+    ],
+    [
+      9,
+      [12, 13],
+      11
+    ],
+    [
+      10,
+      [14],
+      13
+    ],
+    [
+      11,
+      [15],
+      14
+    ],
+    [
+      12,
+      [16],
+      15
+    ],
+    [
+      13,
+      [17, 18],
+      16
+    ],
+    [
+      14,
+      [19],
+      18
+    ]
+  ],
+  "last_ms": 19
+}

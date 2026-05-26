@@ -1,0 +1,96 @@
+{
+  "filename": "0275Sukkari.DiwanAbiAswadDuali.Sham19Y0148539-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO التخريج",
+      "level": 1,
+      "parent": null,
+      "start_ms": 38,
+      "end_ms": 38
+    },
+    "2": {
+      "title": "CHECK شعر أبي الأسود الدؤلي رواية ابن جني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 38,
+      "end_ms": 56
+    },
+    "3": {
+      "title": "AUTO مستدرك الديوان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 56,
+      "end_ms": 68
+    },
+    "4": {
+      "title": "AUTO أ - الشعر الثابت النسبة PageV01P323",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 56,
+      "end_ms": 64
+    },
+    "5": {
+      "title": "AUTO ب - الشعر المشكوك PageV01P379",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 64,
+      "end_ms": 68
+    },
+    "6": {
+      "title": "AUTO ملاحق الديوان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 68,
+      "end_ms": null
+    },
+    "7": {
+      "title": "CHECK ما بقي من شعر أبي الأسود الدؤلي صنعه الأصمعي",
+      "level": 2,
+      "parent": 6,
+      "start_ms": 68,
+      "end_ms": 69
+    },
+    "8": {
+      "title": "AUTO ما بقي من أخبار أبي الأسود الدؤلي",
+      "level": 2,
+      "parent": 6,
+      "start_ms": 69,
+      "end_ms": 69
+    },
+    "9": {
+      "title": "CHECK ما بقي من شعر أبي الأسود تأليف المدائني",
+      "level": 2,
+      "parent": 6,
+      "start_ms": 69,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      38,
+      [1, 2],
+      null
+    ],
+    [
+      56,
+      [3, 4],
+      2
+    ],
+    [
+      64,
+      [5],
+      4
+    ],
+    [
+      68,
+      [6, 7],
+      5
+    ],
+    [
+      69,
+      [8, 9],
+      7
+    ]
+  ],
+  "last_ms": 69
+}

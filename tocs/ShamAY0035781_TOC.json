@@ -1,0 +1,132 @@
+{
+  "filename": "1304CabdHayyLaknawi.ImamAbuHanifa.ShamAY0035781-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [الإمام أبو حنيفة طبقته وتوثيقه]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "2": {
+      "title": "AUTO فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "3": {
+      "title": "AUTO فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "4": {
+      "title": "CHECK [فصل في شيوخه ممن أخذ العلم عنهم وروى عنهم]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "5": {
+      "title": "CHECK [فصل في تلامذته ممنن رووا عنه وتفقهوا به]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "6": {
+      "title": "CHECK [فصل في تلامذته ممنن رووا عنه وتفقهوا به]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 32
+    },
+    "7": {
+      "title": "AUTO متى يكون الحكم بالتابعية:",
+      "level": 2,
+      "parent": 6,
+      "start_ms": 7,
+      "end_ms": 32
+    },
+    "8": {
+      "title": "AUTO فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 32,
+      "end_ms": 86
+    },
+    "9": {
+      "title": "AUTO فوائد لطيفة لمن يلج في الجرح والتعديل:",
+      "level": 2,
+      "parent": 8,
+      "start_ms": 36,
+      "end_ms": 86
+    },
+    "10": {
+      "title": "CHECK [فصل في الاختلاف في وفاته]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 86,
+      "end_ms": 86
+    },
+    "11": {
+      "title": "AUTO فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 86,
+      "end_ms": 86
+    },
+    "12": {
+      "title": "AUTO المصادر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 86,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      4,
+      [2],
+      1
+    ],
+    [
+      5,
+      [3, 4],
+      2
+    ],
+    [
+      6,
+      [5],
+      4
+    ],
+    [
+      7,
+      [6, 7],
+      5
+    ],
+    [
+      32,
+      [8],
+      7
+    ],
+    [
+      36,
+      [9],
+      8
+    ],
+    [
+      86,
+      [10, 11, 12],
+      9
+    ]
+  ],
+  "last_ms": 135
+}

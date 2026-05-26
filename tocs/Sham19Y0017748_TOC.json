@@ -1,0 +1,58 @@
+{
+  "filename": "1332IbnMuhammadJamalDinQasimi.ThamaratTasaruc.Sham19Y0017748-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK ذكر الأحاديث الواردة في الحب في الله",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "CHECK مقدمة المصنف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "CHECK ذكر الأحاديث الواردة في النهي عن التقاطع والتهاجر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "4": {
+      "title": "CHECK آخر الرسالة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "5": {
+      "title": "CHECK كلام الخطابي في الكذب المباح",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      3,
+      [3],
+      2
+    ],
+    [
+      4,
+      [4, 5],
+      3
+    ]
+  ],
+  "last_ms": 5
+}

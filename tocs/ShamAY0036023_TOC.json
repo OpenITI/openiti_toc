@@ -1,0 +1,106 @@
+{
+  "filename": "1304CabdHayyLaknawi.QawtMughtadhin.ShamAY0036023-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [مقدمة المؤلف]",
+      "level": 2,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "AUTO في أنه هل يجوز الفتح على الإمام أم لا؟",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "AUTO اختلف المشايخ في ما إذا قرأ الإمام مقدار ما يجوز به الصلاة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "4": {
+      "title": "AUTO لا ينبغي للإمام أن يلجئ المقتدي إلى الفتح، بل يركع إن كان قد",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "5": {
+      "title": "AUTO ينبغي للمقتدي أن لا يعجل في الفتح ،فلو انتقل الإمام إلى آية",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "6": {
+      "title": "AUTO لو فتح غير المصلي مصليا فأخذ المصلي فتحه إماما كان أو",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "7": {
+      "title": "AUTO لو فتح المصلي على غير إمامه سواء كان مصليا أو لا؟",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 5,
+      "end_ms": 9
+    },
+    "8": {
+      "title": "AUTO ms08 لو سمع المؤتم ممن ليس معه في الصلاة، ففتحه على إمامه تبطل",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 9,
+      "end_ms": 11
+    },
+    "9": {
+      "title": "AUTO - خاتمة -",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 11,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3],
+      2
+    ],
+    [
+      3,
+      [4, 5],
+      3
+    ],
+    [
+      4,
+      [6],
+      5
+    ],
+    [
+      5,
+      [7],
+      6
+    ],
+    [
+      9,
+      [8],
+      null
+    ],
+    [
+      11,
+      [9],
+      8
+    ]
+  ],
+  "last_ms": 12
+}

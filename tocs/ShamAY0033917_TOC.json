@@ -1,0 +1,128 @@
+{
+  "filename": "0458Bayhaqi.SunanKubra.ShamAY0033917-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [الجزء 1]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 675
+    },
+    "2": {
+      "title": "CHECK [الجزء 2]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 675,
+      "end_ms": 1451
+    },
+    "3": {
+      "title": "CHECK [الجزء 3]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1451,
+      "end_ms": 2105
+    },
+    "4": {
+      "title": "CHECK [الجزء 4]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2105,
+      "end_ms": 2736
+    },
+    "5": {
+      "title": "CHECK [الجزء 5]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2736,
+      "end_ms": 3388
+    },
+    "6": {
+      "title": "CHECK [الجزء 6]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3388,
+      "end_ms": 4061
+    },
+    "7": {
+      "title": "CHECK [الجزء 7]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4061,
+      "end_ms": 4895
+    },
+    "8": {
+      "title": "CHECK [الجزء 8]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4895,
+      "end_ms": 5530
+    },
+    "9": {
+      "title": "CHECK [الجزء 9]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5530,
+      "end_ms": 6213
+    },
+    "10": {
+      "title": "CHECK [الجزء 10]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6213,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      675,
+      [2],
+      1
+    ],
+    [
+      1451,
+      [3],
+      2
+    ],
+    [
+      2105,
+      [4],
+      3
+    ],
+    [
+      2736,
+      [5],
+      4
+    ],
+    [
+      3388,
+      [6],
+      5
+    ],
+    [
+      4061,
+      [7],
+      6
+    ],
+    [
+      4895,
+      [8],
+      7
+    ],
+    [
+      5530,
+      [9],
+      8
+    ],
+    [
+      6213,
+      [10],
+      9
+    ]
+  ],
+  "last_ms": 7101
+}

@@ -1,0 +1,44 @@
+{
+  "filename": "0508MuhammadIbnIbrahimKindi.BayanSharc.ShamIbadiyya0000198Vols-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK بيان الشرع للمحمد الكندي 18-21 غير كامل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 149,
+      "end_ms": 634
+    },
+    "2": {
+      "title": "CHECK ج02 بيان الشرع لمحمد الكندي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 634,
+      "end_ms": 845
+    },
+    "3": {
+      "title": "CHECK ج03 بيان الشرع لمحمد الكندي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 845,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      149,
+      [1],
+      null
+    ],
+    [
+      634,
+      [2],
+      1
+    ],
+    [
+      845,
+      [3],
+      2
+    ]
+  ],
+  "last_ms": 2520
+}

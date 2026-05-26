@@ -1,0 +1,132 @@
+{
+  "filename": "0204Shafici.Diwan.ShamAY0037917-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO قافية التاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "2": {
+      "title": "AUTO قافية الجيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "3": {
+      "title": "AUTO قافية الحاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "4": {
+      "title": "AUTO قافية الدال",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 9
+    },
+    "5": {
+      "title": "AUTO قافية الصاد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 9
+    },
+    "6": {
+      "title": "AUTO قافية الضاد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 9
+    },
+    "7": {
+      "title": "AUTO قافية العين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 10
+    },
+    "8": {
+      "title": "AUTO قافية الفاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 11
+    },
+    "9": {
+      "title": "AUTO قافية القاف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 12
+    },
+    "10": {
+      "title": "AUTO قافية الكاف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 12
+    },
+    "11": {
+      "title": "AUTO قافية اللام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 13
+    },
+    "12": {
+      "title": "AUTO قافية الميم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      3,
+      [1],
+      null
+    ],
+    [
+      4,
+      [2],
+      1
+    ],
+    [
+      5,
+      [3, 4],
+      2
+    ],
+    [
+      9,
+      [5, 6, 7],
+      4
+    ],
+    [
+      10,
+      [8],
+      7
+    ],
+    [
+      11,
+      [9],
+      8
+    ],
+    [
+      12,
+      [10, 11],
+      9
+    ],
+    [
+      13,
+      [12],
+      11
+    ]
+  ],
+  "last_ms": 15
+}

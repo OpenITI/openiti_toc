@@ -1,0 +1,175 @@
+{
+  "filename": "0911Suyuti.Shafi.ShamAY0035950-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [الرسالة]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO كتاب ((الشافي العي على مسند الشافعي))",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "AUTO Abstract",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "4": {
+      "title": "AUTO ملخص الرسالة",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "5": {
+      "title": "AUTO المقدمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 7
+    },
+    "6": {
+      "title": "AUTO الدراسة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 22
+    },
+    "7": {
+      "title": "AUTO أولا / التعريف بالمؤلف الحافظ السيوطي (849 - 911 ه الموافق",
+      "level": 2,
+      "parent": 6,
+      "start_ms": 7,
+      "end_ms": 15
+    },
+    "8": {
+      "title": "AUTO ثانيا / دراسة كتاب ((الشافي العي على مسند الشافعي))",
+      "level": 2,
+      "parent": 6,
+      "start_ms": 15,
+      "end_ms": 22
+    },
+    "9": {
+      "title": "AUTO 6 - منهج تحقيق الكتاب",
+      "level": 3,
+      "parent": 8,
+      "start_ms": 21,
+      "end_ms": 22
+    },
+    "10": {
+      "title": "AUTO التحقيق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 22,
+      "end_ms": 22
+    },
+    "11": {
+      "title": "AUTO م ل1 / أكتاب ((الشافي العي على مسند الشافعي))",
+      "level": 1,
+      "parent": null,
+      "start_ms": 22,
+      "end_ms": 482
+    },
+    "12": {
+      "title": "AUTO ر ل97 / أخاتمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 482,
+      "end_ms": 483
+    },
+    "13": {
+      "title": "AUTO الخاتمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 483,
+      "end_ms": 484
+    },
+    "14": {
+      "title": "AUTO الفهارس العلمية والكشافات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 484,
+      "end_ms": null
+    },
+    "15": {
+      "title": "AUTO 1 - فهرست المراجع.",
+      "level": 2,
+      "parent": 14,
+      "start_ms": 484,
+      "end_ms": 511
+    },
+    "16": {
+      "title": "AUTO 2 - كشاف المواضيع.",
+      "level": 2,
+      "parent": 14,
+      "start_ms": 511,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3],
+      null
+    ],
+    [
+      2,
+      [4],
+      3
+    ],
+    [
+      3,
+      [5],
+      4
+    ],
+    [
+      7,
+      [6, 7],
+      5
+    ],
+    [
+      15,
+      [8],
+      7
+    ],
+    [
+      21,
+      [9],
+      8
+    ],
+    [
+      22,
+      [10, 11],
+      9
+    ],
+    [
+      482,
+      [12],
+      11
+    ],
+    [
+      483,
+      [13],
+      12
+    ],
+    [
+      484,
+      [14, 15],
+      13
+    ],
+    [
+      511,
+      [16],
+      15
+    ]
+  ],
+  "last_ms": 890
+}

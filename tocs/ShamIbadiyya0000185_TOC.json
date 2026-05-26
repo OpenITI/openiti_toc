@@ -1,0 +1,252 @@
+{
+  "filename": "1090KhamisShiqsi.MinhajTalibin.ShamIbadiyya0000185-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO الجزء الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 405,
+      "end_ms": 760
+    },
+    "2": {
+      "title": "CHECK الجزء الثالث والرابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 760,
+      "end_ms": 1144
+    },
+    "3": {
+      "title": "AUTO الجزء الخامس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1144,
+      "end_ms": 1144
+    },
+    "4": {
+      "title": "AUTO الجزء الخامس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1144,
+      "end_ms": 1400
+    },
+    "5": {
+      "title": "CHECK الجزءالسادس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1400,
+      "end_ms": 1760
+    },
+    "6": {
+      "title": "CHECK الجزء السابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1760,
+      "end_ms": 1987
+    },
+    "7": {
+      "title": "AUTO الجزء الثامن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1987,
+      "end_ms": 1987
+    },
+    "8": {
+      "title": "AUTO الجزء الثامن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1987,
+      "end_ms": 2108
+    },
+    "9": {
+      "title": "AUTO الجزء التاسع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2108,
+      "end_ms": 2262
+    },
+    "10": {
+      "title": "AUTO الجزء العاشر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2262,
+      "end_ms": 2262
+    },
+    "11": {
+      "title": "AUTO الجزء العاشر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2262,
+      "end_ms": 2442
+    },
+    "12": {
+      "title": "AUTO الجزء الحادي عشر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2442,
+      "end_ms": 2565
+    },
+    "13": {
+      "title": "AUTO الجزء الثاني عشر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2565,
+      "end_ms": 2735
+    },
+    "14": {
+      "title": "AUTO الجزء الثالث عشر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2735,
+      "end_ms": 2896
+    },
+    "15": {
+      "title": "CHECK الجزء الرابع عشر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2896,
+      "end_ms": 3119
+    },
+    "16": {
+      "title": "CHECK الجزء الخامس عشر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3119,
+      "end_ms": 3416
+    },
+    "17": {
+      "title": "AUTO ms3415 الجزء السادس عشر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3416,
+      "end_ms": 3416
+    },
+    "18": {
+      "title": "AUTO الجزء السادس عشر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3416,
+      "end_ms": 3663
+    },
+    "19": {
+      "title": "AUTO الجزء السابع عشر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3663,
+      "end_ms": 3863
+    },
+    "20": {
+      "title": "AUTO الجزء الثامن عشر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3863,
+      "end_ms": 4112
+    },
+    "21": {
+      "title": "AUTO الجزء التاسع عشر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4112,
+      "end_ms": 4429
+    },
+    "22": {
+      "title": "AUTO الجزء العشرون",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4429,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      405,
+      [1],
+      null
+    ],
+    [
+      760,
+      [2],
+      1
+    ],
+    [
+      1144,
+      [3, 4],
+      2
+    ],
+    [
+      1400,
+      [5],
+      4
+    ],
+    [
+      1760,
+      [6],
+      5
+    ],
+    [
+      1987,
+      [7, 8],
+      6
+    ],
+    [
+      2108,
+      [9],
+      8
+    ],
+    [
+      2262,
+      [10, 11],
+      9
+    ],
+    [
+      2442,
+      [12],
+      11
+    ],
+    [
+      2565,
+      [13],
+      12
+    ],
+    [
+      2735,
+      [14],
+      13
+    ],
+    [
+      2896,
+      [15],
+      14
+    ],
+    [
+      3119,
+      [16],
+      15
+    ],
+    [
+      3416,
+      [17, 18],
+      null
+    ],
+    [
+      3663,
+      [19],
+      18
+    ],
+    [
+      3863,
+      [20],
+      19
+    ],
+    [
+      4112,
+      [21],
+      20
+    ],
+    [
+      4429,
+      [22],
+      21
+    ]
+  ],
+  "last_ms": 4555
+}

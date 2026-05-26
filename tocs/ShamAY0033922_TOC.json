@@ -1,0 +1,178 @@
+{
+  "filename": "0179MalikIbnAnas.Muwatta.ShamAY0033922-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [الغلاف]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO الضحايا",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 5
+    },
+    "3": {
+      "title": "AUTO العقيقة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "4": {
+      "title": "AUTO الذكاة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "5": {
+      "title": "AUTO ذكاة الجنين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 9
+    },
+    "6": {
+      "title": "AUTO باب ذبح أهل الكتاب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 10
+    },
+    "7": {
+      "title": "AUTO طعام المجوس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 10
+    },
+    "8": {
+      "title": "AUTO الاستمتاع بجلود الميتة والسباع وشعر الخنزير",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 11
+    },
+    "9": {
+      "title": "AUTO أكل المضطر الميتة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 12
+    },
+    "10": {
+      "title": "AUTO أكل السباع والطير وغيرها",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 13
+    },
+    "11": {
+      "title": "AUTO أكل الدواب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 14
+    },
+    "12": {
+      "title": "AUTO ما تموت فيه الفأرة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 15
+    },
+    "13": {
+      "title": "AUTO صيد البحر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 16
+    },
+    "14": {
+      "title": "AUTO الصيد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": 20
+    },
+    "15": {
+      "title": "AUTO الذبائح",
+      "level": 1,
+      "parent": null,
+      "start_ms": 20,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      5,
+      [3],
+      2
+    ],
+    [
+      6,
+      [4],
+      3
+    ],
+    [
+      7,
+      [5],
+      4
+    ],
+    [
+      9,
+      [6],
+      5
+    ],
+    [
+      10,
+      [7, 8],
+      6
+    ],
+    [
+      11,
+      [9],
+      8
+    ],
+    [
+      12,
+      [10],
+      9
+    ],
+    [
+      13,
+      [11],
+      10
+    ],
+    [
+      14,
+      [12],
+      11
+    ],
+    [
+      15,
+      [13],
+      12
+    ],
+    [
+      16,
+      [14],
+      13
+    ],
+    [
+      20,
+      [15],
+      14
+    ]
+  ],
+  "last_ms": 20
+}

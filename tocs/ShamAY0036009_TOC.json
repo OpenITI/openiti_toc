@@ -1,0 +1,99 @@
+{
+  "filename": "1304CabdHayyLaknawi.QawlJazim.ShamAY0036009-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [مقدمة المؤلف]",
+      "level": 2,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "AUTO في إيراد الأخبار مع ما لها وما عليها PageV01P013",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 6
+    },
+    "3": {
+      "title": "CHECK [في ذكر اختلاف الأئمةفي الناكح بالمحرم وواطئه]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "4": {
+      "title": "AUTO في تفصيل مذهب الحنفية وتوجيهه PageV01P026",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "5": {
+      "title": "AUTO وهي الشبهة في المحل",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 7,
+      "end_ms": 11
+    },
+    "6": {
+      "title": "AUTO وهي الشبهة في الفعل",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 11,
+      "end_ms": 14
+    },
+    "7": {
+      "title": "AUTO وهي شبهة العقد",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 14,
+      "end_ms": 19
+    },
+    "8": {
+      "title": "CHECK [دفع المطاعن لتي أوردوها على الحنفيةفي باب سقوط الحد بنكاح",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 19,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      3,
+      [2],
+      1
+    ],
+    [
+      6,
+      [3],
+      2
+    ],
+    [
+      7,
+      [4, 5],
+      3
+    ],
+    [
+      11,
+      [6],
+      5
+    ],
+    [
+      14,
+      [7],
+      6
+    ],
+    [
+      19,
+      [8],
+      7
+    ]
+  ],
+  "last_ms": 47
+}

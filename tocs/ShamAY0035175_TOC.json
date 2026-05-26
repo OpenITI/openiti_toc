@@ -1,0 +1,147 @@
+{
+  "filename": "0454Qudaci.DusturMacalim.ShamAY0035175-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO [سند النسخة]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO (مقدمة)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 6
+    },
+    "3": {
+      "title": "AUTO الباب الأول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 13
+    },
+    "4": {
+      "title": "AUTO الباب الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 22
+    },
+    "5": {
+      "title": "AUTO الباب الثالث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 22,
+      "end_ms": 25
+    },
+    "6": {
+      "title": "AUTO الباب الرابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 25,
+      "end_ms": 36
+    },
+    "7": {
+      "title": "AUTO الباب الخامس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 36,
+      "end_ms": 43
+    },
+    "8": {
+      "title": "AUTO الباب السادس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 43,
+      "end_ms": 46
+    },
+    "9": {
+      "title": "AUTO الباب السابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 46,
+      "end_ms": 56
+    },
+    "10": {
+      "title": "AUTO الباب الثامن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 56,
+      "end_ms": 64
+    },
+    "11": {
+      "title": "AUTO الباب التاسع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 64,
+      "end_ms": 69
+    },
+    "12": {
+      "title": "AUTO [خاتمة الطبع]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 69,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      6,
+      [3],
+      2
+    ],
+    [
+      13,
+      [4],
+      3
+    ],
+    [
+      22,
+      [5],
+      4
+    ],
+    [
+      25,
+      [6],
+      5
+    ],
+    [
+      36,
+      [7],
+      6
+    ],
+    [
+      43,
+      [8],
+      7
+    ],
+    [
+      46,
+      [9],
+      8
+    ],
+    [
+      56,
+      [10],
+      9
+    ],
+    [
+      64,
+      [11],
+      10
+    ],
+    [
+      69,
+      [12],
+      11
+    ]
+  ],
+  "last_ms": 70
+}

@@ -1,0 +1,177 @@
+{
+  "filename": "0360AbuBakrAjurri.TasdiqBiNazar.ShamAY0033848-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [أول الكتاب]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 7
+    },
+    "2": {
+      "title": "AUTO فمما روى جرير بن عبد الله البجلي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 10
+    },
+    "3": {
+      "title": "AUTO ومما روى أبو سعيد الخدري",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 11
+    },
+    "4": {
+      "title": "AUTO عن أبي سعيد الخدري قال قلنا يا رسول الله أنرى ms10 ربنا عز وجل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 11
+    },
+    "5": {
+      "title": "AUTO ومما روى صهيب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 11
+    },
+    "6": {
+      "title": "AUTO عن صهيب قال إن رسول الله ص - قرأ للذين أحسنوا الحسنى وزيادة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 12
+    },
+    "7": {
+      "title": "AUTO - قال إذا دخل أهل الجنة الجنة نادى مناد يا أهل الجنة إن لكم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 22
+    },
+    "8": {
+      "title": "AUTO عن أبي سعيد الخدري عن رسول الله ص - أن رجلا قال طوبى لمن رآك",
+      "level": 1,
+      "parent": null,
+      "start_ms": 22,
+      "end_ms": 22
+    },
+    "9": {
+      "title": "AUTO لمن آمن بي ولم - يرني فقال له رجل يا رسول الله ما طوبى قال",
+      "level": 1,
+      "parent": null,
+      "start_ms": 22,
+      "end_ms": 22
+    },
+    "10": {
+      "title": "AUTO عن ابن عمر قال ذكر عند النبي ص - طوبى فقال يا أبا بكر هل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 22,
+      "end_ms": 22
+    },
+    "11": {
+      "title": "AUTO 59 - حدثنا أبو جعفر محمد بن هارون بن يزيد الدقاق إملاء حدثنا",
+      "level": 1,
+      "parent": null,
+      "start_ms": 22,
+      "end_ms": 23
+    },
+    "12": {
+      "title": "AUTO قال رسول الله ص - إن في الجنة شجرة يقال لها طوبى لو يسخر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 23,
+      "end_ms": 25
+    },
+    "13": {
+      "title": "AUTO وجل من قنوط عباده وقرب غيره قال قلت يا رسول الله أو يضحك",
+      "level": 1,
+      "parent": null,
+      "start_ms": 25,
+      "end_ms": 26
+    },
+    "14": {
+      "title": "AUTO عن أبي موسى قال قال رسول الله ص - يتجلى الرب عز وجل ضاحكا",
+      "level": 1,
+      "parent": null,
+      "start_ms": 26,
+      "end_ms": 26
+    },
+    "15": {
+      "title": "AUTO - قال يتجلى لنا ربنا ضاحكا يوم القيامة قال محمد بن الحسن وفي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 26,
+      "end_ms": 26
+    },
+    "16": {
+      "title": "AUTO ### | AUTO قيل له يا جاهل إن الذي أنزل الله عز وجل عليه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 26,
+      "end_ms": 27
+    },
+    "17": {
+      "title": "AUTO ### | AUTO - رأى ربه عز وجل فقال رجل عند ذلك أليس قال الله",
+      "level": 1,
+      "parent": null,
+      "start_ms": 27,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      7,
+      [2],
+      1
+    ],
+    [
+      10,
+      [3],
+      2
+    ],
+    [
+      11,
+      [4, 5, 6],
+      null
+    ],
+    [
+      12,
+      [7],
+      6
+    ],
+    [
+      22,
+      [8, 9, 10, 11],
+      7
+    ],
+    [
+      23,
+      [12],
+      11
+    ],
+    [
+      25,
+      [13],
+      12
+    ],
+    [
+      26,
+      [14, 15, 16],
+      13
+    ],
+    [
+      27,
+      [17],
+      16
+    ]
+  ],
+  "last_ms": 27
+}

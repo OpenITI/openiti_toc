@@ -1,0 +1,84 @@
+{
+  "filename": "1182IbnIsmacilSancani.RisalaLatifa.Sham19Y0017848-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK تخريج الحديث وطرقه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "CHECK مقدمة المصنف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "CHECK حكم العمل بالحديث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "4": {
+      "title": "CHECK ms2 كلام الخطابي حول معنى الحديث والرد عليه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 5
+    },
+    "5": {
+      "title": "CHECK هل مال الولد لأبيه على ms4 الإطلاق أم ماذا؟",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "6": {
+      "title": "CHECK الجمع بين الأدلة في الإثبات والنسخ",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "7": {
+      "title": "CHECK هل الخبر منسوخ أم لا؟",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 8
+    },
+    "8": {
+      "title": "AUTO هل الأم كالأب في ملكها مال ابنها؟",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3],
+      null
+    ],
+    [
+      3,
+      [4],
+      null
+    ],
+    [
+      5,
+      [5, 6, 7],
+      null
+    ],
+    [
+      8,
+      [8],
+      7
+    ]
+  ],
+  "last_ms": 9
+}

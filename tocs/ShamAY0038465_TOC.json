@@ -1,0 +1,118 @@
+{
+  "filename": "0778BadrDinBacli.MukhtasarSarim.ShamAY0038465-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [المسألة الأولى أن من سبه - صلى الله عليه وسلم - من مسلم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 29
+    },
+    "2": {
+      "title": "AUTO فصل (1)",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 12,
+      "end_ms": 24
+    },
+    "3": {
+      "title": "AUTO فصل (1)",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 24,
+      "end_ms": 29
+    },
+    "4": {
+      "title": "CHECK [المسألة الثانية أنه يتعين قتله، ولا يجوز استرقاقه، ولا المن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 29,
+      "end_ms": 31
+    },
+    "5": {
+      "title": "CHECK [المسألة الثالثة أنه يقتل ولا يستتاب سواء كان مسلما أو كافرا]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 31,
+      "end_ms": null
+    },
+    "6": {
+      "title": "AUTO فصل (3)",
+      "level": 2,
+      "parent": 5,
+      "start_ms": 34,
+      "end_ms": 37
+    },
+    "7": {
+      "title": "AUTO فصل (3)",
+      "level": 2,
+      "parent": 5,
+      "start_ms": 37,
+      "end_ms": 37
+    },
+    "8": {
+      "title": "AUTO فصل (3)",
+      "level": 2,
+      "parent": 5,
+      "start_ms": 37,
+      "end_ms": 41
+    },
+    "9": {
+      "title": "AUTO فصل فيمن سب الله تعالى (1)",
+      "level": 2,
+      "parent": 5,
+      "start_ms": 41,
+      "end_ms": 41
+    },
+    "10": {
+      "title": "AUTO فصل (2)",
+      "level": 2,
+      "parent": 5,
+      "start_ms": 41,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      12,
+      [2],
+      1
+    ],
+    [
+      24,
+      [3],
+      2
+    ],
+    [
+      29,
+      [4],
+      3
+    ],
+    [
+      31,
+      [5],
+      4
+    ],
+    [
+      34,
+      [6],
+      5
+    ],
+    [
+      37,
+      [7, 8],
+      6
+    ],
+    [
+      41,
+      [9, 10],
+      8
+    ]
+  ],
+  "last_ms": 49
+}

@@ -1,0 +1,124 @@
+{
+  "filename": "0672IbnMalik.NazmLamiyyatAfcal.ShamAY0037033-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [نظم لامية الأفعال لابن مالك]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO مقدمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "AUTO فصل في اتصال تاء الضمير أو نونه بالفعل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "4": {
+      "title": "AUTO من أبنية الفعل المزيد فيه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "5": {
+      "title": "AUTO فصل في المضارع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "6": {
+      "title": "AUTO فصل في فعل ما لم يسم فاعله",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "7": {
+      "title": "AUTO فصل في فعل الأمر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "8": {
+      "title": "AUTO باب أبنية أسماء الفاعلين والمفعولين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "9": {
+      "title": "AUTO باب أبنية المصادر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "10": {
+      "title": "AUTO فصل في مصادر ما زاد على الثلاثي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "11": {
+      "title": "AUTO فصل في بناء المفعلة للدلالة على الكثرة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "12": {
+      "title": "AUTO فصل في بناء الآلة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "13": {
+      "title": "AUTO خاتمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3, 4, 5, 6],
+      2
+    ],
+    [
+      3,
+      [7, 8, 9],
+      6
+    ],
+    [
+      4,
+      [10],
+      9
+    ],
+    [
+      5,
+      [11, 12, 13],
+      10
+    ]
+  ],
+  "last_ms": 5
+}

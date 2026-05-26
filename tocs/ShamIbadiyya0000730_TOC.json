@@ -1,0 +1,32 @@
+{
+  "filename": "0570AbuCammarCabdKafiIbadi.Mujaz.ShamIbadiyya0000730-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK الموجز لأبي عمار عبد الكافي تخريج عميرة ج1",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 160
+    },
+    "2": {
+      "title": "CHECK الموجز لأبي عمار عبد الكافي تخريج عميرة ج2",
+      "level": 1,
+      "parent": null,
+      "start_ms": 160,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      160,
+      [2],
+      1
+    ]
+  ],
+  "last_ms": 379
+}

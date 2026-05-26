@@ -1,0 +1,135 @@
+{
+  "filename": "1450CaliIbnNayifShuhud.MuyassarFiHaya.ShamAY0035791-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO الميسر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "2": {
+      "title": "AUTO المبحث الأول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 19
+    },
+    "3": {
+      "title": "AUTO المبحث الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 19,
+      "end_ms": 29
+    },
+    "4": {
+      "title": "AUTO المبحث الثالث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 29,
+      "end_ms": 56
+    },
+    "5": {
+      "title": "AUTO المبحث الرابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 56,
+      "end_ms": 88
+    },
+    "6": {
+      "title": "AUTO المبحث الخامس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 88,
+      "end_ms": 99
+    },
+    "7": {
+      "title": "AUTO المبحث السادس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 99,
+      "end_ms": 147
+    },
+    "8": {
+      "title": "AUTO الفتوحات الإسلامية في عهد الصديق",
+      "level": 2,
+      "parent": 7,
+      "start_ms": 99,
+      "end_ms": 106
+    },
+    "9": {
+      "title": "AUTO الفتوحات في عهد عمر",
+      "level": 2,
+      "parent": 7,
+      "start_ms": 106,
+      "end_ms": 143
+    },
+    "10": {
+      "title": "AUTO الفتوحات في عهد عثمان",
+      "level": 2,
+      "parent": 7,
+      "start_ms": 143,
+      "end_ms": 147
+    },
+    "11": {
+      "title": "AUTO المبحث السابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 147,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2],
+      1
+    ],
+    [
+      19,
+      [3],
+      2
+    ],
+    [
+      29,
+      [4],
+      3
+    ],
+    [
+      56,
+      [5],
+      4
+    ],
+    [
+      88,
+      [6],
+      5
+    ],
+    [
+      99,
+      [7, 8],
+      6
+    ],
+    [
+      106,
+      [9],
+      8
+    ],
+    [
+      143,
+      [10],
+      9
+    ],
+    [
+      147,
+      [11],
+      10
+    ]
+  ],
+  "last_ms": 163
+}

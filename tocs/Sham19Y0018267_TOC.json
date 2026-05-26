@@ -1,0 +1,56 @@
+{
+  "filename": "0377IbnAhmadFarisi.MasailCaskariyyat.Sham19Y0018267-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO هذا باب علم (ما) الكلم من العربية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 7
+    },
+    "2": {
+      "title": "AUTO هذا باب ما ائتلف من هذه الألفاظ الثلاثة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 16
+    },
+    "3": {
+      "title": "AUTO هذا باب معرفة ما كان شاذا من كلامهم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": 32
+    },
+    "4": {
+      "title": "AUTO هذا باب الإعراب والبناء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 32,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      7,
+      [2],
+      1
+    ],
+    [
+      16,
+      [3],
+      2
+    ],
+    [
+      32,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 49
+}

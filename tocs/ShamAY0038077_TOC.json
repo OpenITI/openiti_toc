@@ -1,0 +1,130 @@
+{
+  "filename": "0281IbnAbiDunya.IstinacMacruf.ShamAY0038077-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO الكتاب: اصطناع المعروف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "CHECK [باب فضل اصطناع المعروف]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 6
+    },
+    "4": {
+      "title": "AUTO باب الضحك",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 9
+    },
+    "5": {
+      "title": "AUTO باب اصطناع المعروف إلى من هو أهله, وإلى من ليس بأهله",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 19
+    },
+    "6": {
+      "title": "AUTO باب في الحوائج",
+      "level": 1,
+      "parent": null,
+      "start_ms": 19,
+      "end_ms": 21
+    },
+    "7": {
+      "title": "CHECK [الجزء الثاني بسم الله الرحمن الرحيم]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 21,
+      "end_ms": 25
+    },
+    "8": {
+      "title": "AUTO باب طلب الحوائج إلى حسان الوجوه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 25,
+      "end_ms": 29
+    },
+    "9": {
+      "title": "AUTO باب في شكر الصنيعة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 29,
+      "end_ms": 35
+    },
+    "10": {
+      "title": "CHECK [باب من أنظر معسرا]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 35,
+      "end_ms": 41
+    },
+    "11": {
+      "title": "CHECK [المستدرك]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 41,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3],
+      null
+    ],
+    [
+      6,
+      [4],
+      3
+    ],
+    [
+      9,
+      [5],
+      4
+    ],
+    [
+      19,
+      [6],
+      5
+    ],
+    [
+      21,
+      [7],
+      6
+    ],
+    [
+      25,
+      [8],
+      7
+    ],
+    [
+      29,
+      [9],
+      8
+    ],
+    [
+      35,
+      [10],
+      9
+    ],
+    [
+      41,
+      [11],
+      10
+    ]
+  ],
+  "last_ms": 42
+}

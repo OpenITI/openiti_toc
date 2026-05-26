@@ -1,0 +1,51 @@
+{
+  "filename": "1304CabdHayyLaknawi.RafcSatr.ShamAY0036021-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [مقدمة المؤلف]",
+      "level": 2,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "AUTO في كيفية إدخال الميت في القبر",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 7
+    },
+    "3": {
+      "title": "AUTO في كيفية وضعه في القبر",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 7,
+      "end_ms": 12
+    },
+    "4": {
+      "title": "AUTO - خاتمة -",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 12,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      7,
+      [3],
+      2
+    ],
+    [
+      12,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 13
+}

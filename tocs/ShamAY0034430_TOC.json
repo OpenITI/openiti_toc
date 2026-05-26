@@ -1,0 +1,39 @@
+{
+  "filename": "0751IbnQayyimJawziyya.HidayatHayara.ShamAY0034430-ara3",
+  "sections": {
+    "1": {
+      "title": "AUTO هداية الحيارى في أجوبة اليهود والنصارى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "CHECK [1_مقدمة]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 6
+    },
+    "3": {
+      "title": "CHECK [2_هداية الحيارى في أجوبة اليهود والنصارى]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      6,
+      [3],
+      2
+    ]
+  ],
+  "last_ms": 246
+}

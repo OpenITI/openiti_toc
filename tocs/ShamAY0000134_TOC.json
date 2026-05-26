@@ -1,0 +1,341 @@
+{
+  "filename": "0816IbnMuhammadSharifJurjani.DibajMudhahhab.ShamAY0000134-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [خطبة الكتاب]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "2": {
+      "title": "CHECK [تعريف المتن]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "CHECK [تعريف الحديث]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "4": {
+      "title": "CHECK [تعريف السند والإسناد والخبر المتواتر]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "5": {
+      "title": "CHECK [تعريف الآحاد]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "6": {
+      "title": "AUTO الباب الأول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 10
+    },
+    "7": {
+      "title": "AUTO الفصل الأول",
+      "level": 2,
+      "parent": 6,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "8": {
+      "title": "AUTO الفصل الثاني",
+      "level": 2,
+      "parent": 6,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "9": {
+      "title": "AUTO الفصل الثالث",
+      "level": 2,
+      "parent": 6,
+      "start_ms": 4,
+      "end_ms": 10
+    },
+    "10": {
+      "title": "AUTO المسند",
+      "level": 3,
+      "parent": 9,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "11": {
+      "title": "AUTO المتصل",
+      "level": 3,
+      "parent": 9,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "12": {
+      "title": "AUTO المرفوع",
+      "level": 3,
+      "parent": 9,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "13": {
+      "title": "AUTO المعنعن",
+      "level": 3,
+      "parent": 9,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "14": {
+      "title": "AUTO المعلق",
+      "level": 3,
+      "parent": 9,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "15": {
+      "title": "AUTO الإفراد",
+      "level": 3,
+      "parent": 9,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "16": {
+      "title": "AUTO المدرج",
+      "level": 3,
+      "parent": 9,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "17": {
+      "title": "AUTO المشهور",
+      "level": 3,
+      "parent": 9,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "18": {
+      "title": "AUTO الغريب",
+      "level": 3,
+      "parent": 9,
+      "start_ms": 6,
+      "end_ms": 6
+    },
+    "19": {
+      "title": "AUTO المصحف",
+      "level": 3,
+      "parent": 9,
+      "start_ms": 6,
+      "end_ms": 6
+    },
+    "20": {
+      "title": "AUTO المسلسل",
+      "level": 3,
+      "parent": 9,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "21": {
+      "title": "AUTO الاعتبار",
+      "level": 3,
+      "parent": 9,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "22": {
+      "title": "AUTO الموقوف",
+      "level": 3,
+      "parent": 9,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "23": {
+      "title": "AUTO المقطوع",
+      "level": 3,
+      "parent": 9,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "24": {
+      "title": "AUTO المرسل",
+      "level": 3,
+      "parent": 9,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "25": {
+      "title": "AUTO المنقطع",
+      "level": 3,
+      "parent": 9,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "26": {
+      "title": "AUTO المعضل",
+      "level": 3,
+      "parent": 9,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "27": {
+      "title": "AUTO الشاذ والمنكر",
+      "level": 3,
+      "parent": 9,
+      "start_ms": 7,
+      "end_ms": 8
+    },
+    "28": {
+      "title": "AUTO المعلل",
+      "level": 3,
+      "parent": 9,
+      "start_ms": 8,
+      "end_ms": 8
+    },
+    "29": {
+      "title": "AUTO المدلس",
+      "level": 3,
+      "parent": 9,
+      "start_ms": 8,
+      "end_ms": 9
+    },
+    "30": {
+      "title": "AUTO المضطرب",
+      "level": 3,
+      "parent": 9,
+      "start_ms": 9,
+      "end_ms": 9
+    },
+    "31": {
+      "title": "AUTO المقلوب",
+      "level": 3,
+      "parent": 9,
+      "start_ms": 9,
+      "end_ms": 9
+    },
+    "32": {
+      "title": "AUTO الموضوع",
+      "level": 3,
+      "parent": 9,
+      "start_ms": 9,
+      "end_ms": 10
+    },
+    "33": {
+      "title": "AUTO الباب الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 11
+    },
+    "34": {
+      "title": "AUTO الفصل الأول",
+      "level": 2,
+      "parent": 33,
+      "start_ms": 10,
+      "end_ms": 10
+    },
+    "35": {
+      "title": "AUTO الفصل الثاني",
+      "level": 2,
+      "parent": 33,
+      "start_ms": 10,
+      "end_ms": 11
+    },
+    "36": {
+      "title": "CHECK [تذييل للفصل الثاني]",
+      "level": 3,
+      "parent": 35,
+      "start_ms": 10,
+      "end_ms": 11
+    },
+    "37": {
+      "title": "AUTO الباب الثالث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 12
+    },
+    "38": {
+      "title": "AUTO طرق تحمل الحديث",
+      "level": 2,
+      "parent": 37,
+      "start_ms": 11,
+      "end_ms": 12
+    },
+    "39": {
+      "title": "AUTO الباب الرابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3, 4, 5],
+      null
+    ],
+    [
+      2,
+      [6, 7],
+      5
+    ],
+    [
+      3,
+      [8],
+      7
+    ],
+    [
+      4,
+      [9, 10],
+      8
+    ],
+    [
+      5,
+      [11, 12, 13, 14, 15, 16, 17],
+      10
+    ],
+    [
+      6,
+      [18, 19, 20],
+      17
+    ],
+    [
+      7,
+      [21, 22, 23, 24, 25, 26, 27],
+      20
+    ],
+    [
+      8,
+      [28, 29],
+      27
+    ],
+    [
+      9,
+      [30, 31, 32],
+      29
+    ],
+    [
+      10,
+      [33, 34, 35, 36],
+      32
+    ],
+    [
+      11,
+      [37, 38],
+      36
+    ],
+    [
+      12,
+      [39],
+      38
+    ]
+  ],
+  "last_ms": 13
+}

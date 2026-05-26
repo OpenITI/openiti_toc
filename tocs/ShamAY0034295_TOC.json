@@ -1,0 +1,113 @@
+{
+  "filename": "1033MarciKarmi.MasailSittKiram.ShamAY0034295-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO المسألة الأولى في الإحرام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "2": {
+      "title": "AUTO تنبيه : اختلف العلماء في عدد حجات ms02 النبي عليه السلام.",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "AUTO فائدة: حج إمامنا أحمد رضي الله عنه خمس حجات: ثلاث حجج ماشيا،",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "4": {
+      "title": "AUTO المسألة الثانية في البيت الحرام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 5
+    },
+    "5": {
+      "title": "AUTO المسألة الثالثة في الحجر الأسود",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 7
+    },
+    "6": {
+      "title": "AUTO المسألة الرابعة في تفضيل البلد الحرام على المدينة المنورة على",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 10
+    },
+    "7": {
+      "title": "AUTO المسألة الخامسة في مضاعفة السيئات كالحسنات في البلد الحرام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 12
+    },
+    "8": {
+      "title": "AUTO حكاية",
+      "level": 2,
+      "parent": 7,
+      "start_ms": 12,
+      "end_ms": 12
+    },
+    "9": {
+      "title": "AUTO المسألة السادسة في تفضيل الطواف على الصلاة في حق الغريب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 13
+    },
+    "10": {
+      "title": "AUTO خاتمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      3,
+      [2, 3, 4],
+      null
+    ],
+    [
+      5,
+      [5],
+      4
+    ],
+    [
+      7,
+      [6],
+      5
+    ],
+    [
+      10,
+      [7],
+      6
+    ],
+    [
+      12,
+      [8, 9],
+      7
+    ],
+    [
+      13,
+      [10],
+      9
+    ]
+  ],
+  "last_ms": 14
+}

@@ -1,0 +1,171 @@
+{
+  "filename": "0845Maqrizi.Muqaffa.Sham19Y0145334-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "حرف الألف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 840
+    },
+    "2": {
+      "title": "[حرف الباء]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 840,
+      "end_ms": 978
+    },
+    "3": {
+      "title": "[حرف التاء]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 978,
+      "end_ms": 1010
+    },
+    "4": {
+      "title": "حرف الثاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1010,
+      "end_ms": 1020
+    },
+    "5": {
+      "title": "حرف الجيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1020,
+      "end_ms": 1092
+    },
+    "6": {
+      "title": "حرف الحاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1092,
+      "end_ms": 1495
+    },
+    "7": {
+      "title": "حرف الخاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1495,
+      "end_ms": 1584
+    },
+    "8": {
+      "title": "حرف الطاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1584,
+      "end_ms": 1603
+    },
+    "9": {
+      "title": "[حرف العين]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1603,
+      "end_ms": 2048
+    },
+    "10": {
+      "title": "التراجم الملحقة بكتاب درر العقود الفريدة",
+      "level": 2,
+      "parent": 9,
+      "start_ms": 2010,
+      "end_ms": 2048
+    },
+    "11": {
+      "title": "مقدمة المقريزي لكتاب الدرر",
+      "level": 3,
+      "parent": 10,
+      "start_ms": 2010,
+      "end_ms": 2048
+    },
+    "12": {
+      "title": "حرف الكاف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2048,
+      "end_ms": 2050
+    },
+    "13": {
+      "title": "حرف اللام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2050,
+      "end_ms": 2053
+    },
+    "14": {
+      "title": "حرف الميم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2053,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      840,
+      [2],
+      1
+    ],
+    [
+      978,
+      [3],
+      2
+    ],
+    [
+      1010,
+      [4],
+      3
+    ],
+    [
+      1020,
+      [5],
+      4
+    ],
+    [
+      1092,
+      [6],
+      5
+    ],
+    [
+      1495,
+      [7],
+      6
+    ],
+    [
+      1584,
+      [8],
+      7
+    ],
+    [
+      1603,
+      [9],
+      8
+    ],
+    [
+      2010,
+      [10, 11],
+      9
+    ],
+    [
+      2048,
+      [12],
+      11
+    ],
+    [
+      2050,
+      [13],
+      12
+    ],
+    [
+      2053,
+      [14],
+      13
+    ]
+  ],
+  "last_ms": 3123
+}

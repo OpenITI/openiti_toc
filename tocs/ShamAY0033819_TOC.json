@@ -1,0 +1,104 @@
+{
+  "filename": "0808IbnKhaldun.Tarikh.ShamAY0033819-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [الجزء 1]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 624
+    },
+    "2": {
+      "title": "CHECK [الجزء 2]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 624,
+      "end_ms": 1015
+    },
+    "3": {
+      "title": "CHECK [الجزء 2]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1015,
+      "end_ms": 1276
+    },
+    "4": {
+      "title": "CHECK [الجزء 3]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1276,
+      "end_ms": 1975
+    },
+    "5": {
+      "title": "CHECK [الجزء 4]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1975,
+      "end_ms": 2631
+    },
+    "6": {
+      "title": "CHECK [الجزء 5]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2631,
+      "end_ms": 3299
+    },
+    "7": {
+      "title": "CHECK [الجزء 6]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3299,
+      "end_ms": 3807
+    },
+    "8": {
+      "title": "CHECK [الجزء 7]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3807,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      624,
+      [2],
+      1
+    ],
+    [
+      1015,
+      [3],
+      2
+    ],
+    [
+      1276,
+      [4],
+      3
+    ],
+    [
+      1975,
+      [5],
+      4
+    ],
+    [
+      2631,
+      [6],
+      5
+    ],
+    [
+      3299,
+      [7],
+      6
+    ],
+    [
+      3807,
+      [8],
+      7
+    ]
+  ],
+  "last_ms": 4390
+}

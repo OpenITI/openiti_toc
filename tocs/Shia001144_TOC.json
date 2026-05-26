@@ -1,0 +1,80 @@
+{
+  "filename": "0381IbnBabawayhSaduq.FadailAshhurThalatha.Shia001144-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "كتاب فضائل شهر رجب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 14
+    },
+    "2": {
+      "title": "حديث أم داود وعملها",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 9,
+      "end_ms": 14
+    },
+    "3": {
+      "title": "كتاب فضائل شعبان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 28
+    },
+    "4": {
+      "title": "كتاب فضائل شهر رمضان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 28,
+      "end_ms": null
+    },
+    "5": {
+      "title": "(خبر الصلاة في آخر ليلة من شهر رمضان)",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 70,
+      "end_ms": 73
+    },
+    "6": {
+      "title": "(خبر وداع شهر رمضان)",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 73,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      9,
+      [2],
+      1
+    ],
+    [
+      14,
+      [3],
+      2
+    ],
+    [
+      28,
+      [4],
+      3
+    ],
+    [
+      70,
+      [5],
+      4
+    ],
+    [
+      73,
+      [6],
+      5
+    ]
+  ],
+  "last_ms": 76
+}

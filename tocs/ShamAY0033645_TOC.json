@@ -1,0 +1,106 @@
+{
+  "filename": "1134IbnSalimBasri.KhatmJamicTirmidhi.ShamAY0033645-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 8
+    },
+    "2": {
+      "title": "AUTO وقال الحافظ ابن حجر في نكته على ابن الصلاح: \"قد أكثر علي بن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 11
+    },
+    "3": {
+      "title": "AUTO [جمع الترمذي بين وصفي الحسن والصحة للحديث الواحد]:",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 12
+    },
+    "4": {
+      "title": "AUTO قال: \"هذا حديث حسن مع أنه متفق عليه\". انتهى.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 13
+    },
+    "5": {
+      "title": "AUTO [قول الترمذي وفي الباب، ومراده من ذلك]:",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 13
+    },
+    "6": {
+      "title": "AUTO قال العراقي: \"وهو عمل صحيح إلا أن كثيرا من الناس يفهمون من",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 14
+    },
+    "7": {
+      "title": "AUTO الكروخي -بفتح الكاف وضم الراء المخففة- قال: أخبرنا بجميعه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 14
+    },
+    "8": {
+      "title": "AUTO هذا حديث غريب من هذا الوجه، وعمر بن شاكر روى عنه غير واحد من",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 16
+    },
+    "9": {
+      "title": "AUTO [خاتمة الختم]:",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      8,
+      [2],
+      1
+    ],
+    [
+      11,
+      [3],
+      2
+    ],
+    [
+      12,
+      [4],
+      3
+    ],
+    [
+      13,
+      [5, 6],
+      4
+    ],
+    [
+      14,
+      [7, 8],
+      6
+    ],
+    [
+      16,
+      [9],
+      8
+    ]
+  ],
+  "last_ms": 17
+}

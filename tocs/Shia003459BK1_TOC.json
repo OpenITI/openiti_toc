@@ -1,0 +1,175 @@
+{
+  "filename": "0255Jahiz.Cuthmaniyya.Shia003459BK1-ara1.mARkdown",
+  "sections": {
+    "1": {
+      "title": "العثمانية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "فصل (1):",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "فصل (4):",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "4": {
+      "title": "فصل (6):",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "5": {
+      "title": "فصل (5):",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "6": {
+      "title": "فصل (3):",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "7": {
+      "title": "فصل (3):",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "8": {
+      "title": "فصل:",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "9": {
+      "title": "فصل (3):",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "10": {
+      "title": "فصل:",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 7,
+      "end_ms": 8
+    },
+    "11": {
+      "title": "فصل (7):",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 8,
+      "end_ms": 11
+    },
+    "12": {
+      "title": "فصل:",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 11,
+      "end_ms": 12
+    },
+    "13": {
+      "title": "فصل:",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 12,
+      "end_ms": 13
+    },
+    "14": {
+      "title": "فصل:",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 13,
+      "end_ms": 16
+    },
+    "15": {
+      "title": "فصل:",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 16,
+      "end_ms": 16
+    },
+    "16": {
+      "title": "فصل:",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 16,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      3,
+      [3],
+      2
+    ],
+    [
+      4,
+      [4, 5],
+      3
+    ],
+    [
+      5,
+      [6, 7, 8],
+      5
+    ],
+    [
+      6,
+      [9],
+      8
+    ],
+    [
+      7,
+      [10],
+      9
+    ],
+    [
+      8,
+      [11],
+      10
+    ],
+    [
+      11,
+      [12],
+      11
+    ],
+    [
+      12,
+      [13],
+      12
+    ],
+    [
+      13,
+      [14],
+      13
+    ],
+    [
+      16,
+      [15, 16],
+      14
+    ]
+  ],
+  "last_ms": 172
+}

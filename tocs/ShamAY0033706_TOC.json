@@ -1,0 +1,56 @@
+{
+  "filename": "0238IbnHabibQurtubi.Riba.ShamAY0033706-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO ما جاء في الربا والتشديد فيه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 5
+    },
+    "2": {
+      "title": "AUTO الباب الثالث ذكر ما في الباب الثالث من الحلال والحرام في بيع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 16
+    },
+    "3": {
+      "title": "AUTO ذكر ما في الباب الرابع من الحلال والحرام في بيع الذهب ووجه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": 22
+    },
+    "4": {
+      "title": "AUTO [باب الحلال والحرام في بيع الطعام بالطعام]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 22,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      5,
+      [2],
+      1
+    ],
+    [
+      16,
+      [3],
+      2
+    ],
+    [
+      22,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 40
+}

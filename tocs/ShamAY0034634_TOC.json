@@ -1,0 +1,94 @@
+{
+  "filename": "0911Suyuti.ThughurBasima.ShamAY0034634-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "2": {
+      "title": "AUTO ذكر الأحاديث الواردة في تزويج فاطمة رضي الله عنها",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 6
+    },
+    "3": {
+      "title": "AUTO ذكر خصائص فاطمة ومناقبها",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 9
+    },
+    "4": {
+      "title": "AUTO فصل في سنها ووفاتها",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 10
+    },
+    "5": {
+      "title": "AUTO فائدة: [بقاء نسب رسول الله صلى الله عليه وسلم من فاطمة]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 10
+    },
+    "6": {
+      "title": "AUTO فائدة: [روايات فاطمة بنت رسول الله صلى الله عليه وسلم]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 11
+    },
+    "7": {
+      "title": "AUTO [ما نسب لفاطمة رضي الله عنها من الشعر]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 11
+    },
+    "8": {
+      "title": "AUTO [الخاتمة]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      3,
+      [2],
+      1
+    ],
+    [
+      6,
+      [3],
+      2
+    ],
+    [
+      9,
+      [4],
+      3
+    ],
+    [
+      10,
+      [5, 6],
+      4
+    ],
+    [
+      11,
+      [7, 8],
+      6
+    ]
+  ],
+  "last_ms": 11
+}

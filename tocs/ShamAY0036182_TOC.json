@@ -1,0 +1,176 @@
+{
+  "filename": "1014MullaCaliQari.Rasail.ShamAY0036182-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO صلات الجوائز في صلاة الجنائز",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 13
+    },
+    "2": {
+      "title": "CHECK [التبيان في ليلة النصف من شعبان وليلة القدر من رمضان]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 36
+    },
+    "3": {
+      "title": "AUTO التدهين للتزيين على وجه التبيين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 36,
+      "end_ms": 40
+    },
+    "4": {
+      "title": "AUTO التصريح في شرح التسريح",
+      "level": 1,
+      "parent": null,
+      "start_ms": 40,
+      "end_ms": 49
+    },
+    "5": {
+      "title": "CHECK [الفضل المعول في الصف الأول]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 49,
+      "end_ms": 54
+    },
+    "6": {
+      "title": "AUTO المسئله في البسمله",
+      "level": 1,
+      "parent": null,
+      "start_ms": 54,
+      "end_ms": 57
+    },
+    "7": {
+      "title": "AUTO المشرب الوردي في مذهب المهدي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 57,
+      "end_ms": 92
+    },
+    "8": {
+      "title": "AUTO المقالة العذبة في العمامة العدبه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 92,
+      "end_ms": 108
+    },
+    "9": {
+      "title": "AUTO تزيين العبارة لتحسين الأشارة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 108,
+      "end_ms": 118
+    },
+    "10": {
+      "title": "CHECK [الإنباء بأن العصا من سنن الأنبياء]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 118,
+      "end_ms": 120
+    },
+    "11": {
+      "title": "AUTO فتح الأسماع في شرح السماع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 120,
+      "end_ms": 148
+    },
+    "12": {
+      "title": "AUTO كشف الحذر عن أمر الخضر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 148,
+      "end_ms": 172
+    },
+    "13": {
+      "title": "AUTO لسان الأهتداء في بيان الأقتداء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 172,
+      "end_ms": 192
+    },
+    "14": {
+      "title": "AUTO نزهة الخاطر الفاتر في ترجمة الشيخ عبد القادر قدس الله سره",
+      "level": 1,
+      "parent": null,
+      "start_ms": 192,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      13,
+      [2],
+      1
+    ],
+    [
+      36,
+      [3],
+      2
+    ],
+    [
+      40,
+      [4],
+      3
+    ],
+    [
+      49,
+      [5],
+      4
+    ],
+    [
+      54,
+      [6],
+      5
+    ],
+    [
+      57,
+      [7],
+      6
+    ],
+    [
+      92,
+      [8],
+      7
+    ],
+    [
+      108,
+      [9],
+      8
+    ],
+    [
+      118,
+      [10],
+      9
+    ],
+    [
+      120,
+      [11],
+      10
+    ],
+    [
+      148,
+      [12],
+      11
+    ],
+    [
+      172,
+      [13],
+      12
+    ],
+    [
+      192,
+      [14],
+      13
+    ]
+  ],
+  "last_ms": 247
+}

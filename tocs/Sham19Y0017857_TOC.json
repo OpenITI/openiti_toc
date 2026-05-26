@@ -1,0 +1,63 @@
+{
+  "filename": "0576AbuTahirSilafi.MuqaddimatImlaIstidhkar.Sham19Y0017857-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK تمهيد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "2": {
+      "title": "CHECK أسانيد المصنف وإجازاته إلى ابن عبد البر من طريق أبي عمران موسى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "CHECK ذكر إملاء الاستذكار",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "4": {
+      "title": "CHECK مذهب ابن عبد البر وحفاظ الأندلس في الإجازة والخلاف مع أهل المشرق في ذلك",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "5": {
+      "title": "CHECK ترجمة ابن عبد البر النمري",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      3,
+      [2, 3],
+      1
+    ],
+    [
+      4,
+      [4],
+      3
+    ],
+    [
+      5,
+      [5],
+      4
+    ]
+  ],
+  "last_ms": 8
+}

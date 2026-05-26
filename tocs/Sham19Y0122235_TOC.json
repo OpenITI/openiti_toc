@@ -1,0 +1,496 @@
+{
+  "filename": "0646IbnCumarIbnHajibKurdi.ShafiyaFiCilmTasrif.Sham19Y0122235-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO [تعريف التصريف]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO [أنواع الأبنية]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "AUTO [الميزان الصرفي]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "4": {
+      "title": "AUTO [القلب المكاني]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "5": {
+      "title": "AUTO [الصحيح والمعتل]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "6": {
+      "title": "AUTO [أبنية الاسم الثلاثي المجرد]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "7": {
+      "title": "AUTO [رد بعض الأبنية إلى بعض]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "8": {
+      "title": "AUTO [أبنية الاسم الرباعي المجرد]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "9": {
+      "title": "AUTO [أبنية الاسم الخماسي المجرد]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "10": {
+      "title": "AUTO [أبنية الاسم المزيد فيه]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "11": {
+      "title": "AUTO [أحوال الأبنية]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 32
+    },
+    "12": {
+      "title": "AUTO الماضي",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 2,
+      "end_ms": 4
+    },
+    "13": {
+      "title": "AUTO [أبنية الفعل الثلاثي المجرد]",
+      "level": 3,
+      "parent": 12,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "14": {
+      "title": "AUTO [أبنية الفعل الثلاثي المزيد]",
+      "level": 3,
+      "parent": 12,
+      "start_ms": 2,
+      "end_ms": 4
+    },
+    "15": {
+      "title": "AUTO [بناء الفعل الرباعي]",
+      "level": 3,
+      "parent": 12,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "16": {
+      "title": "AUTO المضارع",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "17": {
+      "title": "AUTO المضارع",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "18": {
+      "title": "AUTO المضارع",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "19": {
+      "title": "AUTO الصفة المشبهة",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "20": {
+      "title": "AUTO المصدر",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "21": {
+      "title": "AUTO",
+      "level": 3,
+      "parent": 20,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "22": {
+      "title": "AUTO [المصدر",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "23": {
+      "title": "AUTO [المصدر من الثلاثي المزيد والرباعي]",
+      "level": 3,
+      "parent": 22,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "24": {
+      "title": "AUTO المصدر الميمي",
+      "level": 3,
+      "parent": 22,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "25": {
+      "title": "AUTO اسم المرة",
+      "level": 3,
+      "parent": 22,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "26": {
+      "title": "AUTO اسما الزمان والمكان",
+      "level": 3,
+      "parent": 22,
+      "start_ms": 6,
+      "end_ms": 6
+    },
+    "27": {
+      "title": "AUTO اسما الزمان والمكان",
+      "level": 3,
+      "parent": 22,
+      "start_ms": 6,
+      "end_ms": 6
+    },
+    "28": {
+      "title": "AUTO اسم الآلة",
+      "level": 3,
+      "parent": 22,
+      "start_ms": 6,
+      "end_ms": 6
+    },
+    "29": {
+      "title": "AUTO التصغير",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "30": {
+      "title": "AUTO النسب",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 7,
+      "end_ms": 9
+    },
+    "31": {
+      "title": "AUTO الجمع",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 9,
+      "end_ms": 9
+    },
+    "32": {
+      "title": "AUTO الجمع",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 9,
+      "end_ms": 13
+    },
+    "33": {
+      "title": "AUTO الثلاثي",
+      "level": 3,
+      "parent": 32,
+      "start_ms": 9,
+      "end_ms": 11
+    },
+    "34": {
+      "title": "AUTO ما زيادته مدة ثالثة",
+      "level": 3,
+      "parent": 32,
+      "start_ms": 11,
+      "end_ms": 13
+    },
+    "35": {
+      "title": "AUTO التقاء الساكنين",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 13,
+      "end_ms": 14
+    },
+    "36": {
+      "title": "AUTO الابتداء",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 14,
+      "end_ms": 14
+    },
+    "37": {
+      "title": "AUTO الابتداء",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 14,
+      "end_ms": 14
+    },
+    "38": {
+      "title": "AUTO الوقف",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 14,
+      "end_ms": 15
+    },
+    "39": {
+      "title": "AUTO المقصور والممدود",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 15,
+      "end_ms": 16
+    },
+    "40": {
+      "title": "AUTO ذو الزيادة",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 16,
+      "end_ms": 19
+    },
+    "41": {
+      "title": "AUTO الإمالة",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 19,
+      "end_ms": 20
+    },
+    "42": {
+      "title": "AUTO الإمالة",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 20,
+      "end_ms": 20
+    },
+    "43": {
+      "title": "AUTO تخفيف الهمزة",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 20,
+      "end_ms": 22
+    },
+    "44": {
+      "title": "AUTO الإعلال",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 22,
+      "end_ms": 27
+    },
+    "45": {
+      "title": "AUTO العين",
+      "level": 3,
+      "parent": 44,
+      "start_ms": 23,
+      "end_ms": 25
+    },
+    "46": {
+      "title": "AUTO اللام",
+      "level": 3,
+      "parent": 44,
+      "start_ms": 25,
+      "end_ms": 27
+    },
+    "47": {
+      "title": "AUTO الإبدال",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 27,
+      "end_ms": 28
+    },
+    "48": {
+      "title": "AUTO الإدغام",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 28,
+      "end_ms": 32
+    },
+    "49": {
+      "title": "AUTO الحذف",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 32,
+      "end_ms": 32
+    },
+    "50": {
+      "title": "AUTO الحذف",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 32,
+      "end_ms": 32
+    },
+    "51": {
+      "title": "AUTO وهذه مسائل التمرين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 32,
+      "end_ms": 33
+    },
+    "52": {
+      "title": "AUTO الخط",
+      "level": 1,
+      "parent": null,
+      "start_ms": 33,
+      "end_ms": 33
+    },
+    "53": {
+      "title": "AUTO الخط",
+      "level": 1,
+      "parent": null,
+      "start_ms": 33,
+      "end_ms": 37
+    },
+    "54": {
+      "title": "AUTO ثبت المراجع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 37,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3, 4, 5, 6],
+      null
+    ],
+    [
+      2,
+      [7, 8, 9, 10, 11, 12, 13, 14],
+      6
+    ],
+    [
+      4,
+      [15, 16, 17, 18, 19],
+      14
+    ],
+    [
+      5,
+      [20, 21, 22, 23, 24, 25],
+      19
+    ],
+    [
+      6,
+      [26, 27, 28, 29],
+      25
+    ],
+    [
+      7,
+      [30],
+      29
+    ],
+    [
+      9,
+      [31, 32, 33],
+      30
+    ],
+    [
+      11,
+      [34],
+      33
+    ],
+    [
+      13,
+      [35],
+      34
+    ],
+    [
+      14,
+      [36, 37, 38],
+      35
+    ],
+    [
+      15,
+      [39],
+      38
+    ],
+    [
+      16,
+      [40],
+      39
+    ],
+    [
+      19,
+      [41],
+      40
+    ],
+    [
+      20,
+      [42, 43],
+      41
+    ],
+    [
+      22,
+      [44],
+      43
+    ],
+    [
+      23,
+      [45],
+      44
+    ],
+    [
+      25,
+      [46],
+      45
+    ],
+    [
+      27,
+      [47],
+      46
+    ],
+    [
+      28,
+      [48],
+      47
+    ],
+    [
+      32,
+      [49, 50, 51],
+      48
+    ],
+    [
+      33,
+      [52, 53],
+      51
+    ],
+    [
+      37,
+      [54],
+      53
+    ]
+  ],
+  "last_ms": 42
+}

@@ -1,0 +1,51 @@
+{
+  "filename": "0728IbnTaymiyya.RisalaFiCilmQiraat.ShamAY0034398-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO ما يقول سيدي الشيخ - جمع الله له خير الدنيا والآخرة - في (8)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "2": {
+      "title": "CHECK [القراءات الشاذة الخارجة عن رسم المصحف]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "CHECK [القراءات السبع هل هي حرف من الحروف السبعة]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 7
+    },
+    "4": {
+      "title": "CHECK [السبب الذي أوجب الاختلاف بين القراء فيما احتمله خط المصحف]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      4,
+      [2, 3],
+      1
+    ],
+    [
+      7,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 10
+}

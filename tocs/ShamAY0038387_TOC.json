@@ -1,0 +1,248 @@
+{
+  "filename": "0751IbnQayyimJawziyya.TariqHijratayn.ShamAY0038387-ara3",
+  "sections": {
+    "1": {
+      "title": "AUTO مقدمة التحقيق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 46
+    },
+    "2": {
+      "title": "AUTO توثيق نسبة الكتاب",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 8
+    },
+    "3": {
+      "title": "AUTO عنوان الكتاب",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 8,
+      "end_ms": 9
+    },
+    "4": {
+      "title": "AUTO تاريخ تأليف الكتاب",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 9,
+      "end_ms": 10
+    },
+    "5": {
+      "title": "AUTO مقصد الكتاب",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 10,
+      "end_ms": 13
+    },
+    "6": {
+      "title": "AUTO ترتيب الكتاب وبعض مباحثه المهمة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 13,
+      "end_ms": 21
+    },
+    "7": {
+      "title": "AUTO أهمية الكتاب",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 21,
+      "end_ms": 23
+    },
+    "8": {
+      "title": "AUTO موارد الكتاب",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 23,
+      "end_ms": 28
+    },
+    "9": {
+      "title": "AUTO طبع الكتاب وتحقيقه واختصاره وترجمته",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 28,
+      "end_ms": 30
+    },
+    "10": {
+      "title": "AUTO مخطوطات الكتاب",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 30,
+      "end_ms": 46
+    },
+    "11": {
+      "title": "CHECK [النص المحقق]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 46,
+      "end_ms": 51
+    },
+    "12": {
+      "title": "AUTO فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 51,
+      "end_ms": 119
+    },
+    "13": {
+      "title": "AUTO [21/أ] قاعدة شريفة عظيمة القدر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 119,
+      "end_ms": 363
+    },
+    "14": {
+      "title": "AUTO فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 363,
+      "end_ms": 377
+    },
+    "15": {
+      "title": "AUTO [قاعدة نافعة في إثبات الصفات] (1)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 377,
+      "end_ms": 413
+    },
+    "16": {
+      "title": "AUTO [أقسام الفناء عند السالكين]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 413,
+      "end_ms": 435
+    },
+    "17": {
+      "title": "AUTO الطاعة الصغيرة. فصبر (1) العبد على الجهاد مثلا أفصل وعظم من صبره",
+      "level": 1,
+      "parent": null,
+      "start_ms": 435,
+      "end_ms": 460
+    },
+    "18": {
+      "title": "AUTO فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 460,
+      "end_ms": 461
+    },
+    "19": {
+      "title": "AUTO فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 461,
+      "end_ms": 464
+    },
+    "20": {
+      "title": "AUTO فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 464,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      4,
+      [2],
+      1
+    ],
+    [
+      8,
+      [3],
+      2
+    ],
+    [
+      9,
+      [4],
+      3
+    ],
+    [
+      10,
+      [5],
+      4
+    ],
+    [
+      13,
+      [6],
+      5
+    ],
+    [
+      21,
+      [7],
+      6
+    ],
+    [
+      23,
+      [8],
+      7
+    ],
+    [
+      28,
+      [9],
+      8
+    ],
+    [
+      30,
+      [10],
+      9
+    ],
+    [
+      46,
+      [11],
+      10
+    ],
+    [
+      51,
+      [12],
+      11
+    ],
+    [
+      119,
+      [13],
+      12
+    ],
+    [
+      363,
+      [14],
+      13
+    ],
+    [
+      377,
+      [15],
+      14
+    ],
+    [
+      413,
+      [16],
+      15
+    ],
+    [
+      435,
+      [17],
+      16
+    ],
+    [
+      460,
+      [18],
+      17
+    ],
+    [
+      461,
+      [19],
+      18
+    ],
+    [
+      464,
+      [20],
+      19
+    ]
+  ],
+  "last_ms": 657
+}

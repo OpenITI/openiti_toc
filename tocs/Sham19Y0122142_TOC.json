@@ -1,0 +1,216 @@
+{
+  "filename": "0794BadrDinZarkashi.TashnifMasamic.Sham19Y0122142-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK مقدمة الشارح",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 9
+    },
+    "2": {
+      "title": "AUTO (الكلام في المقدمات)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 104
+    },
+    "3": {
+      "title": "AUTO [الكتاب الأول: في الكتاب]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 104,
+      "end_ms": 104
+    },
+    "4": {
+      "title": "AUTO (الكتاب الأول: في الكتاب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 104,
+      "end_ms": 380
+    },
+    "5": {
+      "title": "AUTO باب المنطوق والمفهوم",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 113,
+      "end_ms": 238
+    },
+    "6": {
+      "title": "AUTO باب الأوامر والنواهي",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 238,
+      "end_ms": 266
+    },
+    "7": {
+      "title": "AUTO باب العام والخاص",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 266,
+      "end_ms": 301
+    },
+    "8": {
+      "title": "AUTO باب التخصيص",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 301,
+      "end_ms": 358
+    },
+    "9": {
+      "title": "AUTO البيان والمبين",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 358,
+      "end_ms": 380
+    },
+    "10": {
+      "title": "AUTO [الكتاب الثاني في السنة]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 380,
+      "end_ms": 380
+    },
+    "11": {
+      "title": "AUTO الكتاب الثاني في السنة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 380,
+      "end_ms": 500
+    },
+    "12": {
+      "title": "AUTO الكلام في الأخبار",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 387,
+      "end_ms": 500
+    },
+    "13": {
+      "title": "AUTO [الكتاب الثالث في الإجماع]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 500,
+      "end_ms": 500
+    },
+    "14": {
+      "title": "AUTO الكتاب الثالث في الإجماع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 500,
+      "end_ms": 522
+    },
+    "15": {
+      "title": "AUTO [الكتاب الرابع: في القياس]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 522,
+      "end_ms": 522
+    },
+    "16": {
+      "title": "AUTO الكتاب الرابع: في القياس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 522,
+      "end_ms": 632
+    },
+    "17": {
+      "title": "AUTO الكتاب الخامس: في الاستدلال",
+      "level": 1,
+      "parent": null,
+      "start_ms": 632,
+      "end_ms": 658
+    },
+    "18": {
+      "title": "AUTO [الكتاب السادس: في التعادل والتراجيح]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 658,
+      "end_ms": 692
+    },
+    "19": {
+      "title": "AUTO الكتاب السابع: في الاجتهاد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 692,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      9,
+      [2],
+      1
+    ],
+    [
+      104,
+      [3, 4],
+      2
+    ],
+    [
+      113,
+      [5],
+      4
+    ],
+    [
+      238,
+      [6],
+      5
+    ],
+    [
+      266,
+      [7],
+      6
+    ],
+    [
+      301,
+      [8],
+      7
+    ],
+    [
+      358,
+      [9],
+      8
+    ],
+    [
+      380,
+      [10, 11],
+      9
+    ],
+    [
+      387,
+      [12],
+      11
+    ],
+    [
+      500,
+      [13, 14],
+      12
+    ],
+    [
+      522,
+      [15, 16],
+      14
+    ],
+    [
+      632,
+      [17],
+      16
+    ],
+    [
+      658,
+      [18],
+      17
+    ],
+    [
+      692,
+      [19],
+      18
+    ]
+  ],
+  "last_ms": 913
+}

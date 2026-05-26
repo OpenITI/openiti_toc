@@ -1,0 +1,190 @@
+{
+  "filename": "0989SharafDinCimriti.Tashil.ShamAY0037471-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO باب أصول الفقه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "AUTO أبواب أصول الفقه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "4": {
+      "title": "AUTO باب أقسام الكلام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "5": {
+      "title": "AUTO باب الأمر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "6": {
+      "title": "AUTO باب النهي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "7": {
+      "title": "AUTO فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "8": {
+      "title": "AUTO باب العام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "9": {
+      "title": "AUTO باب الخاص",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "10": {
+      "title": "AUTO باب المجمل والمبين والظاهر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "11": {
+      "title": "AUTO باب الأفعال",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "12": {
+      "title": "AUTO باب النسخ",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "13": {
+      "title": "AUTO باب التعارض",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "14": {
+      "title": "AUTO باب الإجماع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "15": {
+      "title": "AUTO باب الأخبار",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "16": {
+      "title": "AUTO باب القياس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "17": {
+      "title": "AUTO الحظر والإباحة واستصحاب الدليل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 6
+    },
+    "18": {
+      "title": "AUTO باب ترتيب الأدلة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 6
+    },
+    "19": {
+      "title": "AUTO باب في المفتي والمستفتي والتقليد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "20": {
+      "title": "AUTO فرع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "21": {
+      "title": "AUTO فصل في الاجتهاد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3, 4, 5, 6],
+      2
+    ],
+    [
+      3,
+      [7, 8, 9, 10],
+      6
+    ],
+    [
+      4,
+      [11, 12, 13],
+      10
+    ],
+    [
+      5,
+      [14, 15, 16],
+      13
+    ],
+    [
+      6,
+      [17, 18, 19],
+      16
+    ],
+    [
+      7,
+      [20, 21],
+      19
+    ]
+  ],
+  "last_ms": 7
+}

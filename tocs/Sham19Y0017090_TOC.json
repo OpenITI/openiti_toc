@@ -1,0 +1,203 @@
+{
+  "filename": "0911Samhudi.MaqalatMusfira.Sham19Y0017090-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK الفصل الأول: الصلوات الخمس كفارة لما بينها",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 11
+    },
+    "2": {
+      "title": "CHECK الفصل الثاني: ورد غفران جميع الذنوب من غير تقييد بالتوبة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 24
+    },
+    "3": {
+      "title": "CHECK الفصل الثالث: الخصال المكفرة للذنوب المتقدمة والمتأخرة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 24,
+      "end_ms": null
+    },
+    "4": {
+      "title": "AUTO الطهارة",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 24,
+      "end_ms": 24
+    },
+    "5": {
+      "title": "AUTO سماع الآذان",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 24,
+      "end_ms": 25
+    },
+    "6": {
+      "title": "AUTO صلاة التسبيح",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 25,
+      "end_ms": 27
+    },
+    "7": {
+      "title": "AUTO التأمين في الصلاة",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 27,
+      "end_ms": 28
+    },
+    "8": {
+      "title": "AUTO صلاة الضحى",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 28,
+      "end_ms": 28
+    },
+    "9": {
+      "title": "AUTO القراءة بعد الجمعة",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 28,
+      "end_ms": 28
+    },
+    "10": {
+      "title": "AUTO قيام رمضان وصيامه وإحياء ليلة القدر",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 28,
+      "end_ms": 30
+    },
+    "11": {
+      "title": "AUTO صيام يوم عرفة",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 30,
+      "end_ms": 30
+    },
+    "12": {
+      "title": "AUTO إن صح الإهلال من المسجد الأقصى",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 30,
+      "end_ms": 31
+    },
+    "13": {
+      "title": "AUTO الحج الخالص",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 31,
+      "end_ms": 33
+    },
+    "14": {
+      "title": "AUTO القراءة والأذكار",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 33,
+      "end_ms": 34
+    },
+    "15": {
+      "title": "AUTO فضائل الرباط بعكا",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 34,
+      "end_ms": 34
+    },
+    "16": {
+      "title": "AUTO قود الأعمى",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 34,
+      "end_ms": 34
+    },
+    "17": {
+      "title": "AUTO فضل السعي في حاجة المسلم",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 34,
+      "end_ms": 34
+    },
+    "18": {
+      "title": "AUTO فضائل المصافحة",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 34,
+      "end_ms": 34
+    },
+    "19": {
+      "title": "AUTO فضل حمد لله بعد الأكل واللبس",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 34,
+      "end_ms": 35
+    },
+    "20": {
+      "title": "AUTO فضل التعمير في الإسلام",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 35,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      11,
+      [2],
+      1
+    ],
+    [
+      24,
+      [3, 4, 5],
+      2
+    ],
+    [
+      25,
+      [6],
+      5
+    ],
+    [
+      27,
+      [7],
+      6
+    ],
+    [
+      28,
+      [8, 9, 10],
+      7
+    ],
+    [
+      30,
+      [11, 12],
+      10
+    ],
+    [
+      31,
+      [13],
+      12
+    ],
+    [
+      33,
+      [14],
+      13
+    ],
+    [
+      34,
+      [15, 16, 17, 18, 19],
+      14
+    ],
+    [
+      35,
+      [20],
+      19
+    ]
+  ],
+  "last_ms": 38
+}

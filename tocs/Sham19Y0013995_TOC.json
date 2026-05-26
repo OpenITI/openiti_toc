@@ -1,0 +1,96 @@
+{
+  "filename": "1205MurtadaZabidi.IdahMadarik.Sham19Y0013995-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO تمهيد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO المقدمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "AUTO المقدمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "4": {
+      "title": "AUTO واختلف في اشتقاق العاتكة من النساء على أقوال ms1",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "5": {
+      "title": "AUTO [المهمة]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 7
+    },
+    "6": {
+      "title": "AUTO المطلب الأول في بيان الحديث الذي ورد فيه هذا اللفظ",
+      "level": 2,
+      "parent": 5,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "7": {
+      "title": "AUTO المطلب الثاني في تأويل هذا الحديث وبيان نسب بني سليم",
+      "level": 2,
+      "parent": 5,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "8": {
+      "title": "AUTO المطلب الثالث في تفصيل أسمائهن",
+      "level": 2,
+      "parent": 5,
+      "start_ms": 4,
+      "end_ms": 7
+    },
+    "9": {
+      "title": "AUTO خاتمة في بيان العواتك من الصحابيات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3],
+      null
+    ],
+    [
+      2,
+      [4, 5, 6],
+      null
+    ],
+    [
+      3,
+      [7],
+      6
+    ],
+    [
+      4,
+      [8],
+      7
+    ],
+    [
+      7,
+      [9],
+      8
+    ]
+  ],
+  "last_ms": 7
+}

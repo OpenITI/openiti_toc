@@ -1,0 +1,142 @@
+{
+  "filename": "0728IbnTaymiyya.Istighatha.ShamAY0034352BK2-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": null,
+      "start_ms": 36,
+      "end_ms": 52
+    },
+    "2": {
+      "title": "AUTO [المجلد الثاني]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 52,
+      "end_ms": null
+    },
+    "3": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 52,
+      "end_ms": 104
+    },
+    "4": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 104,
+      "end_ms": 105
+    },
+    "5": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 105,
+      "end_ms": 123
+    },
+    "6": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 123,
+      "end_ms": 132
+    },
+    "7": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 132,
+      "end_ms": 139
+    },
+    "8": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 139,
+      "end_ms": 139
+    },
+    "9": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 139,
+      "end_ms": 143
+    },
+    "10": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 143,
+      "end_ms": 144
+    },
+    "11": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 144,
+      "end_ms": 149
+    },
+    "12": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 149,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      36,
+      [1],
+      null
+    ],
+    [
+      52,
+      [2, 3],
+      1
+    ],
+    [
+      104,
+      [4],
+      3
+    ],
+    [
+      105,
+      [5],
+      4
+    ],
+    [
+      123,
+      [6],
+      5
+    ],
+    [
+      132,
+      [7],
+      6
+    ],
+    [
+      139,
+      [8, 9],
+      7
+    ],
+    [
+      143,
+      [10],
+      9
+    ],
+    [
+      144,
+      [11],
+      10
+    ],
+    [
+      149,
+      [12],
+      11
+    ]
+  ],
+  "last_ms": 168
+}

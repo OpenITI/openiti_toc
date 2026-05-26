@@ -1,0 +1,77 @@
+{
+  "filename": "0231IbnSacdanDarir.WaqfWaIbtida.Sham19Y0017843-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO باب (لا)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 6
+    },
+    "2": {
+      "title": "AUTO باب (لا) في النهي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "3": {
+      "title": "AUTO باب (لا) مع الأسماء (المخفوضة)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "4": {
+      "title": "AUTO باب (لا) مع حروف الجزاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "5": {
+      "title": "CHECK باب (لا) مع حروف الج",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 8
+    },
+    "6": {
+      "title": "AUTO باب (إن) مع (ما)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 13
+    },
+    "7": {
+      "title": "AUTO باب تسمية حروف الجزاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      6,
+      [1, 2],
+      null
+    ],
+    [
+      7,
+      [3, 4, 5],
+      2
+    ],
+    [
+      8,
+      [6],
+      5
+    ],
+    [
+      13,
+      [7],
+      6
+    ]
+  ],
+  "last_ms": 34
+}

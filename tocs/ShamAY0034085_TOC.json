@@ -1,0 +1,92 @@
+{
+  "filename": "0478IbnMuhammadDamghani.QamusQuran.ShamAY0034085-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [13-89]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 40
+    },
+    "2": {
+      "title": "CHECK [90-120]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 40,
+      "end_ms": 53
+    },
+    "3": {
+      "title": "CHECK [121-269]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 53,
+      "end_ms": 126
+    },
+    "4": {
+      "title": "CHECK [270-370]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 126,
+      "end_ms": 175
+    },
+    "5": {
+      "title": "CHECK [370-380]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 175,
+      "end_ms": 180
+    },
+    "6": {
+      "title": "CHECK [381-450]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 180,
+      "end_ms": 202
+    },
+    "7": {
+      "title": "CHECK [451-507]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 202,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      40,
+      [2],
+      1
+    ],
+    [
+      53,
+      [3],
+      2
+    ],
+    [
+      126,
+      [4],
+      3
+    ],
+    [
+      175,
+      [5],
+      4
+    ],
+    [
+      180,
+      [6],
+      5
+    ],
+    [
+      202,
+      [7],
+      6
+    ]
+  ],
+  "last_ms": 244
+}

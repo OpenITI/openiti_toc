@@ -1,0 +1,87 @@
+{
+  "filename": "0774IbnKathir.TalkhisIstighatha.ShamAY0034352BK1-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO [المجلد الأول] PageV01P001",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "AUTO فصل في ذكر البكري",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 35
+    },
+    "3": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 35,
+      "end_ms": 55
+    },
+    "4": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 55,
+      "end_ms": 85
+    },
+    "5": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 85,
+      "end_ms": 87
+    },
+    "6": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 87,
+      "end_ms": 91
+    },
+    "7": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 91,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      35,
+      [3],
+      2
+    ],
+    [
+      55,
+      [4],
+      3
+    ],
+    [
+      85,
+      [5],
+      4
+    ],
+    [
+      87,
+      [6],
+      5
+    ],
+    [
+      91,
+      [7],
+      6
+    ]
+  ],
+  "last_ms": 100
+}

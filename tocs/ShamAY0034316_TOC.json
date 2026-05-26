@@ -1,0 +1,70 @@
+{
+  "filename": "0761IbnKaykaldiCalai.MasalaFiTatawwuc.ShamAY0034316-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO بسم الله الرحمن الرحيم وهو حسبي ونعيم الوكيل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO قال الشيخ محيي الدين رحمه الله: ((اختلف العلماء في المراد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "AUTO قال القرطبي: اختلفوا في قوله صلى الله عليه وسلم : ((صلاة في",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 6
+    },
+    "4": {
+      "title": "AUTO وقال فيه -أيضا- في باب استقبال القبلة: ((قال أصحابنا: النفل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 6
+    },
+    "5": {
+      "title": "AUTO وقال الشيخ محيي الدين -أيضا- في ((شرح المهذب)) في باب صفة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 10
+    },
+    "6": {
+      "title": "AUTO فقال في كتاب ((الاستذكار)). ((اختلفوا في الأفضل من القيام مع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      4,
+      [3],
+      2
+    ],
+    [
+      6,
+      [4, 5],
+      3
+    ],
+    [
+      10,
+      [6],
+      5
+    ]
+  ],
+  "last_ms": 12
+}

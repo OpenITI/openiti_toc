@@ -1,0 +1,92 @@
+{
+  "filename": "0970IbnIbrahimIbnNujaymMisri.BahrRaiq.ShamAY0034204BK1-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [البحر الرائق1-معدل]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 672
+    },
+    "2": {
+      "title": "CHECK [البحر الرائق2-م]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 672,
+      "end_ms": 1316
+    },
+    "3": {
+      "title": "CHECK [البحر الرائق 3-م]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1316,
+      "end_ms": 1938
+    },
+    "4": {
+      "title": "CHECK [البحر الرائق 4-م]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1938,
+      "end_ms": 2670
+    },
+    "5": {
+      "title": "CHECK [البحر الرائق 5-م]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2670,
+      "end_ms": 3251
+    },
+    "6": {
+      "title": "CHECK [البحر الرائق 6-م]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3251,
+      "end_ms": 3794
+    },
+    "7": {
+      "title": "CHECK [البحر الرائق 7-م]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3794,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      672,
+      [2],
+      1
+    ],
+    [
+      1316,
+      [3],
+      2
+    ],
+    [
+      1938,
+      [4],
+      3
+    ],
+    [
+      2670,
+      [5],
+      4
+    ],
+    [
+      3251,
+      [6],
+      5
+    ],
+    [
+      3794,
+      [7],
+      6
+    ]
+  ],
+  "last_ms": 4388
+}

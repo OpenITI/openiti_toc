@@ -1,0 +1,110 @@
+{
+  "filename": "0637IbnDubaythi.LaylatNisfMinShacban.ShamAY0033607-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO #111#",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "AUTO [2] رواية عبد الله بن عمرو بن العاص في ذلك:",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "4": {
+      "title": "AUTO [3] رواية أبي أمامة الباهلي في ذلك:",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "5": {
+      "title": "AUTO #119#",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "6": {
+      "title": "AUTO [5] رواية أبي ثعلبة الخشني في ذلك:",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "7": {
+      "title": "AUTO [6] رواية عثمان بن أبي العاص الثقفي في ذلك:",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "8": {
+      "title": "AUTO #125#",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "9": {
+      "title": "AUTO [8] رواية عائشة أم المؤمنين في ذلك:",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "10": {
+      "title": "AUTO [9] ذكر أن الآجال تقطع في شعبان:",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "11": {
+      "title": "AUTO #133#",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3, 4],
+      2
+    ],
+    [
+      3,
+      [5, 6, 7],
+      4
+    ],
+    [
+      4,
+      [8, 9, 10],
+      7
+    ],
+    [
+      5,
+      [11],
+      10
+    ]
+  ],
+  "last_ms": 6
+}

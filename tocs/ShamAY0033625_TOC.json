@@ -1,0 +1,104 @@
+{
+  "filename": "0620IbnQudamaMaqdisi.IthbatSifatCuluww.ShamAY0033625-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [أول الكتاب]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "2": {
+      "title": "AUTO ذكر الاحاديث الصحيحه الصريحه في ان الله تعالى في السماء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 9
+    },
+    "3": {
+      "title": "AUTO ذكر الأخبار الواردة بأن الله تعالى فوق عرشه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 17
+    },
+    "4": {
+      "title": "AUTO ذكر اخبار داله على ذلك في الجملة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 17,
+      "end_ms": 25
+    },
+    "5": {
+      "title": "AUTO ذكر اخبار وارده في هذا عن الأنبياء المتقدمين عليهم السلام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 25,
+      "end_ms": 28
+    },
+    "6": {
+      "title": "AUTO اقوال الصحابه رضي الله عنهم اجمعين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 28,
+      "end_ms": 33
+    },
+    "7": {
+      "title": "AUTO اقوال التابعين رحمه الله عليهم اجمعين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 33,
+      "end_ms": 35
+    },
+    "8": {
+      "title": "AUTO اقوال الأئمة رضي الله عنهم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 35,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2],
+      1
+    ],
+    [
+      9,
+      [3],
+      2
+    ],
+    [
+      17,
+      [4],
+      3
+    ],
+    [
+      25,
+      [5],
+      4
+    ],
+    [
+      28,
+      [6],
+      5
+    ],
+    [
+      33,
+      [7],
+      6
+    ],
+    [
+      35,
+      [8],
+      7
+    ]
+  ],
+  "last_ms": 44
+}

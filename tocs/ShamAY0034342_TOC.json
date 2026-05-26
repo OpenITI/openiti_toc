@@ -1,0 +1,120 @@
+{
+  "filename": "0909IbnMabrid.IrshadHair.ShamAY0034342-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "2": {
+      "title": "AUTO فائدة: تسقط المعاصي بالحسنات،",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 6
+    },
+    "3": {
+      "title": "AUTO فصل: قال ابن القيم في آخر كتاب: (إعلام الموقعين)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "4": {
+      "title": "AUTO فصل : ومنها: الاستماع إلى حديث قوم لا يحبون استماعه،",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 11
+    },
+    "5": {
+      "title": "AUTO فصل : وهذه الكبائر التي لا يرجى ms10 الخلاص منها إلا بالتوبة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 11
+    },
+    "6": {
+      "title": "AUTO فصل : والصغائر فيهن إثم،",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 11
+    },
+    "7": {
+      "title": "AUTO فصل: وهذه الدنيا ليس خلقت للدوام حتى يعمل الإنسان فيها هذه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 12
+    },
+    "8": {
+      "title": "AUTO فصل : ومن ترك هذا: فله النعيم المقيم،",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 13
+    },
+    "9": {
+      "title": "AUTO فصل: وقد أوضحت لك الطريق، فاختر لنفسك أي الطريقين أردت،",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 13
+    },
+    "10": {
+      "title": "AUTO فصل: ومن كان يعمل هذه المعاصي: فلا يسلم عليه؛",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 13
+    },
+    "11": {
+      "title": "AUTO فصل: وهذه المحرمات لو تركها: عوض خيرا منها،",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      4,
+      [2],
+      1
+    ],
+    [
+      6,
+      [3],
+      2
+    ],
+    [
+      7,
+      [4],
+      3
+    ],
+    [
+      11,
+      [5, 6, 7],
+      null
+    ],
+    [
+      12,
+      [8],
+      7
+    ],
+    [
+      13,
+      [9, 10, 11],
+      8
+    ]
+  ],
+  "last_ms": 15
+}

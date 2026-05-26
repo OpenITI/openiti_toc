@@ -1,0 +1,116 @@
+{
+  "filename": "1089IbnCimad.Shadharat.Sham30K0004387-ara1",
+  "sections": {
+    "1": {
+      "title": "AUT 01",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "2": {
+      "title": "AUT ms0001 01",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 304
+    },
+    "3": {
+      "title": "AUT 02",
+      "level": 1,
+      "parent": null,
+      "start_ms": 304,
+      "end_ms": 627
+    },
+    "4": {
+      "title": "AUT 03",
+      "level": 1,
+      "parent": null,
+      "start_ms": 627,
+      "end_ms": 972
+    },
+    "5": {
+      "title": "AUT 04",
+      "level": 1,
+      "parent": null,
+      "start_ms": 972,
+      "end_ms": 1303
+    },
+    "6": {
+      "title": "AUT 05",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1303,
+      "end_ms": 1701
+    },
+    "7": {
+      "title": "AUT 06",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1701,
+      "end_ms": 2050
+    },
+    "8": {
+      "title": "AUT ms2049 07",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2050,
+      "end_ms": 2364
+    },
+    "9": {
+      "title": "AUT 08",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2364,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2],
+      null
+    ],
+    [
+      304,
+      [3],
+      2
+    ],
+    [
+      627,
+      [4],
+      3
+    ],
+    [
+      972,
+      [5],
+      4
+    ],
+    [
+      1303,
+      [6],
+      5
+    ],
+    [
+      1701,
+      [7],
+      6
+    ],
+    [
+      2050,
+      [8],
+      null
+    ],
+    [
+      2364,
+      [9],
+      8
+    ]
+  ],
+  "last_ms": 2749
+}
