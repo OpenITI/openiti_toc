@@ -1,0 +1,39 @@
+{
+  "filename": "0459IbnSufi.Majdi.Zaydiyya0000156-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO المجدي في أنساب الطالبين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 132
+    },
+    "2": {
+      "title": "AUTO المجدي في أنساب الطالبيين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 132,
+      "end_ms": 132
+    },
+    "3": {
+      "title": "CHECK [نص الكتاب]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 132,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      132,
+      [2, 3],
+      1
+    ]
+  ],
+  "last_ms": 446
+}

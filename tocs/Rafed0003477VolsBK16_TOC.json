@@ -1,0 +1,44 @@
+{
+  "filename": "0246QasimRassi.MadihQuranSaghir.Rafed0003477VolsBK16-ara2",
+  "sections": {
+    "1": {
+      "title": "مديح القرآن الصغير",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "2": {
+      "title": "[وصية الإمام بالقرآن]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "[السياسة المنحرفة تحرف القرآن]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2],
+      1
+    ],
+    [
+      4,
+      [3],
+      2
+    ]
+  ],
+  "last_ms": 6
+}

@@ -1,0 +1,116 @@
+{
+  "filename": "0300CisaIbnYahya.JalinusFiIkhtilafAcda.GRAR000040-ara1",
+  "sections": {
+    "1": {
+      "title": "[chapter 1] كتاب جالينوس فى اختلاف الأعضاء المتشابهة الأجزاء نقل حنين بن إسحق المتطبب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "2": {
+      "title": "[chapter 2]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "[chapter 3]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "4": {
+      "title": "[chapter 4]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 8
+    },
+    "5": {
+      "title": "[chapter 5]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 9
+    },
+    "6": {
+      "title": "[chapter 6]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 10
+    },
+    "7": {
+      "title": "[chapter 7]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 11
+    },
+    "8": {
+      "title": "[chapter 8]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 12
+    },
+    "9": {
+      "title": "[chapter 9]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      3,
+      [2],
+      1
+    ],
+    [
+      4,
+      [3],
+      2
+    ],
+    [
+      5,
+      [4],
+      3
+    ],
+    [
+      8,
+      [5],
+      4
+    ],
+    [
+      9,
+      [6],
+      5
+    ],
+    [
+      10,
+      [7],
+      6
+    ],
+    [
+      11,
+      [8],
+      7
+    ],
+    [
+      12,
+      [9],
+      8
+    ]
+  ],
+  "last_ms": 13
+}

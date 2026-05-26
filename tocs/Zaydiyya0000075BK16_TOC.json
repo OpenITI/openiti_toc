@@ -1,0 +1,44 @@
+{
+  "filename": "0246QasimRassi.MadihQuranSaghir.Zaydiyya0000075BK16-ara1",
+  "sections": {
+    "1": {
+      "title": "مديح القرآن الصغير",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "AUTO [وصية الإمام بالقرآن]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "AUTO [السياسة المنحرفة تحرف القرآن]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2],
+      1
+    ],
+    [
+      4,
+      [3],
+      2
+    ]
+  ],
+  "last_ms": 5
+}

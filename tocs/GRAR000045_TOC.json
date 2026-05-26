@@ -1,0 +1,75 @@
+{
+  "filename": "0300HubayshIbnHasan.JalinusFiCamalTashrih.GRAR000045-ara1",
+  "sections": {
+    "1": {
+      "title": "[book 9]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "[chapter 97: IX 1] بسم الله الرحمن الرحيم المقالة التاسعة من كتاب جالينوس فى عمل التشريح",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "[chapter 98: IX 2]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 7
+    },
+    "4": {
+      "title": "[chapter 99: IX ms06 3]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 7,
+      "end_ms": 9
+    },
+    "5": {
+      "title": "[chapter 100: IX 4]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 9,
+      "end_ms": 13
+    },
+    "6": {
+      "title": "[chapter 101: IX 5]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 13,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      4,
+      [3],
+      2
+    ],
+    [
+      7,
+      [4],
+      null
+    ],
+    [
+      9,
+      [5],
+      4
+    ],
+    [
+      13,
+      [6],
+      5
+    ]
+  ],
+  "last_ms": 14
+}

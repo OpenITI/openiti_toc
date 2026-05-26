@@ -1,0 +1,106 @@
+{
+  "filename": "1450CabdAllahHusaynDaylami.MacaImamiyya.Zaydiyya0000118-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO مع الإمامية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "2": {
+      "title": "AUTO الباب الأول: الإمامة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 18
+    },
+    "3": {
+      "title": "AUTO الفصل الأول: النص على أسماء الأئمة",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 3,
+      "end_ms": 14
+    },
+    "4": {
+      "title": "AUTO الفصل الثاني : الحديث المروي في كتب أهل السنة",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 14,
+      "end_ms": 18
+    },
+    "5": {
+      "title": "AUTO الباب الثاني: العصمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": 26
+    },
+    "6": {
+      "title": "AUTO الباب الثالث: المهدي الموعود عليه السلام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 26,
+      "end_ms": 34
+    },
+    "7": {
+      "title": "AUTO الباب الرابع: الاختلاف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 34,
+      "end_ms": null
+    },
+    "8": {
+      "title": "AUTO الفصل الأول: جواز الاختلاف في الفروع",
+      "level": 2,
+      "parent": 7,
+      "start_ms": 34,
+      "end_ms": 36
+    },
+    "9": {
+      "title": "AUTO الفصل الثاني : إختلاف الإمامية",
+      "level": 2,
+      "parent": 7,
+      "start_ms": 36,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      3,
+      [2, 3],
+      1
+    ],
+    [
+      14,
+      [4],
+      3
+    ],
+    [
+      18,
+      [5],
+      4
+    ],
+    [
+      26,
+      [6],
+      5
+    ],
+    [
+      34,
+      [7, 8],
+      6
+    ],
+    [
+      36,
+      [9],
+      8
+    ]
+  ],
+  "last_ms": 47
+}

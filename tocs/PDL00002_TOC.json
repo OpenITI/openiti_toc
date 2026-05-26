@@ -1,0 +1,68 @@
+{
+  "filename": "0329Rudaki.Mathnavi.PDL00002-per1",
+  "sections": {
+    "1": {
+      "title": "[ 1 kalila-sand ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 6
+    },
+    "2": {
+      "title": "[ 2 motaghareb ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 8
+    },
+    "3": {
+      "title": "[ 3 khafeef ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 9
+    },
+    "4": {
+      "title": "[ 4 hzj ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 10
+    },
+    "5": {
+      "title": "[ 5 digar ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      6,
+      [2],
+      1
+    ],
+    [
+      8,
+      [3],
+      2
+    ],
+    [
+      9,
+      [4],
+      3
+    ],
+    [
+      10,
+      [5],
+      4
+    ]
+  ],
+  "last_ms": 10
+}

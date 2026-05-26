@@ -1,0 +1,44 @@
+{
+  "filename": "0283AbuIshaqThaqafi.Gharat.Zaydiyya0000174-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [مختصر يبحث عن ترجمة المؤلف والمؤلف]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 75
+    },
+    "2": {
+      "title": "AUTO المجلد الاول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 75,
+      "end_ms": 463
+    },
+    "3": {
+      "title": "AUTO المجلد الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 463,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      75,
+      [2],
+      1
+    ],
+    [
+      463,
+      [3],
+      2
+    ]
+  ],
+  "last_ms": 1047
+}

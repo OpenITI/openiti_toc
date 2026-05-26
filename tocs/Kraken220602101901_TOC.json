@@ -1,0 +1,44 @@
+{
+  "filename": "0292Yacqubi.MushakalatNas.Kraken220602101901-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "[ذكر الخلفاء الراشدين] (1)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "2": {
+      "title": "[ذكر خلفاء بنى معاوية] (1)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 6
+    },
+    "3": {
+      "title": "[ذكر خلفاء بني العباس] (1)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      4,
+      [2],
+      1
+    ],
+    [
+      6,
+      [3],
+      2
+    ]
+  ],
+  "last_ms": 13
+}

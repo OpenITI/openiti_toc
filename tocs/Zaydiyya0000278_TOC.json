@@ -1,0 +1,32 @@
+{
+  "filename": "0460ShaykhTusi.IkhtiyarMacrifatRijal.Zaydiyya0000278-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [اختيار معرفة الرجال ج1]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 365
+    },
+    "2": {
+      "title": "CHECK [اختيار معرفة الرجال ج2]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 365,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      365,
+      [2],
+      1
+    ]
+  ],
+  "last_ms": 734
+}

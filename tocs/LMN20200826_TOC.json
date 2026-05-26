@@ -1,0 +1,82 @@
+{
+  "filename": "0711IbnIbrahimCimadDinWasiti.MiftahTariqIlaSulukTahqiq.LMN20200826-ara1.mARkdown",
+  "sections": {
+    "1": {
+      "title": "فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 5
+    },
+    "2": {
+      "title": "فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 7
+    },
+    "3": {
+      "title": "فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "4": {
+      "title": "فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "5": {
+      "title": "فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 8
+    },
+    "6": {
+      "title": "فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 9
+    },
+    "7": {
+      "title": "فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      2,
+      [1],
+      null
+    ],
+    [
+      5,
+      [2],
+      1
+    ],
+    [
+      7,
+      [3, 4, 5],
+      2
+    ],
+    [
+      8,
+      [6],
+      5
+    ],
+    [
+      9,
+      [7],
+      6
+    ]
+  ],
+  "last_ms": 10
+}

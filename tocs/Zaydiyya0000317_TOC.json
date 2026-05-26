@@ -1,0 +1,44 @@
+{
+  "filename": "0413ShaykhMufid.Hikayat.Zaydiyya0000317-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO الحكايات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "AUTO الحكايات متن الكتاب [ بسم الله الرحمن الرحيم ] فصل من حكايات",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 17,
+      "end_ms": null
+    },
+    "3": {
+      "title": "AUTO [6] [ مخالفات أخرى للمعتزلة ] هذا، وهم بأجمعهم: [1]",
+      "level": 3,
+      "parent": 2,
+      "start_ms": 27,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      17,
+      [2],
+      1
+    ],
+    [
+      27,
+      [3],
+      2
+    ]
+  ],
+  "last_ms": 45
+}

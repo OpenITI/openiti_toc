@@ -1,0 +1,116 @@
+{
+  "filename": "0246QasimRassi.DalilSaghir.Zaydiyya0000075BK2-ara1",
+  "sections": {
+    "1": {
+      "title": "الدليل الصغير",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "AUTO [التفكير طريق المعرفة بالله]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "AUTO [استدلال إبراهيم على وجود الله]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 7
+    },
+    "4": {
+      "title": "AUTO [استدلال موسى على وجود الله]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 7,
+      "end_ms": 9
+    },
+    "5": {
+      "title": "AUTO [عظة بليغة]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 9,
+      "end_ms": 11
+    },
+    "6": {
+      "title": "AUTO [التوكل على الله]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 11,
+      "end_ms": 13
+    },
+    "7": {
+      "title": "AUTO [قوى النفس]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 13,
+      "end_ms": 14
+    },
+    "8": {
+      "title": "AUTO [الدلائل على الله]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 14,
+      "end_ms": 17
+    },
+    "9": {
+      "title": "AUTO [الله خالق الكون]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 17,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2],
+      1
+    ],
+    [
+      3,
+      [3],
+      2
+    ],
+    [
+      7,
+      [4],
+      3
+    ],
+    [
+      9,
+      [5],
+      4
+    ],
+    [
+      11,
+      [6],
+      5
+    ],
+    [
+      13,
+      [7],
+      6
+    ],
+    [
+      14,
+      [8],
+      7
+    ],
+    [
+      17,
+      [9],
+      8
+    ]
+  ],
+  "last_ms": 24
+}

@@ -1,0 +1,68 @@
+{
+  "filename": "0413ShaykhMufid.Kafia.Masaha004761-ara1",
+  "sections": {
+    "1": {
+      "title": "الفصل الأول في موقف طلحة والزبير من عثمان وبيعتهما مع علي(ع)ونكثها",
+      "level": 3,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "الفصل الثاني في حرب الجمل (1)",
+      "level": 3,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": null
+    },
+    "3": {
+      "title": "الفصل الثالث في أحكام محاربي أمير المؤمنين ع",
+      "level": 3,
+      "parent": 2,
+      "start_ms": 10,
+      "end_ms": 13
+    },
+    "4": {
+      "title": "خاتمة",
+      "level": 3,
+      "parent": 2,
+      "start_ms": 13,
+      "end_ms": 14
+    },
+    "5": {
+      "title": "استدراك",
+      "level": 3,
+      "parent": 2,
+      "start_ms": 14,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      3,
+      [2],
+      1
+    ],
+    [
+      10,
+      [3],
+      2
+    ],
+    [
+      13,
+      [4],
+      3
+    ],
+    [
+      14,
+      [5],
+      4
+    ]
+  ],
+  "last_ms": 15
+}

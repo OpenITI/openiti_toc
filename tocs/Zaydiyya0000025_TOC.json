@@ -1,0 +1,185 @@
+{
+  "filename": "1450Anonymous.SiratRasulAllah.Zaydiyya0000025-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [سيرة رسول الله1]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 64
+    },
+    "2": {
+      "title": "CHECK [سيرة رسول الله2]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 64,
+      "end_ms": 105
+    },
+    "3": {
+      "title": "AUTO في المدينة المنورة",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 64,
+      "end_ms": 66
+    },
+    "4": {
+      "title": "AUTO الوضع الاجتماعي في المدينة المنورة",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 66,
+      "end_ms": 104
+    },
+    "5": {
+      "title": "AUTO مشروع البراءة من المشركين",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 104,
+      "end_ms": 105
+    },
+    "6": {
+      "title": "AUTO آفاق جديدة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 105,
+      "end_ms": null
+    },
+    "7": {
+      "title": "AUTO الأساليب التي اتبعها الرسول (صلى الله عليه وآله وسلم) في نشر",
+      "level": 2,
+      "parent": 6,
+      "start_ms": 106,
+      "end_ms": 109
+    },
+    "8": {
+      "title": "AUTO وقد جاهد رسول الله (ص) الكفار والمجرمين في الجزيرة العربية",
+      "level": 2,
+      "parent": 6,
+      "start_ms": 109,
+      "end_ms": 111
+    },
+    "9": {
+      "title": "AUTO بيعة الغدير المباركة",
+      "level": 2,
+      "parent": 6,
+      "start_ms": 111,
+      "end_ms": 113
+    },
+    "10": {
+      "title": "AUTO جيش أسامة",
+      "level": 2,
+      "parent": 6,
+      "start_ms": 113,
+      "end_ms": 114
+    },
+    "11": {
+      "title": "AUTO قلق الرسول (صلى الله عليه وآله وسلم) على مستقبل الاسلام",
+      "level": 2,
+      "parent": 6,
+      "start_ms": 114,
+      "end_ms": 115
+    },
+    "12": {
+      "title": "AUTO الوصية الاخيرة",
+      "level": 2,
+      "parent": 6,
+      "start_ms": 115,
+      "end_ms": 115
+    },
+    "13": {
+      "title": "AUTO بعد وفاة الرسول (صلى الله عليه وآله وسلم)",
+      "level": 2,
+      "parent": 6,
+      "start_ms": 115,
+      "end_ms": 116
+    },
+    "14": {
+      "title": "AUTO أحداث السقيفة وآراء المجتمعين فيها",
+      "level": 2,
+      "parent": 6,
+      "start_ms": 116,
+      "end_ms": 116
+    },
+    "15": {
+      "title": "AUTO الحوار داخل السقيفة",
+      "level": 2,
+      "parent": 6,
+      "start_ms": 116,
+      "end_ms": 118
+    },
+    "16": {
+      "title": "AUTO آراء الصحابة ms117 خارج السقيفة",
+      "level": 2,
+      "parent": 6,
+      "start_ms": 118,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      64,
+      [2, 3],
+      1
+    ],
+    [
+      66,
+      [4],
+      3
+    ],
+    [
+      104,
+      [5],
+      4
+    ],
+    [
+      105,
+      [6],
+      5
+    ],
+    [
+      106,
+      [7],
+      6
+    ],
+    [
+      109,
+      [8],
+      7
+    ],
+    [
+      111,
+      [9],
+      8
+    ],
+    [
+      113,
+      [10],
+      9
+    ],
+    [
+      114,
+      [11],
+      10
+    ],
+    [
+      115,
+      [12, 13],
+      11
+    ],
+    [
+      116,
+      [14, 15],
+      13
+    ],
+    [
+      118,
+      [16],
+      null
+    ]
+  ],
+  "last_ms": 132
+}

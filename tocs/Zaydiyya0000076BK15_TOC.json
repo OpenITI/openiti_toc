@@ -1,0 +1,56 @@
+{
+  "filename": "0298HadiIlaHaqqYahya.RaddCalaMujbiraThani.Zaydiyya0000076BK15-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "كتاب الرد على المجبرة القدرية أجاب به صلوات الله عليه ابنه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "مزاعم المجبرة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 8
+    },
+    "3": {
+      "title": "ما يستدل به أهل العدل على أهل الجبر",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 8,
+      "end_ms": 22
+    },
+    "4": {
+      "title": "حجج العقل لأهل العدل والتوحيد",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 22,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2],
+      1
+    ],
+    [
+      8,
+      [3],
+      2
+    ],
+    [
+      22,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 29
+}

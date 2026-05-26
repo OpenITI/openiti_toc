@@ -1,0 +1,51 @@
+{
+  "filename": "0711IbnIbrahimCimadDinWasiti.HatkAstarFusus.LMN20201127-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "2": {
+      "title": "فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 5
+    },
+    "4": {
+      "title": "فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      2,
+      [1, 2],
+      null
+    ],
+    [
+      3,
+      [3],
+      2
+    ],
+    [
+      5,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 25
+}

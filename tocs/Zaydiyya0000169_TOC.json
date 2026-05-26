@@ -1,0 +1,44 @@
+{
+  "filename": "1450MurtadaCaskari.MacalimMadrasatayn.Zaydiyya0000169-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [الجزء الأول]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 313
+    },
+    "2": {
+      "title": "CHECK [الجزء الثاني]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 313,
+      "end_ms": 660
+    },
+    "3": {
+      "title": "CHECK [الجزء الثالث]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 660,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      313,
+      [2],
+      1
+    ],
+    [
+      660,
+      [3],
+      2
+    ]
+  ],
+  "last_ms": 911
+}

@@ -1,0 +1,32 @@
+{
+  "filename": "0300HubayshIbnHasan.JalinusFiMudawatKasr.GRAR000049-ara1",
+  "sections": {
+    "1": {
+      "title": "[book 2]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 19
+    },
+    "2": {
+      "title": "[book 3]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 19,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      19,
+      [2],
+      1
+    ]
+  ],
+  "last_ms": 53
+}

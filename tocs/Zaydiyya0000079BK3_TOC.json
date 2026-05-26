@@ -1,0 +1,56 @@
+{
+  "filename": "1029QasimIbnMuhammadImam.Wasiyya.Zaydiyya0000079BK3-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO الوصية السنية الدرية الزكية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "2": {
+      "title": "AUTO إجازة العلامة أحمد بن يحيى حابس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": null
+    },
+    "3": {
+      "title": "AUTO [طريقة أهل البيت في علم الحديث]",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 6,
+      "end_ms": 16
+    },
+    "4": {
+      "title": "AUTO [كلام منقول من إجازة الفقيه شمس الدين أحمد بن عثمان للإمام",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 16,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      4,
+      [2],
+      1
+    ],
+    [
+      6,
+      [3],
+      2
+    ],
+    [
+      16,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 25
+}

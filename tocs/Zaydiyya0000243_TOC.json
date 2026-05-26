@@ -1,0 +1,68 @@
+{
+  "filename": "1100MustafaTafrishi.NaqdRijal.Zaydiyya0000243-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [نقد الرجال ج1]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 253
+    },
+    "2": {
+      "title": "CHECK [نقد الرجال ج2]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 253,
+      "end_ms": 515
+    },
+    "3": {
+      "title": "CHECK [نقد الرجال ج3]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 515,
+      "end_ms": 753
+    },
+    "4": {
+      "title": "CHECK [نقد الرجال ج4]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 753,
+      "end_ms": 1018
+    },
+    "5": {
+      "title": "CHECK [نقد الرجال ج5]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1018,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      253,
+      [2],
+      1
+    ],
+    [
+      515,
+      [3],
+      2
+    ],
+    [
+      753,
+      [4],
+      3
+    ],
+    [
+      1018,
+      [5],
+      4
+    ]
+  ],
+  "last_ms": 1290
+}

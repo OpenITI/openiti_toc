@@ -1,0 +1,135 @@
+{
+  "filename": "0246QasimRassi.RaddCalaNasara.Zaydiyya0000075BK5-ara1",
+  "sections": {
+    "1": {
+      "title": "الرد على النصارى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "AUTO [مشابهة الفروع للأصول]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "AUTO [عيسى بشر]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 5
+    },
+    "4": {
+      "title": "AUTO [مصادر عقائد النصارى]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 5,
+      "end_ms": 12
+    },
+    "5": {
+      "title": "AUTO [أدب الحوار]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 12,
+      "end_ms": 13
+    },
+    "6": {
+      "title": "AUTO [مذاهب النصارى المتفق عليها]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 13,
+      "end_ms": 14
+    },
+    "7": {
+      "title": "AUTO [مذاهب النصارى المختلفة]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 14,
+      "end_ms": 15
+    },
+    "8": {
+      "title": "AUTO [المذهب الجامع للنصارى]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 15,
+      "end_ms": 17
+    },
+    "9": {
+      "title": "AUTO [نقض مذاهب النصارى]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 17,
+      "end_ms": 19
+    },
+    "10": {
+      "title": "AUTO [قواعد للحوار]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 19,
+      "end_ms": 25
+    },
+    "11": {
+      "title": "AUTO [وصايا المسيح عليه السلام]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 25,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3],
+      2
+    ],
+    [
+      5,
+      [4],
+      3
+    ],
+    [
+      12,
+      [5],
+      4
+    ],
+    [
+      13,
+      [6],
+      5
+    ],
+    [
+      14,
+      [7],
+      6
+    ],
+    [
+      15,
+      [8],
+      7
+    ],
+    [
+      17,
+      [9],
+      8
+    ],
+    [
+      19,
+      [10],
+      9
+    ],
+    [
+      25,
+      [11],
+      10
+    ]
+  ],
+  "last_ms": 31
+}

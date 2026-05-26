@@ -1,0 +1,92 @@
+{
+  "filename": "0453CaliIbnRidwan.TacaliqLiTafsirJalinus.ArabCommAph052065977-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "تعاليق فوائد من كتاب الفصول لأبقراط بتفسير (3) جالينوس،",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 11
+    },
+    "2": {
+      "title": "تعاليق المقالة الثانية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 15
+    },
+    "3": {
+      "title": "ابتداء المقالة الثالثة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 18
+    },
+    "4": {
+      "title": "تعاليق المقالة الرابعة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": 22
+    },
+    "5": {
+      "title": "تعاليق المقالة الخامسة من كتاب الفصول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 22,
+      "end_ms": 25
+    },
+    "6": {
+      "title": "فوائد تعاليق المقالة السادسة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 25,
+      "end_ms": 29
+    },
+    "7": {
+      "title": "فوائد تعاليق المقالة السابعة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 29,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      11,
+      [2],
+      1
+    ],
+    [
+      15,
+      [3],
+      2
+    ],
+    [
+      18,
+      [4],
+      3
+    ],
+    [
+      22,
+      [5],
+      4
+    ],
+    [
+      25,
+      [6],
+      5
+    ],
+    [
+      29,
+      [7],
+      6
+    ]
+  ],
+  "last_ms": 31
+}

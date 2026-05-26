@@ -1,0 +1,117 @@
+{
+  "filename": "0961SulaymanMahri.TuhfatFuhul.AOCP2023071333-ara1",
+  "sections": {
+    "1": {
+      "title": "في تحزئه الدورة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "فل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "4": {
+      "title": "في ايدآزواص",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "5": {
+      "title": "فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 4
+    },
+    "6": {
+      "title": "في الريرة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "7": {
+      "title": "في الفاس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "8": {
+      "title": "فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "9": {
+      "title": "فسل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "10": {
+      "title": "في لواحق ألقياس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "11": {
+      "title": "في المسافة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 6
+    },
+    "12": {
+      "title": "في اند رياع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3, 4, 5],
+      2
+    ],
+    [
+      4,
+      [6, 7, 8],
+      5
+    ],
+    [
+      5,
+      [9, 10],
+      8
+    ],
+    [
+      6,
+      [11, 12],
+      10
+    ]
+  ],
+  "last_ms": 7
+}

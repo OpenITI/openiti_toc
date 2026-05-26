@@ -1,0 +1,56 @@
+{
+  "filename": "0664IbnTawus.LuhufFiQatlaTufuf.Masaha002860-ara1",
+  "sections": {
+    "1": {
+      "title": "[المقدمة]",
+      "level": 3,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "2": {
+      "title": "المسلك الأول في الأمور المتقدمة على القتال",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 27
+    },
+    "3": {
+      "title": "المسلك الثاني في وصف حال القتال وما يقرب من تلك الحال",
+      "level": 1,
+      "parent": null,
+      "start_ms": 27,
+      "end_ms": 45
+    },
+    "4": {
+      "title": "المسلك الثالث في الأمور المتأخرة عن قتله صلوات الله عليه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 45,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      4,
+      [2],
+      1
+    ],
+    [
+      27,
+      [3],
+      2
+    ],
+    [
+      45,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 67
+}

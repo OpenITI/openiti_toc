@@ -1,0 +1,166 @@
+{
+  "filename": "0460IbnButlan.DacwatAtibba.LAL2023020101-ara1",
+  "sections": {
+    "1": {
+      "title": "0",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "1",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 5
+    },
+    "3": {
+      "title": "2",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 12
+    },
+    "4": {
+      "title": "3",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 14
+    },
+    "5": {
+      "title": "4",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 16
+    },
+    "6": {
+      "title": "5",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": 16
+    },
+    "7": {
+      "title": "6",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": 19
+    },
+    "8": {
+      "title": "7",
+      "level": 1,
+      "parent": null,
+      "start_ms": 19,
+      "end_ms": 21
+    },
+    "9": {
+      "title": "8",
+      "level": 1,
+      "parent": null,
+      "start_ms": 21,
+      "end_ms": 23
+    },
+    "10": {
+      "title": "9",
+      "level": 1,
+      "parent": null,
+      "start_ms": 23,
+      "end_ms": 27
+    },
+    "11": {
+      "title": "10",
+      "level": 1,
+      "parent": null,
+      "start_ms": 27,
+      "end_ms": 34
+    },
+    "12": {
+      "title": "11",
+      "level": 1,
+      "parent": null,
+      "start_ms": 34,
+      "end_ms": 38
+    },
+    "13": {
+      "title": "12",
+      "level": 1,
+      "parent": null,
+      "start_ms": 38,
+      "end_ms": 40
+    },
+    "14": {
+      "title": "13",
+      "level": 1,
+      "parent": null,
+      "start_ms": 40,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      5,
+      [3],
+      2
+    ],
+    [
+      12,
+      [4],
+      3
+    ],
+    [
+      14,
+      [5],
+      4
+    ],
+    [
+      16,
+      [6, 7],
+      5
+    ],
+    [
+      19,
+      [8],
+      7
+    ],
+    [
+      21,
+      [9],
+      8
+    ],
+    [
+      23,
+      [10],
+      9
+    ],
+    [
+      27,
+      [11],
+      10
+    ],
+    [
+      34,
+      [12],
+      11
+    ],
+    [
+      38,
+      [13],
+      12
+    ],
+    [
+      40,
+      [14],
+      13
+    ]
+  ],
+  "last_ms": 40
+}

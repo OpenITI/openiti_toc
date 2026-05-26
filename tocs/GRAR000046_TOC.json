@@ -1,0 +1,99 @@
+{
+  "filename": "0300HubayshIbnHasan.JalinusFiCamalTashrih.GRAR000046-ara1",
+  "sections": {
+    "1": {
+      "title": "[book 9] كتاب جالينوس فى عمل التشريح ما لم يبق منه فى اللغة اليونانية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 25
+    },
+    "2": {
+      "title": "المقالة التاسعة من منتهى النص اليونانى الى آخرها",
+      "level": 3,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 25
+    },
+    "3": {
+      "title": "[book 10]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 25,
+      "end_ms": 61
+    },
+    "4": {
+      "title": "[book 11]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 61,
+      "end_ms": 99
+    },
+    "5": {
+      "title": "[book 12]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 99,
+      "end_ms": 121
+    },
+    "6": {
+      "title": "[book 13]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 121,
+      "end_ms": 164
+    },
+    "7": {
+      "title": "[book 14]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 164,
+      "end_ms": 202
+    },
+    "8": {
+      "title": "[book 15]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 202,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      25,
+      [3],
+      2
+    ],
+    [
+      61,
+      [4],
+      3
+    ],
+    [
+      99,
+      [5],
+      4
+    ],
+    [
+      121,
+      [6],
+      5
+    ],
+    [
+      164,
+      [7],
+      6
+    ],
+    [
+      202,
+      [8],
+      7
+    ]
+  ],
+  "last_ms": 241
+}

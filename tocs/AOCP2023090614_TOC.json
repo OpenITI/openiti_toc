@@ -1,0 +1,68 @@
+{
+  "filename": "0623AbuQasimRafici.SawadCaynayn.AOCP2023090614-ara1",
+  "sections": {
+    "1": {
+      "title": "*ر %~% اعلج",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 14
+    },
+    "2": {
+      "title": "73",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 15
+    },
+    "3": {
+      "title": "* (قاقره قه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 16
+    },
+    "4": {
+      "title": "ي ا غ افا",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": 21
+    },
+    "5": {
+      "title": "و",
+      "level": 1,
+      "parent": null,
+      "start_ms": 21,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      13,
+      [1],
+      null
+    ],
+    [
+      14,
+      [2],
+      1
+    ],
+    [
+      15,
+      [3],
+      2
+    ],
+    [
+      16,
+      [4],
+      3
+    ],
+    [
+      21,
+      [5],
+      4
+    ]
+  ],
+  "last_ms": 22
+}

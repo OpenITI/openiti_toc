@@ -1,0 +1,147 @@
+{
+  "filename": "0246QasimRassi.TathbitImama.Zaydiyya0000075BK18-ara1",
+  "sections": {
+    "1": {
+      "title": "تثبيت الإمامة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "AUTO [وجوب الإمامة ودليلها]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "AUTO [ضرورة الإمامة]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "4": {
+      "title": "AUTO [تدبير الخلق]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "5": {
+      "title": "AUTO [أصناف الخلق]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "6": {
+      "title": "AUTO [طبقات حياة الخلق]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "7": {
+      "title": "AUTO [حكمة التشريع]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 7,
+      "end_ms": 8
+    },
+    "8": {
+      "title": "AUTO [صفات المرشد ووجوب الثواب والعقاب]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 8,
+      "end_ms": 9
+    },
+    "9": {
+      "title": "AUTO [معجزات الأنبياء]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 9,
+      "end_ms": 11
+    },
+    "10": {
+      "title": "AUTO [دليل الإمامة]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 11,
+      "end_ms": 14
+    },
+    "11": {
+      "title": "AUTO [صفات الإمام]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 14,
+      "end_ms": 15
+    },
+    "12": {
+      "title": "AUTO [طريق الإمامة]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 15,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      3,
+      [3],
+      2
+    ],
+    [
+      4,
+      [4],
+      3
+    ],
+    [
+      5,
+      [5],
+      4
+    ],
+    [
+      6,
+      [6],
+      5
+    ],
+    [
+      7,
+      [7],
+      6
+    ],
+    [
+      8,
+      [8],
+      7
+    ],
+    [
+      9,
+      [9],
+      8
+    ],
+    [
+      11,
+      [10],
+      9
+    ],
+    [
+      14,
+      [11],
+      10
+    ],
+    [
+      15,
+      [12],
+      11
+    ]
+  ],
+  "last_ms": 18
+}

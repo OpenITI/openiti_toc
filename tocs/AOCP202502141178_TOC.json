@@ -1,0 +1,92 @@
+{
+  "filename": "0525Anonymous.TarjumaQuranMahan.AOCP202502141178-per1",
+  "sections": {
+    "1": {
+      "title": "PageV01P086",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 31
+    },
+    "2": {
+      "title": "PageV01P103",
+      "level": 1,
+      "parent": null,
+      "start_ms": 31,
+      "end_ms": 49
+    },
+    "3": {
+      "title": "PageV01P122",
+      "level": 1,
+      "parent": null,
+      "start_ms": 49,
+      "end_ms": 68
+    },
+    "4": {
+      "title": "* PageV01P143",
+      "level": 1,
+      "parent": null,
+      "start_ms": 68,
+      "end_ms": 77
+    },
+    "5": {
+      "title": "PageV01P154",
+      "level": 1,
+      "parent": null,
+      "start_ms": 77,
+      "end_ms": 111
+    },
+    "6": {
+      "title": "* PageV01P195",
+      "level": 1,
+      "parent": null,
+      "start_ms": 111,
+      "end_ms": 127
+    },
+    "7": {
+      "title": "PageV01P216",
+      "level": 1,
+      "parent": null,
+      "start_ms": 127,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      15,
+      [1],
+      null
+    ],
+    [
+      31,
+      [2],
+      1
+    ],
+    [
+      49,
+      [3],
+      2
+    ],
+    [
+      68,
+      [4],
+      3
+    ],
+    [
+      77,
+      [5],
+      4
+    ],
+    [
+      111,
+      [6],
+      5
+    ],
+    [
+      127,
+      [7],
+      6
+    ]
+  ],
+  "last_ms": 131
+}

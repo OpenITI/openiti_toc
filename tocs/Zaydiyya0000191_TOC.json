@@ -1,0 +1,140 @@
+{
+  "filename": "1450CaliKuraniCamili.CasrZuhur.Zaydiyya0000191-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO عصر الظهور",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "AUTO الروم ودورهم في عصر الظهور",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 24,
+      "end_ms": 29
+    },
+    "3": {
+      "title": "AUTO الترك ودورهم في عصر الظهور",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 29,
+      "end_ms": 33
+    },
+    "4": {
+      "title": "AUTO اليهود ودورهم في عصر الظهور",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 33,
+      "end_ms": 51
+    },
+    "5": {
+      "title": "AUTO العرب ودورهم في عصر الظهور",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 51,
+      "end_ms": 104
+    },
+    "6": {
+      "title": "AUTO العراق ودوره في عصر الظهور",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 104,
+      "end_ms": 131
+    },
+    "7": {
+      "title": "AUTO الايرانيون ودورهم في عصر الظهور",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 131,
+      "end_ms": 172
+    },
+    "8": {
+      "title": "AUTO حركة الظهور المقدس",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 172,
+      "end_ms": 228
+    },
+    "9": {
+      "title": "AUTO ملامح الدولة العالمية على يد الامام المهدى عليه السلام",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 228,
+      "end_ms": 243
+    },
+    "10": {
+      "title": "AUTO عقيدة الشيعه في الامام المهدى عليه السلام",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 243,
+      "end_ms": 254
+    },
+    "11": {
+      "title": "AUTO عقيدة السنة في المهدى المنتظر",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 254,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      24,
+      [2],
+      1
+    ],
+    [
+      29,
+      [3],
+      2
+    ],
+    [
+      33,
+      [4],
+      3
+    ],
+    [
+      51,
+      [5],
+      4
+    ],
+    [
+      104,
+      [6],
+      5
+    ],
+    [
+      131,
+      [7],
+      6
+    ],
+    [
+      172,
+      [8],
+      7
+    ],
+    [
+      228,
+      [9],
+      8
+    ],
+    [
+      243,
+      [10],
+      9
+    ],
+    [
+      254,
+      [11],
+      10
+    ]
+  ],
+  "last_ms": 283
+}

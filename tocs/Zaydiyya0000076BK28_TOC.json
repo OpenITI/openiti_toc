@@ -1,0 +1,39 @@
+{
+  "filename": "0298HadiIlaHaqqYahya.MinSiratHadi.Zaydiyya0000076BK28-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "من سيرة الإمام الهادي إلى الحق يحيى بن الحسين صلوات الله عليه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "الانهزام بسبب المعاصي",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "وصف لسيرة الهادي عليه السلام",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      3,
+      [3],
+      2
+    ]
+  ],
+  "last_ms": 5
+}

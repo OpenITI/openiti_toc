@@ -1,0 +1,113 @@
+{
+  "filename": "0740IbnDawudHilli.Rijal.Zaydiyya0000187-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO رجال ابن داود",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 160
+    },
+    "2": {
+      "title": "AUTO محمد بن قيس أبو نصر الاسدي، محمد بن الحسن بن الوليد أبو جعفر",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 149,
+      "end_ms": 152
+    },
+    "3": {
+      "title": "AUTO باب الكنى",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 152,
+      "end_ms": 160
+    },
+    "4": {
+      "title": "AUTO [225]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 160,
+      "end_ms": null
+    },
+    "5": {
+      "title": "AUTO بسم الله الرحمن الرحيم أما بعد، حمدالله تعالى على إفضاله،",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 160,
+      "end_ms": 165
+    },
+    "6": {
+      "title": "AUTO [233]",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 165,
+      "end_ms": 166
+    },
+    "7": {
+      "title": "AUTO (جخ) مجهول 79 - بكربن أحمد بن إبراهيم الاشج أبو محمد الذي",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 166,
+      "end_ms": 166
+    },
+    "8": {
+      "title": "AUTO 84 - تميم بن عبدالله بن تميم القرشي الذي روى عنه أبو جعفر",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 166,
+      "end_ms": 167
+    },
+    "9": {
+      "title": "AUTO [235]",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 167,
+      "end_ms": 167
+    },
+    "10": {
+      "title": "AUTO المذهب يعرف حديثه وينكر. 96 - جعفر بن واقد، بالقاف (كش) لعنه",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 167,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      149,
+      [2],
+      1
+    ],
+    [
+      152,
+      [3],
+      2
+    ],
+    [
+      160,
+      [4, 5],
+      3
+    ],
+    [
+      165,
+      [6],
+      5
+    ],
+    [
+      166,
+      [7, 8],
+      6
+    ],
+    [
+      167,
+      [9, 10],
+      8
+    ]
+  ],
+  "last_ms": 220
+}

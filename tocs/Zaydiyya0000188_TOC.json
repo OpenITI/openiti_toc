@@ -1,0 +1,32 @@
+{
+  "filename": "0450Najashi.Rijal.Zaydiyya0000188-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO رجال النجاشي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "AUTO ذكر الطبقة الاولى -",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      3,
+      [2],
+      1
+    ]
+  ],
+  "last_ms": 299
+}

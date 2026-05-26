@@ -1,0 +1,225 @@
+{
+  "filename": "1049MuctamadKhan.IqbalNama.AOCP20250214744-per1",
+  "sections": {
+    "1": {
+      "title": "PageV01P003",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "2": {
+      "title": "بهت*",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "* مثلوی*",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "4": {
+      "title": "که گوئی همچو شیر از یتجه اش رست",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "5": {
+      "title": "آفریدند برای دل ما صحرا را",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "6": {
+      "title": "آشتای دل خود کنم تسلی را",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "7": {
+      "title": "انای مقهور",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "8": {
+      "title": "وبامی*",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 76
+    },
+    "9": {
+      "title": "5.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 76,
+      "end_ms": 78
+    },
+    "10": {
+      "title": "* مثتوی *",
+      "level": 1,
+      "parent": null,
+      "start_ms": 78,
+      "end_ms": 78
+    },
+    "11": {
+      "title": "چون کلوگاه و نای و سیتهآ چنگ",
+      "level": 1,
+      "parent": null,
+      "start_ms": 78,
+      "end_ms": 78
+    },
+    "12": {
+      "title": "چیست این خانه یک بدست و سهآ پی",
+      "level": 1,
+      "parent": null,
+      "start_ms": 78,
+      "end_ms": 80
+    },
+    "13": {
+      "title": "15",
+      "level": 1,
+      "parent": null,
+      "start_ms": 80,
+      "end_ms": 83
+    },
+    "14": {
+      "title": "* بهت*",
+      "level": 1,
+      "parent": null,
+      "start_ms": 83,
+      "end_ms": 93
+    },
+    "15": {
+      "title": "بیت *",
+      "level": 1,
+      "parent": null,
+      "start_ms": 93,
+      "end_ms": 108
+    },
+    "16": {
+      "title": "فرد *",
+      "level": 1,
+      "parent": null,
+      "start_ms": 108,
+      "end_ms": 109
+    },
+    "17": {
+      "title": "* فرد *",
+      "level": 1,
+      "parent": null,
+      "start_ms": 109,
+      "end_ms": 109
+    },
+    "18": {
+      "title": "* رباعی*",
+      "level": 1,
+      "parent": null,
+      "start_ms": 109,
+      "end_ms": 141
+    },
+    "19": {
+      "title": "قرد 5",
+      "level": 1,
+      "parent": null,
+      "start_ms": 141,
+      "end_ms": 215
+    },
+    "20": {
+      "title": ")",
+      "level": 1,
+      "parent": null,
+      "start_ms": 215,
+      "end_ms": 229
+    },
+    "21": {
+      "title": "PageV01P302",
+      "level": 1,
+      "parent": null,
+      "start_ms": 229,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      3,
+      [1, 2],
+      null
+    ],
+    [
+      4,
+      [3],
+      2
+    ],
+    [
+      5,
+      [4, 5, 6, 7],
+      3
+    ],
+    [
+      6,
+      [8],
+      7
+    ],
+    [
+      76,
+      [9],
+      8
+    ],
+    [
+      78,
+      [10, 11, 12],
+      9
+    ],
+    [
+      80,
+      [13],
+      12
+    ],
+    [
+      83,
+      [14],
+      13
+    ],
+    [
+      93,
+      [15],
+      14
+    ],
+    [
+      108,
+      [16],
+      15
+    ],
+    [
+      109,
+      [17, 18],
+      16
+    ],
+    [
+      141,
+      [19],
+      18
+    ],
+    [
+      215,
+      [20],
+      19
+    ],
+    [
+      229,
+      [21],
+      20
+    ]
+  ],
+  "last_ms": 254
+}

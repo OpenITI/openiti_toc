@@ -1,0 +1,44 @@
+{
+  "filename": "0298HadiIlaHaqqYahya.RaddQuranDhahaba.Zaydiyya0000076BK22-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "الرد على من زعم أن القرآن قد ذهب بعضه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "ما يلزم القائل بذهاب بعض القرآن",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "حفظ الله لكتابه",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2],
+      1
+    ],
+    [
+      4,
+      [3],
+      2
+    ]
+  ],
+  "last_ms": 5
+}

@@ -1,0 +1,60 @@
+{
+  "filename": "0298HadiIlaHaqqYahya.JawabMasailLiMurtada.Zaydiyya0000073BK31-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "AUTO جواب مسائل لابنه المرتضى (ع)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "[معنى حديث: ما كان على أهل هذا الجدي.. إلخ]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "[معنى حديث: إن الله يبغض الحبر السمين]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "4": {
+      "title": "[معنى حديث: إن الله يبغض البيت اللحم]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "5": {
+      "title": "[معنى قوله تعالى: {وآخرون اعترفوا..} الآية]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "6": {
+      "title": "[معنى قول الله: {فلا وربك..} الآية]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3, 4],
+      null
+    ],
+    [
+      2,
+      [5, 6],
+      4
+    ]
+  ],
+  "last_ms": 3
+}

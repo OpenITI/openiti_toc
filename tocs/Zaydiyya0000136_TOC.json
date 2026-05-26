@@ -1,0 +1,39 @@
+{
+  "filename": "0614MansurCabdAllah.ZubadAdilla.Zaydiyya0000136-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO زبد الأدلة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "AUTO باب القول في التوحيد",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "AUTO باب القول في العدل",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      3,
+      [3],
+      2
+    ]
+  ],
+  "last_ms": 5
+}

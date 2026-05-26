@@ -1,0 +1,80 @@
+{
+  "filename": "0535YehudaHalevi.HujjaWaDalil.Wiki20211119-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "المقالة الأولى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 28
+    },
+    "2": {
+      "title": "المقالة الثانية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 28,
+      "end_ms": 59
+    },
+    "3": {
+      "title": "المقالة الثالثة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 59,
+      "end_ms": 96
+    },
+    "4": {
+      "title": "المقالة الرابعة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 96,
+      "end_ms": 126
+    },
+    "5": {
+      "title": "المقالة الخامسة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 126,
+      "end_ms": 151
+    },
+    "6": {
+      "title": "خاتمة الكتاب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 151,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      28,
+      [2],
+      1
+    ],
+    [
+      59,
+      [3],
+      2
+    ],
+    [
+      96,
+      [4],
+      3
+    ],
+    [
+      126,
+      [5],
+      4
+    ],
+    [
+      151,
+      [6],
+      5
+    ]
+  ],
+  "last_ms": 155
+}

@@ -1,0 +1,91 @@
+{
+  "filename": "0298HadiIlaHaqqYahya.BalighMudrik.Zaydiyya0000076BK1-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "كتاب البالغ المدرك",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "النظر للعلم بوجود المدبر الحكيم",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "وجوب شكر المنعم",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "4": {
+      "title": "معرفة الآخرة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "5": {
+      "title": "معرفة أنه لا بد من رسول",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "6": {
+      "title": "ورود الأخبار الكاذبة",
+      "level": 3,
+      "parent": 5,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "7": {
+      "title": "أقسام الأخبار",
+      "level": 3,
+      "parent": 5,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "8": {
+      "title": "ذكر الفترة والعمل فيها",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 5
+    },
+    "9": {
+      "title": "ذكر شروط النظر",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 5,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3, 4, 5],
+      null
+    ],
+    [
+      2,
+      [6, 7],
+      5
+    ],
+    [
+      3,
+      [8],
+      7
+    ],
+    [
+      5,
+      [9],
+      8
+    ]
+  ],
+  "last_ms": 5
+}

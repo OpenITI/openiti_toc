@@ -1,0 +1,100 @@
+{
+  "filename": "0298HadiIlaHaqqYahya.CahdImamHadi.Zaydiyya0000076BK29-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "عهد الإمام الهادي عليه السلام لعماله",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "الأمر بتقوى الله وبالتواضع",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "الأمر بتعريف الرعية ما أوجب الله عليها",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "4": {
+      "title": "التحري في اختيار العمال",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "5": {
+      "title": "أحكام العشور",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "6": {
+      "title": "أحكام زكاة الغنم",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "7": {
+      "title": "أحكام زكاة البقر",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "8": {
+      "title": "أحكام زكاة الذهب والفضة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "9": {
+      "title": "أحكام توزيع الزكاة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "10": {
+      "title": "الأمر بالنزاهة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "11": {
+      "title": "أحكام أموال أهل الذمة وأراضيهم",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3, 4, 5],
+      null
+    ],
+    [
+      2,
+      [6, 7, 8],
+      5
+    ],
+    [
+      3,
+      [9, 10, 11],
+      8
+    ]
+  ],
+  "last_ms": 4
+}

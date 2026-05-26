@@ -1,0 +1,116 @@
+{
+  "filename": "0298IshaqIbnHunayn.MaqalatJalinusFiAjzaTibb.GRAR000039-ara1",
+  "sections": {
+    "1": {
+      "title": "[chapter 1] مقالة جالينوس فى أجزاء الطب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "2": {
+      "title": "[chapter 2]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "[chapter 3]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 5
+    },
+    "4": {
+      "title": "[chapter 4]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 7
+    },
+    "5": {
+      "title": "[chapter 5]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 8
+    },
+    "6": {
+      "title": "[chapter 6]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 10
+    },
+    "7": {
+      "title": "[chapter 7]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 12
+    },
+    "8": {
+      "title": "[chapter 8]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 14
+    },
+    "9": {
+      "title": "[chapter 9]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2],
+      1
+    ],
+    [
+      3,
+      [3],
+      2
+    ],
+    [
+      5,
+      [4],
+      3
+    ],
+    [
+      7,
+      [5],
+      4
+    ],
+    [
+      8,
+      [6],
+      5
+    ],
+    [
+      10,
+      [7],
+      6
+    ],
+    [
+      12,
+      [8],
+      7
+    ],
+    [
+      14,
+      [9],
+      8
+    ]
+  ],
+  "last_ms": 15
+}

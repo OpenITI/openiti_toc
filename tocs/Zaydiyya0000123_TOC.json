@@ -1,0 +1,198 @@
+{
+  "filename": "0445IbnCaliShajari.FadlZiyaratHusayn.Zaydiyya0000123-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [فضل زيارة الحسين]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "AUTO ما روي عن النبي صلى الله عليه وسلم في زيارة الحسين عليه السلام",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "AUTO ما روي عن أمير المؤمنين عليه السلام في زيارة الحسين عليه السلام",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "4": {
+      "title": "AUTO ما روي عن الحسن بن علي، عن أمير المؤمنين، عن النبي عليهم السلام",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "5": {
+      "title": "AUTO ما روي عن الحسين بن علي في زيارته عليه السلام",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 5,
+      "end_ms": 7
+    },
+    "6": {
+      "title": "AUTO ما روي عن أبي جعفر في زيارة الحسين عليه السلام",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 7,
+      "end_ms": 9
+    },
+    "7": {
+      "title": "AUTO ما روي عن زيد بن علي في زيارة الحسين عليه السلام",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 9,
+      "end_ms": 9
+    },
+    "8": {
+      "title": "AUTO ما روي عن جعفر في زيارة الحسين",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 9,
+      "end_ms": 16
+    },
+    "9": {
+      "title": "AUTO ms15 ما روي عن عبدالله بن الحسن في زيارة الحسين عليه السلام",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 16,
+      "end_ms": 17
+    },
+    "10": {
+      "title": "AUTO موسى بن عبدالله بن الحسن",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 17,
+      "end_ms": 17
+    },
+    "11": {
+      "title": "AUTO محمد بن الحسين بن علي بن الحسين",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 17,
+      "end_ms": 17
+    },
+    "12": {
+      "title": "AUTO علي بن موسى الرضا",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 17,
+      "end_ms": 18
+    },
+    "13": {
+      "title": "AUTO حمزة الزيات المقرئ",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 18,
+      "end_ms": 18
+    },
+    "14": {
+      "title": "AUTO فضل الزيارة يوم عاشوراء",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 18,
+      "end_ms": 19
+    },
+    "15": {
+      "title": "AUTO فضل الزيارة في أول يوم من رجب",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 19,
+      "end_ms": 19
+    },
+    "16": {
+      "title": "AUTO فضل زيارة الحسين عليه السلام في النصف من شعبان",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 19,
+      "end_ms": 19
+    },
+    "17": {
+      "title": "AUTO فضل زيارة الحسين في شهر رمضان",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 19,
+      "end_ms": 20
+    },
+    "18": {
+      "title": "AUTO زيارة الحسين عليه السلام يوم عرفة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 20,
+      "end_ms": 20
+    },
+    "19": {
+      "title": "AUTO زيارة يوم العيد",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 20,
+      "end_ms": 20
+    },
+    "20": {
+      "title": "AUTO زيارة يوم الغدير(2)",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 20,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      4,
+      [3],
+      2
+    ],
+    [
+      5,
+      [4, 5],
+      3
+    ],
+    [
+      7,
+      [6],
+      5
+    ],
+    [
+      9,
+      [7, 8],
+      6
+    ],
+    [
+      16,
+      [9],
+      null
+    ],
+    [
+      17,
+      [10, 11, 12],
+      9
+    ],
+    [
+      18,
+      [13, 14],
+      12
+    ],
+    [
+      19,
+      [15, 16, 17],
+      14
+    ],
+    [
+      20,
+      [18, 19, 20],
+      17
+    ]
+  ],
+  "last_ms": 29
+}

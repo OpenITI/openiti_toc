@@ -1,0 +1,94 @@
+{
+  "filename": "1450MuhammadYahyaCizzan.SahabaCindaZaydiyya.Zaydiyya0000104-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [الصحابة عند الزيدية محمد سالم]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "AUTO المقدمة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "AUTO الكلام عن الصحابة..الدوافع والأسباب",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 9
+    },
+    "4": {
+      "title": "AUTO تعريف الصحابي ومكانته",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 9,
+      "end_ms": 9
+    },
+    "5": {
+      "title": "AUTO انعكس الجدل الدائر حول بعض الشخصيات - التي عاصرت النبي صلى",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 9,
+      "end_ms": 10
+    },
+    "6": {
+      "title": "AUTO رأي الزيدية وموافقيهم",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 10,
+      "end_ms": 26
+    },
+    "7": {
+      "title": "AUTO موقف الإمام زيد بن علي",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 26,
+      "end_ms": 56
+    },
+    "8": {
+      "title": "AUTO مراجع البحث",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 56,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      4,
+      [3],
+      2
+    ],
+    [
+      9,
+      [4, 5],
+      3
+    ],
+    [
+      10,
+      [6],
+      5
+    ],
+    [
+      26,
+      [7],
+      6
+    ],
+    [
+      56,
+      [8],
+      7
+    ]
+  ],
+  "last_ms": 64
+}

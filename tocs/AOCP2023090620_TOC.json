@@ -1,0 +1,70 @@
+{
+  "filename": "0911Suyuti.DarrSahaba.AOCP2023090620-ara1",
+  "sections": {
+    "1": {
+      "title": "استطراد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 43
+    },
+    "2": {
+      "title": "صرف للح)*",
+      "level": 1,
+      "parent": null,
+      "start_ms": 43,
+      "end_ms": 44
+    },
+    "3": {
+      "title": "باب الكنىخ)*",
+      "level": 1,
+      "parent": null,
+      "start_ms": 44,
+      "end_ms": 44
+    },
+    "4": {
+      "title": "رامابه العي3) 121",
+      "level": 1,
+      "parent": null,
+      "start_ms": 44,
+      "end_ms": 50
+    },
+    "5": {
+      "title": "ل تنبيه خم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 50,
+      "end_ms": 50
+    },
+    "6": {
+      "title": "علر تتمصم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 50,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      9,
+      [1],
+      null
+    ],
+    [
+      43,
+      [2],
+      1
+    ],
+    [
+      44,
+      [3, 4],
+      2
+    ],
+    [
+      50,
+      [5, 6],
+      4
+    ]
+  ],
+  "last_ms": 51
+}

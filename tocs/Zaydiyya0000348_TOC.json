@@ -1,0 +1,82 @@
+{
+  "filename": "1106YahyaIbnAhmadShatibi.DawaNafic.Zaydiyya0000348-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [البحث الأول في حقيقة الغيبة]",
+      "level": 2,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": null
+    },
+    "2": {
+      "title": "AUTO البحث الثاني في ذكر بعض ما ورد في ذم الغيبة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 6,
+      "end_ms": 10
+    },
+    "3": {
+      "title": "AUTO البحث الثالث في الأسباب الحاملة على الغيبة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 10,
+      "end_ms": 10
+    },
+    "4": {
+      "title": "AUTO البحث الرابع فيما يعالج به من وقوع الغيبة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 10,
+      "end_ms": 11
+    },
+    "5": {
+      "title": "AUTO البحث الخامس فيما يقع به التخلص للمغتاب والسامع من إثم الغيبة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 11,
+      "end_ms": 12
+    },
+    "6": {
+      "title": "AUTO البحث السادس في الأعذار المرخصة في الغيبة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 12,
+      "end_ms": 12
+    },
+    "7": {
+      "title": "AUTO خاتمة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 12,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      3,
+      [1],
+      null
+    ],
+    [
+      6,
+      [2],
+      1
+    ],
+    [
+      10,
+      [3, 4],
+      2
+    ],
+    [
+      11,
+      [5],
+      4
+    ],
+    [
+      12,
+      [6, 7],
+      5
+    ]
+  ],
+  "last_ms": 17
+}

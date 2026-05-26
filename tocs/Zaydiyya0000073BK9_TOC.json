@@ -1,0 +1,39 @@
+{
+  "filename": "0298HadiIlaHaqqYahya.RaddCalaAhlZaygh.Zaydiyya0000073BK9-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "كتاب الرد على أهل الزيغ من المشبهين(1)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "[ماذا نعبد ؟]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "[حجج العقل والنقل هل تتضاد؟]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      4,
+      [3],
+      2
+    ]
+  ],
+  "last_ms": 7
+}

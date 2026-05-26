@@ -1,0 +1,161 @@
+{
+  "filename": "0298IshaqIbnHunayn.AristuFiCibara.GRAR000025-ara1",
+  "sections": {
+    "1": {
+      "title": "[chapter 1] بسم الله الرحمن الرحيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "[chapter 2] فى الاسم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "[chapter 3] فى الكلمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "4": {
+      "title": "[chapter 4] فى القول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "5": {
+      "title": "[chapter 5]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "6": {
+      "title": "[chapter 6] فى الإيجاب والسلب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "7": {
+      "title": "[chapter 7]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 6
+    },
+    "8": {
+      "title": "[chapter 8]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "9": {
+      "title": "[chapter 9]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 11
+    },
+    "10": {
+      "title": "[chapter 10]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 14
+    },
+    "11": {
+      "title": "[chapter 11]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 17
+    },
+    "12": {
+      "title": "[chapter 12]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 17,
+      "end_ms": 19
+    },
+    "13": {
+      "title": "[chapter 13]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 19,
+      "end_ms": 22
+    },
+    "14": {
+      "title": "[chapter 14]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 22,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3],
+      2
+    ],
+    [
+      3,
+      [4, 5],
+      3
+    ],
+    [
+      4,
+      [6, 7],
+      5
+    ],
+    [
+      6,
+      [8],
+      7
+    ],
+    [
+      7,
+      [9],
+      8
+    ],
+    [
+      11,
+      [10],
+      9
+    ],
+    [
+      14,
+      [11],
+      10
+    ],
+    [
+      17,
+      [12],
+      11
+    ],
+    [
+      19,
+      [13],
+      12
+    ],
+    [
+      22,
+      [14],
+      13
+    ]
+  ],
+  "last_ms": 26
+}

@@ -1,0 +1,122 @@
+{
+  "filename": "0732AbuFida.TibrMasbuk.GVDB20200609-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "السلجوقي تسلطن شمس االملوك دقاق [السلجوقي]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "[ابن ملكشاه] ملك السلطان محمد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "السلطان محمود",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "4": {
+      "title": "السلطان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "5": {
+      "title": "السلطان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "6": {
+      "title": "السلطان ملكشاه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "7": {
+      "title": "السلطان سنجر بن ملكشاه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "8": {
+      "title": "السلطان الملك الناصر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "9": {
+      "title": "الملك الاوحد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 5
+    },
+    "10": {
+      "title": "السلطان الظاهر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "11": {
+      "title": "السلطان العلك الأشرف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "12": {
+      "title": "السلطان الملك الناصر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3, 4, 5, 6, 7],
+      null
+    ],
+    [
+      2,
+      [8],
+      7
+    ],
+    [
+      3,
+      [9],
+      8
+    ],
+    [
+      5,
+      [10],
+      9
+    ],
+    [
+      6,
+      [11],
+      10
+    ],
+    [
+      7,
+      [12],
+      11
+    ]
+  ],
+  "last_ms": 8
+}

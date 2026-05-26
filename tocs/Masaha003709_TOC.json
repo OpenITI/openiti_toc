@@ -1,0 +1,51 @@
+{
+  "filename": "0911Suyuti.AsmaBiqac.Masaha003709-ara1",
+  "sections": {
+    "1": {
+      "title": "أسماء البقاع والجبال في القرآن الكريم",
+      "level": 3,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "[1 بدر حنين مصر الأحقاف]",
+      "level": 3,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "3": {
+      "title": "[2 بكه يثرب الجودي طوى بابل عرم سد الألى]",
+      "level": 3,
+      "parent": 2,
+      "start_ms": 14,
+      "end_ms": 31
+    },
+    "4": {
+      "title": "[3 طور سيناء الكهف الرقيم حجر أيكة جمع مشعر قاف]",
+      "level": 3,
+      "parent": 2,
+      "start_ms": 31,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      14,
+      [3],
+      2
+    ],
+    [
+      31,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 38
+}

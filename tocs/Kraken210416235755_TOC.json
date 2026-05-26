@@ -1,0 +1,56 @@
+{
+  "filename": "0535YehudaHalevi.HujjaWaDalil.Kraken210416235755-ara1",
+  "sections": {
+    "1": {
+      "title": "قالة اهلي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 61
+    },
+    "2": {
+      "title": "ة القالةه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 61,
+      "end_ms": 100
+    },
+    "3": {
+      "title": "المقالة الرابة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 100,
+      "end_ms": 130
+    },
+    "4": {
+      "title": "المقالة الخامسة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 130,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      61,
+      [2],
+      1
+    ],
+    [
+      100,
+      [3],
+      2
+    ],
+    [
+      130,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 160
+}

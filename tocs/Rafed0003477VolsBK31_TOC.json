@@ -1,0 +1,156 @@
+{
+  "filename": "0246QasimRassi.SalatYawmWaLayla.Rafed0003477VolsBK31-ara2",
+  "sections": {
+    "1": {
+      "title": "صلاة اليوم والليلة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "[أول الواجبات العقلية]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "[الواجبات الشرعية]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "4": {
+      "title": "[أوقات الصلوات]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 11
+    },
+    "5": {
+      "title": "[الطهارات]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 12
+    },
+    "6": {
+      "title": "[حد الماء المطهر]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 12
+    },
+    "7": {
+      "title": "[التيمم]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 13
+    },
+    "8": {
+      "title": "[مسح الرأس]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 14
+    },
+    "9": {
+      "title": "[حوار مع القائلين بمسح القدمين]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 15
+    },
+    "10": {
+      "title": "[باب الوضوء]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 17
+    },
+    "11": {
+      "title": "[أذكار وأدعية الوضوء والصلاة]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 17,
+      "end_ms": 18
+    },
+    "12": {
+      "title": "[السكون والخشوع في الصلاة]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": 18
+    },
+    "13": {
+      "title": "[شروط الإمام]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": 23
+    },
+    "14": {
+      "title": "باب التقصير",
+      "level": 1,
+      "parent": null,
+      "start_ms": 23,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3],
+      null
+    ],
+    [
+      4,
+      [4],
+      3
+    ],
+    [
+      11,
+      [5],
+      4
+    ],
+    [
+      12,
+      [6, 7],
+      5
+    ],
+    [
+      13,
+      [8],
+      7
+    ],
+    [
+      14,
+      [9],
+      8
+    ],
+    [
+      15,
+      [10],
+      9
+    ],
+    [
+      17,
+      [11],
+      10
+    ],
+    [
+      18,
+      [12, 13],
+      11
+    ],
+    [
+      23,
+      [14],
+      13
+    ]
+  ],
+  "last_ms": 25
+}

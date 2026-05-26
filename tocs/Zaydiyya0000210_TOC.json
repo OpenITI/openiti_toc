@@ -1,0 +1,118 @@
+{
+  "filename": "1450Anonymous.ImamZayd.Zaydiyya0000210-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO نسبه: ... 1",
+      "level": 2,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO آثار الإمام زيد (ع) العلمية: ... 14",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "3": {
+      "title": "AUTO مولده ودراسته:",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "4": {
+      "title": "AUTO صفته:",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 2,
+      "end_ms": 4
+    },
+    "5": {
+      "title": "AUTO حال عصره بعد مولده (ع):",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "6": {
+      "title": "AUTO دعوة زيد (ع) إلى الثورة:",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 5,
+      "end_ms": 8
+    },
+    "7": {
+      "title": "AUTO خط سير المعركة:",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 8,
+      "end_ms": 14
+    },
+    "8": {
+      "title": "AUTO شهادته (ع):",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 14,
+      "end_ms": 15
+    },
+    "9": {
+      "title": "AUTO دفنه (ع):",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 15,
+      "end_ms": 16
+    },
+    "10": {
+      "title": "AUTO آثار الإمام زيد (ع) العلمية:",
+      "level": 2,
+      "parent": 2,
+      "start_ms": 16,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3],
+      null
+    ],
+    [
+      2,
+      [4],
+      3
+    ],
+    [
+      4,
+      [5],
+      4
+    ],
+    [
+      5,
+      [6],
+      5
+    ],
+    [
+      8,
+      [7],
+      6
+    ],
+    [
+      14,
+      [8],
+      7
+    ],
+    [
+      15,
+      [9],
+      8
+    ],
+    [
+      16,
+      [10],
+      9
+    ]
+  ],
+  "last_ms": 17
+}

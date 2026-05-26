@@ -1,0 +1,117 @@
+{
+  "filename": "0750Anonymous.TawarikhMulukIslam.GVDB20200615-ara1.mARkdown",
+  "sections": {
+    "1": {
+      "title": "تواريخ ملوك الإسلام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 5
+    },
+    "2": {
+      "title": "الدولة الصالحية",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "الدولة الظاهرية",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "4": {
+      "title": "الدولة المنصورية",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "5": {
+      "title": "الدولة الأشرفية ابن الزملك المنصور قلاون",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "6": {
+      "title": "تاريخ",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "7": {
+      "title": "تاريخ",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "8": {
+      "title": "تواريخ فتح الحصون في ابتدي الدعوة الهادية",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "9": {
+      "title": "تاريخ",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "10": {
+      "title": "تاريخ يذكر فيه فتوح صلاح الدين ووفاته",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 5
+    },
+    "11": {
+      "title": "هذا صورة الكتاب الواصل من صلاح الدين الي الصاحب راشد الدين قدس الله سره",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": null
+    },
+    "12": {
+      "title": "جواب كتاب صلاح الدين من لفظ راشد الدين قدس الله روحه",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 6,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3, 4, 5],
+      null
+    ],
+    [
+      2,
+      [6],
+      5
+    ],
+    [
+      3,
+      [7, 8, 9, 10],
+      6
+    ],
+    [
+      5,
+      [11],
+      10
+    ],
+    [
+      6,
+      [12],
+      11
+    ]
+  ],
+  "last_ms": 7
+}

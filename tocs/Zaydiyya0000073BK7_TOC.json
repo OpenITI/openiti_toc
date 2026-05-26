@@ -1,0 +1,51 @@
+{
+  "filename": "0298HadiIlaHaqqYahya.Diyana.Zaydiyya0000073BK7-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "كتاب الديانة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 5
+    },
+    "2": {
+      "title": "[تكليف أهل الفترات]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "3": {
+      "title": "[حكم الله في المؤمن الذي سبق العلم بانتقاله عن الإيمان]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "4": {
+      "title": "رسائل خاصة بالتوحيد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      4,
+      [2],
+      1
+    ],
+    [
+      5,
+      [3, 4],
+      2
+    ]
+  ],
+  "last_ms": 5
+}

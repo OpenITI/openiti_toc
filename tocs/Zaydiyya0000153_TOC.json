@@ -1,0 +1,75 @@
+{
+  "filename": "1390MahmudAbuRayya.AdwaCalaSunna.Zaydiyya0000153-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO أضواء على السنة المحمدية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "AUTO الاهداء",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "AUTO كلمة نصير الفكر والدين والعلم العلامة الدكتور طه حسين",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 12
+    },
+    "4": {
+      "title": "AUTO تعريف بالكتاب",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 12,
+      "end_ms": 23
+    },
+    "5": {
+      "title": "AUTO مقدمة الطبعة الثانية (1) \" ذلك هدى الله يهدى به من يشاء من",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 23,
+      "end_ms": 30
+    },
+    "6": {
+      "title": "AUTO مقدمة الطبعة الثالثة نستخير الله في أن نقدم هذه الطبعة من",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 30,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3],
+      2
+    ],
+    [
+      12,
+      [4],
+      3
+    ],
+    [
+      23,
+      [5],
+      4
+    ],
+    [
+      30,
+      [6],
+      5
+    ]
+  ],
+  "last_ms": 390
+}

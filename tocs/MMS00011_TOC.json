@@ -1,0 +1,250 @@
+{
+  "filename": "0845Maqrizi.DurarCuqud.MMS00011-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "حرف الباء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 287,
+      "end_ms": 378
+    },
+    "2": {
+      "title": "حرف الثاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 378,
+      "end_ms": 387
+    },
+    "3": {
+      "title": "حرف الجيم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 387,
+      "end_ms": 403
+    },
+    "4": {
+      "title": "حرف الحاء المهملة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 403,
+      "end_ms": 440
+    },
+    "5": {
+      "title": "حرف الخاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 440,
+      "end_ms": 460
+    },
+    "6": {
+      "title": "حرف الدال المهملة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 460,
+      "end_ms": 463
+    },
+    "7": {
+      "title": "حرف الراء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 463,
+      "end_ms": 465
+    },
+    "8": {
+      "title": "حرف الزاي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 465,
+      "end_ms": 465
+    },
+    "9": {
+      "title": "حرف السين المهملة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 465,
+      "end_ms": 483
+    },
+    "10": {
+      "title": "حرف الشين المعجمه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 483,
+      "end_ms": 549
+    },
+    "11": {
+      "title": "حرف الصاد المهملة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 549,
+      "end_ms": 555
+    },
+    "12": {
+      "title": "حرف الطاء المهملة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 555,
+      "end_ms": 557
+    },
+    "13": {
+      "title": "حرف الظاء المعجمه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 557,
+      "end_ms": 558
+    },
+    "14": {
+      "title": "حرف العين ms0557",
+      "level": 1,
+      "parent": null,
+      "start_ms": 558,
+      "end_ms": 812
+    },
+    "15": {
+      "title": "حرف الغين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 812,
+      "end_ms": 812
+    },
+    "16": {
+      "title": "حرف الفاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 812,
+      "end_ms": 825
+    },
+    "17": {
+      "title": "حرف القاف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 825,
+      "end_ms": 826
+    },
+    "18": {
+      "title": "حرف الكاف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 826,
+      "end_ms": 827
+    },
+    "19": {
+      "title": "حرف الميم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 827,
+      "end_ms": 1171
+    },
+    "20": {
+      "title": "حرف النون",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1171,
+      "end_ms": 1184
+    },
+    "21": {
+      "title": "حرف الياء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1184,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      287,
+      [1],
+      null
+    ],
+    [
+      378,
+      [2],
+      1
+    ],
+    [
+      387,
+      [3],
+      2
+    ],
+    [
+      403,
+      [4],
+      3
+    ],
+    [
+      440,
+      [5],
+      4
+    ],
+    [
+      460,
+      [6],
+      5
+    ],
+    [
+      463,
+      [7],
+      6
+    ],
+    [
+      465,
+      [8, 9],
+      7
+    ],
+    [
+      483,
+      [10],
+      9
+    ],
+    [
+      549,
+      [11],
+      10
+    ],
+    [
+      555,
+      [12],
+      11
+    ],
+    [
+      557,
+      [13],
+      12
+    ],
+    [
+      558,
+      [14],
+      null
+    ],
+    [
+      812,
+      [15, 16],
+      14
+    ],
+    [
+      825,
+      [17],
+      16
+    ],
+    [
+      826,
+      [18],
+      17
+    ],
+    [
+      827,
+      [19],
+      18
+    ],
+    [
+      1171,
+      [20],
+      19
+    ],
+    [
+      1184,
+      [21],
+      20
+    ]
+  ],
+  "last_ms": 1235
+}

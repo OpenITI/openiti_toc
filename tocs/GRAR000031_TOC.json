@@ -1,0 +1,58 @@
+{
+  "filename": "0453CaliIbnRidwan.TacaliqLiTafsirJalinus.GRAR000031-ara1",
+  "sections": {
+    "1": {
+      "title": "[book 0: Preface] تعاليق على ابن رضوان لفوائد من كتاب قاطيطريون تفسير جالينوس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "[book 1]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "تعاليق من كتاب قاطيطريون لابقراط تفسير جالينوس",
+      "level": 3,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "4": {
+      "title": "[book 2] تعاليق المقالة الثانية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 6
+    },
+    "5": {
+      "title": "[book 3] تعاليق على ابن رضوان لفوائد من المقالة الثالثة لجالينوس فى تفسير قاطيطريون",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3],
+      null
+    ],
+    [
+      4,
+      [4],
+      3
+    ],
+    [
+      6,
+      [5],
+      4
+    ]
+  ],
+  "last_ms": 11
+}

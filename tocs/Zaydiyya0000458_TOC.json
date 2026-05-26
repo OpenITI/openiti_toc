@@ -1,0 +1,153 @@
+{
+  "filename": "1450CaliCabdKarimFadil.ZaydiyyaTaifaWaMadhhab.Zaydiyya0000458-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO الزيدية",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO مقدمة في تاريخ التمذهب ومعناه :-",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "AUTO الزيدية الطائفة:-",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 4
+    },
+    "4": {
+      "title": "AUTO طبقات رجال المذهب الزيدي :- [6]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "5": {
+      "title": "AUTO 1- طبقة المؤسسين . وتساوي هذه الطبقة إمام المذهب في نظر",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "6": {
+      "title": "AUTO 2- طبقة المخرجين . وهم الذين استخرجوا من كلام الأئمة أو",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "7": {
+      "title": "AUTO 3- طبقة المحصلين . وهم الذين اهتموا بتحصيل أقوال الأئمة وما",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "8": {
+      "title": "AUTO 4- طبقة المذاكرين . وهم الذين راجعوا أقوال من تقدمهم وفحصوها",
+      "level": 2,
+      "parent": 4,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "9": {
+      "title": "AUTO قواعد المذهب الزيدي :- [7]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "10": {
+      "title": "AUTO شمولية المذهب وتكامله :- [8]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "11": {
+      "title": "AUTO الشؤون السياسية :-",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 8
+    },
+    "12": {
+      "title": "AUTO طريقة اختيار الإمام :- [10]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 8
+    },
+    "13": {
+      "title": "AUTO السلطة في النظر الزيدي :-",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 8
+    },
+    "14": {
+      "title": "AUTO العلاقة بين الحاكم والمحكوم :-",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 9
+    },
+    "15": {
+      "title": "AUTO المراجع :-",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3],
+      2
+    ],
+    [
+      4,
+      [4, 5, 6, 7],
+      3
+    ],
+    [
+      5,
+      [8, 9],
+      7
+    ],
+    [
+      6,
+      [10],
+      9
+    ],
+    [
+      7,
+      [11],
+      10
+    ],
+    [
+      8,
+      [12, 13, 14],
+      11
+    ],
+    [
+      9,
+      [15],
+      14
+    ]
+  ],
+  "last_ms": 9
+}

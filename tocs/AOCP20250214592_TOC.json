@@ -1,0 +1,111 @@
+{
+  "filename": "0700Anonymous.ManaqibAwhadDinKirmani.AOCP20250214592-per1",
+  "sections": {
+    "1": {
+      "title": "شعر :",
+      "level": 1,
+      "parent": null,
+      "start_ms": 33,
+      "end_ms": 71
+    },
+    "2": {
+      "title": "شعر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 71,
+      "end_ms": 106
+    },
+    "3": {
+      "title": "شیخ و امیر اربیل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 106,
+      "end_ms": 171
+    },
+    "4": {
+      "title": "شعر :",
+      "level": 1,
+      "parent": null,
+      "start_ms": 171,
+      "end_ms": 174
+    },
+    "5": {
+      "title": "شعر :",
+      "level": 1,
+      "parent": null,
+      "start_ms": 174,
+      "end_ms": 198
+    },
+    "6": {
+      "title": "داود زبور خواند کر خشم گرفت",
+      "level": 1,
+      "parent": null,
+      "start_ms": 198,
+      "end_ms": 198
+    },
+    "7": {
+      "title": "موشی بدکان پیلهور خشم گرفت",
+      "level": 1,
+      "parent": null,
+      "start_ms": 198,
+      "end_ms": 217
+    },
+    "8": {
+      "title": "تم الکتاب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 217,
+      "end_ms": 218
+    },
+    "9": {
+      "title": "الوهااب PageV01P275 ms217",
+      "level": 1,
+      "parent": null,
+      "start_ms": 218,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      33,
+      [1],
+      null
+    ],
+    [
+      71,
+      [2],
+      1
+    ],
+    [
+      106,
+      [3],
+      2
+    ],
+    [
+      171,
+      [4],
+      3
+    ],
+    [
+      174,
+      [5],
+      4
+    ],
+    [
+      198,
+      [6, 7],
+      5
+    ],
+    [
+      217,
+      [8],
+      7
+    ],
+    [
+      218,
+      [9],
+      null
+    ]
+  ],
+  "last_ms": 217
+}

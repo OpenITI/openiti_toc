@@ -1,0 +1,63 @@
+{
+  "filename": "1450CaliKuraniCamili.AlfSual.Zaydiyya0000220-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO تخبطهم في توحيد الله تعالى وصفاته المقدسة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "AUTO المسألة : 1زعمهم أن الله تعالى يرى بالعين !",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "AUTO الأسئلة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "4": {
+      "title": "AUTO المسألة : 2اعترف أئمتهم بأن توحيدهم مأخوذ من اليهود !",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 7
+    },
+    "5": {
+      "title": "AUTO الأسئلة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 7,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      3,
+      [3],
+      2
+    ],
+    [
+      4,
+      [4],
+      3
+    ],
+    [
+      7,
+      [5],
+      4
+    ]
+  ],
+  "last_ms": 382
+}

@@ -1,0 +1,123 @@
+{
+  "filename": "0633IbnDihyaJumayyilKalbi.NibrasFiTarikh.AOCP2023092678-ara1",
+  "sections": {
+    "1": {
+      "title": "قاول الندار",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 8
+    },
+    "2": {
+      "title": "مسله",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 22
+    },
+    "3": {
+      "title": "3",
+      "level": 1,
+      "parent": null,
+      "start_ms": 22,
+      "end_ms": 33
+    },
+    "4": {
+      "title": "4",
+      "level": 1,
+      "parent": null,
+      "start_ms": 33,
+      "end_ms": 44
+    },
+    "5": {
+      "title": "فائلل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 44,
+      "end_ms": 66
+    },
+    "6": {
+      "title": "الل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 66,
+      "end_ms": 88
+    },
+    "7": {
+      "title": "12",
+      "level": 1,
+      "parent": null,
+      "start_ms": 88,
+      "end_ms": 100
+    },
+    "8": {
+      "title": "14",
+      "level": 1,
+      "parent": null,
+      "start_ms": 100,
+      "end_ms": 118
+    },
+    "9": {
+      "title": "إلى يوم الدين .",
+      "level": 1,
+      "parent": null,
+      "start_ms": 118,
+      "end_ms": 118
+    },
+    "10": {
+      "title": "ملحق بالاصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 118,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      4,
+      [1],
+      null
+    ],
+    [
+      8,
+      [2],
+      1
+    ],
+    [
+      22,
+      [3],
+      2
+    ],
+    [
+      33,
+      [4],
+      3
+    ],
+    [
+      44,
+      [5],
+      4
+    ],
+    [
+      66,
+      [6],
+      5
+    ],
+    [
+      88,
+      [7],
+      6
+    ],
+    [
+      100,
+      [8],
+      7
+    ],
+    [
+      118,
+      [9, 10],
+      8
+    ]
+  ],
+  "last_ms": 118
+}

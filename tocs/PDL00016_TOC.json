@@ -1,0 +1,128 @@
+{
+  "filename": "0525Sanai.Hadiqah.PDL00016-per1",
+  "sections": {
+    "1": {
+      "title": "[ hdgh 01 ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 82
+    },
+    "2": {
+      "title": "[ hdgh 02 ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 82,
+      "end_ms": 94
+    },
+    "3": {
+      "title": "[ hdgh 03 ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 94,
+      "end_ms": 169
+    },
+    "4": {
+      "title": "[ hdgh 04 ] PageV04P001",
+      "level": 1,
+      "parent": null,
+      "start_ms": 169,
+      "end_ms": 184
+    },
+    "5": {
+      "title": "[ hdgh 05 ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 184,
+      "end_ms": 206
+    },
+    "6": {
+      "title": "[ hdgh 06 ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 206,
+      "end_ms": 254
+    },
+    "7": {
+      "title": "[ hdgh 07 ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 254,
+      "end_ms": 316
+    },
+    "8": {
+      "title": "[ hdgh 08 ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 316,
+      "end_ms": 411
+    },
+    "9": {
+      "title": "[ hdgh 09 ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 411,
+      "end_ms": 458
+    },
+    "10": {
+      "title": "[ hdgh 10 ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 458,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      82,
+      [2],
+      1
+    ],
+    [
+      94,
+      [3],
+      2
+    ],
+    [
+      169,
+      [4],
+      3
+    ],
+    [
+      184,
+      [5],
+      4
+    ],
+    [
+      206,
+      [6],
+      5
+    ],
+    [
+      254,
+      [7],
+      6
+    ],
+    [
+      316,
+      [8],
+      7
+    ],
+    [
+      411,
+      [9],
+      8
+    ],
+    [
+      458,
+      [10],
+      9
+    ]
+  ],
+  "last_ms": 489
+}

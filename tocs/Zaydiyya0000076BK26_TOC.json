@@ -1,0 +1,128 @@
+{
+  "filename": "0298HadiIlaHaqqYahya.Dacwa.Zaydiyya0000076BK26-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "كتاب دعوة وجه بها إلى أحمد بن يحيى بن زيد ومن قبله",
+      "level": 2,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "فضل الجهاد",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "حظر الجهاد إلا مع من اصطفاه الله",
+      "level": 3,
+      "parent": 2,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "4": {
+      "title": "الإمام المفترضة طاعته",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": null
+    },
+    "5": {
+      "title": "وجوب طاعة القائم لله",
+      "level": 3,
+      "parent": 4,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "6": {
+      "title": "الوعيد على من تخلف عن القائم",
+      "level": 3,
+      "parent": 4,
+      "start_ms": 6,
+      "end_ms": 8
+    },
+    "7": {
+      "title": "ثواب من اتبع القائم",
+      "level": 3,
+      "parent": 4,
+      "start_ms": 8,
+      "end_ms": 9
+    },
+    "8": {
+      "title": "حكم الفاسق من آل الرسول",
+      "level": 3,
+      "parent": 4,
+      "start_ms": 9,
+      "end_ms": 10
+    },
+    "9": {
+      "title": "الدعوة وشروطها",
+      "level": 3,
+      "parent": 4,
+      "start_ms": 10,
+      "end_ms": 11
+    },
+    "10": {
+      "title": "الحث ms10 على إجابة الدعوة",
+      "level": 3,
+      "parent": 4,
+      "start_ms": 11,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2],
+      1
+    ],
+    [
+      3,
+      [3],
+      2
+    ],
+    [
+      4,
+      [4],
+      3
+    ],
+    [
+      5,
+      [5],
+      4
+    ],
+    [
+      6,
+      [6],
+      5
+    ],
+    [
+      8,
+      [7],
+      6
+    ],
+    [
+      9,
+      [8],
+      7
+    ],
+    [
+      10,
+      [9],
+      8
+    ],
+    [
+      11,
+      [10],
+      null
+    ]
+  ],
+  "last_ms": 18
+}

@@ -1,0 +1,58 @@
+{
+  "filename": "0246QasimRassi.FusulFiTawhid.Zaydiyya0000075BK11-ara1",
+  "sections": {
+    "1": {
+      "title": "الأصول الخمسة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "AUTO [فروض الله على المكلفين]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "AUTO [فصل في التوحيد والعدل]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "4": {
+      "title": "AUTO [مذهب القاسم في الأصول]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "5": {
+      "title": "AUTO [أصول الدين]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3],
+      2
+    ],
+    [
+      3,
+      [4, 5],
+      3
+    ]
+  ],
+  "last_ms": 4
+}

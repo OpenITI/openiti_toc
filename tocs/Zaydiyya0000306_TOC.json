@@ -1,0 +1,46 @@
+{
+  "filename": "0413ShaykhMufid.Irshad.Zaydiyya0000306-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [الارشاد ج1]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 243
+    },
+    "2": {
+      "title": "CHECK [الجزء الأول]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "AUTO الارشاد في معرفة حجج الله على العباد",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 243
+    },
+    "4": {
+      "title": "CHECK [الارشاد ج2]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 243,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3],
+      null
+    ],
+    [
+      243,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 502
+}

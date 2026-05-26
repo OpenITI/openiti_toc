@@ -1,0 +1,65 @@
+{
+  "filename": "0533Kharaqi.MuntahaIdrak.Kraken220804162010-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "{الباب الثاني} في ذكر البحور وكيفية وضعها من المساكن.",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "فاما بحر الهند",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "واما بحر المغرب",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "4": {
+      "title": "واما بحر الروم وافريقية ومصر والشام",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "5": {
+      "title": "واما بحر بنطس الارضي",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "6": {
+      "title": "واما بحر جرجان وهو بحر الباب 5",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3, 4, 5],
+      2
+    ],
+    [
+      3,
+      [6],
+      5
+    ]
+  ],
+  "last_ms": 3
+}

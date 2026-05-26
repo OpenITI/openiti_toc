@@ -1,0 +1,106 @@
+{
+  "filename": "0298IshaqIbnHunayn.BuruqlisFiQidamCalam.GRAR000064-ara1",
+  "sections": {
+    "1": {
+      "title": "[chapter 1] حجج برقلس فى قدم العالم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "2": {
+      "title": "[chapter 2]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "[chapter 3]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 4
+    },
+    "4": {
+      "title": "[chapter 4]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "5": {
+      "title": "[chapter 5]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 5
+    },
+    "6": {
+      "title": "[chapter 6]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "7": {
+      "title": "[chapter 7]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "8": {
+      "title": "[chapter 8]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 8
+    },
+    "9": {
+      "title": "[chapter 9]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2, 3],
+      1
+    ],
+    [
+      4,
+      [4],
+      3
+    ],
+    [
+      5,
+      [5, 6],
+      4
+    ],
+    [
+      6,
+      [7],
+      6
+    ],
+    [
+      7,
+      [8],
+      7
+    ],
+    [
+      8,
+      [9],
+      8
+    ]
+  ],
+  "last_ms": 9
+}

@@ -1,0 +1,79 @@
+{
+  "filename": "0961SulaymanMahri.QiladatShumus.AOCP20230730-ara1",
+  "sections": {
+    "1": {
+      "title": "المقده ة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "الفصل الأول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "ألفصل الناني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "4": {
+      "title": "في معرفة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "5": {
+      "title": "الفصل الثالث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "6": {
+      "title": "ألفصل الرابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "7": {
+      "title": "ألفصل الخامس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "8": {
+      "title": "الفصل السارس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3, 4],
+      null
+    ],
+    [
+      2,
+      [5, 6],
+      4
+    ],
+    [
+      3,
+      [7, 8],
+      6
+    ]
+  ],
+  "last_ms": 3
+}

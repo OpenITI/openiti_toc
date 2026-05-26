@@ -1,0 +1,118 @@
+{
+  "filename": "0246QasimRassi.MunazaraMacaMulhid.Zaydiyya0000075BK3-ara1",
+  "sections": {
+    "1": {
+      "title": "مناظرة مع ملحد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "[مدخل إلى المناظرة]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "AUTO [إثبات وجود الصانع وحدوث العالم]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "4": {
+      "title": "AUTO [نظرية الهيولى والصورة وحدوث الأشياء من بعضها]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "5": {
+      "title": "AUTO [نظرية الكمون والظهور]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 6
+    },
+    "6": {
+      "title": "AUTO [علة وجود الأشياء وفسادها]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "7": {
+      "title": "AUTO [توحيد الخالق]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 7,
+      "end_ms": 9
+    },
+    "8": {
+      "title": "AUTO [حكمة خلق العالم]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 9,
+      "end_ms": 13
+    },
+    "9": {
+      "title": "AUTO [إرسال الرسل وحكمة التشريع]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 13,
+      "end_ms": 14
+    },
+    "10": {
+      "title": "AUTO [الحكمة من الموت والبعث]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 14,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3],
+      null
+    ],
+    [
+      3,
+      [4],
+      3
+    ],
+    [
+      4,
+      [5],
+      4
+    ],
+    [
+      6,
+      [6],
+      5
+    ],
+    [
+      7,
+      [7],
+      6
+    ],
+    [
+      9,
+      [8],
+      7
+    ],
+    [
+      13,
+      [9],
+      8
+    ],
+    [
+      14,
+      [10],
+      9
+    ]
+  ],
+  "last_ms": 16
+}

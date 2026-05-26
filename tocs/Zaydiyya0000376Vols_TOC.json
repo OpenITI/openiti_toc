@@ -1,0 +1,147 @@
+{
+  "filename": "1187IbrahimHuthiHusayni.NafahatCanbar.Zaydiyya0000376Vols-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "مقدمة المؤلف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "2": {
+      "title": "[منهج المؤلف]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "حرف الألف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 230
+    },
+    "4": {
+      "title": "حرف الحاء",
+      "level": 1,
+      "parent": null,
+      "start_ms": 230,
+      "end_ms": 339
+    },
+    "5": {
+      "title": "حرف الزاي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 339,
+      "end_ms": 352
+    },
+    "6": {
+      "title": "حرف السين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 352,
+      "end_ms": 356
+    },
+    "7": {
+      "title": "حرف الشين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 356,
+      "end_ms": 359
+    },
+    "8": {
+      "title": "حرف الصاد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 359,
+      "end_ms": 370
+    },
+    "9": {
+      "title": "أول حرف العين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 370,
+      "end_ms": 548
+    },
+    "10": {
+      "title": "حرف القاف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 548,
+      "end_ms": 788
+    },
+    "11": {
+      "title": "[حرف الياء](3)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 788,
+      "end_ms": 857
+    },
+    "12": {
+      "title": "[حرف الهاء]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 857,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      3,
+      [3],
+      2
+    ],
+    [
+      230,
+      [4],
+      3
+    ],
+    [
+      339,
+      [5],
+      4
+    ],
+    [
+      352,
+      [6],
+      5
+    ],
+    [
+      356,
+      [7],
+      6
+    ],
+    [
+      359,
+      [8],
+      7
+    ],
+    [
+      370,
+      [9],
+      8
+    ],
+    [
+      548,
+      [10],
+      9
+    ],
+    [
+      788,
+      [11],
+      10
+    ],
+    [
+      857,
+      [12],
+      11
+    ]
+  ],
+  "last_ms": 868
+}

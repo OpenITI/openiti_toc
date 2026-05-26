@@ -1,0 +1,140 @@
+{
+  "filename": "0688FakhrDinCiraqi.CushaqNamah.PDL00049-per1",
+  "sections": {
+    "1": {
+      "title": "[ aghazo ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 9
+    },
+    "2": {
+      "title": "[ fasl 1 ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 12
+    },
+    "3": {
+      "title": "[ fasl 2 ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 15
+    },
+    "4": {
+      "title": "[ fasl 3 - 4 ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 21
+    },
+    "5": {
+      "title": "[ fasl 5 ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 21,
+      "end_ms": 26
+    },
+    "6": {
+      "title": "[ fasl 6 ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 26,
+      "end_ms": 28
+    },
+    "7": {
+      "title": "[ fasl 7 ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 28,
+      "end_ms": 31
+    },
+    "8": {
+      "title": "[ fasl 8 ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 31,
+      "end_ms": 35
+    },
+    "9": {
+      "title": "[ fasl 9 ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 35,
+      "end_ms": 38
+    },
+    "10": {
+      "title": "[ fasl 10 ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 38,
+      "end_ms": 42
+    },
+    "11": {
+      "title": "[ khatematolketab ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 42,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      9,
+      [2],
+      1
+    ],
+    [
+      12,
+      [3],
+      2
+    ],
+    [
+      15,
+      [4],
+      3
+    ],
+    [
+      21,
+      [5],
+      4
+    ],
+    [
+      26,
+      [6],
+      5
+    ],
+    [
+      28,
+      [7],
+      6
+    ],
+    [
+      31,
+      [8],
+      7
+    ],
+    [
+      35,
+      [9],
+      8
+    ],
+    [
+      38,
+      [10],
+      9
+    ],
+    [
+      42,
+      [11],
+      10
+    ]
+  ],
+  "last_ms": 44
+}

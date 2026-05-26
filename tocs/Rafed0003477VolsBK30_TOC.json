@@ -1,0 +1,204 @@
+{
+  "filename": "0246QasimRassi.Tahara.Rafed0003477VolsBK30-ara2",
+  "sections": {
+    "1": {
+      "title": "الطهارة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "[الوضوء]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "باب القول في المشرك",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "4": {
+      "title": "[طهارة الماء والمكان]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "5": {
+      "title": "[الاغتسال من الجنابة أو النفاس]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 6
+    },
+    "6": {
+      "title": "الاعتقاد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "7": {
+      "title": "[لباس المصلي]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "8": {
+      "title": "[الاحتلام]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 8
+    },
+    "9": {
+      "title": "باب القول في السرقة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 10
+    },
+    "10": {
+      "title": "الكلام في الدم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 11
+    },
+    "11": {
+      "title": "القول في النفاس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 12
+    },
+    "12": {
+      "title": "القول في ms11 الحبلى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 12
+    },
+    "13": {
+      "title": "القول في الحجامة والرعاف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 14
+    },
+    "14": {
+      "title": "القول في التيمم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 14
+    },
+    "15": {
+      "title": "القول في الماء القليل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 14,
+      "end_ms": 17
+    },
+    "16": {
+      "title": "[الاشتغال بغير الصلاة يبطل الوضوء]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 17,
+      "end_ms": 18
+    },
+    "17": {
+      "title": "[القيح والصديد والدود]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": null
+    },
+    "18": {
+      "title": "** [النوم أو السكر يبطل الوضوء]",
+      "level": 3,
+      "parent": null,
+      "start_ms": 19,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3],
+      2
+    ],
+    [
+      3,
+      [4],
+      3
+    ],
+    [
+      4,
+      [5],
+      4
+    ],
+    [
+      6,
+      [6],
+      5
+    ],
+    [
+      7,
+      [7, 8],
+      6
+    ],
+    [
+      8,
+      [9],
+      8
+    ],
+    [
+      10,
+      [10],
+      9
+    ],
+    [
+      11,
+      [11],
+      10
+    ],
+    [
+      12,
+      [12, 13],
+      null
+    ],
+    [
+      14,
+      [14, 15],
+      13
+    ],
+    [
+      17,
+      [16],
+      15
+    ],
+    [
+      18,
+      [17],
+      16
+    ],
+    [
+      19,
+      [18],
+      17
+    ]
+  ],
+  "last_ms": 20
+}

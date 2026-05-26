@@ -1,0 +1,252 @@
+{
+  "filename": "0409CabdGhaniAzdi.MushtabihNisba.AOCP2023090624-ara1",
+  "sections": {
+    "1": {
+      "title": "اق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "2": {
+      "title": "يت",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "بي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "4": {
+      "title": "ح",
+      "level": 1,
+      "parent": null,
+      "start_ms": 4,
+      "end_ms": 6
+    },
+    "5": {
+      "title": "ته",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "6": {
+      "title": "ي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 10
+    },
+    "7": {
+      "title": "بيي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 11
+    },
+    "8": {
+      "title": "ي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 11,
+      "end_ms": 18
+    },
+    "9": {
+      "title": "2",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": 18
+    },
+    "10": {
+      "title": "ي",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": 21
+    },
+    "11": {
+      "title": "باب الراى والرانى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 21,
+      "end_ms": 21
+    },
+    "12": {
+      "title": "ه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 21,
+      "end_ms": 22
+    },
+    "13": {
+      "title": "2",
+      "level": 1,
+      "parent": null,
+      "start_ms": 22,
+      "end_ms": 23
+    },
+    "14": {
+      "title": "5",
+      "level": 1,
+      "parent": null,
+      "start_ms": 23,
+      "end_ms": 24
+    },
+    "15": {
+      "title": ".2",
+      "level": 1,
+      "parent": null,
+      "start_ms": 24,
+      "end_ms": 29
+    },
+    "16": {
+      "title": "ب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 29,
+      "end_ms": 43
+    },
+    "17": {
+      "title": "باب القبلى والعبلى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 43,
+      "end_ms": 46
+    },
+    "18": {
+      "title": "ت",
+      "level": 1,
+      "parent": null,
+      "start_ms": 46,
+      "end_ms": 49
+    },
+    "19": {
+      "title": "ح",
+      "level": 1,
+      "parent": null,
+      "start_ms": 49,
+      "end_ms": 50
+    },
+    "20": {
+      "title": "*",
+      "level": 1,
+      "parent": null,
+      "start_ms": 50,
+      "end_ms": 50
+    },
+    "21": {
+      "title": "ب النقال والبقال",
+      "level": 1,
+      "parent": null,
+      "start_ms": 50,
+      "end_ms": 51
+    },
+    "22": {
+      "title": "5",
+      "level": 1,
+      "parent": null,
+      "start_ms": 51,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      3,
+      [2],
+      1
+    ],
+    [
+      4,
+      [3, 4],
+      2
+    ],
+    [
+      6,
+      [5],
+      4
+    ],
+    [
+      7,
+      [6],
+      5
+    ],
+    [
+      10,
+      [7],
+      6
+    ],
+    [
+      11,
+      [8],
+      7
+    ],
+    [
+      18,
+      [9, 10],
+      8
+    ],
+    [
+      21,
+      [11, 12],
+      10
+    ],
+    [
+      22,
+      [13],
+      12
+    ],
+    [
+      23,
+      [14],
+      13
+    ],
+    [
+      24,
+      [15],
+      14
+    ],
+    [
+      29,
+      [16],
+      15
+    ],
+    [
+      43,
+      [17],
+      16
+    ],
+    [
+      46,
+      [18],
+      17
+    ],
+    [
+      49,
+      [19],
+      18
+    ],
+    [
+      50,
+      [20, 21],
+      19
+    ],
+    [
+      51,
+      [22],
+      21
+    ]
+  ],
+  "last_ms": 53
+}

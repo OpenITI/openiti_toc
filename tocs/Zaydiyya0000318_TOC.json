@@ -1,0 +1,32 @@
+{
+  "filename": "0413ShaykhMufid.FusulCashara.Zaydiyya0000318-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO الفصول العشرة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 18
+    },
+    "2": {
+      "title": "AUTO الفصول العشرة في الغيبة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 18,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      18,
+      [2],
+      1
+    ]
+  ],
+  "last_ms": 64
+}

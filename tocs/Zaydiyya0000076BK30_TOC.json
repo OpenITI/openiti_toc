@@ -1,0 +1,94 @@
+{
+  "filename": "0298HadiIlaHaqqYahya.JawabRajulMinQumm.Zaydiyya0000076BK30-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "جواب مسألة الرجل من أهل قم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "المعرفة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 6
+    },
+    "3": {
+      "title": "العقل",
+      "level": 3,
+      "parent": 2,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "4": {
+      "title": "تفرع المعرفة عن العقل",
+      "level": 3,
+      "parent": 2,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "5": {
+      "title": "المعرفة بالتقليد",
+      "level": 3,
+      "parent": 2,
+      "start_ms": 3,
+      "end_ms": 5
+    },
+    "6": {
+      "title": "إلهام البهائم",
+      "level": 3,
+      "parent": 2,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "7": {
+      "title": "الدليل على أن الله خلق الأشياء لا من شيء",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "8": {
+      "title": "العلة في بعثة الرسل",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 7,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3],
+      null
+    ],
+    [
+      2,
+      [4],
+      3
+    ],
+    [
+      3,
+      [5],
+      4
+    ],
+    [
+      5,
+      [6],
+      5
+    ],
+    [
+      6,
+      [7],
+      6
+    ],
+    [
+      7,
+      [8],
+      7
+    ]
+  ],
+  "last_ms": 7
+}

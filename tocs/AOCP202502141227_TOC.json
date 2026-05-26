@@ -1,0 +1,32 @@
+{
+  "filename": "0642HamdAllahSarakhsi.AcjubaMahjuba.AOCP202502141227-per1",
+  "sections": {
+    "1": {
+      "title": "نحن روحان1 حللنا بدنا",
+      "level": 1,
+      "parent": null,
+      "start_ms": 25,
+      "end_ms": 100
+    },
+    "2": {
+      "title": "من الوحش فی الصحراء او الحوت ف البحر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 100,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      25,
+      [1],
+      null
+    ],
+    [
+      100,
+      [2],
+      1
+    ]
+  ],
+  "last_ms": 105
+}

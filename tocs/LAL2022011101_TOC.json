@@ -1,0 +1,231 @@
+{
+  "filename": "0139IbnMuqaffac.KalilaWaDimna.LAL2022011101-ara2",
+  "sections": {
+    "1": {
+      "title": "1 بعثة أنوشروان برزويه إلى بلاد الهند لانتساخ كليلة ودمنة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 10
+    },
+    "2": {
+      "title": "2 كتاب كليلة ودمنة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 16
+    },
+    "3": {
+      "title": "3 باب برزويه المتطبب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 16,
+      "end_ms": 28
+    },
+    "4": {
+      "title": "4 باب الأسد والثور",
+      "level": 1,
+      "parent": null,
+      "start_ms": 28,
+      "end_ms": 66
+    },
+    "5": {
+      "title": "5 باب الابتحاث عن أمر دمنة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 66,
+      "end_ms": 83
+    },
+    "6": {
+      "title": "6 باب الحمامة المطوقة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 83,
+      "end_ms": 97
+    },
+    "7": {
+      "title": "7 باب الغربان والبوم",
+      "level": 1,
+      "parent": null,
+      "start_ms": 97,
+      "end_ms": 115
+    },
+    "8": {
+      "title": "8 باب السلحفاة والقرد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 115,
+      "end_ms": 123
+    },
+    "9": {
+      "title": "9 باب الناسك وابن عرس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 123,
+      "end_ms": 125
+    },
+    "10": {
+      "title": "10 باب السنور والجرذ",
+      "level": 1,
+      "parent": null,
+      "start_ms": 125,
+      "end_ms": 131
+    },
+    "11": {
+      "title": "11 باب الملك والطائر فنزة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 131,
+      "end_ms": 135
+    },
+    "12": {
+      "title": "12 باب الأسد وابن آوى",
+      "level": 1,
+      "parent": null,
+      "start_ms": 135,
+      "end_ms": 144
+    },
+    "13": {
+      "title": "13 باب هيلار ووزيره بيلار",
+      "level": 1,
+      "parent": null,
+      "start_ms": 144,
+      "end_ms": 165
+    },
+    "14": {
+      "title": "14 باب السياح والصواغ",
+      "level": 1,
+      "parent": null,
+      "start_ms": 165,
+      "end_ms": 168
+    },
+    "15": {
+      "title": "15 باب ابن الملك وأصحابه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 168,
+      "end_ms": 172
+    },
+    "16": {
+      "title": "16 باب الإسوار واللبؤة والشعهر",
+      "level": 1,
+      "parent": null,
+      "start_ms": 172,
+      "end_ms": 174
+    },
+    "17": {
+      "title": "17 باب الناسك وضيفه",
+      "level": 1,
+      "parent": null,
+      "start_ms": 174,
+      "end_ms": null
+    },
+    "18": {
+      "title": "17.1",
+      "level": 2,
+      "parent": 17,
+      "start_ms": 174,
+      "end_ms": 175
+    },
+    "19": {
+      "title": "17.2",
+      "level": 2,
+      "parent": 17,
+      "start_ms": 175,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      10,
+      [2],
+      1
+    ],
+    [
+      16,
+      [3],
+      2
+    ],
+    [
+      28,
+      [4],
+      3
+    ],
+    [
+      66,
+      [5],
+      4
+    ],
+    [
+      83,
+      [6],
+      5
+    ],
+    [
+      97,
+      [7],
+      6
+    ],
+    [
+      115,
+      [8],
+      7
+    ],
+    [
+      123,
+      [9],
+      8
+    ],
+    [
+      125,
+      [10],
+      9
+    ],
+    [
+      131,
+      [11],
+      10
+    ],
+    [
+      135,
+      [12],
+      11
+    ],
+    [
+      144,
+      [13],
+      12
+    ],
+    [
+      165,
+      [14],
+      13
+    ],
+    [
+      168,
+      [15],
+      14
+    ],
+    [
+      172,
+      [16],
+      15
+    ],
+    [
+      174,
+      [17, 18],
+      16
+    ],
+    [
+      175,
+      [19],
+      18
+    ]
+  ],
+  "last_ms": 176
+}

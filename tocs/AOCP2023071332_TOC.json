@@ -1,0 +1,154 @@
+{
+  "filename": "0961SulaymanMahri.SharhTuhfatFuhul.AOCP2023071332-ara1",
+  "sections": {
+    "1": {
+      "title": "في تجزئة الدورة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 7,
+      "end_ms": 8
+    },
+    "2": {
+      "title": "فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 10
+    },
+    "3": {
+      "title": "فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 10,
+      "end_ms": 12
+    },
+    "4": {
+      "title": "بي اموزوام",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 12
+    },
+    "5": {
+      "title": "فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 12,
+      "end_ms": 20
+    },
+    "6": {
+      "title": "في بلربرة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 20,
+      "end_ms": 23
+    },
+    "7": {
+      "title": "في القياس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 23,
+      "end_ms": 24
+    },
+    "8": {
+      "title": "فمصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 24,
+      "end_ms": 26
+    },
+    "9": {
+      "title": "فصل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 26,
+      "end_ms": 28
+    },
+    "10": {
+      "title": "في المسافن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 28,
+      "end_ms": 31
+    },
+    "11": {
+      "title": "الاب السابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 31,
+      "end_ms": 31
+    },
+    "12": {
+      "title": "في الرياص",
+      "level": 1,
+      "parent": null,
+      "start_ms": 31,
+      "end_ms": 33
+    },
+    "13": {
+      "title": "الثاتمة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 33,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      7,
+      [1],
+      null
+    ],
+    [
+      8,
+      [2],
+      1
+    ],
+    [
+      10,
+      [3],
+      2
+    ],
+    [
+      12,
+      [4, 5],
+      3
+    ],
+    [
+      20,
+      [6],
+      5
+    ],
+    [
+      23,
+      [7],
+      6
+    ],
+    [
+      24,
+      [8],
+      7
+    ],
+    [
+      26,
+      [9],
+      8
+    ],
+    [
+      28,
+      [10],
+      9
+    ],
+    [
+      31,
+      [11, 12],
+      10
+    ],
+    [
+      33,
+      [13],
+      12
+    ]
+  ],
+  "last_ms": 35
+}

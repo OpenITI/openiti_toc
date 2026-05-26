@@ -1,0 +1,68 @@
+{
+  "filename": "0246QasimRassi.RaddCalaRawafid.Zaydiyya0000075BK14-ara1",
+  "sections": {
+    "1": {
+      "title": "الرد على الروافض من أهل الغلو",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "AUTO [صفة الإمام]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 10,
+      "end_ms": 13
+    },
+    "3": {
+      "title": "AUTO [الحجة الغائبة]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 13,
+      "end_ms": 14
+    },
+    "4": {
+      "title": "AUTO [صفة الإمام]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 14,
+      "end_ms": 23
+    },
+    "5": {
+      "title": "AUTO [صفة الإمام]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 23,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      10,
+      [2],
+      1
+    ],
+    [
+      13,
+      [3],
+      2
+    ],
+    [
+      14,
+      [4],
+      3
+    ],
+    [
+      23,
+      [5],
+      4
+    ]
+  ],
+  "last_ms": 24
+}

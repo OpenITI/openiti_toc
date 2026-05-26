@@ -1,0 +1,104 @@
+{
+  "filename": "0786ShahidAwwal.Alfiyya.Masaha000630-ara1",
+  "sections": {
+    "1": {
+      "title": "الفصل الاول في المقدمات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": 6
+    },
+    "2": {
+      "title": "الفصل الثاني- في المقارنات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 6,
+      "end_ms": 9
+    },
+    "3": {
+      "title": "الفصل الثالث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 13
+    },
+    "4": {
+      "title": "الالفية - الجزء الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": 15
+    },
+    "5": {
+      "title": "الفصل الاول - في سنن المقدمات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 24
+    },
+    "6": {
+      "title": "الفصل الثاني - في سنن المقارنات",
+      "level": 1,
+      "parent": null,
+      "start_ms": 24,
+      "end_ms": 31
+    },
+    "7": {
+      "title": "الفصل الثالث - في منافيات الافضل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 31,
+      "end_ms": 32
+    },
+    "8": {
+      "title": "واما الخاتمة: ففيها بحثان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 32,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      2,
+      [1],
+      null
+    ],
+    [
+      6,
+      [2],
+      1
+    ],
+    [
+      9,
+      [3],
+      2
+    ],
+    [
+      13,
+      [4],
+      3
+    ],
+    [
+      15,
+      [5],
+      4
+    ],
+    [
+      24,
+      [6],
+      5
+    ],
+    [
+      31,
+      [7],
+      6
+    ],
+    [
+      32,
+      [8],
+      7
+    ]
+  ],
+  "last_ms": 61
+}

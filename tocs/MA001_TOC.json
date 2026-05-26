@@ -1,0 +1,104 @@
+{
+  "filename": "0200Anonymous.AshbahWaAzilla.MA001-ara1",
+  "sections": {
+    "1": {
+      "title": "كتاب الاشباح والاظلة",
+      "level": 3,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "[6] ثم تكلم بالجزء الثاني",
+      "level": 3,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": null
+    },
+    "3": {
+      "title": "الجزء الثالث",
+      "level": 3,
+      "parent": 2,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "4": {
+      "title": "[15] الجزء الرابع",
+      "level": 3,
+      "parent": 2,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "5": {
+      "title": "[20] الجزء الخامس في ابتداء الاظلة في بدء الخلق",
+      "level": 3,
+      "parent": 2,
+      "start_ms": 5,
+      "end_ms": 7
+    },
+    "6": {
+      "title": "[30] الجزء السادس",
+      "level": 3,
+      "parent": 2,
+      "start_ms": 7,
+      "end_ms": 9
+    },
+    "7": {
+      "title": "[36] الجزء السابع",
+      "level": 3,
+      "parent": 2,
+      "start_ms": 9,
+      "end_ms": 14
+    },
+    "8": {
+      "title": "[57] الجزء الثامن",
+      "level": 3,
+      "parent": 2,
+      "start_ms": 14,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      2,
+      [2],
+      1
+    ],
+    [
+      3,
+      [3],
+      2
+    ],
+    [
+      4,
+      [4],
+      3
+    ],
+    [
+      5,
+      [5],
+      4
+    ],
+    [
+      7,
+      [6],
+      5
+    ],
+    [
+      9,
+      [7],
+      6
+    ],
+    [
+      14,
+      [8],
+      7
+    ]
+  ],
+  "last_ms": 16
+}

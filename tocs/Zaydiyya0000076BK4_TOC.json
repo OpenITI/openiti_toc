@@ -1,0 +1,103 @@
+{
+  "filename": "0298HadiIlaHaqqYahya.JawabLiAhlSanca.Zaydiyya0000076BK4-ara1.completed",
+  "sections": {
+    "1": {
+      "title": "جواب لأهل صنعاء على كتاب كتبوه إليه عند قدومه البلد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "الإيمان بالله",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "الإيمان باليوم الآخر",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "4": {
+      "title": "الإيمان بمحمد",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "5": {
+      "title": "الإيمان بالقرآن",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 2
+    },
+    "6": {
+      "title": "الاقرار بفرائض الإسلام ومنهياته",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 2,
+      "end_ms": 3
+    },
+    "7": {
+      "title": "التمسك بأهل البيت دون من سواهم من الفرق",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "8": {
+      "title": "من عناصر الإيمان",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "9": {
+      "title": "الترضية على الصحابة وأمهات المؤمنين",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "10": {
+      "title": "الحوض والشفاعة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 5,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3],
+      null
+    ],
+    [
+      2,
+      [4, 5, 6],
+      3
+    ],
+    [
+      3,
+      [7],
+      6
+    ],
+    [
+      4,
+      [8, 9],
+      7
+    ],
+    [
+      5,
+      [10],
+      9
+    ]
+  ],
+  "last_ms": 5
+}

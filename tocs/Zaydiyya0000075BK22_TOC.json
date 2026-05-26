@@ -1,0 +1,178 @@
+{
+  "filename": "0246QasimRassi.HijraLiZalimin.Zaydiyya0000075BK22-ara1",
+  "sections": {
+    "1": {
+      "title": "الهجرة للظالمين",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "AUTO [صفات أولياء الله]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "3": {
+      "title": "AUTO [وجوب الإنكار أو الهجرة]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 3
+    },
+    "4": {
+      "title": "AUTO [التمييز بين أولياء الله وأعداءه]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 3,
+      "end_ms": 4
+    },
+    "5": {
+      "title": "AUTO [التحذير من موالاة أعداء الله]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "6": {
+      "title": "AUTO [مرض القلوب]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "7": {
+      "title": "AUTO [مجالسة الظالمين مهلكة]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 6,
+      "end_ms": 10
+    },
+    "8": {
+      "title": "AUTO [مجاورة الظالمين شقاء وفتنة]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 10,
+      "end_ms": 13
+    },
+    "9": {
+      "title": "AUTO [طرد النبي للمتشبهين بالنساء]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 13,
+      "end_ms": 14
+    },
+    "10": {
+      "title": "AUTO [الهجرة واجبة في كل الديانات]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 14,
+      "end_ms": 16
+    },
+    "11": {
+      "title": "AUTO [وعيد الله للمعرضين]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 16,
+      "end_ms": 18
+    },
+    "12": {
+      "title": "AUTO [الهجرة شرط الإيمان]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 18,
+      "end_ms": 22
+    },
+    "13": {
+      "title": "AUTO [هلاك جبابرة الأمم]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 22,
+      "end_ms": 27
+    },
+    "14": {
+      "title": "AUTO [هجرة الأنبياء والرسل]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 27,
+      "end_ms": 30
+    },
+    "15": {
+      "title": "AUTO [هجرة المؤمنين السابقين]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 30,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      3,
+      [3, 4],
+      2
+    ],
+    [
+      4,
+      [5],
+      4
+    ],
+    [
+      5,
+      [6],
+      5
+    ],
+    [
+      6,
+      [7],
+      6
+    ],
+    [
+      10,
+      [8],
+      7
+    ],
+    [
+      13,
+      [9],
+      8
+    ],
+    [
+      14,
+      [10],
+      9
+    ],
+    [
+      16,
+      [11],
+      10
+    ],
+    [
+      18,
+      [12],
+      11
+    ],
+    [
+      22,
+      [13],
+      12
+    ],
+    [
+      27,
+      [14],
+      13
+    ],
+    [
+      30,
+      [15],
+      14
+    ]
+  ],
+  "last_ms": 36
+}

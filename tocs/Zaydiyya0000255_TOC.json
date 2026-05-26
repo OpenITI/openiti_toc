@@ -1,0 +1,203 @@
+{
+  "filename": "1450SalahIbnAhmadFulayta.MansikZiyara.Zaydiyya0000255-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO فصل في فضل الزيارة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "AUTO أعمال زيارة الرسول صلى الله عليه وعلى آله.",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 5
+    },
+    "3": {
+      "title": "AUTO العمل في الروضة الشريفة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "4": {
+      "title": "AUTO زيارة أهل البقيع",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 6,
+      "end_ms": 11
+    },
+    "5": {
+      "title": "AUTO زيارة بنات رسول الله صلى الله عليه وآله وسلم :",
+      "level": 3,
+      "parent": 4,
+      "start_ms": 8,
+      "end_ms": 8
+    },
+    "6": {
+      "title": "AUTO زيارة إبراهيم بن رسول الله عليهما السلام",
+      "level": 3,
+      "parent": 4,
+      "start_ms": 8,
+      "end_ms": 9
+    },
+    "7": {
+      "title": "AUTO زيارة شهداء الحرة",
+      "level": 3,
+      "parent": 4,
+      "start_ms": 9,
+      "end_ms": 9
+    },
+    "8": {
+      "title": "AUTO زيارة حليمة السعدية",
+      "level": 3,
+      "parent": 4,
+      "start_ms": 9,
+      "end_ms": 9
+    },
+    "9": {
+      "title": "AUTO كشف وتعداد من تضمنه البقيع:",
+      "level": 3,
+      "parent": 4,
+      "start_ms": 9,
+      "end_ms": 10
+    },
+    "10": {
+      "title": "AUTO زوجات رسول الله في البقيع",
+      "level": 3,
+      "parent": 4,
+      "start_ms": 10,
+      "end_ms": 10
+    },
+    "11": {
+      "title": "AUTO شهداء أحد",
+      "level": 3,
+      "parent": 4,
+      "start_ms": 10,
+      "end_ms": 11
+    },
+    "12": {
+      "title": "AUTO حقيقة الزيارة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 11,
+      "end_ms": 12
+    },
+    "13": {
+      "title": "AUTO زيارة المساجد",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 12,
+      "end_ms": 14
+    },
+    "14": {
+      "title": "AUTO دعاء مسجد قبا",
+      "level": 3,
+      "parent": 13,
+      "start_ms": 12,
+      "end_ms": 13
+    },
+    "15": {
+      "title": "AUTO مسجد الفتح",
+      "level": 3,
+      "parent": 13,
+      "start_ms": 13,
+      "end_ms": 13
+    },
+    "16": {
+      "title": "AUTO مسجد السقيا",
+      "level": 3,
+      "parent": 13,
+      "start_ms": 13,
+      "end_ms": 13
+    },
+    "17": {
+      "title": "AUTO مسجد أمير المؤمنين صلوات الله عليه",
+      "level": 3,
+      "parent": 13,
+      "start_ms": 13,
+      "end_ms": 13
+    },
+    "18": {
+      "title": "AUTO دعاء عام في كل مسجد",
+      "level": 3,
+      "parent": 13,
+      "start_ms": 13,
+      "end_ms": 14
+    },
+    "19": {
+      "title": "AUTO الدعاء بعد تمام الزيارات",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 14,
+      "end_ms": 15
+    },
+    "20": {
+      "title": "AUTO وكما أردت الخروج من المدينة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 15,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      5,
+      [3],
+      2
+    ],
+    [
+      6,
+      [4],
+      3
+    ],
+    [
+      8,
+      [5, 6],
+      4
+    ],
+    [
+      9,
+      [7, 8, 9],
+      6
+    ],
+    [
+      10,
+      [10, 11],
+      9
+    ],
+    [
+      11,
+      [12],
+      11
+    ],
+    [
+      12,
+      [13, 14],
+      12
+    ],
+    [
+      13,
+      [15, 16, 17, 18],
+      14
+    ],
+    [
+      14,
+      [19],
+      18
+    ],
+    [
+      15,
+      [20],
+      19
+    ]
+  ],
+  "last_ms": 17
+}

@@ -1,0 +1,159 @@
+{
+  "filename": "1450MuhammadYahyaCizzan.QurashiyyatKhilafa.Zaydiyya0000106-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO قرشية الخلافة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "AUTO تقديم بقلم المفكر الإسلامي / زيد بن علي الوزير",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "AUTO مقدمة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 8
+    },
+    "4": {
+      "title": "AUTO معالم المجتمع الجديد",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 8,
+      "end_ms": 10
+    },
+    "5": {
+      "title": "AUTO التحول السريع",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 10,
+      "end_ms": 12
+    },
+    "6": {
+      "title": "AUTO السقيفة.. الأحداث والدلالات",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 12,
+      "end_ms": 15
+    },
+    "7": {
+      "title": "AUTO أحداث السقيفة.. بين التشريع والمؤامرة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 15,
+      "end_ms": 25
+    },
+    "8": {
+      "title": "AUTO الصراع داخل البيت القرشي",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 25,
+      "end_ms": 29
+    },
+    "9": {
+      "title": "AUTO قرشية الخلافة.. في ميزان الشرع",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 29,
+      "end_ms": 30
+    },
+    "10": {
+      "title": "AUTO القائلون باشتراط قرشية الخليفة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 30,
+      "end_ms": 31
+    },
+    "11": {
+      "title": "AUTO حجة القائليل بشرط القرشية",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 31,
+      "end_ms": 47
+    },
+    "12": {
+      "title": "AUTO القائلون بجواز الخلافة في غير قرش",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 47,
+      "end_ms": 48
+    },
+    "13": {
+      "title": "AUTO حجة القائلين بصحة الخلافة لكل قادر كفء",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 48,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      4,
+      [3],
+      2
+    ],
+    [
+      8,
+      [4],
+      3
+    ],
+    [
+      10,
+      [5],
+      4
+    ],
+    [
+      12,
+      [6],
+      5
+    ],
+    [
+      15,
+      [7],
+      6
+    ],
+    [
+      25,
+      [8],
+      7
+    ],
+    [
+      29,
+      [9],
+      8
+    ],
+    [
+      30,
+      [10],
+      9
+    ],
+    [
+      31,
+      [11],
+      10
+    ],
+    [
+      47,
+      [12],
+      11
+    ],
+    [
+      48,
+      [13],
+      12
+    ]
+  ],
+  "last_ms": 55
+}

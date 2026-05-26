@@ -1,0 +1,151 @@
+{
+  "filename": "0246QasimRassi.SalatYawmWaLayla.Zaydiyya0000075BK31-ara1",
+  "sections": {
+    "1": {
+      "title": "كتاب صلاة يوم وليلة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "AUTO [أول الواجبات العقلية]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "AUTO [الواجبات الشرعية]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "4": {
+      "title": "AUTO [ أوقات الصلوات ]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 11
+    },
+    "5": {
+      "title": "AUTO [ الطهارات ]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 11,
+      "end_ms": 11
+    },
+    "6": {
+      "title": "AUTO [ حد الماء المطهر ]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 11,
+      "end_ms": 12
+    },
+    "7": {
+      "title": "AUTO [ التيمم ]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 12,
+      "end_ms": 13
+    },
+    "8": {
+      "title": "AUTO [ مسح الرأس ]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 13,
+      "end_ms": 13
+    },
+    "9": {
+      "title": "AUTO [ حوار مع القائلين بمسح القدمين ]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 13,
+      "end_ms": 15
+    },
+    "10": {
+      "title": "AUTO [ باب الوضوء ]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 15,
+      "end_ms": 16
+    },
+    "11": {
+      "title": "AUTO [ أذكار وأدعية الوضوء والصلاة ]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 16,
+      "end_ms": 18
+    },
+    "12": {
+      "title": "AUTO [ السكون والخشوع في الصلاة ]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 18,
+      "end_ms": 18
+    },
+    "13": {
+      "title": "AUTO [ شروط الإمام ]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 18,
+      "end_ms": 23
+    },
+    "14": {
+      "title": "AUTO باب التقصير",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 23,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3],
+      null
+    ],
+    [
+      4,
+      [4],
+      3
+    ],
+    [
+      11,
+      [5, 6],
+      4
+    ],
+    [
+      12,
+      [7],
+      6
+    ],
+    [
+      13,
+      [8, 9],
+      7
+    ],
+    [
+      15,
+      [10],
+      9
+    ],
+    [
+      16,
+      [11],
+      10
+    ],
+    [
+      18,
+      [12, 13],
+      11
+    ],
+    [
+      23,
+      [14],
+      13
+    ]
+  ],
+  "last_ms": 25
+}

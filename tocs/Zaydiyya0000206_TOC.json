@@ -1,0 +1,231 @@
+{
+  "filename": "1450Anonymous.IsmacilWaIshaq.Zaydiyya0000206-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO إسماعيل وإسحاق",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 25
+    },
+    "2": {
+      "title": "AUTO مدرسة النبوة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 6
+    },
+    "3": {
+      "title": "AUTO النبوة لطف",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 6,
+      "end_ms": 9
+    },
+    "4": {
+      "title": "AUTO أسرة الخليل وميلاد إسماعيل (2)",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 9,
+      "end_ms": 13
+    },
+    "5": {
+      "title": "AUTO هجرة واغتراب",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 13,
+      "end_ms": 15
+    },
+    "6": {
+      "title": "AUTO دعوة مستجابة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 15,
+      "end_ms": 16
+    },
+    "7": {
+      "title": "AUTO وتهوي الافئدة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 16,
+      "end_ms": 17
+    },
+    "8": {
+      "title": "AUTO رؤيا ووفاء",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 17,
+      "end_ms": 19
+    },
+    "9": {
+      "title": "AUTO مرحلة جديدة",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 19,
+      "end_ms": 21
+    },
+    "10": {
+      "title": "AUTO معالم وهداية",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 21,
+      "end_ms": 22
+    },
+    "11": {
+      "title": "AUTO من شعائر الله",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 22,
+      "end_ms": 23
+    },
+    "12": {
+      "title": "AUTO تراث إسماعيل (عليه السلام)",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 23,
+      "end_ms": 25
+    },
+    "13": {
+      "title": "AUTO البيت الخالد",
+      "level": 1,
+      "parent": null,
+      "start_ms": 25,
+      "end_ms": null
+    },
+    "14": {
+      "title": "AUTO صراع على سدانة البيت الحرام",
+      "level": 2,
+      "parent": 13,
+      "start_ms": 27,
+      "end_ms": 29
+    },
+    "15": {
+      "title": "AUTO عمارة البيت",
+      "level": 2,
+      "parent": 13,
+      "start_ms": 29,
+      "end_ms": 32
+    },
+    "16": {
+      "title": "AUTO القرآن يتحدث",
+      "level": 2,
+      "parent": 13,
+      "start_ms": 32,
+      "end_ms": 36
+    },
+    "17": {
+      "title": "AUTO البشارة المعجزة ( إسحاق ) (57)",
+      "level": 2,
+      "parent": 13,
+      "start_ms": 36,
+      "end_ms": 40
+    },
+    "18": {
+      "title": "AUTO إسحاق (عليه السلام) على لسان الوحي",
+      "level": 2,
+      "parent": 13,
+      "start_ms": 40,
+      "end_ms": 42
+    },
+    "19": {
+      "title": "AUTO خاتمة",
+      "level": 2,
+      "parent": 13,
+      "start_ms": 42,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      6,
+      [3],
+      2
+    ],
+    [
+      9,
+      [4],
+      3
+    ],
+    [
+      13,
+      [5],
+      4
+    ],
+    [
+      15,
+      [6],
+      5
+    ],
+    [
+      16,
+      [7],
+      6
+    ],
+    [
+      17,
+      [8],
+      7
+    ],
+    [
+      19,
+      [9],
+      8
+    ],
+    [
+      21,
+      [10],
+      9
+    ],
+    [
+      22,
+      [11],
+      10
+    ],
+    [
+      23,
+      [12],
+      11
+    ],
+    [
+      25,
+      [13],
+      12
+    ],
+    [
+      27,
+      [14],
+      13
+    ],
+    [
+      29,
+      [15],
+      14
+    ],
+    [
+      32,
+      [16],
+      15
+    ],
+    [
+      36,
+      [17],
+      16
+    ],
+    [
+      40,
+      [18],
+      17
+    ],
+    [
+      42,
+      [19],
+      18
+    ]
+  ],
+  "last_ms": 48
+}

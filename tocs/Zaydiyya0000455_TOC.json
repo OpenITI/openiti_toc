@@ -1,0 +1,201 @@
+{
+  "filename": "0304HasanUtrush.Ihtisab.Zaydiyya0000455-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO [أهمية المحتسب]",
+      "level": 2,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "AUTO [تشريعات للأسواق]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "AUTO [شعار أهل البيت]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 4
+    },
+    "4": {
+      "title": "AUTO [الملاهي]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 5
+    },
+    "5": {
+      "title": "AUTO [آداب الطريق]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 5,
+      "end_ms": 6
+    },
+    "6": {
+      "title": "AUTO [تشريعات للجنائز والمقابر]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "7": {
+      "title": "AUTO [صلاة الجمعة والعيد]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 7,
+      "end_ms": 7
+    },
+    "8": {
+      "title": "AUTO [توجيهات في الحرير والذهب والفضة]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 7,
+      "end_ms": 8
+    },
+    "9": {
+      "title": "AUTO [توجيهات بشأن المماليك]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 8,
+      "end_ms": 9
+    },
+    "10": {
+      "title": "AUTO [النهي عن الخمر والربا والغش]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 9,
+      "end_ms": 11
+    },
+    "11": {
+      "title": "AUTO [قوانين طبية]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 11,
+      "end_ms": 11
+    },
+    "12": {
+      "title": "AUTO [آداب عامة]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 11,
+      "end_ms": 12
+    },
+    "13": {
+      "title": "AUTO [قوانين عسكرية]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 12,
+      "end_ms": 13
+    },
+    "14": {
+      "title": "AUTO [نظم في ms12 الإدارة المحلية والبلدية]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 13,
+      "end_ms": 13
+    },
+    "15": {
+      "title": "AUTO [آداب الطريق2]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 13,
+      "end_ms": 14
+    },
+    "16": {
+      "title": "AUTO [نظم وحقوق وواجبات الأقليات في دار الإسلام]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 14,
+      "end_ms": 15
+    },
+    "17": {
+      "title": "AUTO [نظم المستشفيات]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 15,
+      "end_ms": 15
+    },
+    "18": {
+      "title": "AUTO [رعاية أسر الشهداء]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 15,
+      "end_ms": 15
+    },
+    "19": {
+      "title": "AUTO [نظم محلية وبلدية]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 15,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      4,
+      [3, 4],
+      2
+    ],
+    [
+      5,
+      [5],
+      4
+    ],
+    [
+      6,
+      [6],
+      5
+    ],
+    [
+      7,
+      [7, 8],
+      6
+    ],
+    [
+      8,
+      [9],
+      8
+    ],
+    [
+      9,
+      [10],
+      9
+    ],
+    [
+      11,
+      [11, 12],
+      10
+    ],
+    [
+      12,
+      [13],
+      12
+    ],
+    [
+      13,
+      [14, 15],
+      null
+    ],
+    [
+      14,
+      [16],
+      15
+    ],
+    [
+      15,
+      [17, 18, 19],
+      16
+    ]
+  ],
+  "last_ms": 16
+}

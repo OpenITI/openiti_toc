@@ -1,0 +1,46 @@
+{
+  "filename": "0375IkhwanSafa.QawlCalaSirrMakhzun.GVDB20210802-ara1.mARkdown",
+  "sections": {
+    "1": {
+      "title": "قول على السر المخزون والعلم المضمون من باطن رسالةالجامعة من رسايل اخوان الصفا",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": null
+    },
+    "2": {
+      "title": "فصل في معرفت الاصل الجامع لجميع الفضايل",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "3": {
+      "title": "فصل في معرفت العالم العلوي",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 5
+    },
+    "4": {
+      "title": "فصل",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 5,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3],
+      null
+    ],
+    [
+      5,
+      [4],
+      3
+    ]
+  ],
+  "last_ms": 8
+}

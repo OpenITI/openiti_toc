@@ -1,0 +1,80 @@
+{
+  "filename": "0581AbuQasimSuhayli.Tacrif.AOCP2023090609-ara1",
+  "sections": {
+    "1": {
+      "title": "(ومن سورة الحج)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 51,
+      "end_ms": 60
+    },
+    "2": {
+      "title": "م - 7- تعريف",
+      "level": 1,
+      "parent": null,
+      "start_ms": 60,
+      "end_ms": 66
+    },
+    "3": {
+      "title": "ومن سورة يس)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 66,
+      "end_ms": 71
+    },
+    "4": {
+      "title": "(ومن سورة المؤمن)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 71,
+      "end_ms": 88
+    },
+    "5": {
+      "title": "(ومن سورةالبلد)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 88,
+      "end_ms": 90
+    },
+    "6": {
+      "title": "(ومن سورة الدين)",
+      "level": 1,
+      "parent": null,
+      "start_ms": 90,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      51,
+      [1],
+      null
+    ],
+    [
+      60,
+      [2],
+      1
+    ],
+    [
+      66,
+      [3],
+      2
+    ],
+    [
+      71,
+      [4],
+      3
+    ],
+    [
+      88,
+      [5],
+      4
+    ],
+    [
+      90,
+      [6],
+      5
+    ]
+  ],
+  "last_ms": 92
+}

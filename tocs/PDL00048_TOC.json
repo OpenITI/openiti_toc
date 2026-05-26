@@ -1,0 +1,80 @@
+{
+  "filename": "0672JalalDinRumi.Mathnawi.PDL00048-per1",
+  "sections": {
+    "1": {
+      "title": "[ daftar 1 ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 178
+    },
+    "2": {
+      "title": "[ daftar 2 ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 178,
+      "end_ms": 346
+    },
+    "3": {
+      "title": "[ daftar 3 ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 346,
+      "end_ms": 556
+    },
+    "4": {
+      "title": "[ daftar 4 ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 556,
+      "end_ms": 726
+    },
+    "5": {
+      "title": "[ daftar 5 ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 726,
+      "end_ms": 913
+    },
+    "6": {
+      "title": "[ daftar 6 ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 913,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      178,
+      [2],
+      1
+    ],
+    [
+      346,
+      [3],
+      2
+    ],
+    [
+      556,
+      [4],
+      3
+    ],
+    [
+      726,
+      [5],
+      4
+    ],
+    [
+      913,
+      [6],
+      5
+    ]
+  ],
+  "last_ms": 1130
+}

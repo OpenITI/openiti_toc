@@ -1,0 +1,104 @@
+{
+  "filename": "0691SacdiShirazi.Gulistan.PDL00052-per1",
+  "sections": {
+    "1": {
+      "title": "[ gbab 1 ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 8
+    },
+    "2": {
+      "title": "[ gbab 2 ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 8,
+      "end_ms": 15
+    },
+    "3": {
+      "title": "[ gbab 3 ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 15,
+      "end_ms": 19
+    },
+    "4": {
+      "title": "[ gbab 4 ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 19,
+      "end_ms": 20
+    },
+    "5": {
+      "title": "[ gbab 5 ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 20,
+      "end_ms": 24
+    },
+    "6": {
+      "title": "[ gbab 6 ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 24,
+      "end_ms": 25
+    },
+    "7": {
+      "title": "[ gbab 7 ]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 25,
+      "end_ms": 28
+    },
+    "8": {
+      "title": "[ gbab 8 ] PageV08P001",
+      "level": 1,
+      "parent": null,
+      "start_ms": 28,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      8,
+      [2],
+      1
+    ],
+    [
+      15,
+      [3],
+      2
+    ],
+    [
+      19,
+      [4],
+      3
+    ],
+    [
+      20,
+      [5],
+      4
+    ],
+    [
+      24,
+      [6],
+      5
+    ],
+    [
+      25,
+      [7],
+      6
+    ],
+    [
+      28,
+      [8],
+      7
+    ]
+  ],
+  "last_ms": 34
+}

@@ -1,0 +1,196 @@
+{
+  "filename": "0329IbnYacqubKulayni.Kafi.Zaydiyya0000177-ara1",
+  "sections": {
+    "1": {
+      "title": "AUTO الجزء الأول",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 338
+    },
+    "2": {
+      "title": "AUTO 0كتاب العقل والجهل",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 15
+    },
+    "3": {
+      "title": "AUTO 0كتاب فضل العلم",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 15,
+      "end_ms": 51
+    },
+    "4": {
+      "title": "AUTO كتاب التوحيد",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 51,
+      "end_ms": 338
+    },
+    "5": {
+      "title": "AUTO الجزء الثاني",
+      "level": 1,
+      "parent": null,
+      "start_ms": 338,
+      "end_ms": 679
+    },
+    "6": {
+      "title": "AUTO كتاب الإيمان والكفر",
+      "level": 2,
+      "parent": 5,
+      "start_ms": 338,
+      "end_ms": 679
+    },
+    "7": {
+      "title": "AUTO الجزء الثالث",
+      "level": 1,
+      "parent": null,
+      "start_ms": 679,
+      "end_ms": 1020
+    },
+    "8": {
+      "title": "AUTO كتاب الطهارة",
+      "level": 2,
+      "parent": 7,
+      "start_ms": 679,
+      "end_ms": 877
+    },
+    "9": {
+      "title": "AUTO كتاب الصلاة",
+      "level": 2,
+      "parent": 7,
+      "start_ms": 877,
+      "end_ms": 1020
+    },
+    "10": {
+      "title": "AUTO الجزء الرابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1020,
+      "end_ms": 1362
+    },
+    "11": {
+      "title": "AUTO تتمة كتاب الزكاة",
+      "level": 2,
+      "parent": 10,
+      "start_ms": 1020,
+      "end_ms": 1362
+    },
+    "12": {
+      "title": "AUTO الجزء الخامس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1362,
+      "end_ms": 1703
+    },
+    "13": {
+      "title": "AUTO كتاب الجهاد",
+      "level": 2,
+      "parent": 12,
+      "start_ms": 1362,
+      "end_ms": 1703
+    },
+    "14": {
+      "title": "AUTO الجزء السادس",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1703,
+      "end_ms": 2048
+    },
+    "15": {
+      "title": "AUTO كتاب العقيقة",
+      "level": 2,
+      "parent": 14,
+      "start_ms": 1703,
+      "end_ms": 2048
+    },
+    "16": {
+      "title": "AUTO الجزء السابع",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2048,
+      "end_ms": 2387
+    },
+    "17": {
+      "title": "AUTO كتاب الوصايا",
+      "level": 2,
+      "parent": 16,
+      "start_ms": 2048,
+      "end_ms": 2387
+    },
+    "18": {
+      "title": "AUTO الجزء الثامن",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2387,
+      "end_ms": null
+    },
+    "19": {
+      "title": "AUTO كتاب الروضة",
+      "level": 2,
+      "parent": 18,
+      "start_ms": 2387,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      15,
+      [3],
+      2
+    ],
+    [
+      51,
+      [4],
+      3
+    ],
+    [
+      338,
+      [5, 6],
+      4
+    ],
+    [
+      679,
+      [7, 8],
+      6
+    ],
+    [
+      877,
+      [9],
+      8
+    ],
+    [
+      1020,
+      [10, 11],
+      9
+    ],
+    [
+      1362,
+      [12, 13],
+      11
+    ],
+    [
+      1703,
+      [14, 15],
+      13
+    ],
+    [
+      2048,
+      [16, 17],
+      15
+    ],
+    [
+      2387,
+      [18, 19],
+      17
+    ]
+  ],
+  "last_ms": 2689
+}

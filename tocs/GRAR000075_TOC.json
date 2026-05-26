@@ -1,0 +1,131 @@
+{
+  "filename": "0288ThabitIbnQurra.RawabicLiAflatun.GRAR000075-ara1",
+  "sections": {
+    "1": {
+      "title": "[book 1: 1-2]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 25
+    },
+    "2": {
+      "title": "كتاب الروابيع لأفلاطون شرح أحمد بن الحسين بن بختار لثابت 〈بن قرة〉",
+      "level": 3,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 25
+    },
+    "3": {
+      "title": "الرابوع الأول والثانى",
+      "level": 3,
+      "parent": 2,
+      "start_ms": 1,
+      "end_ms": 25
+    },
+    "4": {
+      "title": "[book 2: 3] الجزء الثالث من الرابوع لأفلاطون وهو الكتاب المترجم ب«اسطوميناس»",
+      "level": 1,
+      "parent": null,
+      "start_ms": 25,
+      "end_ms": 63
+    },
+    "5": {
+      "title": "الجزء الأول من الرابوع الثالث من أرابيع أفلاطون الحكيم",
+      "level": 3,
+      "parent": null,
+      "start_ms": 25,
+      "end_ms": 63
+    },
+    "6": {
+      "title": "〈زحل〉",
+      "level": 3,
+      "parent": 5,
+      "start_ms": 44,
+      "end_ms": 44
+    },
+    "7": {
+      "title": "المشترى",
+      "level": 3,
+      "parent": 5,
+      "start_ms": 44,
+      "end_ms": 44
+    },
+    "8": {
+      "title": "المريخ",
+      "level": 3,
+      "parent": 5,
+      "start_ms": 44,
+      "end_ms": 44
+    },
+    "9": {
+      "title": "الشمس",
+      "level": 3,
+      "parent": 5,
+      "start_ms": 44,
+      "end_ms": 45
+    },
+    "10": {
+      "title": "الزهرة",
+      "level": 3,
+      "parent": 5,
+      "start_ms": 45,
+      "end_ms": 45
+    },
+    "11": {
+      "title": "عطارد",
+      "level": 3,
+      "parent": 5,
+      "start_ms": 45,
+      "end_ms": 45
+    },
+    "12": {
+      "title": "القمر",
+      "level": 3,
+      "parent": 5,
+      "start_ms": 45,
+      "end_ms": 63
+    },
+    "13": {
+      "title": "[book 3: 4]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 63,
+      "end_ms": null
+    },
+    "14": {
+      "title": "الرابوع الرابع ترجمه اسطوميناس",
+      "level": 3,
+      "parent": null,
+      "start_ms": 63,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3],
+      null
+    ],
+    [
+      25,
+      [4, 5],
+      3
+    ],
+    [
+      44,
+      [6, 7, 8, 9],
+      5
+    ],
+    [
+      45,
+      [10, 11, 12],
+      9
+    ],
+    [
+      63,
+      [13, 14],
+      12
+    ]
+  ],
+  "last_ms": 101
+}

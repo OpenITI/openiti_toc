@@ -1,0 +1,75 @@
+{
+  "filename": "1431BadrDinHuthi.ZiyaratQubur.Zaydiyya0000468-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [زيارة القبور لبدر الدين الحوثي]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "2": {
+      "title": "AUTO الفصل الاول: التمسح بالتراب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 2
+    },
+    "3": {
+      "title": "AUTO الفصل الثاني: في نداء الميت",
+      "level": 1,
+      "parent": null,
+      "start_ms": 2,
+      "end_ms": null
+    },
+    "4": {
+      "title": "AUTO تسوية القبور:",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 6,
+      "end_ms": 7
+    },
+    "5": {
+      "title": "AUTO هذا والتسوية تحتمل معنيين:",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 7,
+      "end_ms": 8
+    },
+    "6": {
+      "title": "AUTO الرد على كلام ابن القيم",
+      "level": 2,
+      "parent": 3,
+      "start_ms": 8,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2],
+      null
+    ],
+    [
+      2,
+      [3],
+      2
+    ],
+    [
+      6,
+      [4],
+      3
+    ],
+    [
+      7,
+      [5],
+      4
+    ],
+    [
+      8,
+      [6],
+      5
+    ]
+  ],
+  "last_ms": 13
+}

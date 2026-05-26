@@ -1,0 +1,233 @@
+{
+  "filename": "0298IshaqIbnHunayn.TafsirNiqulawusFiNabat.GRAR000059-ara1",
+  "sections": {
+    "1": {
+      "title": "[book 1]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 13
+    },
+    "2": {
+      "title": "[chapter 1]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "3": {
+      "title": "كتاب أرسطوطاليس فى النبات تفسير نيقولاوس ترجمة إسحق بن حنين، باصلاح ثابت بن قرة وهو مقالتان",
+      "level": 3,
+      "parent": 2,
+      "start_ms": 1,
+      "end_ms": 1
+    },
+    "4": {
+      "title": "المقالة الأولى من كتاب النبات لأرسطوطاليس",
+      "level": 3,
+      "parent": 2,
+      "start_ms": 1,
+      "end_ms": 4
+    },
+    "5": {
+      "title": "[chapter 2]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 4,
+      "end_ms": 6
+    },
+    "6": {
+      "title": "[chapter 3]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 6,
+      "end_ms": 8
+    },
+    "7": {
+      "title": "[chapter 4]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 8,
+      "end_ms": 10
+    },
+    "8": {
+      "title": "[chapter 5]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 10,
+      "end_ms": 11
+    },
+    "9": {
+      "title": "[chapter 6]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 11,
+      "end_ms": 12
+    },
+    "10": {
+      "title": "[chapter 7]",
+      "level": 2,
+      "parent": 1,
+      "start_ms": 12,
+      "end_ms": 13
+    },
+    "11": {
+      "title": "[book 2]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 13,
+      "end_ms": null
+    },
+    "12": {
+      "title": "[chapter ms13 1] بسم الله الرحمن الرحيم رب يسر المقالة الثانية من كتاب النبات لأرسطو تفسير نيقولاوس ترجمة إسحق بن حنين، باصلاح ثابت بن قرة",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 14,
+      "end_ms": 15
+    },
+    "13": {
+      "title": "[chapter 2]",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 15,
+      "end_ms": 19
+    },
+    "14": {
+      "title": "[chapter 4]",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 19,
+      "end_ms": 20
+    },
+    "15": {
+      "title": "[chapter 5]",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 20,
+      "end_ms": 21
+    },
+    "16": {
+      "title": "[chapter 6]",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 21,
+      "end_ms": 22
+    },
+    "17": {
+      "title": "[chapter 7]",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 22,
+      "end_ms": 23
+    },
+    "18": {
+      "title": "[chapter 8]",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 23,
+      "end_ms": 24
+    },
+    "19": {
+      "title": "[chapter 9]",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 24,
+      "end_ms": 26
+    },
+    "20": {
+      "title": "[chapter 10]",
+      "level": 2,
+      "parent": 11,
+      "start_ms": 26,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1, 2, 3, 4],
+      null
+    ],
+    [
+      4,
+      [5],
+      4
+    ],
+    [
+      6,
+      [6],
+      5
+    ],
+    [
+      8,
+      [7],
+      6
+    ],
+    [
+      10,
+      [8],
+      7
+    ],
+    [
+      11,
+      [9],
+      8
+    ],
+    [
+      12,
+      [10],
+      9
+    ],
+    [
+      13,
+      [11],
+      10
+    ],
+    [
+      14,
+      [12],
+      null
+    ],
+    [
+      15,
+      [13],
+      12
+    ],
+    [
+      19,
+      [14],
+      13
+    ],
+    [
+      20,
+      [15],
+      14
+    ],
+    [
+      21,
+      [16],
+      15
+    ],
+    [
+      22,
+      [17],
+      16
+    ],
+    [
+      23,
+      [18],
+      17
+    ],
+    [
+      24,
+      [19],
+      18
+    ],
+    [
+      26,
+      [20],
+      19
+    ]
+  ],
+  "last_ms": 28
+}

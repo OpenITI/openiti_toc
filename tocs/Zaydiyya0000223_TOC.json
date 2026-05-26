@@ -1,0 +1,32 @@
+{
+  "filename": "1351YusufIlyanSarkis.MucjamMatbucat.Zaydiyya0000223-ara1",
+  "sections": {
+    "1": {
+      "title": "CHECK [الجزء 1]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 708
+    },
+    "2": {
+      "title": "CHECK [الجزء 2]",
+      "level": 1,
+      "parent": null,
+      "start_ms": 708,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      708,
+      [2],
+      1
+    ]
+  ],
+  "last_ms": 1303
+}
