@@ -6,20 +6,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 1,
-      "end_ms": 275
+      "end_ms": 274
     },
     "2": {
-      "title": "طلق الرجل امرأته ثلاثا قبل الدخول ms0274 بها",
+      "title": "طلق الرجل امرأته ثلاثا قبل الدخول بها",
       "level": 1,
       "parent": null,
-      "start_ms": 275,
-      "end_ms": 283
+      "start_ms": 274,
+      "end_ms": 282
     },
     "3": {
       "title": "قال لها: طلقي نفسك",
       "level": 1,
       "parent": null,
-      "start_ms": 283,
+      "start_ms": 282,
       "end_ms": 331
     },
     "4": {
@@ -27,27 +27,27 @@
       "level": 1,
       "parent": null,
       "start_ms": 331,
-      "end_ms": 374
+      "end_ms": 373
     },
     "5": {
       "title": ": اليمين الغموس،",
       "level": 1,
       "parent": null,
-      "start_ms": 374,
-      "end_ms": 378
+      "start_ms": 373,
+      "end_ms": 377
     },
     "6": {
       "title": "تحريم الحلال",
       "level": 1,
       "parent": null,
-      "start_ms": 378,
-      "end_ms": 932
+      "start_ms": 377,
+      "end_ms": 931
     },
     "7": {
       "title": "-: «عورة الرجل",
       "level": 1,
       "parent": null,
-      "start_ms": 932,
+      "start_ms": 931,
       "end_ms": null
     }
   },
@@ -58,12 +58,12 @@
       null
     ],
     [
-      275,
+      274,
       [2],
-      null
+      1
     ],
     [
-      283,
+      282,
       [3],
       2
     ],
@@ -73,17 +73,17 @@
       3
     ],
     [
-      374,
+      373,
       [5],
       4
     ],
     [
-      378,
+      377,
       [6],
       5
     ],
     [
-      932,
+      931,
       [7],
       6
     ]

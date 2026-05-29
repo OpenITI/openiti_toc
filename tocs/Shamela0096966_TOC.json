@@ -20,13 +20,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 13,
-      "end_ms": 19
+      "end_ms": 18
     },
     "4": {
       "title": "باب التاء",
       "level": 1,
       "parent": null,
-      "start_ms": 19,
+      "start_ms": 18,
       "end_ms": 20
     },
     "5": {
@@ -41,27 +41,27 @@
       "level": 1,
       "parent": null,
       "start_ms": 22,
-      "end_ms": 28
+      "end_ms": 27
     },
     "7": {
       "title": "باب الحاء",
       "level": 1,
       "parent": null,
-      "start_ms": 28,
-      "end_ms": 33
+      "start_ms": 27,
+      "end_ms": 32
     },
     "8": {
       "title": "باب الخاء",
       "level": 1,
       "parent": null,
-      "start_ms": 33,
-      "end_ms": 36
+      "start_ms": 32,
+      "end_ms": 35
     },
     "9": {
       "title": "باب الدال",
       "level": 1,
       "parent": null,
-      "start_ms": 36,
+      "start_ms": 35,
       "end_ms": 38
     },
     "10": {
@@ -83,34 +83,34 @@
       "level": 1,
       "parent": null,
       "start_ms": 41,
-      "end_ms": 43
+      "end_ms": 42
     },
     "13": {
       "title": "باب السين",
       "level": 1,
       "parent": null,
-      "start_ms": 43,
-      "end_ms": 48
+      "start_ms": 42,
+      "end_ms": 47
     },
     "14": {
       "title": "باب الشين",
       "level": 1,
       "parent": null,
-      "start_ms": 48,
-      "end_ms": 49
+      "start_ms": 47,
+      "end_ms": 48
     },
     "15": {
       "title": "باب الصاد",
       "level": 1,
       "parent": null,
-      "start_ms": 49,
-      "end_ms": 51
+      "start_ms": 48,
+      "end_ms": 50
     },
     "16": {
       "title": "باب الضاد",
       "level": 1,
       "parent": null,
-      "start_ms": 51,
+      "start_ms": 50,
       "end_ms": 51
     },
     "17": {
@@ -118,13 +118,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 51,
-      "end_ms": 52
+      "end_ms": 51
     },
     "18": {
       "title": "باب الظاء",
       "level": 1,
       "parent": null,
-      "start_ms": 52,
+      "start_ms": 51,
       "end_ms": 52
     },
     "19": {
@@ -132,76 +132,76 @@
       "level": 1,
       "parent": null,
       "start_ms": 52,
-      "end_ms": 58
+      "end_ms": 57
     },
     "20": {
       "title": "حرف الغين",
       "level": 1,
       "parent": null,
-      "start_ms": 58,
-      "end_ms": 60
+      "start_ms": 57,
+      "end_ms": 59
     },
     "21": {
       "title": "حرف الفاء",
       "level": 1,
       "parent": null,
-      "start_ms": 60,
-      "end_ms": 61
+      "start_ms": 59,
+      "end_ms": 60
     },
     "22": {
       "title": "حرف القاف",
       "level": 1,
       "parent": null,
-      "start_ms": 61,
-      "end_ms": 64
+      "start_ms": 60,
+      "end_ms": 63
     },
     "23": {
       "title": "باب الكاف",
       "level": 1,
       "parent": null,
-      "start_ms": 64,
-      "end_ms": 66
+      "start_ms": 63,
+      "end_ms": 65
     },
     "24": {
       "title": "باب اللام",
       "level": 1,
       "parent": null,
-      "start_ms": 66,
-      "end_ms": 66
+      "start_ms": 65,
+      "end_ms": 65
     },
     "25": {
       "title": "باب الميم",
       "level": 1,
       "parent": null,
-      "start_ms": 66,
-      "end_ms": 70
+      "start_ms": 65,
+      "end_ms": 69
     },
     "26": {
       "title": "باب النون",
       "level": 1,
       "parent": null,
-      "start_ms": 70,
-      "end_ms": 72
+      "start_ms": 69,
+      "end_ms": 71
     },
     "27": {
       "title": "باب الواو",
       "level": 1,
       "parent": null,
-      "start_ms": 72,
-      "end_ms": 73
+      "start_ms": 71,
+      "end_ms": 72
     },
     "28": {
       "title": "باب الهاء",
       "level": 1,
       "parent": null,
-      "start_ms": 73,
-      "end_ms": 75
+      "start_ms": 72,
+      "end_ms": 73
     },
     "29": {
       "title": "باب الياء",
       "level": 1,
       "parent": null,
-      "start_ms": 75,
+      "start_ms": 73,
       "end_ms": null
     }
   },
@@ -222,7 +222,7 @@
       2
     ],
     [
-      19,
+      18,
       [4],
       3
     ],
@@ -237,17 +237,17 @@
       5
     ],
     [
-      28,
+      27,
       [7],
       6
     ],
     [
-      33,
+      32,
       [8],
       7
     ],
     [
-      36,
+      35,
       [9],
       8
     ],
@@ -259,7 +259,7 @@
     [
       39,
       [11],
-      10
+      null
     ],
     [
       41,
@@ -267,75 +267,80 @@
       11
     ],
     [
-      43,
+      42,
       [13],
       12
     ],
     [
-      48,
+      47,
       [14],
       13
     ],
     [
-      49,
+      48,
       [15],
       14
     ],
     [
-      51,
-      [16, 17],
+      50,
+      [16],
       15
     ],
     [
-      52,
-      [18, 19],
-      17
+      51,
+      [17, 18],
+      16
     ],
     [
-      58,
+      52,
+      [19],
+      18
+    ],
+    [
+      57,
       [20],
       19
     ],
     [
-      60,
+      59,
       [21],
       20
     ],
     [
-      61,
+      60,
       [22],
       21
     ],
     [
-      64,
+      63,
       [23],
       22
     ],
     [
-      66,
+      65,
       [24, 25],
       23
     ],
     [
-      70,
+      69,
       [26],
       25
     ],
     [
-      72,
+      71,
       [27],
       26
     ],
     [
-      73,
+      72,
       [28],
       27
     ],
     [
-      75,
+      73,
       [29],
       28
     ]
   ],
-  "last_ms": 75
+  "last_ms": 74
 }

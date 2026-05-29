@@ -20,20 +20,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 22,
-      "end_ms": 23
+      "end_ms": 22
     },
     "4": {
       "title": "باب في السدر",
       "level": 1,
       "parent": null,
-      "start_ms": 23,
-      "end_ms": 23
+      "start_ms": 22,
+      "end_ms": 22
     },
     "5": {
       "title": "باب في المراجيح",
       "level": 1,
       "parent": null,
-      "start_ms": 23,
+      "start_ms": 22,
       "end_ms": 23
     },
     "6": {
@@ -62,20 +62,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 28,
-      "end_ms": 31
+      "end_ms": 30
     },
     "10": {
       "title": "ومن ذكر اللوطيين في الرجال",
       "level": 1,
       "parent": null,
-      "start_ms": 31,
-      "end_ms": 32
+      "start_ms": 30,
+      "end_ms": 31
     },
     "11": {
       "title": "باب: في المخنثين",
       "level": 1,
       "parent": null,
-      "start_ms": 32,
+      "start_ms": 31,
       "end_ms": null
     }
   },
@@ -92,13 +92,13 @@
     ],
     [
       22,
-      [3],
+      [3, 4, 5],
       2
     ],
     [
       23,
-      [4, 5, 6],
-      3
+      [6],
+      5
     ],
     [
       24,
@@ -116,15 +116,15 @@
       8
     ],
     [
-      31,
+      30,
       [10],
       9
     ],
     [
-      32,
+      31,
       [11],
       10
     ]
   ],
-  "last_ms": 35
+  "last_ms": 34
 }

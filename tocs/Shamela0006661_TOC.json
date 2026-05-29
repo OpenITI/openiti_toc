@@ -76,13 +76,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 19,
-      "end_ms": 21
+      "end_ms": 20
     },
     "12": {
       "title": "14 -",
       "level": 1,
       "parent": null,
-      "start_ms": 21,
+      "start_ms": 20,
       "end_ms": 21
     },
     "13": {
@@ -132,13 +132,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 29,
-      "end_ms": 34
+      "end_ms": 33
     },
     "20": {
       "title": "20 -",
       "level": 1,
       "parent": null,
-      "start_ms": 34,
+      "start_ms": 33,
       "end_ms": 35
     },
     "21": {
@@ -153,13 +153,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 37,
-      "end_ms": 44
+      "end_ms": 43
     },
     "23": {
       "title": "تنبيه",
       "level": 1,
       "parent": null,
-      "start_ms": 44,
+      "start_ms": 43,
       "end_ms": null
     }
   },
@@ -220,9 +220,14 @@
       10
     ],
     [
-      21,
-      [12, 13, 14],
+      20,
+      [12],
       11
+    ],
+    [
+      21,
+      [13, 14],
+      12
     ],
     [
       22,
@@ -245,7 +250,7 @@
       18
     ],
     [
-      34,
+      33,
       [20],
       19
     ],
@@ -260,7 +265,7 @@
       21
     ],
     [
-      44,
+      43,
       [23],
       22
     ]

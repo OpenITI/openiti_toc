@@ -69,20 +69,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 28,
-      "end_ms": 42
+      "end_ms": 41
     },
     "11": {
       "title": "لا يمكن لأحد أن يحب كل موجود",
       "level": 1,
       "parent": null,
-      "start_ms": 42,
-      "end_ms": 47
+      "start_ms": 41,
+      "end_ms": 46
     },
     "12": {
       "title": "الفناء ثلاثة أنواع:",
       "level": 1,
       "parent": null,
-      "start_ms": 47,
+      "start_ms": 46,
       "end_ms": 52
     },
     "13": {
@@ -97,20 +97,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 54,
-      "end_ms": 58
+      "end_ms": 57
     },
     "15": {
       "title": "جماع الدين أصلان:",
       "level": 1,
       "parent": null,
-      "start_ms": 58,
-      "end_ms": 59
+      "start_ms": 57,
+      "end_ms": 58
     },
     "16": {
       "title": "أهل الصراط المستقيم",
       "level": 1,
       "parent": null,
-      "start_ms": 59,
+      "start_ms": 58,
       "end_ms": null
     }
   },
@@ -143,7 +143,7 @@
     [
       17,
       [6],
-      5
+      null
     ],
     [
       18,
@@ -166,12 +166,12 @@
       9
     ],
     [
-      42,
+      41,
       [11],
       10
     ],
     [
-      47,
+      46,
       [12],
       11
     ],
@@ -186,15 +186,15 @@
       13
     ],
     [
-      58,
+      57,
       [15],
       14
     ],
     [
-      59,
+      58,
       [16],
       15
     ]
   ],
-  "last_ms": 60
+  "last_ms": 59
 }

@@ -55,13 +55,13 @@
       "level": 2,
       "parent": 7,
       "start_ms": 4,
-      "end_ms": 7
+      "end_ms": 6
     },
     "9": {
       "title": "ومن حرف الألف أيضا من اسمه إبراهيم",
       "level": 2,
       "parent": 7,
-      "start_ms": 7,
+      "start_ms": 6,
       "end_ms": 7
     },
     "10": {
@@ -104,27 +104,27 @@
       "level": 1,
       "parent": null,
       "start_ms": 8,
-      "end_ms": 9
+      "end_ms": 8
     },
     "16": {
       "title": "من اسمه بشر",
       "level": 2,
       "parent": 15,
       "start_ms": 8,
-      "end_ms": 9
+      "end_ms": 8
     },
     "17": {
       "title": "حرف الثاء",
       "level": 1,
       "parent": null,
-      "start_ms": 9,
-      "end_ms": 9
+      "start_ms": 8,
+      "end_ms": 8
     },
     "18": {
       "title": "حرف الجيم",
       "level": 1,
       "parent": null,
-      "start_ms": 9,
+      "start_ms": 8,
       "end_ms": 9
     },
     "19": {
@@ -139,27 +139,27 @@
       "level": 1,
       "parent": null,
       "start_ms": 9,
-      "end_ms": 10
+      "end_ms": 9
     },
     "21": {
       "title": "حرف الدال",
       "level": 1,
       "parent": null,
-      "start_ms": 10,
-      "end_ms": 10
+      "start_ms": 9,
+      "end_ms": 9
     },
     "22": {
       "title": "حرف الراء",
       "level": 1,
       "parent": null,
-      "start_ms": 10,
-      "end_ms": 10
+      "start_ms": 9,
+      "end_ms": 9
     },
     "23": {
       "title": "حرف الزاي",
       "level": 1,
       "parent": null,
-      "start_ms": 10,
+      "start_ms": 9,
       "end_ms": 10
     },
     "24": {
@@ -167,13 +167,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 10,
-      "end_ms": 11
+      "end_ms": 10
     },
     "25": {
       "title": "حرف الشين",
       "level": 1,
       "parent": null,
-      "start_ms": 11,
+      "start_ms": 10,
       "end_ms": 11
     },
     "26": {
@@ -202,62 +202,62 @@
       "level": 1,
       "parent": null,
       "start_ms": 11,
-      "end_ms": 16
+      "end_ms": 15
     },
     "30": {
       "title": "حرف الفاء",
       "level": 1,
       "parent": null,
-      "start_ms": 16,
-      "end_ms": 16
+      "start_ms": 15,
+      "end_ms": 15
     },
     "31": {
       "title": "حرف القاف",
       "level": 1,
       "parent": null,
-      "start_ms": 16,
-      "end_ms": 16
+      "start_ms": 15,
+      "end_ms": 15
     },
     "32": {
       "title": "حرف الميم",
       "level": 1,
       "parent": null,
-      "start_ms": 16,
-      "end_ms": 21
+      "start_ms": 15,
+      "end_ms": 20
     },
     "33": {
       "title": "حرف النون",
       "level": 1,
       "parent": null,
-      "start_ms": 21,
-      "end_ms": 21
+      "start_ms": 20,
+      "end_ms": 20
     },
     "34": {
       "title": "حرف الواو",
       "level": 1,
       "parent": null,
-      "start_ms": 21,
-      "end_ms": 21
+      "start_ms": 20,
+      "end_ms": 20
     },
     "35": {
       "title": "حرف الهاء",
       "level": 1,
       "parent": null,
-      "start_ms": 21,
-      "end_ms": 23
+      "start_ms": 20,
+      "end_ms": 22
     },
     "36": {
       "title": "حرف الياء",
       "level": 1,
       "parent": null,
-      "start_ms": 23,
+      "start_ms": 22,
       "end_ms": null
     },
     "37": {
       "title": "من اسمه يحيى",
       "level": 2,
       "parent": 36,
-      "start_ms": 23,
+      "start_ms": 22,
       "end_ms": null
     }
   },
@@ -283,45 +283,50 @@
       6
     ],
     [
-      7,
-      [9, 10, 11, 12, 13],
+      6,
+      [9],
       8
     ],
     [
+      7,
+      [10, 11, 12, 13],
+      9
+    ],
+    [
       8,
-      [14, 15, 16],
+      [14, 15, 16, 17, 18],
       13
     ],
     [
       9,
-      [17, 18, 19, 20],
-      16
+      [19, 20, 21, 22, 23],
+      null
     ],
     [
       10,
-      [21, 22, 23, 24],
-      20
+      [24, 25],
+      23
     ],
     [
       11,
-      [25, 26, 27, 28, 29],
-      24
+      [26, 27, 28, 29],
+      25
     ],
     [
-      16,
+      15,
       [30, 31, 32],
       29
     ],
     [
-      21,
+      20,
       [33, 34, 35],
       32
     ],
     [
-      23,
+      22,
       [36, 37],
       35
     ]
   ],
-  "last_ms": 25
+  "last_ms": 24
 }

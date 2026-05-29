@@ -48,20 +48,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 15,
-      "end_ms": 17
+      "end_ms": 16
     },
     "8": {
       "title": "باب في إغباب الزيارة.",
       "level": 1,
       "parent": null,
-      "start_ms": 17,
-      "end_ms": 18
+      "start_ms": 16,
+      "end_ms": 17
     },
     "9": {
       "title": "باب في ذكر مصافحة أهل المودة.",
       "level": 1,
       "parent": null,
-      "start_ms": 18,
+      "start_ms": 17,
       "end_ms": 19
     },
     "10": {
@@ -83,13 +83,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 20,
-      "end_ms": 22
+      "end_ms": 21
     },
     "13": {
       "title": "باب في تقبيل الإخوان.",
       "level": 1,
       "parent": null,
-      "start_ms": 22,
+      "start_ms": 21,
       "end_ms": 23
     },
     "14": {
@@ -151,12 +151,12 @@
       6
     ],
     [
-      17,
+      16,
       [8],
       7
     ],
     [
-      18,
+      17,
       [9],
       8
     ],
@@ -171,7 +171,7 @@
       11
     ],
     [
-      22,
+      21,
       [13],
       12
     ],
@@ -191,5 +191,5 @@
       15
     ]
   ],
-  "last_ms": 34
+  "last_ms": 33
 }

@@ -202,13 +202,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 14,
-      "end_ms": 15
+      "end_ms": 14
     },
     "30": {
-      "title": "الفصل الأول في التصرف ms14 الذي يمكن أن يقع لله تعالى ولغيره",
+      "title": "الفصل الأول في التصرف الذي يمكن أن يقع لله تعالى ولغيره",
       "level": 1,
       "parent": null,
-      "start_ms": 15,
+      "start_ms": 14,
       "end_ms": 16
     },
     "31": {
@@ -237,13 +237,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 17,
-      "end_ms": 18
+      "end_ms": 17
     },
     "35": {
       "title": "تنبيه",
       "level": 1,
       "parent": null,
-      "start_ms": 18,
+      "start_ms": 17,
       "end_ms": 18
     },
     "36": {
@@ -279,20 +279,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 19,
-      "end_ms": 20
+      "end_ms": 19
     },
     "41": {
       "title": "4 -",
       "level": 1,
       "parent": null,
-      "start_ms": 20,
-      "end_ms": 20
+      "start_ms": 19,
+      "end_ms": 19
     },
     "42": {
       "title": "5 -",
       "level": 1,
       "parent": null,
-      "start_ms": 20,
+      "start_ms": 19,
       "end_ms": 20
     },
     "43": {
@@ -328,13 +328,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 21,
-      "end_ms": 22
+      "end_ms": 21
     },
     "48": {
       "title": "3 -",
       "level": 1,
       "parent": null,
-      "start_ms": 22,
+      "start_ms": 21,
       "end_ms": 23
     },
     "49": {
@@ -363,20 +363,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 23,
-      "end_ms": 24
+      "end_ms": 23
     },
     "53": {
       "title": "1 -",
       "level": 1,
       "parent": null,
-      "start_ms": 24,
-      "end_ms": 24
+      "start_ms": 23,
+      "end_ms": 23
     },
     "54": {
       "title": "2 -",
       "level": 1,
       "parent": null,
-      "start_ms": 24,
+      "start_ms": 23,
       "end_ms": 24
     },
     "55": {
@@ -426,13 +426,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 27,
-      "end_ms": 28
+      "end_ms": 27
     },
     "62": {
       "title": "6 -",
       "level": 1,
       "parent": null,
-      "start_ms": 28,
+      "start_ms": 27,
       "end_ms": 28
     },
     "63": {
@@ -454,13 +454,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 28,
-      "end_ms": 29
+      "end_ms": 28
     },
     "66": {
       "title": "10 -",
       "level": 1,
       "parent": null,
-      "start_ms": 29,
+      "start_ms": 28,
       "end_ms": 31
     },
     "67": {
@@ -468,13 +468,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 31,
-      "end_ms": 32
+      "end_ms": 31
     },
     "68": {
       "title": "2 -",
       "level": 1,
       "parent": null,
-      "start_ms": 32,
+      "start_ms": 31,
       "end_ms": 32
     },
     "69": {
@@ -489,27 +489,27 @@
       "level": 1,
       "parent": null,
       "start_ms": 34,
-      "end_ms": 35
+      "end_ms": 34
     },
     "71": {
       "title": "3 -",
       "level": 1,
       "parent": null,
-      "start_ms": 35,
-      "end_ms": 36
+      "start_ms": 34,
+      "end_ms": 35
     },
     "72": {
       "title": "6 -",
       "level": 1,
       "parent": null,
-      "start_ms": 36,
-      "end_ms": 36
+      "start_ms": 35,
+      "end_ms": 35
     },
     "73": {
       "title": "7 -",
       "level": 1,
       "parent": null,
-      "start_ms": 36,
+      "start_ms": 35,
       "end_ms": 36
     },
     "74": {
@@ -517,20 +517,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 36,
-      "end_ms": 37
+      "end_ms": 36
     },
     "75": {
       "title": "1 -",
       "level": 1,
       "parent": null,
-      "start_ms": 37,
-      "end_ms": 37
+      "start_ms": 36,
+      "end_ms": 36
     },
     "76": {
       "title": "2 -",
       "level": 1,
       "parent": null,
-      "start_ms": 37,
+      "start_ms": 36,
       "end_ms": 37
     },
     "77": {
@@ -583,13 +583,8 @@
     ],
     [
       14,
-      [28, 29],
+      [28, 29, 30],
       27
-    ],
-    [
-      15,
-      [30],
-      null
     ],
     [
       16,
@@ -598,43 +593,38 @@
     ],
     [
       17,
-      [32, 33, 34],
+      [32, 33, 34, 35],
       31
     ],
     [
       18,
-      [35, 36, 37],
-      34
+      [36, 37],
+      35
     ],
     [
       19,
-      [38, 39, 40],
+      [38, 39, 40, 41, 42],
       37
     ],
     [
       20,
-      [41, 42, 43],
-      40
+      [43],
+      42
     ],
     [
       21,
-      [44, 45, 46, 47],
+      [44, 45, 46, 47, 48],
       43
     ],
     [
-      22,
-      [48],
-      47
-    ],
-    [
       23,
-      [49, 50, 51, 52],
+      [49, 50, 51, 52, 53, 54],
       48
     ],
     [
       24,
-      [53, 54, 55, 56, 57],
-      52
+      [55, 56, 57],
+      54
     ],
     [
       26,
@@ -643,48 +633,43 @@
     ],
     [
       27,
-      [61],
+      [61, 62],
       60
     ],
     [
       28,
-      [62, 63, 64, 65],
-      61
-    ],
-    [
-      29,
-      [66],
-      65
+      [63, 64, 65, 66],
+      62
     ],
     [
       31,
-      [67],
+      [67, 68],
       66
     ],
     [
       32,
-      [68, 69],
-      67
+      [69],
+      68
     ],
     [
       34,
-      [70],
+      [70, 71],
       69
     ],
     [
       35,
-      [71],
-      70
-    ],
-    [
-      36,
-      [72, 73, 74],
+      [72, 73],
       71
     ],
     [
+      36,
+      [74, 75, 76],
+      73
+    ],
+    [
       37,
-      [75, 76, 77, 78, 79],
-      74
+      [77, 78, 79],
+      76
     ]
   ],
   "last_ms": 38

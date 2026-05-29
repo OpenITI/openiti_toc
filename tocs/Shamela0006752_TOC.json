@@ -27,20 +27,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 15,
-      "end_ms": 24
+      "end_ms": 23
     },
     "5": {
       "title": "........",
       "level": 1,
       "parent": null,
-      "start_ms": 24,
-      "end_ms": 33
+      "start_ms": 23,
+      "end_ms": 32
     },
     "6": {
       "title": ".............",
       "level": 1,
       "parent": null,
-      "start_ms": 33,
+      "start_ms": 32,
       "end_ms": 34
     },
     "7": {
@@ -48,27 +48,27 @@
       "level": 1,
       "parent": null,
       "start_ms": 34,
-      "end_ms": 41
+      "end_ms": 40
     },
     "8": {
       "title": "....................",
       "level": 1,
       "parent": null,
-      "start_ms": 41,
-      "end_ms": 47
+      "start_ms": 40,
+      "end_ms": 46
     },
     "9": {
       "title": "........",
       "level": 1,
       "parent": null,
-      "start_ms": 47,
-      "end_ms": 47
+      "start_ms": 46,
+      "end_ms": 46
     },
     "10": {
       "title": "التنبيهات الواردة على الجزء الثاني",
       "level": 1,
       "parent": null,
-      "start_ms": 47,
+      "start_ms": 46,
       "end_ms": 47
     },
     "11": {
@@ -76,13 +76,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 47,
-      "end_ms": 48
+      "end_ms": 47
     },
     "12": {
       "title": ".......",
       "level": 1,
       "parent": null,
-      "start_ms": 48,
+      "start_ms": 47,
       "end_ms": 50
     },
     "13": {
@@ -97,34 +97,34 @@
       "level": 1,
       "parent": null,
       "start_ms": 53,
-      "end_ms": 55
+      "end_ms": 54
     },
     "15": {
       "title": "......................................",
       "level": 1,
       "parent": null,
-      "start_ms": 55,
-      "end_ms": 63
+      "start_ms": 54,
+      "end_ms": 62
     },
     "16": {
       "title": ".................",
       "level": 1,
       "parent": null,
-      "start_ms": 63,
-      "end_ms": 69
+      "start_ms": 62,
+      "end_ms": 68
     },
     "17": {
       "title": ".................",
       "level": 1,
       "parent": null,
-      "start_ms": 69,
-      "end_ms": 69
+      "start_ms": 68,
+      "end_ms": 68
     },
     "18": {
       "title": "..............",
       "level": 1,
       "parent": null,
-      "start_ms": 69,
+      "start_ms": 68,
       "end_ms": 69
     },
     "19": {
@@ -139,20 +139,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 72,
-      "end_ms": 74
+      "end_ms": 73
     },
     "21": {
       "title": ".........",
       "level": 1,
       "parent": null,
-      "start_ms": 74,
-      "end_ms": 74
+      "start_ms": 73,
+      "end_ms": 73
     },
     "22": {
       "title": "........",
       "level": 1,
       "parent": null,
-      "start_ms": 74,
+      "start_ms": 73,
       "end_ms": null
     }
   },
@@ -178,12 +178,12 @@
       3
     ],
     [
-      24,
+      23,
       [5],
       4
     ],
     [
-      33,
+      32,
       [6],
       5
     ],
@@ -193,19 +193,19 @@
       6
     ],
     [
-      41,
+      40,
       [8],
       7
     ],
     [
-      47,
-      [9, 10, 11],
+      46,
+      [9, 10],
       8
     ],
     [
-      48,
-      [12],
-      11
+      47,
+      [11, 12],
+      10
     ],
     [
       50,
@@ -218,19 +218,24 @@
       13
     ],
     [
-      55,
+      54,
       [15],
       14
     ],
     [
-      63,
+      62,
       [16],
       15
     ],
     [
-      69,
-      [17, 18, 19],
+      68,
+      [17, 18],
       16
+    ],
+    [
+      69,
+      [19],
+      18
     ],
     [
       72,
@@ -238,10 +243,10 @@
       19
     ],
     [
-      74,
+      73,
       [21, 22],
       20
     ]
   ],
-  "last_ms": 75
+  "last_ms": 74
 }

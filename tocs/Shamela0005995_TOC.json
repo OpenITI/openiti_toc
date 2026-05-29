@@ -2,7 +2,7 @@
   "filename": "0581AbuMusaMadini.NuzhatHuffaz.Shamela0005995-ara1",
   "sections": {
     "1": {
-      "title": "فصل ms02",
+      "title": "فصل",
       "level": 1,
       "parent": null,
       "start_ms": 3,
@@ -97,13 +97,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 16,
-      "end_ms": 17
+      "end_ms": 16
     },
     "15": {
-      "title": "(فصل) (المسلسل ms16 بعبد الواحد) رواية ثلاثة يسمى كل واحد منهم عبد الواحد بعضهم عن بعض",
+      "title": "(فصل) (المسلسل بعبد الواحد) رواية ثلاثة يسمى كل واحد منهم عبد الواحد بعضهم عن بعض",
       "level": 1,
       "parent": null,
-      "start_ms": 17,
+      "start_ms": 16,
       "end_ms": 17
     },
     "16": {
@@ -139,13 +139,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 18,
-      "end_ms": 20
+      "end_ms": 19
     },
     "21": {
       "title": "كتاب النساء",
       "level": 1,
       "parent": null,
-      "start_ms": 20,
+      "start_ms": 19,
       "end_ms": 21
     },
     "22": {
@@ -213,13 +213,13 @@
     ],
     [
       16,
-      [14],
+      [14, 15],
       13
     ],
     [
       17,
-      [15, 16, 17],
-      null
+      [16, 17],
+      15
     ],
     [
       18,
@@ -227,7 +227,7 @@
       17
     ],
     [
-      20,
+      19,
       [21],
       20
     ],

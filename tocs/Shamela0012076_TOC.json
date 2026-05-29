@@ -6,20 +6,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 1,
-      "end_ms": 5
+      "end_ms": 4
     },
     "2": {
       "title": "كتاب الأيمان",
       "level": 1,
       "parent": null,
-      "start_ms": 5,
-      "end_ms": 5
+      "start_ms": 4,
+      "end_ms": 4
     },
     "3": {
       "title": "مدخل",
       "level": 1,
       "parent": null,
-      "start_ms": 5,
+      "start_ms": 4,
       "end_ms": 5
     },
     "4": {
@@ -156,7 +156,7 @@
       "end_ms": 33
     },
     "23": {
-      "title": "فصل: حلف على ms32 شيء فتلف",
+      "title": "فصل: حلف على شيء فتلف",
       "level": 1,
       "parent": null,
       "start_ms": 33,
@@ -272,17 +272,17 @@
       "level": 1,
       "parent": null,
       "start_ms": 64,
-      "end_ms": 64
+      "end_ms": 65
     },
     "40": {
       "title": "فصل: تكفير العبد",
       "level": 1,
       "parent": null,
-      "start_ms": 64,
+      "start_ms": 65,
       "end_ms": 66
     },
     "41": {
-      "title": "فصل: جمع المساكين على غداء أو ms65 عشاء",
+      "title": "فصل: جمع المساكين على غداء أو عشاء",
       "level": 1,
       "parent": null,
       "start_ms": 66,
@@ -296,9 +296,14 @@
       null
     ],
     [
-      5,
-      [2, 3, 4],
+      4,
+      [2, 3],
       1
+    ],
+    [
+      5,
+      [4],
+      3
     ],
     [
       6,
@@ -378,7 +383,7 @@
     [
       33,
       [23],
-      null
+      22
     ],
     [
       34,
@@ -442,13 +447,18 @@
     ],
     [
       64,
-      [39, 40],
+      [39],
       38
+    ],
+    [
+      65,
+      [40],
+      39
     ],
     [
       66,
       [41],
-      null
+      40
     ]
   ],
   "last_ms": 66

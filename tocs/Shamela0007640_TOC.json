@@ -69,27 +69,27 @@
       "level": 1,
       "parent": null,
       "start_ms": 45,
-      "end_ms": 47
+      "end_ms": 46
     },
     "11": {
       "title": "باب: السين",
       "level": 1,
       "parent": null,
-      "start_ms": 47,
-      "end_ms": 58
+      "start_ms": 46,
+      "end_ms": 57
     },
     "12": {
       "title": "باب: الشين",
       "level": 1,
       "parent": null,
-      "start_ms": 58,
-      "end_ms": 60
+      "start_ms": 57,
+      "end_ms": 59
     },
     "13": {
       "title": "باب: الصاد",
       "level": 1,
       "parent": null,
-      "start_ms": 60,
+      "start_ms": 59,
       "end_ms": 60
     },
     "14": {
@@ -111,20 +111,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 74,
-      "end_ms": 75
+      "end_ms": 74
     },
     "17": {
       "title": "باب: القاف",
       "level": 1,
       "parent": null,
-      "start_ms": 75,
-      "end_ms": 76
+      "start_ms": 74,
+      "end_ms": 75
     },
     "18": {
       "title": "باب: الكاف",
       "level": 1,
       "parent": null,
-      "start_ms": 76,
+      "start_ms": 75,
       "end_ms": 76
     },
     "19": {
@@ -167,13 +167,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 94,
-      "end_ms": 97
+      "end_ms": 96
     },
     "25": {
       "title": "الملحق",
       "level": 1,
       "parent": null,
-      "start_ms": 97,
+      "start_ms": 96,
       "end_ms": null
     }
   },
@@ -219,34 +219,39 @@
       8
     ],
     [
-      47,
+      46,
       [11],
       10
     ],
     [
-      58,
+      57,
       [12],
       11
     ],
     [
-      60,
-      [13, 14, 15],
+      59,
+      [13],
       12
     ],
     [
+      60,
+      [14, 15],
+      13
+    ],
+    [
       74,
-      [16],
+      [16, 17],
       15
     ],
     [
       75,
-      [17],
-      16
+      [18],
+      17
     ],
     [
       76,
-      [18, 19, 20],
-      17
+      [19, 20],
+      18
     ],
     [
       90,
@@ -264,7 +269,7 @@
       23
     ],
     [
-      97,
+      96,
       [25],
       24
     ]

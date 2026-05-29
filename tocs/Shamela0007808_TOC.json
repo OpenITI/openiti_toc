@@ -41,13 +41,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 75,
-      "end_ms": 76
+      "end_ms": 75
     },
     "7": {
       "title": "فصل",
       "level": 1,
       "parent": null,
-      "start_ms": 76,
+      "start_ms": 75,
       "end_ms": 76
     },
     "8": {
@@ -69,13 +69,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 79,
-      "end_ms": 80
+      "end_ms": 79
     },
     "11": {
       "title": "فصل",
       "level": 1,
       "parent": null,
-      "start_ms": 80,
+      "start_ms": 79,
       "end_ms": 81
     },
     "12": {
@@ -135,13 +135,13 @@
     ],
     [
       75,
-      [6],
+      [6, 7],
       5
     ],
     [
       76,
-      [7, 8],
-      6
+      [8],
+      7
     ],
     [
       77,
@@ -150,13 +150,8 @@
     ],
     [
       79,
-      [10],
+      [10, 11],
       9
-    ],
-    [
-      80,
-      [11],
-      10
     ],
     [
       81,

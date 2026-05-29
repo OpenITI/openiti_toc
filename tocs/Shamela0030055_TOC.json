@@ -1,5 +1,5 @@
 {
-  "filename": "0623IbnCabdWahidBukhariMaqdisi.MajmucTakhrij.Shamela0030055-ara1",
+  "filename": "0623IbnCabWahidBukhariMaqdisi.MajmucTakhrij.Shamela0030055-ara1",
   "sections": {
     "1": {
       "title": "1 -",
@@ -153,13 +153,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 5,
-      "end_ms": 6
+      "end_ms": 5
     },
     "23": {
       "title": "11 -",
       "level": 1,
       "parent": null,
-      "start_ms": 6,
+      "start_ms": 5,
       "end_ms": 6
     },
     "24": {
@@ -237,13 +237,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 9,
-      "end_ms": 10
+      "end_ms": 9
     },
     "35": {
       "title": "14 -",
       "level": 1,
       "parent": null,
-      "start_ms": 10,
+      "start_ms": 9,
       "end_ms": 10
     },
     "36": {
@@ -349,13 +349,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 15,
-      "end_ms": 16
+      "end_ms": 15
     },
     "51": {
       "title": "20 -",
       "level": 1,
       "parent": null,
-      "start_ms": 16,
+      "start_ms": 15,
       "end_ms": 16
     },
     "52": {
@@ -398,13 +398,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 18,
-      "end_ms": 20
+      "end_ms": 19
     },
     "58": {
       "title": "22 -",
       "level": 1,
       "parent": null,
-      "start_ms": 20,
+      "start_ms": 19,
       "end_ms": 20
     },
     "59": {
@@ -426,13 +426,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 21,
-      "end_ms": 23
+      "end_ms": 22
     },
     "62": {
       "title": "0 -",
       "level": 1,
       "parent": null,
-      "start_ms": 23,
+      "start_ms": 22,
       "end_ms": 23
     },
     "63": {
@@ -473,13 +473,13 @@
     ],
     [
       5,
-      [21, 22],
+      [21, 22, 23],
       20
     ],
     [
       6,
-      [23, 24, 25, 26, 27, 28],
-      22
+      [24, 25, 26, 27, 28],
+      23
     ],
     [
       7,
@@ -493,13 +493,13 @@
     ],
     [
       9,
-      [34],
+      [34, 35],
       33
     ],
     [
       10,
-      [35, 36, 37, 38],
-      34
+      [36, 37, 38],
+      35
     ],
     [
       11,
@@ -519,17 +519,17 @@
     [
       14,
       [46, 47, 48],
-      45
+      null
     ],
     [
       15,
-      [49, 50],
+      [49, 50, 51],
       48
     ],
     [
       16,
-      [51, 52],
-      50
+      [52],
+      51
     ],
     [
       17,
@@ -542,9 +542,14 @@
       54
     ],
     [
-      20,
-      [58, 59],
+      19,
+      [58],
       57
+    ],
+    [
+      20,
+      [59],
+      58
     ],
     [
       21,
@@ -552,10 +557,15 @@
       59
     ],
     [
-      23,
-      [62, 63, 64],
+      22,
+      [62],
       61
+    ],
+    [
+      23,
+      [63, 64],
+      62
     ]
   ],
-  "last_ms": 24
+  "last_ms": 23
 }

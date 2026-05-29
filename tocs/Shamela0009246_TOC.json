@@ -202,20 +202,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 28,
-      "end_ms": 30
+      "end_ms": 29
     },
     "30": {
       "title": "2 -",
       "level": 1,
       "parent": null,
-      "start_ms": 30,
-      "end_ms": 30
+      "start_ms": 29,
+      "end_ms": 29
     },
     "31": {
       "title": "3 -",
       "level": 1,
       "parent": null,
-      "start_ms": 30,
+      "start_ms": 29,
       "end_ms": 30
     },
     "32": {
@@ -288,9 +288,14 @@
       28
     ],
     [
-      30,
-      [30, 31, 32],
+      29,
+      [30, 31],
       29
+    ],
+    [
+      30,
+      [32],
+      31
     ]
   ],
   "last_ms": 37

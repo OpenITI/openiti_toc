@@ -13,13 +13,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 3,
-      "end_ms": 75
+      "end_ms": 74
     },
     "3": {
       "title": "(باب الألف)",
       "level": 1,
       "parent": null,
-      "start_ms": 75,
+      "start_ms": 74,
       "end_ms": 117
     },
     "4": {
@@ -41,13 +41,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 119,
-      "end_ms": 131
+      "end_ms": 130
     },
     "7": {
       "title": "(باب الراء)",
       "level": 1,
       "parent": null,
-      "start_ms": 131,
+      "start_ms": 130,
       "end_ms": 131
     },
     "8": {
@@ -62,13 +62,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 134,
-      "end_ms": 136
+      "end_ms": 135
     },
     "10": {
       "title": "(باب الطاء)",
       "level": 1,
       "parent": null,
-      "start_ms": 136,
+      "start_ms": 135,
       "end_ms": 138
     },
     "11": {
@@ -76,62 +76,62 @@
       "level": 1,
       "parent": null,
       "start_ms": 138,
-      "end_ms": 196
+      "end_ms": 195
     },
     "12": {
       "title": "باب الفاء",
       "level": 1,
       "parent": null,
-      "start_ms": 196,
-      "end_ms": 199
+      "start_ms": 195,
+      "end_ms": 197
     },
     "13": {
       "title": "باب القاف",
       "level": 1,
       "parent": null,
-      "start_ms": 199,
-      "end_ms": 201
+      "start_ms": 197,
+      "end_ms": 200
     },
     "14": {
       "title": "باب الميم",
       "level": 1,
       "parent": null,
-      "start_ms": 201,
-      "end_ms": 202
+      "start_ms": 200,
+      "end_ms": 201
     },
     "15": {
       "title": "باب النون",
       "level": 1,
       "parent": null,
-      "start_ms": 202,
-      "end_ms": 202
+      "start_ms": 201,
+      "end_ms": 201
     },
     "16": {
       "title": "باب الهاء",
       "level": 1,
       "parent": null,
-      "start_ms": 202,
-      "end_ms": 202
+      "start_ms": 201,
+      "end_ms": 201
     },
     "17": {
       "title": "باب الياء",
       "level": 1,
       "parent": null,
-      "start_ms": 202,
-      "end_ms": 205
+      "start_ms": 201,
+      "end_ms": 204
     },
     "18": {
       "title": "باب الكنى",
       "level": 1,
       "parent": null,
-      "start_ms": 205,
-      "end_ms": 206
+      "start_ms": 204,
+      "end_ms": 204
     },
     "19": {
       "title": "باب النسب ونحوه",
       "level": 1,
       "parent": null,
-      "start_ms": 206,
+      "start_ms": 204,
       "end_ms": null
     }
   },
@@ -147,7 +147,7 @@
       1
     ],
     [
-      75,
+      74,
       [3],
       2
     ],
@@ -167,9 +167,14 @@
       5
     ],
     [
-      131,
-      [7, 8],
+      130,
+      [7],
       6
+    ],
+    [
+      131,
+      [8],
+      7
     ],
     [
       134,
@@ -177,7 +182,7 @@
       8
     ],
     [
-      136,
+      135,
       [10],
       9
     ],
@@ -187,35 +192,30 @@
       10
     ],
     [
-      196,
+      195,
       [12],
       11
     ],
     [
-      199,
+      197,
       [13],
       12
     ],
     [
-      201,
+      200,
       [14],
       13
     ],
     [
-      202,
+      201,
       [15, 16, 17],
       14
     ],
     [
-      205,
-      [18],
+      204,
+      [18, 19],
       17
-    ],
-    [
-      206,
-      [19],
-      18
     ]
   ],
-  "last_ms": 206
+  "last_ms": 205
 }

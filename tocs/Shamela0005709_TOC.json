@@ -118,13 +118,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 5,
-      "end_ms": 6
+      "end_ms": 5
     },
     "18": {
       "title": "18 -",
       "level": 1,
       "parent": null,
-      "start_ms": 6,
+      "start_ms": 5,
       "end_ms": null
     }
   },
@@ -151,13 +151,8 @@
     ],
     [
       5,
-      [14, 15, 16, 17],
+      [14, 15, 16, 17, 18],
       13
-    ],
-    [
-      6,
-      [18],
-      17
     ]
   ],
   "last_ms": 6

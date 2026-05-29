@@ -153,13 +153,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 78,
-      "end_ms": 80
+      "end_ms": 79
     },
     "23": {
       "title": "4 -",
       "level": 1,
       "parent": null,
-      "start_ms": 80,
+      "start_ms": 79,
       "end_ms": 80
     },
     "24": {
@@ -267,9 +267,14 @@
       21
     ],
     [
-      80,
-      [23, 24],
+      79,
+      [23],
       22
+    ],
+    [
+      80,
+      [24],
+      23
     ]
   ],
   "last_ms": 106

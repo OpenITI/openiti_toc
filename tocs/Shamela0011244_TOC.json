@@ -447,20 +447,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 53,
-      "end_ms": 54
+      "end_ms": 53
     },
     "65": {
       "title": "لا ضرر ولا ضرار",
       "level": 1,
       "parent": null,
-      "start_ms": 54,
-      "end_ms": 54
+      "start_ms": 53,
+      "end_ms": 53
     },
     "66": {
       "title": "32 -",
       "level": 1,
       "parent": null,
-      "start_ms": 54,
+      "start_ms": 53,
       "end_ms": 55
     },
     "67": {
@@ -559,48 +559,48 @@
       "level": 1,
       "parent": null,
       "start_ms": 67,
-      "end_ms": 69
+      "end_ms": 68
     },
     "81": {
       "title": "الدنيا وسيلة ومزرعة للآخرة",
       "level": 1,
       "parent": null,
-      "start_ms": 69,
-      "end_ms": 69
+      "start_ms": 68,
+      "end_ms": 68
     },
     "82": {
       "title": "40 -",
       "level": 1,
       "parent": null,
-      "start_ms": 69,
-      "end_ms": 71
+      "start_ms": 68,
+      "end_ms": 70
     },
     "83": {
-      "title": "علامة ms70 الإيمان",
+      "title": "علامة الإيمان",
       "level": 1,
       "parent": null,
-      "start_ms": 71,
-      "end_ms": 71
+      "start_ms": 70,
+      "end_ms": 70
     },
     "84": {
       "title": "41 -",
       "level": 1,
       "parent": null,
-      "start_ms": 71,
-      "end_ms": 72
+      "start_ms": 70,
+      "end_ms": 71
     },
     "85": {
       "title": "سعة مغفرة الله تعالى",
       "level": 1,
       "parent": null,
-      "start_ms": 72,
-      "end_ms": 72
+      "start_ms": 71,
+      "end_ms": 71
     },
     "86": {
       "title": "42 -",
       "level": 1,
       "parent": null,
-      "start_ms": 72,
+      "start_ms": 71,
       "end_ms": null
     }
   },
@@ -757,13 +757,8 @@
     ],
     [
       53,
-      [63, 64],
+      [63, 64, 65, 66],
       62
-    ],
-    [
-      54,
-      [65, 66],
-      64
     ],
     [
       55,
@@ -801,17 +796,17 @@
       78
     ],
     [
-      69,
+      68,
       [81, 82],
       80
     ],
     [
-      71,
+      70,
       [83, 84],
-      null
+      82
     ],
     [
-      72,
+      71,
       [85, 86],
       84
     ]

@@ -188,13 +188,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 77,
-      "end_ms": 84
+      "end_ms": 83
     },
     "28": {
       "title": "- 26 - باب الضنى",
       "level": 1,
       "parent": null,
-      "start_ms": 84,
+      "start_ms": 83,
       "end_ms": 86
     },
     "29": {
@@ -202,20 +202,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 86,
-      "end_ms": 95
+      "end_ms": 94
     },
     "30": {
       "title": "- 28 - باب الموت",
       "level": 1,
       "parent": null,
-      "start_ms": 95,
-      "end_ms": 101
+      "start_ms": 94,
+      "end_ms": 100
     },
     "31": {
       "title": "- 29 - باب قبح المعصية",
       "level": 1,
       "parent": null,
-      "start_ms": 101,
+      "start_ms": 100,
       "end_ms": 119
     },
     "32": {
@@ -360,7 +360,7 @@
       26
     ],
     [
-      84,
+      83,
       [28],
       27
     ],
@@ -370,12 +370,12 @@
       28
     ],
     [
-      95,
+      94,
       [30],
       29
     ],
     [
-      101,
+      100,
       [31],
       30
     ],
@@ -390,5 +390,5 @@
       32
     ]
   ],
-  "last_ms": 136
+  "last_ms": 135
 }

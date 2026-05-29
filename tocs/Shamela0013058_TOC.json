@@ -27,13 +27,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 9,
-      "end_ms": 25
+      "end_ms": 24
     },
     "5": {
-      "title": "ما قالت ms24 الأمراء والملوك عند نزول الموت بها",
+      "title": "ما قالت الأمراء والملوك عند نزول الموت بها",
       "level": 1,
       "parent": null,
-      "start_ms": 25,
+      "start_ms": 24,
       "end_ms": 29
     },
     "6": {
@@ -41,13 +41,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 29,
-      "end_ms": 37
+      "end_ms": 36
     },
     "7": {
       "title": "باب الجزع عند الموت مخافة سوء المرد",
       "level": 1,
       "parent": null,
-      "start_ms": 37,
+      "start_ms": 36,
       "end_ms": 55
     },
     "8": {
@@ -55,13 +55,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 55,
-      "end_ms": 61
+      "end_ms": 60
     },
     "9": {
       "title": "باب في أقوال وأحوال شتى",
       "level": 1,
       "parent": null,
-      "start_ms": 61,
+      "start_ms": 60,
       "end_ms": null
     }
   },
@@ -87,9 +87,9 @@
       3
     ],
     [
-      25,
+      24,
       [5],
-      null
+      4
     ],
     [
       29,
@@ -97,7 +97,7 @@
       5
     ],
     [
-      37,
+      36,
       [7],
       6
     ],
@@ -107,10 +107,10 @@
       7
     ],
     [
-      61,
+      60,
       [9],
       8
     ]
   ],
-  "last_ms": 79
+  "last_ms": 78
 }

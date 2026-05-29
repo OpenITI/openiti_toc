@@ -139,13 +139,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 8,
-      "end_ms": 9
+      "end_ms": 8
     },
     "21": {
       "title": "القول في القرآن",
       "level": 1,
       "parent": null,
-      "start_ms": 9,
+      "start_ms": 8,
       "end_ms": 11
     },
     "22": {
@@ -153,20 +153,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 11,
-      "end_ms": 12
+      "end_ms": 11
     },
     "23": {
       "title": "الإيمان بالقضاء والقدر",
       "level": 1,
       "parent": null,
-      "start_ms": 12,
-      "end_ms": 13
+      "start_ms": 11,
+      "end_ms": 12
     },
     "24": {
       "title": "الإسراء والمعراج",
       "level": 1,
       "parent": null,
-      "start_ms": 13,
+      "start_ms": 12,
       "end_ms": 13
     },
     "25": {
@@ -174,34 +174,34 @@
       "level": 1,
       "parent": null,
       "start_ms": 13,
-      "end_ms": 14
+      "end_ms": 13
     },
     "26": {
       "title": "........................................................",
       "level": 1,
       "parent": null,
-      "start_ms": 14,
-      "end_ms": 14
+      "start_ms": 13,
+      "end_ms": 13
     },
     "27": {
       "title": "........................................................",
       "level": 1,
       "parent": null,
-      "start_ms": 14,
-      "end_ms": 14
+      "start_ms": 13,
+      "end_ms": 13
     },
     "28": {
       "title": "…",
       "level": 1,
       "parent": null,
-      "start_ms": 14,
-      "end_ms": 14
+      "start_ms": 13,
+      "end_ms": 13
     },
     "29": {
       "title": "الشفاعة",
       "level": 1,
       "parent": null,
-      "start_ms": 14,
+      "start_ms": 13,
       "end_ms": 14
     },
     "30": {
@@ -209,55 +209,55 @@
       "level": 1,
       "parent": null,
       "start_ms": 14,
-      "end_ms": 15
+      "end_ms": 14
     },
     "31": {
       "title": "........................................................",
       "level": 1,
       "parent": null,
-      "start_ms": 15,
-      "end_ms": 15
+      "start_ms": 14,
+      "end_ms": 14
     },
     "32": {
       "title": "الإيمان بعذاب القبر",
       "level": 1,
       "parent": null,
-      "start_ms": 15,
-      "end_ms": 15
+      "start_ms": 14,
+      "end_ms": 14
     },
     "33": {
       "title": "الجنة والنار",
       "level": 1,
       "parent": null,
-      "start_ms": 15,
-      "end_ms": 15
+      "start_ms": 14,
+      "end_ms": 14
     },
     "34": {
       "title": "........................................................",
       "level": 1,
       "parent": null,
-      "start_ms": 15,
-      "end_ms": 15
+      "start_ms": 14,
+      "end_ms": 14
     },
     "35": {
       "title": "........................................................",
       "level": 1,
       "parent": null,
-      "start_ms": 15,
-      "end_ms": 15
+      "start_ms": 14,
+      "end_ms": 14
     },
     "36": {
       "title": "........................................................",
       "level": 1,
       "parent": null,
-      "start_ms": 15,
-      "end_ms": 15
+      "start_ms": 14,
+      "end_ms": 14
     },
     "37": {
       "title": "الإيمان بالميزان",
       "level": 1,
       "parent": null,
-      "start_ms": 15,
+      "start_ms": 14,
       "end_ms": 15
     },
     "38": {
@@ -307,13 +307,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 16,
-      "end_ms": 17
+      "end_ms": 16
     },
     "45": {
       "title": "ذبح الموت يوم القيامة",
       "level": 1,
       "parent": null,
-      "start_ms": 17,
+      "start_ms": 16,
       "end_ms": 17
     },
     "46": {
@@ -321,27 +321,27 @@
       "level": 1,
       "parent": null,
       "start_ms": 17,
-      "end_ms": 18
+      "end_ms": 17
     },
     "47": {
       "title": "المفاضلة بين الخلفاء الراشدين",
       "level": 1,
       "parent": null,
-      "start_ms": 18,
-      "end_ms": 18
+      "start_ms": 17,
+      "end_ms": 17
     },
     "48": {
       "title": "........................................................",
       "level": 1,
       "parent": null,
-      "start_ms": 18,
-      "end_ms": 18
+      "start_ms": 17,
+      "end_ms": 17
     },
     "49": {
       "title": "........................................................",
       "level": 1,
       "parent": null,
-      "start_ms": 18,
+      "start_ms": 17,
       "end_ms": 18
     },
     "50": {
@@ -349,13 +349,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 18,
-      "end_ms": 19
+      "end_ms": 18
     },
     "51": {
       "title": "فصل في فضل الإتباع",
       "level": 1,
       "parent": null,
-      "start_ms": 19,
+      "start_ms": 18,
       "end_ms": null
     }
   },
@@ -397,59 +397,49 @@
     ],
     [
       8,
-      [20],
+      [20, 21],
       19
     ],
     [
-      9,
-      [21],
-      20
-    ],
-    [
       11,
-      [22],
+      [22, 23],
       21
     ],
     [
       12,
-      [23],
-      22
-    ],
-    [
-      13,
-      [24, 25],
+      [24],
       23
     ],
     [
+      13,
+      [25, 26, 27, 28, 29],
+      24
+    ],
+    [
       14,
-      [26, 27, 28, 29, 30],
-      25
+      [30, 31, 32, 33, 34, 35, 36, 37],
+      29
     ],
     [
       15,
-      [31, 32, 33, 34, 35, 36, 37, 38, 39, 40],
-      30
+      [38, 39, 40],
+      null
     ],
     [
       16,
-      [41, 42, 43, 44],
+      [41, 42, 43, 44, 45],
       40
     ],
     [
       17,
-      [45, 46],
-      44
+      [46, 47, 48, 49],
+      45
     ],
     [
       18,
-      [47, 48, 49, 50],
-      46
-    ],
-    [
-      19,
-      [51],
-      50
+      [50, 51],
+      49
     ]
   ],
-  "last_ms": 23
+  "last_ms": 22
 }

@@ -6,20 +6,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 1,
-      "end_ms": 77
+      "end_ms": 76
     },
     "2": {
       "title": "من اسم أبيه إسماعيل //",
       "level": 2,
       "parent": 1,
       "start_ms": 54,
-      "end_ms": 77
+      "end_ms": 76
     },
     "3": {
       "title": "[الباء]",
       "level": 1,
       "parent": null,
-      "start_ms": 77,
+      "start_ms": 76,
       "end_ms": 82
     },
     "4": {
@@ -34,55 +34,55 @@
       "level": 1,
       "parent": null,
       "start_ms": 83,
-      "end_ms": 92
+      "end_ms": 91
     },
     "6": {
       "title": "حرف الحاء",
       "level": 1,
       "parent": null,
-      "start_ms": 92,
-      "end_ms": 153
+      "start_ms": 91,
+      "end_ms": 152
     },
     "7": {
       "title": "حرف الخاء",
       "level": 1,
       "parent": null,
-      "start_ms": 153,
-      "end_ms": 161
+      "start_ms": 152,
+      "end_ms": 160
     },
     "8": {
       "title": "حرف الدال",
       "level": 1,
       "parent": null,
-      "start_ms": 161,
-      "end_ms": 167
+      "start_ms": 160,
+      "end_ms": 166
     },
     "9": {
       "title": "حرف الذال المعجمة",
       "level": 1,
       "parent": null,
-      "start_ms": 167,
-      "end_ms": 168
+      "start_ms": 166,
+      "end_ms": 167
     },
     "10": {
       "title": "حرف الراء",
       "level": 1,
       "parent": null,
-      "start_ms": 168,
-      "end_ms": 170
+      "start_ms": 167,
+      "end_ms": 169
     },
     "11": {
       "title": "حرف الزاي",
       "level": 1,
       "parent": null,
-      "start_ms": 170,
-      "end_ms": 173
+      "start_ms": 169,
+      "end_ms": 172
     },
     "12": {
       "title": "حرف السين",
       "level": 1,
       "parent": null,
-      "start_ms": 173,
+      "start_ms": 172,
       "end_ms": null
     }
   },
@@ -98,7 +98,7 @@
       1
     ],
     [
-      77,
+      76,
       [3],
       2
     ],
@@ -113,40 +113,40 @@
       4
     ],
     [
-      92,
+      91,
       [6],
       5
     ],
     [
-      153,
+      152,
       [7],
       6
     ],
     [
-      161,
+      160,
       [8],
       7
     ],
     [
-      167,
+      166,
       [9],
       8
     ],
     [
-      168,
+      167,
       [10],
       9
     ],
     [
-      170,
+      169,
       [11],
       10
     ],
     [
-      173,
+      172,
       [12],
       11
     ]
   ],
-  "last_ms": 190
+  "last_ms": 189
 }

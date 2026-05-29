@@ -153,20 +153,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 124,
-      "end_ms": 125
+      "end_ms": 126
     },
     "23": {
       "title": "المضارع",
       "level": 1,
       "parent": null,
-      "start_ms": 125,
-      "end_ms": 125
+      "start_ms": 126,
+      "end_ms": 126
     },
     "24": {
       "title": "المقتضب",
       "level": 1,
       "parent": null,
-      "start_ms": 125,
+      "start_ms": 126,
       "end_ms": 126
     },
     "25": {
@@ -300,14 +300,9 @@
       21
     ],
     [
-      125,
-      [23, 24],
-      22
-    ],
-    [
       126,
-      [25],
-      24
+      [23, 24, 25],
+      22
     ],
     [
       128,

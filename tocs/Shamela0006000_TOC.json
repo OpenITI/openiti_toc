@@ -2,7 +2,7 @@
   "filename": "1120IbnMuhammadBurhanDinDimashqi.BayanWaTacrif.Shamela0006000-ara1",
   "sections": {
     "1": {
-      "title": "حرف الهمزة الهمزة مع ms003 الألف",
+      "title": "حرف الهمزة الهمزة مع الألف",
       "level": 1,
       "parent": null,
       "start_ms": 4,
@@ -545,13 +545,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 372,
-      "end_ms": 373
+      "end_ms": 372
     },
     "79": {
       "title": "حرف الكاف",
       "level": 1,
       "parent": null,
-      "start_ms": 373,
+      "start_ms": 372,
       "end_ms": 384
     },
     "80": {
@@ -587,13 +587,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 461,
-      "end_ms": 467
+      "end_ms": 466
     },
     "85": {
       "title": "المحلى بأل",
       "level": 1,
       "parent": null,
-      "start_ms": 467,
+      "start_ms": 466,
       "end_ms": 467
     },
     "86": {
@@ -950,13 +950,8 @@
     ],
     [
       372,
-      [78],
+      [78, 79],
       77
-    ],
-    [
-      373,
-      [79],
-      78
     ],
     [
       384,
@@ -984,9 +979,14 @@
       83
     ],
     [
-      467,
-      [85, 86],
+      466,
+      [85],
       84
+    ],
+    [
+      467,
+      [86],
+      85
     ],
     [
       472,

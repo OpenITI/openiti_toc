@@ -352,7 +352,7 @@
       "end_ms": 150
     },
     "51": {
-      "title": "فصل ولا تصح الجمعة ms149 حتى يتقدمها خطبتان",
+      "title": "فصل ولا تصح الجمعة حتى يتقدمها خطبتان",
       "level": 1,
       "parent": null,
       "start_ms": 150,
@@ -489,13 +489,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 209,
-      "end_ms": 211
+      "end_ms": 210
     },
     "71": {
       "title": "فصل",
       "level": 1,
       "parent": null,
-      "start_ms": 211,
+      "start_ms": 210,
       "end_ms": 214
     },
     "72": {
@@ -615,13 +615,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 267,
-      "end_ms": 270
+      "end_ms": 269
     },
     "89": {
       "title": "فصل",
       "level": 1,
       "parent": null,
-      "start_ms": 270,
+      "start_ms": 269,
       "end_ms": 270
     },
     "90": {
@@ -629,20 +629,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 270,
-      "end_ms": 279
+      "end_ms": 278
     },
     "91": {
       "title": "فصل",
       "level": 1,
       "parent": null,
-      "start_ms": 279,
-      "end_ms": 281
+      "start_ms": 278,
+      "end_ms": 280
     },
     "92": {
       "title": "فصل",
       "level": 1,
       "parent": null,
-      "start_ms": 281,
+      "start_ms": 280,
       "end_ms": 289
     },
     "93": {
@@ -976,7 +976,7 @@
       69
     ],
     [
-      211,
+      210,
       [71],
       70
     ],
@@ -1061,17 +1061,22 @@
       87
     ],
     [
-      270,
-      [89, 90],
+      269,
+      [89],
       88
     ],
     [
-      279,
+      270,
+      [90],
+      89
+    ],
+    [
+      278,
       [91],
       90
     ],
     [
-      281,
+      280,
       [92],
       91
     ],

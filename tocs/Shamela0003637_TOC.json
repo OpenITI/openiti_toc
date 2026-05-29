@@ -6,13 +6,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 4,
-      "end_ms": 8
+      "end_ms": 7
     },
     "2": {
-      "title": "فصل: في ms07 الإمام إذا بعث سرية",
+      "title": "فصل: في الإمام إذا بعث سرية",
       "level": 1,
       "parent": null,
-      "start_ms": 8,
+      "start_ms": 7,
       "end_ms": 12
     },
     "3": {
@@ -34,13 +34,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 18,
-      "end_ms": 21
+      "end_ms": 20
     },
     "6": {
       "title": "فصل: ولو أن علجا كافرا دل الإمام على قلعة",
       "level": 1,
       "parent": null,
-      "start_ms": 21,
+      "start_ms": 20,
       "end_ms": 23
     },
     "7": {
@@ -48,27 +48,27 @@
       "level": 1,
       "parent": null,
       "start_ms": 23,
-      "end_ms": 24
+      "end_ms": 23
     },
     "8": {
       "title": "باب: المبارزة:",
       "level": 1,
       "parent": null,
-      "start_ms": 24,
-      "end_ms": 24
+      "start_ms": 23,
+      "end_ms": 23
     },
     "9": {
       "title": "فصل: إذا أسر الكفار مسلما ثم أطلقوه من غير شرط",
       "level": 1,
       "parent": null,
-      "start_ms": 24,
-      "end_ms": 27
+      "start_ms": 23,
+      "end_ms": 26
     },
     "10": {
       "title": "فصل: إذا حاصر الإمام قلعة فترك أهلها على حكم الحاكم",
       "level": 1,
       "parent": null,
-      "start_ms": 27,
+      "start_ms": 26,
       "end_ms": 28
     },
     "11": {
@@ -86,9 +86,9 @@
       null
     ],
     [
-      8,
+      7,
       [2],
-      null
+      1
     ],
     [
       12,
@@ -101,22 +101,17 @@
       4
     ],
     [
-      21,
+      20,
       [6],
       5
     ],
     [
       23,
-      [7],
-      6
+      [7, 8, 9],
+      null
     ],
     [
-      24,
-      [8, 9],
-      7
-    ],
-    [
-      27,
+      26,
       [10],
       9
     ],
@@ -126,5 +121,5 @@
       10
     ]
   ],
-  "last_ms": 31
+  "last_ms": 30
 }

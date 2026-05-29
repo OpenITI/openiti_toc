@@ -170,17 +170,17 @@
       "end_ms": 24
     },
     "25": {
-      "title": "التفاح ms23 Pyrus malus",
+      "title": "التفاح Pyrus malus",
       "level": 1,
       "parent": null,
       "start_ms": 24,
-      "end_ms": 25
+      "end_ms": 24
     },
     "26": {
-      "title": "الكمثري ms24",
+      "title": "الكمثري",
       "level": 1,
       "parent": null,
-      "start_ms": 25,
+      "start_ms": 24,
       "end_ms": 25
     },
     "27": {
@@ -484,13 +484,13 @@
     ],
     [
       24,
-      [25],
-      null
+      [25, 26],
+      24
     ],
     [
       25,
-      [26, 27, 28],
-      null
+      [27, 28],
+      26
     ],
     [
       26,

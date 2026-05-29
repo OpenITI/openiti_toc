@@ -9,7 +9,7 @@
       "end_ms": 15
     },
     "2": {
-      "title": "فصل ms014",
+      "title": "فصل",
       "level": 1,
       "parent": null,
       "start_ms": 15,
@@ -412,13 +412,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 91,
-      "end_ms": 94
+      "end_ms": 93
     },
     "60": {
-      "title": "الحديث ms093 التاسع عشر",
+      "title": "الحديث التاسع عشر",
       "level": 1,
       "parent": null,
-      "start_ms": 94,
+      "start_ms": 93,
       "end_ms": 94
     },
     "61": {
@@ -676,9 +676,14 @@
       58
     ],
     [
+      93,
+      [60],
+      59
+    ],
+    [
       94,
-      [60, 61],
-      null
+      [61],
+      60
     ],
     [
       95,

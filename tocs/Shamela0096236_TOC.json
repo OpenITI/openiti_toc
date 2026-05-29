@@ -153,13 +153,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 46,
-      "end_ms": 47
+      "end_ms": 48
     },
     "23": {
       "title": "حرف اللام",
       "level": 1,
       "parent": null,
-      "start_ms": 47,
+      "start_ms": 48,
       "end_ms": 48
     },
     "24": {
@@ -181,20 +181,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 54,
-      "end_ms": 55
+      "end_ms": 56
     },
     "27": {
       "title": "حرف الهاء",
       "level": 1,
       "parent": null,
-      "start_ms": 55,
-      "end_ms": 56
+      "start_ms": 56,
+      "end_ms": 57
     },
     "28": {
       "title": "حرف اللام ألف",
       "level": 1,
       "parent": null,
-      "start_ms": 56,
+      "start_ms": 57,
       "end_ms": 57
     },
     "29": {
@@ -297,14 +297,9 @@
       21
     ],
     [
-      47,
-      [23],
-      22
-    ],
-    [
       48,
-      [24],
-      23
+      [23, 24],
+      null
     ],
     [
       52,
@@ -317,19 +312,14 @@
       25
     ],
     [
-      55,
+      56,
       [27],
       26
     ],
     [
-      56,
-      [28],
-      27
-    ],
-    [
       57,
-      [29],
-      28
+      [28, 29],
+      27
     ]
   ],
   "last_ms": 58

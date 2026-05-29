@@ -20,13 +20,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 1,
-      "end_ms": 36
+      "end_ms": 35
     },
     "4": {
       "title": "نصيحة",
       "level": 1,
       "parent": null,
-      "start_ms": 36,
+      "start_ms": 35,
       "end_ms": 47
     },
     "5": {
@@ -34,34 +34,34 @@
       "level": 1,
       "parent": null,
       "start_ms": 47,
-      "end_ms": 55
+      "end_ms": 54
     },
     "6": {
       "title": "تنبيه",
       "level": 1,
       "parent": null,
-      "start_ms": 55,
-      "end_ms": 59
+      "start_ms": 54,
+      "end_ms": 58
     },
     "7": {
       "title": "تنبيه",
       "level": 1,
       "parent": null,
-      "start_ms": 59,
-      "end_ms": 60
+      "start_ms": 58,
+      "end_ms": 59
     },
     "8": {
       "title": "تنبيه",
       "level": 1,
       "parent": null,
-      "start_ms": 60,
-      "end_ms": 73
+      "start_ms": 59,
+      "end_ms": 72
     },
     "9": {
       "title": "الدبا الجراد قبل أن يطير",
       "level": 1,
       "parent": null,
-      "start_ms": 73,
+      "start_ms": 72,
       "end_ms": 74
     },
     "10": {
@@ -69,20 +69,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 74,
-      "end_ms": 77
+      "end_ms": 76
     },
     "11": {
       "title": "تنبيه",
       "level": 1,
       "parent": null,
-      "start_ms": 77,
-      "end_ms": 82
+      "start_ms": 76,
+      "end_ms": 81
     },
     "12": {
       "title": "تنبيه",
       "level": 1,
       "parent": null,
-      "start_ms": 82,
+      "start_ms": 81,
       "end_ms": 87
     },
     "13": {
@@ -90,27 +90,27 @@
       "level": 1,
       "parent": null,
       "start_ms": 87,
-      "end_ms": 89
+      "end_ms": 88
     },
     "14": {
       "title": "خاتمة",
       "level": 1,
       "parent": null,
-      "start_ms": 89,
-      "end_ms": 90
+      "start_ms": 88,
+      "end_ms": 89
     },
     "15": {
       "title": "فضحك",
       "level": 1,
       "parent": null,
-      "start_ms": 90,
-      "end_ms": 90
+      "start_ms": 89,
+      "end_ms": 89
     },
     "16": {
       "title": "1 -",
       "level": 1,
       "parent": null,
-      "start_ms": 90,
+      "start_ms": 89,
       "end_ms": null
     }
   },
@@ -121,7 +121,7 @@
       null
     ],
     [
-      36,
+      35,
       [4],
       3
     ],
@@ -131,22 +131,22 @@
       4
     ],
     [
-      55,
+      54,
       [6],
       5
     ],
     [
-      59,
+      58,
       [7],
       6
     ],
     [
-      60,
+      59,
       [8],
       7
     ],
     [
-      73,
+      72,
       [9],
       8
     ],
@@ -156,12 +156,12 @@
       9
     ],
     [
-      77,
+      76,
       [11],
       10
     ],
     [
-      82,
+      81,
       [12],
       11
     ],
@@ -171,12 +171,12 @@
       12
     ],
     [
-      89,
+      88,
       [14],
       13
     ],
     [
-      90,
+      89,
       [15, 16],
       14
     ]

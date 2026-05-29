@@ -6,104 +6,104 @@
       "level": 1,
       "parent": null,
       "start_ms": 1,
-      "end_ms": 46
+      "end_ms": 45
     },
     "2": {
       "title": "حرف الجيم",
       "level": 1,
       "parent": null,
-      "start_ms": 46,
-      "end_ms": 47
+      "start_ms": 45,
+      "end_ms": 46
     },
     "3": {
       "title": "حرف الحاء المهملة",
       "level": 1,
       "parent": null,
-      "start_ms": 47,
-      "end_ms": 65
+      "start_ms": 46,
+      "end_ms": 64
     },
     "4": {
       "title": "حرف الدال المهملة",
       "level": 1,
       "parent": null,
-      "start_ms": 65,
-      "end_ms": 66
+      "start_ms": 64,
+      "end_ms": 64
     },
     "5": {
       "title": "حرف الراء",
       "level": 1,
       "parent": null,
-      "start_ms": 66,
-      "end_ms": 66
+      "start_ms": 64,
+      "end_ms": 65
     },
     "6": {
       "title": "حرف الزاى",
       "level": 1,
       "parent": null,
-      "start_ms": 66,
-      "end_ms": 67
+      "start_ms": 65,
+      "end_ms": 66
     },
     "7": {
       "title": "حرف السين المهملة",
       "level": 1,
       "parent": null,
-      "start_ms": 67,
-      "end_ms": 71
+      "start_ms": 66,
+      "end_ms": 69
     },
     "8": {
       "title": "حرف الشين المعجمة",
       "level": 1,
       "parent": null,
-      "start_ms": 71,
-      "end_ms": 72
+      "start_ms": 69,
+      "end_ms": 71
     },
     "9": {
       "title": "حرف الصاد المهملة",
       "level": 1,
       "parent": null,
-      "start_ms": 72,
-      "end_ms": 133
+      "start_ms": 71,
+      "end_ms": 130
     },
     "10": {
       "title": "حرف الفاء",
       "level": 1,
       "parent": null,
-      "start_ms": 133,
-      "end_ms": 134
+      "start_ms": 130,
+      "end_ms": 131
     },
     "11": {
       "title": "حرف القاف",
       "level": 1,
       "parent": null,
-      "start_ms": 134,
-      "end_ms": 137
+      "start_ms": 131,
+      "end_ms": 134
     },
     "12": {
       "title": "حرف الميم",
       "level": 1,
       "parent": null,
-      "start_ms": 137,
-      "end_ms": 156
+      "start_ms": 134,
+      "end_ms": 153
     },
     "13": {
       "title": "حرف النون",
       "level": 1,
       "parent": null,
-      "start_ms": 156,
-      "end_ms": 160
+      "start_ms": 153,
+      "end_ms": 156
     },
     "14": {
       "title": "حرف الهاء",
       "level": 1,
       "parent": null,
-      "start_ms": 160,
-      "end_ms": 161
+      "start_ms": 156,
+      "end_ms": 158
     },
     "15": {
       "title": "حرف الياء",
       "level": 1,
       "parent": null,
-      "start_ms": 161,
+      "start_ms": 158,
       "end_ms": null
     }
   },
@@ -114,70 +114,70 @@
       null
     ],
     [
-      46,
+      45,
       [2],
       1
     ],
     [
-      47,
+      46,
       [3],
       2
     ],
     [
-      65,
-      [4],
+      64,
+      [4, 5],
       3
     ],
     [
-      66,
-      [5, 6],
-      4
+      65,
+      [6],
+      5
     ],
     [
-      67,
+      66,
       [7],
       6
     ],
     [
-      71,
+      69,
       [8],
       7
     ],
     [
-      72,
+      71,
       [9],
       8
     ],
     [
-      133,
+      130,
       [10],
       9
     ],
     [
-      134,
+      131,
       [11],
       10
     ],
     [
-      137,
+      134,
       [12],
       11
     ],
     [
-      156,
+      153,
       [13],
       12
     ],
     [
-      160,
+      156,
       [14],
       13
     ],
     [
-      161,
+      158,
       [15],
       14
     ]
   ],
-  "last_ms": 172
+  "last_ms": 169
 }
