@@ -20,27 +20,27 @@
       "level": 2,
       "parent": 2,
       "start_ms": 15,
-      "end_ms": 21
+      "end_ms": 20
     },
     "4": {
       "title": "( من اسمه إبراهيم )",
       "level": 2,
       "parent": 2,
-      "start_ms": 21,
-      "end_ms": 22
+      "start_ms": 20,
+      "end_ms": 21
     },
     "5": {
       "title": "( من اسمه إسحاق )",
       "level": 2,
       "parent": 2,
-      "start_ms": 22,
-      "end_ms": 23
+      "start_ms": 21,
+      "end_ms": 22
     },
     "6": {
       "title": "( بقية الألف )",
       "level": 2,
       "parent": 2,
-      "start_ms": 23,
+      "start_ms": 22,
       "end_ms": 23
     },
     "7": {
@@ -48,125 +48,125 @@
       "level": 1,
       "parent": null,
       "start_ms": 23,
-      "end_ms": 25
+      "end_ms": 24
     },
     "8": {
       "title": "( باب الثاء )",
       "level": 1,
       "parent": null,
-      "start_ms": 25,
-      "end_ms": 25
+      "start_ms": 24,
+      "end_ms": 24
     },
     "9": {
       "title": "( باب الجيم )",
       "level": 1,
       "parent": null,
-      "start_ms": 25,
-      "end_ms": 27
+      "start_ms": 24,
+      "end_ms": 26
     },
     "10": {
       "title": "( باب الحاء )",
       "level": 1,
       "parent": null,
-      "start_ms": 27,
-      "end_ms": 30
+      "start_ms": 26,
+      "end_ms": 29
     },
     "11": {
       "title": "( باب الخاء )",
       "level": 1,
       "parent": null,
-      "start_ms": 30,
-      "end_ms": 30
+      "start_ms": 29,
+      "end_ms": 29
     },
     "12": {
       "title": "( باب الدال )",
       "level": 1,
       "parent": null,
-      "start_ms": 30,
-      "end_ms": 31
+      "start_ms": 29,
+      "end_ms": 30
     },
     "13": {
       "title": "( باب الزاي )",
       "level": 1,
       "parent": null,
-      "start_ms": 31,
-      "end_ms": 31
+      "start_ms": 30,
+      "end_ms": 30
     },
     "14": {
       "title": "( باب السين )",
       "level": 1,
       "parent": null,
-      "start_ms": 31,
-      "end_ms": 31
+      "start_ms": 30,
+      "end_ms": 30
     },
     "15": {
       "title": "( باب الصاد )",
       "level": 1,
       "parent": null,
-      "start_ms": 31,
-      "end_ms": 31
+      "start_ms": 30,
+      "end_ms": 30
     },
     "16": {
       "title": "( باب الطاء )",
       "level": 1,
       "parent": null,
-      "start_ms": 31,
-      "end_ms": 32
+      "start_ms": 30,
+      "end_ms": 31
     },
     "17": {
       "title": "( باب العين )",
       "level": 1,
       "parent": null,
-      "start_ms": 32,
-      "end_ms": 37
+      "start_ms": 31,
+      "end_ms": 36
     },
     "18": {
       "title": "( باب القاف )",
       "level": 1,
       "parent": null,
-      "start_ms": 37,
-      "end_ms": 38
+      "start_ms": 36,
+      "end_ms": 36
     },
     "19": {
       "title": "( باب الكاف )",
       "level": 1,
       "parent": null,
-      "start_ms": 38,
-      "end_ms": 38
+      "start_ms": 36,
+      "end_ms": 37
     },
     "20": {
       "title": "( باب اللام )",
       "level": 1,
       "parent": null,
-      "start_ms": 38,
-      "end_ms": 38
+      "start_ms": 37,
+      "end_ms": 37
     },
     "21": {
       "title": "( باب الميم )",
       "level": 1,
       "parent": null,
-      "start_ms": 38,
-      "end_ms": 38
+      "start_ms": 37,
+      "end_ms": 37
     },
     "22": {
       "title": "( باب الهاء )",
       "level": 1,
       "parent": null,
-      "start_ms": 38,
-      "end_ms": 39
+      "start_ms": 37,
+      "end_ms": 38
     },
     "23": {
       "title": "( باب الواو )",
       "level": 1,
       "parent": null,
-      "start_ms": 39,
-      "end_ms": 39
+      "start_ms": 38,
+      "end_ms": 38
     },
     "24": {
       "title": "( باب الياء )",
       "level": 1,
       "parent": null,
-      "start_ms": 39,
+      "start_ms": 38,
       "end_ms": null
     }
   },
@@ -182,60 +182,65 @@
       1
     ],
     [
-      21,
+      20,
       [4],
       3
     ],
     [
-      22,
+      21,
       [5],
       4
     ],
     [
-      23,
-      [6, 7],
+      22,
+      [6],
       5
     ],
     [
-      25,
+      23,
+      [7],
+      6
+    ],
+    [
+      24,
       [8, 9],
       7
     ],
     [
-      27,
+      26,
       [10],
       9
     ],
     [
-      30,
+      29,
       [11, 12],
       10
     ],
     [
-      31,
+      30,
       [13, 14, 15, 16],
       12
     ],
     [
-      32,
+      31,
       [17],
       16
     ],
     [
-      37,
-      [18],
+      36,
+      [18, 19],
       17
     ],
     [
-      38,
-      [19, 20, 21, 22],
-      18
+      37,
+      [20, 21, 22],
+      19
     ],
     [
-      39,
+      38,
       [23, 24],
       22
     ]
   ],
-  "last_ms": 45
+  "last_ms": 43
 }

@@ -20,13 +20,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 2,
-      "end_ms": 6
+      "end_ms": 5
     },
     "4": {
       "title": "( جبال النار وأوديتها )",
       "level": 1,
       "parent": null,
-      "start_ms": 6,
+      "start_ms": 5,
       "end_ms": 9
     },
     "5": {
@@ -55,13 +55,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 19,
-      "end_ms": 21
+      "end_ms": 20
     },
     "9": {
       "title": "( ألوان العذاب )",
       "level": 1,
       "parent": null,
-      "start_ms": 21,
+      "start_ms": 20,
       "end_ms": 36
     },
     "10": {
@@ -84,7 +84,7 @@
       2
     ],
     [
-      6,
+      5,
       [4],
       3
     ],
@@ -109,7 +109,7 @@
       7
     ],
     [
-      21,
+      20,
       [9],
       8
     ],
@@ -119,5 +119,5 @@
       9
     ]
   ],
-  "last_ms": 48
+  "last_ms": 47
 }

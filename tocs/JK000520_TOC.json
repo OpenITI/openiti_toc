@@ -55,20 +55,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 41,
-      "end_ms": 56
+      "end_ms": 55
     },
     "9": {
       "title": "( الطبقة الثالثة )",
       "level": 1,
       "parent": null,
-      "start_ms": 56,
-      "end_ms": 63
+      "start_ms": 55,
+      "end_ms": 62
     },
     "10": {
       "title": "( الطبقة الرابعة )",
       "level": 1,
       "parent": null,
-      "start_ms": 63,
+      "start_ms": 62,
       "end_ms": 75
     },
     "11": {
@@ -76,41 +76,41 @@
       "level": 1,
       "parent": null,
       "start_ms": 75,
-      "end_ms": 124
+      "end_ms": 123
     },
     "12": {
       "title": "( الطبقة السادسة )",
       "level": 1,
       "parent": null,
-      "start_ms": 124,
-      "end_ms": 133
+      "start_ms": 123,
+      "end_ms": 132
     },
     "13": {
       "title": "(الطبقة السابعة)",
       "level": 1,
       "parent": null,
-      "start_ms": 133,
-      "end_ms": 145
+      "start_ms": 132,
+      "end_ms": 144
     },
     "14": {
       "title": "( الطبقة الثامنة )",
       "level": 1,
       "parent": null,
-      "start_ms": 145,
-      "end_ms": 173
+      "start_ms": 144,
+      "end_ms": 171
     },
     "15": {
       "title": "( الطبقة التاسعة )",
       "level": 1,
       "parent": null,
-      "start_ms": 173,
-      "end_ms": 229
+      "start_ms": 171,
+      "end_ms": 226
     },
     "16": {
       "title": "( الطبقة العاشرة والحادية عشرة مختلطين لم أفصلهما )",
       "level": 1,
       "parent": null,
-      "start_ms": 229,
+      "start_ms": 226,
       "end_ms": null
     }
   },
@@ -146,12 +146,12 @@
       7
     ],
     [
-      56,
+      55,
       [9],
       8
     ],
     [
-      63,
+      62,
       [10],
       9
     ],
@@ -161,30 +161,30 @@
       10
     ],
     [
-      124,
+      123,
       [12],
       11
     ],
     [
-      133,
+      132,
       [13],
       12
     ],
     [
-      145,
+      144,
       [14],
       13
     ],
     [
-      173,
+      171,
       [15],
       14
     ],
     [
-      229,
+      226,
       [16],
       15
     ]
   ],
-  "last_ms": 363
+  "last_ms": 358
 }

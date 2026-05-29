@@ -2,10 +2,10 @@
   "filename": "0281IbnAbiDunya.IslahMal.JK001040-ara1.mARkdown",
   "sections": {
     "1": {
-      "title": "1 باب ms08 فضل المال",
+      "title": "1 باب فضل المال",
       "level": 1,
       "parent": null,
-      "start_ms": 9,
+      "start_ms": 8,
       "end_ms": 18
     },
     "2": {
@@ -13,20 +13,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 18,
-      "end_ms": 26
+      "end_ms": 25
     },
     "3": {
       "title": "3 باب الرفق في المعيشة وحسن التدبير",
       "level": 1,
       "parent": null,
-      "start_ms": 26,
-      "end_ms": 31
+      "start_ms": 25,
+      "end_ms": 30
     },
     "4": {
-      "title": "4 باب ms30 الاحتراف",
+      "title": "4 باب الاحتراف",
       "level": 1,
       "parent": null,
-      "start_ms": 31,
+      "start_ms": 30,
       "end_ms": 36
     },
     "5": {
@@ -34,89 +34,89 @@
       "level": 1,
       "parent": null,
       "start_ms": 36,
-      "end_ms": 38
+      "end_ms": 37
     },
     "6": {
       "title": "6 باب المذموم من التجارة",
       "level": 1,
       "parent": null,
-      "start_ms": 38,
-      "end_ms": 42
+      "start_ms": 37,
+      "end_ms": 41
     },
     "7": {
       "title": "7 باب المماكسة في الابتياع",
       "level": 1,
       "parent": null,
-      "start_ms": 42,
-      "end_ms": 43
+      "start_ms": 41,
+      "end_ms": 42
     },
     "8": {
       "title": "8 باب العقارات",
       "level": 1,
       "parent": null,
-      "start_ms": 43,
-      "end_ms": 44
+      "start_ms": 42,
+      "end_ms": 43
     },
     "9": {
       "title": "9 باب الضياع",
       "level": 1,
       "parent": null,
-      "start_ms": 44,
-      "end_ms": 46
+      "start_ms": 43,
+      "end_ms": 45
     },
     "10": {
       "title": "باب عمل اليد",
       "level": 1,
       "parent": null,
-      "start_ms": 46,
-      "end_ms": 49
+      "start_ms": 45,
+      "end_ms": 48
     },
     "11": {
       "title": "باب القصد في المال",
       "level": 1,
       "parent": null,
-      "start_ms": 49,
-      "end_ms": 53
+      "start_ms": 48,
+      "end_ms": 52
     },
     "12": {
       "title": "12 باب القصد في المطعم",
       "level": 1,
       "parent": null,
-      "start_ms": 53,
-      "end_ms": 58
+      "start_ms": 52,
+      "end_ms": 56
     },
     "13": {
       "title": "13 باب القصد في اللباس",
       "level": 1,
       "parent": null,
-      "start_ms": 58,
-      "end_ms": 64
+      "start_ms": 56,
+      "end_ms": 62
     },
     "14": {
       "title": "14 باب التركات",
       "level": 1,
       "parent": null,
-      "start_ms": 64,
-      "end_ms": 65
+      "start_ms": 62,
+      "end_ms": 64
     },
     "15": {
       "title": "15 باب في كثرة المال",
       "level": 1,
       "parent": null,
-      "start_ms": 65,
-      "end_ms": 66
+      "start_ms": 64,
+      "end_ms": 64
     },
     "16": {
       "title": "16 باب الفقر",
       "level": 1,
       "parent": null,
-      "start_ms": 66,
+      "start_ms": 64,
       "end_ms": null
     }
   },
   "starts": [
     [
-      9,
+      8,
       [1],
       null
     ],
@@ -126,14 +126,14 @@
       1
     ],
     [
-      26,
+      25,
       [3],
       2
     ],
     [
-      31,
+      30,
       [4],
-      null
+      3
     ],
     [
       36,
@@ -141,60 +141,55 @@
       4
     ],
     [
-      38,
+      37,
       [6],
       5
     ],
     [
-      42,
+      41,
       [7],
       6
     ],
     [
-      43,
+      42,
       [8],
       7
     ],
     [
-      44,
+      43,
       [9],
       8
     ],
     [
-      46,
+      45,
       [10],
       9
     ],
     [
-      49,
+      48,
       [11],
       10
     ],
     [
-      53,
+      52,
       [12],
       11
     ],
     [
-      58,
+      56,
       [13],
       12
     ],
     [
-      64,
+      62,
       [14],
       13
     ],
     [
-      65,
-      [15],
+      64,
+      [15, 16],
       14
-    ],
-    [
-      66,
-      [16],
-      15
     ]
   ],
-  "last_ms": 77
+  "last_ms": 75
 }

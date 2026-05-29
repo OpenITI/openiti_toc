@@ -27,13 +27,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 35,
-      "end_ms": 60
+      "end_ms": 59
     },
     "5": {
       "title": "الطبقة الخامسة",
       "level": 1,
       "parent": null,
-      "start_ms": 60,
+      "start_ms": 59,
       "end_ms": 70
     },
     "6": {
@@ -48,90 +48,90 @@
       "level": 1,
       "parent": null,
       "start_ms": 95,
-      "end_ms": 111
+      "end_ms": 110
     },
     "8": {
       "title": "الطبقة الثامنة",
       "level": 1,
       "parent": null,
-      "start_ms": 111,
-      "end_ms": 138
+      "start_ms": 110,
+      "end_ms": 137
     },
     "9": {
       "title": "الطبقة التاسعة",
       "level": 1,
       "parent": null,
-      "start_ms": 138,
-      "end_ms": 161
+      "start_ms": 137,
+      "end_ms": 160
     },
     "10": {
       "title": "الطبقة العاشرة",
       "level": 1,
       "parent": null,
-      "start_ms": 161,
-      "end_ms": 180
+      "start_ms": 160,
+      "end_ms": 179
     },
     "11": {
       "title": "الطبقة الحادية عشرة وفيها من لعله من الطبقة الماضية ولكنهم تأخرت وفياتهم",
       "level": 1,
       "parent": null,
-      "start_ms": 180,
-      "end_ms": 200
+      "start_ms": 179,
+      "end_ms": 198
     },
     "12": {
       "title": "الطبقة الثانية عشرة وفي أوائلها جماعة لولا تأخر موتهم لكانوا في الطبقة الماضية",
       "level": 1,
       "parent": null,
-      "start_ms": 200,
-      "end_ms": 221
+      "start_ms": 198,
+      "end_ms": 219
     },
     "13": {
       "title": "الطبقة الثالثة عشرة",
       "level": 1,
       "parent": null,
-      "start_ms": 221,
-      "end_ms": 245
+      "start_ms": 219,
+      "end_ms": 243
     },
     "14": {
       "title": "الطبقة الرابعة عشرة",
       "level": 1,
       "parent": null,
-      "start_ms": 245,
-      "end_ms": 269
+      "start_ms": 243,
+      "end_ms": 267
     },
     "15": {
       "title": "الطبقة الخامسة عشرة",
       "level": 1,
       "parent": null,
-      "start_ms": 269,
-      "end_ms": 286
+      "start_ms": 267,
+      "end_ms": 283
     },
     "16": {
       "title": "الطبقة السادسة عشرة",
       "level": 1,
       "parent": null,
-      "start_ms": 286,
-      "end_ms": 308
+      "start_ms": 283,
+      "end_ms": 305
     },
     "17": {
       "title": "ومن صغار الطبقة السادسة عشرة",
       "level": 2,
       "parent": 16,
-      "start_ms": 299,
-      "end_ms": 308
+      "start_ms": 297,
+      "end_ms": 305
     },
     "18": {
       "title": "طبقة بين الطبقتين",
       "level": 1,
       "parent": null,
-      "start_ms": 308,
-      "end_ms": 316
+      "start_ms": 305,
+      "end_ms": 313
     },
     "19": {
       "title": "الطبقة الثامنة عشرة",
       "level": 1,
       "parent": null,
-      "start_ms": 316,
+      "start_ms": 313,
       "end_ms": null
     }
   },
@@ -157,7 +157,7 @@
       3
     ],
     [
-      60,
+      59,
       [5],
       4
     ],
@@ -172,65 +172,65 @@
       6
     ],
     [
-      111,
+      110,
       [8],
       7
     ],
     [
-      138,
+      137,
       [9],
       8
     ],
     [
-      161,
+      160,
       [10],
       9
     ],
     [
-      180,
+      179,
       [11],
       10
     ],
     [
-      200,
+      198,
       [12],
       11
     ],
     [
-      221,
+      219,
       [13],
       12
     ],
     [
-      245,
+      243,
       [14],
       13
     ],
     [
-      269,
+      267,
       [15],
       14
     ],
     [
-      286,
+      283,
       [16],
       15
     ],
     [
-      299,
+      297,
       [17],
       16
     ],
     [
-      308,
+      305,
       [18],
       17
     ],
     [
-      316,
+      313,
       [19],
       18
     ]
   ],
-  "last_ms": 321
+  "last_ms": 319
 }

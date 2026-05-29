@@ -6,34 +6,34 @@
       "level": 1,
       "parent": null,
       "start_ms": 24,
-      "end_ms": 41
+      "end_ms": 40
     },
     "2": {
       "title": "الجزء الثالث",
       "level": 1,
       "parent": null,
-      "start_ms": 41,
+      "start_ms": 40,
       "end_ms": null
     },
     "3": {
       "title": "ذم التسويف",
       "level": 2,
       "parent": 2,
-      "start_ms": 42,
-      "end_ms": 47
+      "start_ms": 41,
+      "end_ms": 46
     },
     "4": {
       "title": "باب | البناء وما ذموا منه $ |",
       "level": 2,
       "parent": 2,
-      "start_ms": 47,
-      "end_ms": 48
+      "start_ms": 46,
+      "end_ms": 47
     },
     "5": {
       "title": "باب | البناء وذمه",
       "level": 2,
       "parent": 2,
-      "start_ms": 48,
+      "start_ms": 47,
       "end_ms": null
     }
   },
@@ -44,25 +44,25 @@
       null
     ],
     [
-      41,
+      40,
       [2],
       1
     ],
     [
-      42,
+      41,
       [3],
       2
     ],
     [
-      47,
+      46,
       [4],
       3
     ],
     [
-      48,
+      47,
       [5],
       4
     ]
   ],
-  "last_ms": 67
+  "last_ms": 66
 }

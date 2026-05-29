@@ -6,7 +6,7 @@
       "level": 2,
       "parent": null,
       "start_ms": 14,
-      "end_ms": 50
+      "end_ms": 49
     },
     "2": {
       "title": "الطبقة الثانية",
@@ -27,20 +27,20 @@
       "level": 2,
       "parent": 1,
       "start_ms": 34,
-      "end_ms": 36
+      "end_ms": 35
     },
     "5": {
       "title": "الطبقة الخامسة",
       "level": 2,
       "parent": 1,
-      "start_ms": 36,
-      "end_ms": 38
+      "start_ms": 35,
+      "end_ms": 37
     },
     "6": {
       "title": "الطبقة السادسة",
       "level": 2,
       "parent": 1,
-      "start_ms": 38,
+      "start_ms": 37,
       "end_ms": 38
     },
     "7": {
@@ -48,20 +48,20 @@
       "level": 2,
       "parent": 1,
       "start_ms": 38,
-      "end_ms": 39
+      "end_ms": 38
     },
     "8": {
       "title": "الطبقة الثامنة",
       "level": 2,
       "parent": 1,
-      "start_ms": 39,
-      "end_ms": 42
+      "start_ms": 38,
+      "end_ms": 41
     },
     "9": {
       "title": "الطبقة التاسعة",
       "level": 2,
       "parent": 1,
-      "start_ms": 42,
+      "start_ms": 41,
       "end_ms": 46
     },
     "10": {
@@ -69,153 +69,153 @@
       "level": 2,
       "parent": 1,
       "start_ms": 46,
-      "end_ms": 50
+      "end_ms": 49
     },
     "11": {
       "title": "طبقة أصحاب المراثى",
       "level": 1,
       "parent": null,
-      "start_ms": 50,
-      "end_ms": 53
+      "start_ms": 49,
+      "end_ms": 52
     },
     "12": {
       "title": "شعراء القرى العربية",
       "level": 1,
       "parent": null,
-      "start_ms": 53,
-      "end_ms": 68
+      "start_ms": 52,
+      "end_ms": 67
     },
     "13": {
       "title": "قرية المدينة",
       "level": 2,
       "parent": 12,
-      "start_ms": 53,
-      "end_ms": 58
+      "start_ms": 52,
+      "end_ms": 57
     },
     "14": {
       "title": "شعراء مكة",
       "level": 2,
       "parent": 12,
-      "start_ms": 58,
-      "end_ms": 64
+      "start_ms": 57,
+      "end_ms": 63
     },
     "15": {
       "title": "شعراء الطائف",
       "level": 2,
       "parent": 12,
-      "start_ms": 64,
-      "end_ms": 67
+      "start_ms": 63,
+      "end_ms": 66
     },
     "16": {
       "title": "شعراء البحرين",
       "level": 2,
       "parent": 12,
-      "start_ms": 67,
-      "end_ms": 68
+      "start_ms": 66,
+      "end_ms": 67
     },
     "17": {
       "title": "شعراء يهود",
       "level": 1,
       "parent": null,
-      "start_ms": 68,
-      "end_ms": 71
+      "start_ms": 67,
+      "end_ms": 70
     },
     "18": {
       "title": "طبقات الإسلام",
       "level": 1,
       "parent": null,
-      "start_ms": 71,
+      "start_ms": 70,
       "end_ms": null
     },
     "19": {
       "title": "الطبقة الأولى",
       "level": 2,
       "parent": 18,
-      "start_ms": 71,
-      "end_ms": 125
+      "start_ms": 70,
+      "end_ms": 123
     },
     "20": {
       "title": "ذكر جرير",
       "level": 3,
       "parent": 19,
-      "start_ms": 89,
-      "end_ms": 109
+      "start_ms": 88,
+      "end_ms": 107
     },
     "21": {
       "title": "ذكر الأخطل",
       "level": 3,
       "parent": 19,
-      "start_ms": 109,
-      "end_ms": 121
+      "start_ms": 107,
+      "end_ms": 119
     },
     "22": {
       "title": "الراعي",
       "level": 3,
       "parent": 19,
-      "start_ms": 121,
-      "end_ms": 125
+      "start_ms": 119,
+      "end_ms": 123
     },
     "23": {
       "title": "الطبقة الثانية",
       "level": 2,
       "parent": 18,
-      "start_ms": 125,
-      "end_ms": 133
+      "start_ms": 123,
+      "end_ms": 131
     },
     "24": {
       "title": "الطبقة الثالثة",
       "level": 2,
       "parent": 18,
-      "start_ms": 133,
-      "end_ms": 136
+      "start_ms": 131,
+      "end_ms": 133
     },
     "25": {
       "title": "الطبقة الرابعة",
       "level": 2,
       "parent": 18,
-      "start_ms": 136,
-      "end_ms": 138
+      "start_ms": 133,
+      "end_ms": 135
     },
     "26": {
       "title": "الطبقة الخامسة",
       "level": 2,
       "parent": 18,
-      "start_ms": 138,
-      "end_ms": 147
+      "start_ms": 135,
+      "end_ms": 145
     },
     "27": {
       "title": "الطبقة السادسة",
       "level": 2,
       "parent": 18,
-      "start_ms": 147,
-      "end_ms": 155
+      "start_ms": 145,
+      "end_ms": 152
     },
     "28": {
       "title": "الطبقة السابعة",
       "level": 2,
       "parent": 18,
-      "start_ms": 155,
-      "end_ms": 162
+      "start_ms": 152,
+      "end_ms": 160
     },
     "29": {
       "title": "الطبقة الثامنة",
       "level": 2,
       "parent": 18,
-      "start_ms": 162,
-      "end_ms": 169
+      "start_ms": 160,
+      "end_ms": 166
     },
     "30": {
       "title": "الطبقة التاسعة",
       "level": 2,
       "parent": 18,
-      "start_ms": 169,
-      "end_ms": 175
+      "start_ms": 166,
+      "end_ms": 172
     },
     "31": {
       "title": "الطبقة العاشرة",
       "level": 2,
       "parent": 18,
-      "start_ms": 175,
+      "start_ms": 172,
       "end_ms": null
     }
   },
@@ -241,22 +241,22 @@
       3
     ],
     [
-      36,
+      35,
       [5],
       4
     ],
     [
-      38,
-      [6, 7],
+      37,
+      [6],
       5
     ],
     [
-      39,
-      [8],
-      7
+      38,
+      [7, 8],
+      6
     ],
     [
-      42,
+      41,
       [9],
       8
     ],
@@ -266,100 +266,100 @@
       9
     ],
     [
-      50,
+      49,
       [11],
       10
     ],
     [
-      53,
+      52,
       [12, 13],
       11
     ],
     [
-      58,
+      57,
       [14],
       13
     ],
     [
-      64,
+      63,
       [15],
       14
     ],
     [
-      67,
+      66,
       [16],
       15
     ],
     [
-      68,
+      67,
       [17],
       16
     ],
     [
-      71,
+      70,
       [18, 19],
       17
     ],
     [
-      89,
+      88,
       [20],
       19
     ],
     [
-      109,
+      107,
       [21],
       20
     ],
     [
-      121,
+      119,
       [22],
       21
     ],
     [
-      125,
+      123,
       [23],
       22
     ],
     [
-      133,
+      131,
       [24],
       23
     ],
     [
-      136,
+      133,
       [25],
       24
     ],
     [
-      138,
+      135,
       [26],
       25
     ],
     [
-      147,
+      145,
       [27],
       26
     ],
     [
-      155,
+      152,
       [28],
       27
     ],
     [
-      162,
+      160,
       [29],
       28
     ],
     [
-      169,
+      166,
       [30],
       29
     ],
     [
-      175,
+      172,
       [31],
       30
     ]
   ],
-  "last_ms": 180
+  "last_ms": 177
 }

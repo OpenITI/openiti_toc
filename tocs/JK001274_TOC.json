@@ -27,13 +27,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 19,
-      "end_ms": 22
+      "end_ms": 21
     },
     "5": {
       "title": "ذكر قوله صلى الله عليه وسلم ( إنك إن اتبعت عورات المسلمين أفسدتهم )",
       "level": 1,
       "parent": null,
-      "start_ms": 22,
+      "start_ms": 21,
       "end_ms": 22
     },
     "6": {
@@ -55,20 +55,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 29,
-      "end_ms": 31
+      "end_ms": 30
     },
     "9": {
       "title": "ذكر الفحش وما جاء فيه",
       "level": 1,
       "parent": null,
-      "start_ms": 31,
-      "end_ms": 32
+      "start_ms": 30,
+      "end_ms": 31
     },
     "10": {
       "title": "ذكر قول النبي صلى الله عليه وسلم ( أبغض الرجال إلى الله الذي يقتدي بسيئة المؤمن ويدع حسنته )",
       "level": 1,
       "parent": null,
-      "start_ms": 32,
+      "start_ms": 31,
       "end_ms": 32
     },
     "11": {
@@ -83,69 +83,69 @@
       "level": 1,
       "parent": null,
       "start_ms": 33,
-      "end_ms": 35
+      "end_ms": 34
     },
     "13": {
       "title": "ما ذكر في الرياء وعقوبته",
       "level": 1,
       "parent": null,
-      "start_ms": 35,
-      "end_ms": 36
+      "start_ms": 34,
+      "end_ms": 35
     },
     "14": {
       "title": "ما روى فى قول الله عز وجل @QB@ الخبيثات للخبيثين والخبيثون للخبيثات والطيبات للطيبين والطيبون للطيبات @QE@",
       "level": 1,
       "parent": null,
-      "start_ms": 36,
-      "end_ms": 37
+      "start_ms": 35,
+      "end_ms": 36
     },
     "15": {
       "title": "كراهية المشهور من الثياب",
       "level": 1,
       "parent": null,
-      "start_ms": 37,
-      "end_ms": 37
+      "start_ms": 36,
+      "end_ms": 36
     },
     "16": {
       "title": "النهى عن الغيبة وما جاء فيها",
       "level": 1,
       "parent": null,
-      "start_ms": 37,
-      "end_ms": 39
+      "start_ms": 36,
+      "end_ms": 38
     },
     "17": {
       "title": "صفة الغيبة",
       "level": 1,
       "parent": null,
-      "start_ms": 39,
-      "end_ms": 42
+      "start_ms": 38,
+      "end_ms": 41
     },
     "18": {
       "title": "ذكر ما أعد الله لأهل الغيبة",
       "level": 1,
       "parent": null,
-      "start_ms": 42,
-      "end_ms": 43
+      "start_ms": 41,
+      "end_ms": 42
     },
     "19": {
       "title": "كفارة الغيبة",
       "level": 1,
       "parent": null,
-      "start_ms": 43,
-      "end_ms": 44
+      "start_ms": 42,
+      "end_ms": 43
     },
     "20": {
       "title": "البهتان وما جاء فيه",
       "level": 1,
       "parent": null,
-      "start_ms": 44,
-      "end_ms": 48
+      "start_ms": 43,
+      "end_ms": 47
     },
     "21": {
       "title": "- باب جامع",
       "level": 1,
       "parent": null,
-      "start_ms": 48,
+      "start_ms": 47,
       "end_ms": null
     }
   },
@@ -171,9 +171,14 @@
       3
     ],
     [
-      22,
-      [5, 6],
+      21,
+      [5],
       4
+    ],
+    [
+      22,
+      [6],
+      5
     ],
     [
       25,
@@ -186,14 +191,19 @@
       7
     ],
     [
-      31,
+      30,
       [9],
       8
     ],
     [
-      32,
-      [10, 11],
+      31,
+      [10],
       9
+    ],
+    [
+      32,
+      [11],
+      10
     ],
     [
       33,
@@ -201,45 +211,45 @@
       11
     ],
     [
-      35,
+      34,
       [13],
       12
     ],
     [
-      36,
+      35,
       [14],
       13
     ],
     [
-      37,
+      36,
       [15, 16],
       14
     ],
     [
-      39,
+      38,
       [17],
       16
     ],
     [
-      42,
+      41,
       [18],
       17
     ],
     [
-      43,
+      42,
       [19],
       18
     ],
     [
-      44,
+      43,
       [20],
       19
     ],
     [
-      48,
+      47,
       [21],
       20
     ]
   ],
-  "last_ms": 52
+  "last_ms": 51
 }

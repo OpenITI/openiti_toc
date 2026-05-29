@@ -6,14 +6,14 @@
       "level": 2,
       "parent": null,
       "start_ms": 2,
-      "end_ms": 43
+      "end_ms": 42
     },
     "2": {
       "title": "( ( باب الأسماء ) )",
       "level": 2,
       "parent": 1,
       "start_ms": 8,
-      "end_ms": 43
+      "end_ms": 42
     },
     "3": {
       "title": "( ( البر ) )",
@@ -27,90 +27,90 @@
       "level": 3,
       "parent": 2,
       "start_ms": 23,
-      "end_ms": 28
+      "end_ms": 27
     },
     "5": {
       "title": "( ( الإخاء في الله ) )",
       "level": 3,
       "parent": 2,
-      "start_ms": 28,
-      "end_ms": 34
+      "start_ms": 27,
+      "end_ms": 33
     },
     "6": {
       "title": "( ( الأخاء ) )",
       "level": 3,
       "parent": 2,
-      "start_ms": 34,
-      "end_ms": 38
+      "start_ms": 33,
+      "end_ms": 37
     },
     "7": {
       "title": "( ( في هجرة الرجل أخاه ) )",
       "level": 3,
       "parent": 2,
-      "start_ms": 38,
-      "end_ms": 41
+      "start_ms": 37,
+      "end_ms": 40
     },
     "8": {
       "title": "( ( البغي ) )",
       "level": 3,
       "parent": 2,
-      "start_ms": 41,
-      "end_ms": 43
+      "start_ms": 40,
+      "end_ms": 42
     },
     "9": {
       "title": "( ( هذا كتاب الصمت ) )  من جامع عبد الله بن وهب بن مسلم القرشي",
       "level": 1,
       "parent": null,
-      "start_ms": 43,
+      "start_ms": 42,
       "end_ms": null
     },
     "10": {
       "title": "باب العزلة",
       "level": 2,
       "parent": 9,
-      "start_ms": 60,
-      "end_ms": 79
+      "start_ms": 58,
+      "end_ms": 77
     },
     "11": {
       "title": "في الجلوس إلى القاص",
       "level": 2,
       "parent": 9,
-      "start_ms": 79,
-      "end_ms": 91
+      "start_ms": 77,
+      "end_ms": 88
     },
     "12": {
       "title": "في ربط الأسنان بالذهب",
       "level": 2,
       "parent": 9,
-      "start_ms": 91,
-      "end_ms": 93
+      "start_ms": 88,
+      "end_ms": 90
     },
     "13": {
       "title": "في الطيرة والعدوى والهام والصفر والغول",
       "level": 2,
       "parent": 9,
-      "start_ms": 93,
-      "end_ms": 95
+      "start_ms": 90,
+      "end_ms": 92
     },
     "14": {
       "title": "عاهة وقدر",
       "level": 2,
       "parent": 9,
-      "start_ms": 95,
-      "end_ms": 100
+      "start_ms": 92,
+      "end_ms": 97
     },
     "15": {
       "title": "في التمايم والتول والنفس",
       "level": 2,
       "parent": 9,
-      "start_ms": 100,
-      "end_ms": 105
+      "start_ms": 97,
+      "end_ms": 102
     },
     "16": {
       "title": "في الرقية",
       "level": 2,
       "parent": 9,
-      "start_ms": 105,
+      "start_ms": 102,
       "end_ms": null
     }
   },
@@ -136,65 +136,65 @@
       3
     ],
     [
-      28,
+      27,
       [5],
       4
     ],
     [
-      34,
+      33,
       [6],
       5
     ],
     [
-      38,
+      37,
       [7],
       6
     ],
     [
-      41,
+      40,
       [8],
       7
     ],
     [
-      43,
+      42,
       [9],
       8
     ],
     [
-      60,
+      58,
       [10],
       9
     ],
     [
-      79,
+      77,
       [11],
       10
     ],
     [
-      91,
+      88,
       [12],
       11
     ],
     [
-      93,
+      90,
       [13],
       12
     ],
     [
-      95,
+      92,
       [14],
       13
     ],
     [
-      100,
+      97,
       [15],
       14
     ],
     [
-      105,
+      102,
       [16],
       15
     ]
   ],
-  "last_ms": 108
+  "last_ms": 105
 }

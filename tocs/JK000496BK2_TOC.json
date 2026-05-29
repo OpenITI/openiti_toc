@@ -13,13 +13,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 7,
-      "end_ms": 8
+      "end_ms": 7
     },
     "3": {
       "title": "وفي ذيل الورقة 183/ ب",
       "level": 1,
       "parent": null,
-      "start_ms": 8,
+      "start_ms": 7,
       "end_ms": 8
     },
     "4": {
@@ -38,13 +38,13 @@
     ],
     [
       7,
-      [2],
+      [2, 3],
       1
     ],
     [
       8,
-      [3, 4],
-      2
+      [4],
+      3
     ]
   ],
   "last_ms": 9

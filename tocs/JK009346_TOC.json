@@ -5,14 +5,14 @@
       "title": "ما في الفن الثاني",
       "level": 2,
       "parent": null,
-      "start_ms": 2,
+      "start_ms": 1,
       "end_ms": null
     },
     "2": {
       "title": "فصل",
       "level": 2,
       "parent": 1,
-      "start_ms": 29,
+      "start_ms": 28,
       "end_ms": 32
     },
     "3": {
@@ -20,13 +20,13 @@
       "level": 2,
       "parent": 1,
       "start_ms": 32,
-      "end_ms": 37
+      "end_ms": 36
     },
     "4": {
       "title": "فصل",
       "level": 2,
       "parent": 1,
-      "start_ms": 37,
+      "start_ms": 36,
       "end_ms": 37
     },
     "5": {
@@ -39,12 +39,12 @@
   },
   "starts": [
     [
-      2,
+      1,
       [1],
       null
     ],
     [
-      29,
+      28,
       [2],
       1
     ],
@@ -54,10 +54,15 @@
       2
     ],
     [
-      37,
-      [4, 5],
+      36,
+      [4],
       3
+    ],
+    [
+      37,
+      [5],
+      4
     ]
   ],
-  "last_ms": 38
+  "last_ms": 37
 }

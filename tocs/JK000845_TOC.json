@@ -5,292 +5,287 @@
       "title": "باب الباء الموحدة",
       "level": 1,
       "parent": null,
-      "start_ms": 114,
-      "end_ms": 301
+      "start_ms": 111,
+      "end_ms": 293
     },
     "2": {
       "title": "باب الخاءالمعجمة",
       "level": 1,
       "parent": null,
-      "start_ms": 301,
-      "end_ms": 312
+      "start_ms": 293,
+      "end_ms": 304
     },
     "3": {
       "title": "باب الدال المهملة",
       "level": 1,
       "parent": null,
-      "start_ms": 312,
-      "end_ms": 382
+      "start_ms": 304,
+      "end_ms": 372
     },
     "4": {
       "title": "فصل الدواوين",
       "level": 2,
       "parent": 3,
-      "start_ms": 343,
-      "end_ms": 382
+      "start_ms": 334,
+      "end_ms": 372
     },
     "5": {
       "title": "باب الذال المعجمة",
       "level": 1,
       "parent": null,
-      "start_ms": 382,
-      "end_ms": 387
+      "start_ms": 372,
+      "end_ms": 376
     },
     "6": {
       "title": "باب الراء المهملة",
       "level": 1,
       "parent": null,
-      "start_ms": 387,
-      "end_ms": 430
+      "start_ms": 376,
+      "end_ms": 418
     },
     "7": {
       "title": "باب الزاء المعجمة",
       "level": 1,
       "parent": null,
-      "start_ms": 430,
-      "end_ms": 442
+      "start_ms": 418,
+      "end_ms": 430
     },
     "8": {
       "title": "باب السين المهملة",
       "level": 1,
       "parent": null,
-      "start_ms": 442,
-      "end_ms": 469
+      "start_ms": 430,
+      "end_ms": 456
     },
     "9": {
       "title": "باب الشين المعجمة",
       "level": 1,
       "parent": null,
-      "start_ms": 469,
-      "end_ms": 486
+      "start_ms": 456,
+      "end_ms": 473
     },
     "10": {
       "title": "باب الصاد المهملة",
       "level": 1,
       "parent": null,
-      "start_ms": 486,
-      "end_ms": 493
+      "start_ms": 473,
+      "end_ms": 480
     },
     "11": {
       "title": "باب الضاد المعجمة",
       "level": 1,
       "parent": null,
-      "start_ms": 493,
-      "end_ms": 496
+      "start_ms": 480,
+      "end_ms": 483
     },
     "12": {
       "title": "باب الطاء المهملة",
       "level": 1,
       "parent": null,
-      "start_ms": 496,
-      "end_ms": 505
+      "start_ms": 483,
+      "end_ms": 492
     },
     "13": {
       "title": "باب الظاء المعجمة",
       "level": 1,
       "parent": null,
-      "start_ms": 505,
-      "end_ms": 506
+      "start_ms": 492,
+      "end_ms": 492
     },
     "14": {
       "title": "باب العين المهملة",
       "level": 1,
       "parent": null,
-      "start_ms": 506,
-      "end_ms": 538
+      "start_ms": 492,
+      "end_ms": 524
     },
     "15": {
       "title": "باب الغين المعجمة",
       "level": 1,
       "parent": null,
-      "start_ms": 538,
-      "end_ms": 550
+      "start_ms": 524,
+      "end_ms": 536
     },
     "16": {
       "title": "باب الفاء",
       "level": 1,
       "parent": null,
-      "start_ms": 550,
-      "end_ms": 597
+      "start_ms": 536,
+      "end_ms": 582
     },
     "17": {
       "title": "باب القاف",
       "level": 1,
       "parent": null,
-      "start_ms": 597,
-      "end_ms": 626
+      "start_ms": 582,
+      "end_ms": 611
     },
     "18": {
       "title": "باب الكاف",
       "level": 1,
       "parent": null,
-      "start_ms": 626,
-      "end_ms": 714
+      "start_ms": 611,
+      "end_ms": 697
     },
     "19": {
       "title": "باب اللام",
       "level": 1,
       "parent": null,
-      "start_ms": 714,
-      "end_ms": 730
+      "start_ms": 697,
+      "end_ms": 713
     },
     "20": {
       "title": "باب الميم",
       "level": 1,
       "parent": null,
-      "start_ms": 730,
-      "end_ms": 870
+      "start_ms": 713,
+      "end_ms": 851
     },
     "21": {
       "title": "باب النون",
       "level": 1,
       "parent": null,
-      "start_ms": 870,
-      "end_ms": 930
+      "start_ms": 851,
+      "end_ms": 910
     },
     "22": {
       "title": "باب الواو",
       "level": 1,
       "parent": null,
-      "start_ms": 930,
-      "end_ms": 942
+      "start_ms": 910,
+      "end_ms": 921
     },
     "23": {
       "title": "بابل الهاء",
       "level": 1,
       "parent": null,
-      "start_ms": 942,
-      "end_ms": 952
+      "start_ms": 921,
+      "end_ms": 931
     },
     "24": {
       "title": "باب الياء المثناة",
       "level": 1,
       "parent": null,
-      "start_ms": 952,
+      "start_ms": 931,
       "end_ms": null
     }
   },
   "starts": [
     [
-      114,
+      111,
       [1],
       null
     ],
     [
-      301,
+      293,
       [2],
       1
     ],
     [
-      312,
+      304,
       [3],
       2
     ],
     [
-      343,
+      334,
       [4],
       3
     ],
     [
-      382,
+      372,
       [5],
       4
     ],
     [
-      387,
+      376,
       [6],
       5
     ],
     [
-      430,
+      418,
       [7],
       6
     ],
     [
-      442,
+      430,
       [8],
       7
     ],
     [
-      469,
+      456,
       [9],
       8
     ],
     [
-      486,
+      473,
       [10],
       9
     ],
     [
-      493,
+      480,
       [11],
       10
     ],
     [
-      496,
+      483,
       [12],
       11
     ],
     [
-      505,
-      [13],
+      492,
+      [13, 14],
       12
     ],
     [
-      506,
-      [14],
-      13
-    ],
-    [
-      538,
+      524,
       [15],
       14
     ],
     [
-      550,
+      536,
       [16],
       15
     ],
     [
-      597,
+      582,
       [17],
       16
     ],
     [
-      626,
+      611,
       [18],
       17
     ],
     [
-      714,
+      697,
       [19],
       18
     ],
     [
-      730,
+      713,
       [20],
       19
     ],
     [
-      870,
+      851,
       [21],
       20
     ],
     [
-      930,
+      910,
       [22],
       21
     ],
     [
-      942,
+      921,
       [23],
       22
     ],
     [
-      952,
+      931,
       [24],
       23
     ]
   ],
-  "last_ms": 954
+  "last_ms": 933
 }

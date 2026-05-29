@@ -13,13 +13,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 8,
-      "end_ms": 11
+      "end_ms": 10
     },
     "3": {
       "title": "( باب الورع في السمع )",
       "level": 1,
       "parent": null,
-      "start_ms": 11,
+      "start_ms": 10,
       "end_ms": 12
     },
     "4": {
@@ -34,13 +34,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 13,
-      "end_ms": 15
+      "end_ms": 14
     },
     "6": {
       "title": "( باب الورع في البطش )",
       "level": 1,
       "parent": null,
-      "start_ms": 15,
+      "start_ms": 14,
       "end_ms": 16
     },
     "7": {
@@ -48,13 +48,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 16,
-      "end_ms": 21
+      "end_ms": 20
     },
     "8": {
       "title": "( باب الورع في الفرج )",
       "level": 1,
       "parent": null,
-      "start_ms": 21,
+      "start_ms": 20,
       "end_ms": 21
     },
     "9": {
@@ -69,20 +69,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 22,
-      "end_ms": 26
+      "end_ms": 25
     },
     "11": {
       "title": "( باب الورع في الشراء والبيع )",
       "level": 1,
       "parent": null,
-      "start_ms": 26,
-      "end_ms": 29
+      "start_ms": 25,
+      "end_ms": 28
     },
     "12": {
       "title": "( باب ثواب الورعين )",
       "level": 1,
       "parent": null,
-      "start_ms": 29,
+      "start_ms": 28,
       "end_ms": 30
     },
     "13": {
@@ -105,7 +105,7 @@
       1
     ],
     [
-      11,
+      10,
       [3],
       2
     ],
@@ -120,7 +120,7 @@
       4
     ],
     [
-      15,
+      14,
       [6],
       5
     ],
@@ -130,9 +130,14 @@
       6
     ],
     [
-      21,
-      [8, 9],
+      20,
+      [8],
       7
+    ],
+    [
+      21,
+      [9],
+      8
     ],
     [
       22,
@@ -140,12 +145,12 @@
       9
     ],
     [
-      26,
+      25,
       [11],
       10
     ],
     [
-      29,
+      28,
       [12],
       11
     ],
@@ -155,5 +160,5 @@
       12
     ]
   ],
-  "last_ms": 39
+  "last_ms": 38
 }
