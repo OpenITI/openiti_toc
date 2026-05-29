@@ -195,13 +195,13 @@
       "level": 4,
       "parent": 23,
       "start_ms": 9,
-      "end_ms": 12
+      "end_ms": 11
     },
     "29": {
       "title": "** تنبيه :",
       "level": 4,
       "parent": 23,
-      "start_ms": 12,
+      "start_ms": 11,
       "end_ms": 16
     },
     "30": {
@@ -307,13 +307,13 @@
       "level": 4,
       "parent": 43,
       "start_ms": 37,
-      "end_ms": 38
+      "end_ms": 37
     },
     "45": {
-      "title": "* وما اتفق لنا ms037 فيها",
+      "title": "* وما اتفق لنا فيها",
       "level": 4,
       "parent": 43,
-      "start_ms": 38,
+      "start_ms": 37,
       "end_ms": 43
     },
     "46": {
@@ -377,62 +377,62 @@
       "level": 3,
       "parent": 2,
       "start_ms": 79,
-      "end_ms": 89
+      "end_ms": 88
     },
     "55": {
       "title": "* في ذكر بلاد فلنضس",
       "level": 4,
       "parent": 54,
       "start_ms": 79,
-      "end_ms": 89
+      "end_ms": 88
     },
     "56": {
       "title": "* الباب الثاني عشر",
       "level": 3,
       "parent": 2,
-      "start_ms": 89,
-      "end_ms": 94
+      "start_ms": 88,
+      "end_ms": 93
     },
     "57": {
       "title": "* فيما اتفق لنا في مصر مع راهب عالم كان بالغا",
       "level": 4,
       "parent": 56,
-      "start_ms": 89,
-      "end_ms": 89
+      "start_ms": 88,
+      "end_ms": 88
     },
     "58": {
       "title": "* في فنون العلم ويقرأ بالعربية وأيضا ما وقع لي من المكاتبة لراهب من",
       "level": 4,
       "parent": 56,
-      "start_ms": 89,
-      "end_ms": 89
+      "start_ms": 88,
+      "end_ms": 88
     },
     "59": {
       "title": "* أكابر علماء النصارى بمراكش",
       "level": 4,
       "parent": 56,
-      "start_ms": 89,
-      "end_ms": 94
+      "start_ms": 88,
+      "end_ms": 93
     },
     "60": {
       "title": "** الفصل التاسع :",
       "level": 3,
       "parent": 2,
-      "start_ms": 94,
-      "end_ms": 94
+      "start_ms": 93,
+      "end_ms": 93
     },
     "61": {
       "title": "** الفصل العاشر :",
       "level": 3,
       "parent": 2,
-      "start_ms": 94,
-      "end_ms": 94
+      "start_ms": 93,
+      "end_ms": 93
     },
     "62": {
       "title": "** الفصل الثاني عشر :",
       "level": 3,
       "parent": 2,
-      "start_ms": 94,
+      "start_ms": 93,
       "end_ms": 94
     },
     "63": {
@@ -440,62 +440,62 @@
       "level": 3,
       "parent": 2,
       "start_ms": 94,
-      "end_ms": 99
+      "end_ms": 98
     },
     "64": {
       "title": "* الباب الثالث عشر",
       "level": 3,
       "parent": 2,
-      "start_ms": 99,
-      "end_ms": 112
+      "start_ms": 98,
+      "end_ms": 111
     },
     "65": {
       "title": "* في ذكر ما أنعم الله تعالى علي من فضله",
       "level": 4,
       "parent": 64,
-      "start_ms": 99,
-      "end_ms": 99
+      "start_ms": 98,
+      "end_ms": 98
     },
     "66": {
       "title": "* في بلاد الأندلس وغيرها من البلاد",
       "level": 4,
       "parent": 64,
-      "start_ms": 99,
-      "end_ms": 101
+      "start_ms": 98,
+      "end_ms": 100
     },
     "67": {
       "title": "** بسم الله الرحمان الرحيم",
       "level": 4,
       "parent": 64,
-      "start_ms": 101,
-      "end_ms": 112
+      "start_ms": 100,
+      "end_ms": 111
     },
     "68": {
       "title": "* انتهى.",
       "level": 3,
       "parent": 2,
-      "start_ms": 112,
-      "end_ms": 113
+      "start_ms": 111,
+      "end_ms": 112
     },
     "69": {
       "title": "* ملاحق الكتاب",
       "level": 3,
       "parent": 2,
-      "start_ms": 113,
-      "end_ms": 113
+      "start_ms": 112,
+      "end_ms": 112
     },
     "70": {
       "title": "* ملحق (1)",
       "level": 3,
       "parent": 2,
-      "start_ms": 113,
+      "start_ms": 112,
       "end_ms": null
     },
     "71": {
       "title": "* ترجمة كتاب «مواهب الثواب»",
       "level": 4,
       "parent": 70,
-      "start_ms": 113,
+      "start_ms": 112,
       "end_ms": 121
     },
     "72": {
@@ -533,7 +533,7 @@
       27
     ],
     [
-      12,
+      11,
       [29],
       28
     ],
@@ -564,13 +564,8 @@
     ],
     [
       37,
-      [43, 44],
+      [43, 44, 45],
       42
-    ],
-    [
-      38,
-      [45],
-      null
     ],
     [
       43,
@@ -593,32 +588,37 @@
       53
     ],
     [
-      89,
+      88,
       [56, 57, 58, 59],
       55
     ],
     [
-      94,
-      [60, 61, 62, 63],
+      93,
+      [60, 61, 62],
       59
     ],
     [
-      99,
+      94,
+      [63],
+      62
+    ],
+    [
+      98,
       [64, 65, 66],
       63
     ],
     [
-      101,
+      100,
       [67],
       66
     ],
     [
-      112,
+      111,
       [68],
       67
     ],
     [
-      113,
+      112,
       [69, 70, 71],
       68
     ],

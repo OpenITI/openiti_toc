@@ -5,246 +5,246 @@
       "title": "حرف الباء",
       "level": 1,
       "parent": null,
-      "start_ms": 287,
-      "end_ms": 378
+      "start_ms": 286,
+      "end_ms": 377
     },
     "2": {
       "title": "حرف الثاء",
       "level": 1,
       "parent": null,
-      "start_ms": 378,
-      "end_ms": 387
+      "start_ms": 377,
+      "end_ms": 386
     },
     "3": {
       "title": "حرف الجيم",
       "level": 1,
       "parent": null,
-      "start_ms": 387,
-      "end_ms": 403
+      "start_ms": 386,
+      "end_ms": 402
     },
     "4": {
       "title": "حرف الحاء المهملة",
       "level": 1,
       "parent": null,
-      "start_ms": 403,
-      "end_ms": 440
+      "start_ms": 402,
+      "end_ms": 439
     },
     "5": {
       "title": "حرف الخاء",
       "level": 1,
       "parent": null,
-      "start_ms": 440,
-      "end_ms": 460
+      "start_ms": 439,
+      "end_ms": 459
     },
     "6": {
       "title": "حرف الدال المهملة",
       "level": 1,
       "parent": null,
-      "start_ms": 460,
-      "end_ms": 463
+      "start_ms": 459,
+      "end_ms": 462
     },
     "7": {
       "title": "حرف الراء",
       "level": 1,
       "parent": null,
-      "start_ms": 463,
-      "end_ms": 465
+      "start_ms": 462,
+      "end_ms": 463
     },
     "8": {
       "title": "حرف الزاي",
       "level": 1,
       "parent": null,
-      "start_ms": 465,
-      "end_ms": 465
+      "start_ms": 463,
+      "end_ms": 464
     },
     "9": {
       "title": "حرف السين المهملة",
       "level": 1,
       "parent": null,
-      "start_ms": 465,
-      "end_ms": 483
+      "start_ms": 464,
+      "end_ms": 482
     },
     "10": {
       "title": "حرف الشين المعجمه",
       "level": 1,
       "parent": null,
-      "start_ms": 483,
-      "end_ms": 549
+      "start_ms": 482,
+      "end_ms": 548
     },
     "11": {
       "title": "حرف الصاد المهملة",
       "level": 1,
       "parent": null,
-      "start_ms": 549,
-      "end_ms": 555
+      "start_ms": 548,
+      "end_ms": 554
     },
     "12": {
       "title": "حرف الطاء المهملة",
       "level": 1,
       "parent": null,
-      "start_ms": 555,
-      "end_ms": 557
+      "start_ms": 554,
+      "end_ms": 556
     },
     "13": {
       "title": "حرف الظاء المعجمه",
       "level": 1,
       "parent": null,
-      "start_ms": 557,
-      "end_ms": 558
+      "start_ms": 556,
+      "end_ms": 556
     },
     "14": {
-      "title": "حرف العين ms0557",
+      "title": "حرف العين",
       "level": 1,
       "parent": null,
-      "start_ms": 558,
-      "end_ms": 812
+      "start_ms": 556,
+      "end_ms": 810
     },
     "15": {
       "title": "حرف الغين",
       "level": 1,
       "parent": null,
-      "start_ms": 812,
-      "end_ms": 812
+      "start_ms": 810,
+      "end_ms": 810
     },
     "16": {
       "title": "حرف الفاء",
       "level": 1,
       "parent": null,
-      "start_ms": 812,
-      "end_ms": 825
+      "start_ms": 810,
+      "end_ms": 823
     },
     "17": {
       "title": "حرف القاف",
       "level": 1,
       "parent": null,
-      "start_ms": 825,
-      "end_ms": 826
+      "start_ms": 823,
+      "end_ms": 824
     },
     "18": {
       "title": "حرف الكاف",
       "level": 1,
       "parent": null,
-      "start_ms": 826,
-      "end_ms": 827
+      "start_ms": 824,
+      "end_ms": 826
     },
     "19": {
       "title": "حرف الميم",
       "level": 1,
       "parent": null,
-      "start_ms": 827,
-      "end_ms": 1171
+      "start_ms": 826,
+      "end_ms": 1168
     },
     "20": {
       "title": "حرف النون",
       "level": 1,
       "parent": null,
-      "start_ms": 1171,
-      "end_ms": 1184
+      "start_ms": 1168,
+      "end_ms": 1181
     },
     "21": {
       "title": "حرف الياء",
       "level": 1,
       "parent": null,
-      "start_ms": 1184,
+      "start_ms": 1181,
       "end_ms": null
     }
   },
   "starts": [
     [
-      287,
+      286,
       [1],
       null
     ],
     [
-      378,
+      377,
       [2],
       1
     ],
     [
-      387,
+      386,
       [3],
       2
     ],
     [
-      403,
+      402,
       [4],
       3
     ],
     [
-      440,
+      439,
       [5],
       4
     ],
     [
-      460,
+      459,
       [6],
-      5
+      null
     ],
     [
-      463,
+      462,
       [7],
       6
     ],
     [
-      465,
-      [8, 9],
+      463,
+      [8],
       7
     ],
     [
-      483,
+      464,
+      [9],
+      8
+    ],
+    [
+      482,
       [10],
       9
     ],
     [
-      549,
+      548,
       [11],
       10
     ],
     [
-      555,
+      554,
       [12],
       11
     ],
     [
-      557,
-      [13],
+      556,
+      [13, 14],
       12
     ],
     [
-      558,
-      [14],
-      null
-    ],
-    [
-      812,
+      810,
       [15, 16],
       14
     ],
     [
-      825,
+      823,
       [17],
       16
     ],
     [
-      826,
+      824,
       [18],
       17
     ],
     [
-      827,
+      826,
       [19],
       18
     ],
     [
-      1171,
+      1168,
       [20],
       19
     ],
     [
-      1184,
+      1181,
       [21],
       20
     ]
   ],
-  "last_ms": 1235
+  "last_ms": 1231
 }

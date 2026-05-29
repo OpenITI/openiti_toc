@@ -104,20 +104,20 @@
       "level": 3,
       "parent": 14,
       "start_ms": 58,
-      "end_ms": 77
+      "end_ms": 76
     },
     "16": {
       "title": "AUTO الخاتمة",
       "level": 3,
       "parent": 14,
-      "start_ms": 77,
-      "end_ms": 79
+      "start_ms": 76,
+      "end_ms": 78
     },
     "17": {
       "title": "AUTO تقاريظ",
       "level": 3,
       "parent": 14,
-      "start_ms": 79,
+      "start_ms": 78,
       "end_ms": 81
     },
     "18": {
@@ -125,13 +125,13 @@
       "level": 3,
       "parent": 14,
       "start_ms": 81,
-      "end_ms": 86
+      "end_ms": 85
     },
     "19": {
       "title": "AUTO فهرس المواضيع",
       "level": 3,
       "parent": 14,
-      "start_ms": 86,
+      "start_ms": 85,
       "end_ms": null
     }
   },
@@ -187,12 +187,12 @@
       13
     ],
     [
-      77,
+      76,
       [16],
       15
     ],
     [
-      79,
+      78,
       [17],
       16
     ],
@@ -202,10 +202,10 @@
       17
     ],
     [
-      86,
+      85,
       [19],
       18
     ]
   ],
-  "last_ms": 103
+  "last_ms": 102
 }

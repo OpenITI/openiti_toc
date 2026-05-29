@@ -223,13 +223,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 101,
-      "end_ms": 104
+      "end_ms": 103
     },
     "33": {
       "title": "(سورة يس)",
       "level": 1,
       "parent": null,
-      "start_ms": 104,
+      "start_ms": 103,
       "end_ms": 107
     },
     "34": {
@@ -279,13 +279,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 122,
-      "end_ms": 124
+      "end_ms": 123
     },
     "41": {
       "title": "( سورة الجمعة )",
       "level": 1,
       "parent": null,
-      "start_ms": 124,
+      "start_ms": 123,
       "end_ms": 127
     },
     "42": {
@@ -498,7 +498,7 @@
       31
     ],
     [
-      104,
+      103,
       [33],
       32
     ],
@@ -538,7 +538,7 @@
       39
     ],
     [
-      124,
+      123,
       [41],
       40
     ],
@@ -583,5 +583,5 @@
       50
     ]
   ],
-  "last_ms": 141
+  "last_ms": 140
 }

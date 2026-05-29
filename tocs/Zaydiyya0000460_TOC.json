@@ -34,13 +34,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 6,
-      "end_ms": 10
+      "end_ms": 9
     },
     "6": {
       "title": "AUTO عدم تصور الشئ لا يعني عدم تعقله :",
       "level": 1,
       "parent": null,
-      "start_ms": 10,
+      "start_ms": 9,
       "end_ms": 10
     },
     "7": {
@@ -48,20 +48,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 10,
-      "end_ms": 15
+      "end_ms": 14
     },
     "8": {
       "title": "AUTO آيات الوجه",
       "level": 1,
       "parent": null,
-      "start_ms": 15,
-      "end_ms": 22
+      "start_ms": 14,
+      "end_ms": 21
     },
     "9": {
       "title": "AUTO شبهة وحلها :",
       "level": 1,
       "parent": null,
-      "start_ms": 22,
+      "start_ms": 21,
       "end_ms": 23
     },
     "10": {
@@ -89,17 +89,22 @@
       4
     ],
     [
-      10,
-      [6, 7],
+      9,
+      [6],
       5
     ],
     [
-      15,
+      10,
+      [7],
+      6
+    ],
+    [
+      14,
       [8],
       7
     ],
     [
-      22,
+      21,
       [9],
       8
     ],

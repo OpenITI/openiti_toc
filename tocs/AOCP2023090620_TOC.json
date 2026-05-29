@@ -13,13 +13,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 43,
-      "end_ms": 44
+      "end_ms": 43
     },
     "3": {
       "title": "باب الكنىخ)*",
       "level": 1,
       "parent": null,
-      "start_ms": 44,
+      "start_ms": 43,
       "end_ms": 44
     },
     "4": {
@@ -27,13 +27,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 44,
-      "end_ms": 50
+      "end_ms": 49
     },
     "5": {
       "title": "ل تنبيه خم",
       "level": 1,
       "parent": null,
-      "start_ms": 50,
+      "start_ms": 49,
       "end_ms": 50
     },
     "6": {
@@ -52,18 +52,23 @@
     ],
     [
       43,
-      [2],
+      [2, 3],
       1
     ],
     [
       44,
-      [3, 4],
-      2
+      [4],
+      3
+    ],
+    [
+      49,
+      [5],
+      4
     ],
     [
       50,
-      [5, 6],
-      4
+      [6],
+      5
     ]
   ],
   "last_ms": 51

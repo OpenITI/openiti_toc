@@ -5,7 +5,7 @@
       "title": "*ر %~% اعلج",
       "level": 1,
       "parent": null,
-      "start_ms": 13,
+      "start_ms": 12,
       "end_ms": 14
     },
     "2": {
@@ -20,26 +20,26 @@
       "level": 1,
       "parent": null,
       "start_ms": 15,
-      "end_ms": 16
+      "end_ms": 15
     },
     "4": {
       "title": "ي ا غ افا",
       "level": 1,
       "parent": null,
-      "start_ms": 16,
-      "end_ms": 21
+      "start_ms": 15,
+      "end_ms": 20
     },
     "5": {
       "title": "و",
       "level": 1,
       "parent": null,
-      "start_ms": 21,
+      "start_ms": 20,
       "end_ms": null
     }
   },
   "starts": [
     [
-      13,
+      12,
       [1],
       null
     ],
@@ -50,19 +50,14 @@
     ],
     [
       15,
-      [3],
+      [3, 4],
       2
     ],
     [
-      16,
-      [4],
-      3
-    ],
-    [
-      21,
+      20,
       [5],
       4
     ]
   ],
-  "last_ms": 22
+  "last_ms": 21
 }

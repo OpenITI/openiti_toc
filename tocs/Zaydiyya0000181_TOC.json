@@ -6,20 +6,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 1,
-      "end_ms": 310
+      "end_ms": 307
     },
     "2": {
       "title": "CHECK [تحرير الأحكام ج 2]",
       "level": 1,
       "parent": null,
-      "start_ms": 310,
-      "end_ms": 638
+      "start_ms": 307,
+      "end_ms": 629
     },
     "3": {
       "title": "AUTO الكتاب : تحرير الأحكام ج3",
       "level": 1,
       "parent": null,
-      "start_ms": 638,
+      "start_ms": 629,
       "end_ms": null
     }
   },
@@ -30,15 +30,15 @@
       null
     ],
     [
-      310,
+      307,
       [2],
       1
     ],
     [
-      638,
+      629,
       [3],
       2
     ]
   ],
-  "last_ms": 1110
+  "last_ms": 1059
 }

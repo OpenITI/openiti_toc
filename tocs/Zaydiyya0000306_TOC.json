@@ -6,7 +6,7 @@
       "level": 1,
       "parent": null,
       "start_ms": 1,
-      "end_ms": 243
+      "end_ms": 239
     },
     "2": {
       "title": "CHECK [الجزء الأول]",
@@ -20,13 +20,13 @@
       "level": 2,
       "parent": 1,
       "start_ms": 1,
-      "end_ms": 243
+      "end_ms": 239
     },
     "4": {
       "title": "CHECK [الارشاد ج2]",
       "level": 1,
       "parent": null,
-      "start_ms": 243,
+      "start_ms": 239,
       "end_ms": null
     }
   },
@@ -37,10 +37,10 @@
       null
     ],
     [
-      243,
+      239,
       [4],
       3
     ]
   ],
-  "last_ms": 502
+  "last_ms": 494
 }

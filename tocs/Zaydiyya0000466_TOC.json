@@ -34,20 +34,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 3,
-      "end_ms": 4
+      "end_ms": 3
     },
     "6": {
       "title": "AUTO بطاقة إليها",
       "level": 1,
       "parent": null,
-      "start_ms": 4,
-      "end_ms": 5
+      "start_ms": 3,
+      "end_ms": 4
     },
     "7": {
       "title": "AUTO إلى فأر",
       "level": 1,
       "parent": null,
-      "start_ms": 5,
+      "start_ms": 4,
       "end_ms": 5
     },
     "8": {
@@ -55,13 +55,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 5,
-      "end_ms": 7
+      "end_ms": 6
     },
     "9": {
       "title": "AUTO مأرب يتكلم",
       "level": 1,
       "parent": null,
-      "start_ms": 7,
+      "start_ms": 6,
       "end_ms": 7
     },
     "10": {
@@ -90,13 +90,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 11,
-      "end_ms": 13
+      "end_ms": 12
     },
     "14": {
       "title": "AUTO قراءة أولى في كتاب التحدي",
       "level": 1,
       "parent": null,
-      "start_ms": 13,
+      "start_ms": 12,
       "end_ms": 14
     },
     "15": {
@@ -216,13 +216,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 33,
-      "end_ms": 35
+      "end_ms": 34
     },
     "32": {
       "title": "AUTO خطاب مفتوح إلى أيلول",
       "level": 1,
       "parent": null,
-      "start_ms": 35,
+      "start_ms": 34,
       "end_ms": null
     }
   },
@@ -239,23 +239,28 @@
     ],
     [
       3,
-      [4, 5],
+      [4, 5, 6],
       3
     ],
     [
       4,
-      [6],
-      5
-    ],
-    [
-      5,
-      [7, 8],
+      [7],
       6
     ],
     [
-      7,
-      [9, 10],
+      5,
+      [8],
+      7
+    ],
+    [
+      6,
+      [9],
       8
+    ],
+    [
+      7,
+      [10],
+      9
     ],
     [
       9,
@@ -273,7 +278,7 @@
       12
     ],
     [
-      13,
+      12,
       [14],
       13
     ],
@@ -363,7 +368,7 @@
       30
     ],
     [
-      35,
+      34,
       [32],
       31
     ]

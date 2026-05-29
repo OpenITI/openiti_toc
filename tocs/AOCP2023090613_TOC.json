@@ -5,64 +5,64 @@
       "title": "%~% 5",
       "level": 1,
       "parent": null,
-      "start_ms": 38,
-      "end_ms": 52
+      "start_ms": 37,
+      "end_ms": 51
     },
     "2": {
       "title": "اعنوان الفتوة]",
       "level": 1,
       "parent": null,
-      "start_ms": 52,
-      "end_ms": 63
+      "start_ms": 51,
+      "end_ms": 61
     },
     "3": {
       "title": "%~% 20",
       "level": 1,
       "parent": null,
-      "start_ms": 63,
-      "end_ms": 75
+      "start_ms": 61,
+      "end_ms": 73
     },
     "4": {
       "title": "[أشياخ الطريق]",
       "level": 1,
       "parent": null,
-      "start_ms": 75,
-      "end_ms": 77
+      "start_ms": 73,
+      "end_ms": 74
     },
     "5": {
       "title": "الخاتمة",
       "level": 1,
       "parent": null,
-      "start_ms": 77,
+      "start_ms": 74,
       "end_ms": null
     }
   },
   "starts": [
     [
-      38,
+      37,
       [1],
       null
     ],
     [
-      52,
+      51,
       [2],
       1
     ],
     [
-      63,
+      61,
       [3],
       2
     ],
     [
-      75,
+      73,
       [4],
       3
     ],
     [
-      77,
+      74,
       [5],
       4
     ]
   ],
-  "last_ms": 89
+  "last_ms": 86
 }

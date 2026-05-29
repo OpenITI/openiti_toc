@@ -27,13 +27,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 11,
-      "end_ms": 13
+      "end_ms": 12
     },
     "5": {
       "title": "(ومن فضائلها)",
       "level": 1,
       "parent": null,
-      "start_ms": 13,
+      "start_ms": 12,
       "end_ms": 13
     },
     "6": {
@@ -55,13 +55,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 15,
-      "end_ms": 17
+      "end_ms": 16
     },
     "9": {
       "title": "(ومثال آخر)",
       "level": 1,
       "parent": null,
-      "start_ms": 17,
+      "start_ms": 16,
       "end_ms": 17
     },
     "10": {
@@ -72,7 +72,7 @@
       "end_ms": 19
     },
     "11": {
-      "title": "(وأما الكبد)",
+      "title": "(وأما الكبد )",
       "level": 1,
       "parent": null,
       "start_ms": 19,
@@ -90,13 +90,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 21,
-      "end_ms": 22
+      "end_ms": 21
     },
     "14": {
       "title": "(الكبد)",
       "level": 1,
       "parent": null,
-      "start_ms": 22,
+      "start_ms": 21,
       "end_ms": 23
     },
     "15": {
@@ -118,62 +118,62 @@
       "level": 1,
       "parent": null,
       "start_ms": 23,
-      "end_ms": 24
+      "end_ms": 23
     },
     "18": {
       "title": "(القسم الرابع)",
       "level": 1,
       "parent": null,
-      "start_ms": 24,
-      "end_ms": 24
+      "start_ms": 23,
+      "end_ms": 23
     },
     "19": {
       "title": "(الوجه الأول)",
       "level": 1,
       "parent": null,
-      "start_ms": 24,
-      "end_ms": 24
+      "start_ms": 23,
+      "end_ms": 23
     },
     "20": {
       "title": "( الوجه الثاني)",
       "level": 1,
       "parent": null,
-      "start_ms": 24,
-      "end_ms": 24
+      "start_ms": 23,
+      "end_ms": 23
     },
     "21": {
       "title": "(الوجه الثالث)",
       "level": 1,
       "parent": null,
-      "start_ms": 24,
-      "end_ms": 29
+      "start_ms": 23,
+      "end_ms": 28
     },
     "22": {
       "title": "(وحفظه)",
       "level": 1,
       "parent": null,
-      "start_ms": 29,
-      "end_ms": 29
+      "start_ms": 28,
+      "end_ms": 28
     },
     "23": {
       "title": "(وإنفاقه)",
       "level": 1,
       "parent": null,
-      "start_ms": 29,
-      "end_ms": 29
+      "start_ms": 28,
+      "end_ms": 28
     },
     "24": {
       "title": "1",
       "level": 1,
       "parent": null,
-      "start_ms": 29,
-      "end_ms": 29
+      "start_ms": 28,
+      "end_ms": 28
     },
     "25": {
       "title": "(والذي يجب على الإنسان في ماله)",
       "level": 1,
       "parent": null,
-      "start_ms": 29,
+      "start_ms": 28,
       "end_ms": 29
     },
     "26": {
@@ -181,41 +181,41 @@
       "level": 1,
       "parent": null,
       "start_ms": 29,
-      "end_ms": 32
+      "end_ms": 31
     },
     "27": {
       "title": "( وأما العبيد فثلاث)",
       "level": 1,
       "parent": null,
-      "start_ms": 32,
-      "end_ms": 33
+      "start_ms": 31,
+      "end_ms": 32
     },
     "28": {
       "title": "( التدبير وهو على ستة أنحاء)",
       "level": 1,
       "parent": null,
-      "start_ms": 33,
-      "end_ms": 35
+      "start_ms": 32,
+      "end_ms": 34
     },
     "29": {
       "title": "(وعليه نحو الرؤساء)",
       "level": 1,
       "parent": null,
-      "start_ms": 35,
-      "end_ms": 35
+      "start_ms": 34,
+      "end_ms": 34
     },
     "30": {
       "title": "(وأما سيرته مع الملوك )",
       "level": 1,
       "parent": null,
-      "start_ms": 35,
-      "end_ms": 62
+      "start_ms": 34,
+      "end_ms": 61
     },
     "31": {
       "title": "تحمد الله وعونه وحسن توفيقه",
       "level": 1,
       "parent": null,
-      "start_ms": 62,
+      "start_ms": 61,
       "end_ms": null
     }
   },
@@ -231,9 +231,14 @@
       1
     ],
     [
-      13,
-      [5, 6],
+      12,
+      [5],
       4
+    ],
+    [
+      13,
+      [6],
+      5
     ],
     [
       14,
@@ -246,60 +251,60 @@
       7
     ],
     [
-      17,
-      [9, 10],
+      16,
+      [9],
       8
+    ],
+    [
+      17,
+      [10],
+      9
     ],
     [
       19,
       [11],
-      10
+      null
     ],
     [
       21,
-      [12, 13],
+      [12, 13, 14],
       11
     ],
     [
-      22,
-      [14],
-      13
-    ],
-    [
       23,
-      [15, 16, 17],
+      [15, 16, 17, 18, 19, 20, 21],
       14
     ],
     [
-      24,
-      [18, 19, 20, 21],
-      17
-    ],
-    [
-      29,
-      [22, 23, 24, 25, 26],
+      28,
+      [22, 23, 24, 25],
       21
     ],
     [
-      32,
+      29,
+      [26],
+      25
+    ],
+    [
+      31,
       [27],
       26
     ],
     [
-      33,
+      32,
       [28],
       27
     ],
     [
-      35,
+      34,
       [29, 30],
       28
     ],
     [
-      62,
+      61,
       [31],
       30
     ]
   ],
-  "last_ms": 71
+  "last_ms": 69
 }

@@ -1,0 +1,135 @@
+{
+  "filename": "0300Anonymous.Siyasa.ER004-ara1",
+  "sections": {
+    "1": {
+      "title": "باب الملك",
+      "level": 1,
+      "parent": null,
+      "start_ms": 1,
+      "end_ms": 3
+    },
+    "2": {
+      "title": "باب الوزير",
+      "level": 1,
+      "parent": null,
+      "start_ms": 3,
+      "end_ms": 9
+    },
+    "3": {
+      "title": "باب جمل من الكتاب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 9,
+      "end_ms": 26
+    },
+    "4": {
+      "title": "باب الحاجب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 26,
+      "end_ms": 29
+    },
+    "5": {
+      "title": "باب الشرطة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 29,
+      "end_ms": 33
+    },
+    "6": {
+      "title": "باب الحسبة",
+      "level": 1,
+      "parent": null,
+      "start_ms": 33,
+      "end_ms": 36
+    },
+    "7": {
+      "title": "باب الرسل",
+      "level": 1,
+      "parent": null,
+      "start_ms": 36,
+      "end_ms": 36
+    },
+    "8": {
+      "title": "باب القهرمان",
+      "level": 1,
+      "parent": null,
+      "start_ms": 36,
+      "end_ms": 45
+    },
+    "9": {
+      "title": "باب الطيب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 45,
+      "end_ms": 47
+    },
+    "10": {
+      "title": "باب القيم بالدواب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 47,
+      "end_ms": 50
+    },
+    "11": {
+      "title": "باب الشراب",
+      "level": 1,
+      "parent": null,
+      "start_ms": 50,
+      "end_ms": null
+    }
+  },
+  "starts": [
+    [
+      1,
+      [1],
+      null
+    ],
+    [
+      3,
+      [2],
+      1
+    ],
+    [
+      9,
+      [3],
+      2
+    ],
+    [
+      26,
+      [4],
+      3
+    ],
+    [
+      29,
+      [5],
+      4
+    ],
+    [
+      33,
+      [6],
+      5
+    ],
+    [
+      36,
+      [7, 8],
+      6
+    ],
+    [
+      45,
+      [9],
+      8
+    ],
+    [
+      47,
+      [10],
+      9
+    ],
+    [
+      50,
+      [11],
+      10
+    ]
+  ],
+  "last_ms": 50
+}

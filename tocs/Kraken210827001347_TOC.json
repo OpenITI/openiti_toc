@@ -1,5 +1,5 @@
 {
-  "filename": "0434MultipleDruze.RasailHikmaA.Kraken210827001347-ara1",
+  "filename": "0434MultipleDruze.RasailHikma.Kraken210827001347-ara1",
   "sections": {
     "1": {
       "title": "[1] نسخة السجل الذي وجد معلقا على المشاهد في غيبة مولانا الامام الحاكم.",
@@ -48,13 +48,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 28,
-      "end_ms": 32
+      "end_ms": 31
     },
     "8": {
       "title": "[8] ميتاق النساء",
       "level": 1,
       "parent": null,
-      "start_ms": 32,
+      "start_ms": 31,
       "end_ms": 35
     },
     "9": {
@@ -125,13 +125,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 125,
-      "end_ms": 131
+      "end_ms": 130
     },
     "19": {
       "title": "[19] الصبحة الكائنة",
       "level": 1,
       "parent": null,
-      "start_ms": 131,
+      "start_ms": 130,
       "end_ms": 133
     },
     "20": {
@@ -202,13 +202,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 145,
-      "end_ms": 149
+      "end_ms": 148
     },
     "30": {
       "title": "[30] الدعاء المستجاب",
       "level": 1,
       "parent": null,
-      "start_ms": 149,
+      "start_ms": 148,
       "end_ms": 151
     },
     "31": {
@@ -216,27 +216,27 @@
       "level": 1,
       "parent": null,
       "start_ms": 151,
-      "end_ms": 152
+      "end_ms": 151
     },
     "32": {
       "title": "[32] ذكر معرفة الإمام",
       "level": 1,
       "parent": null,
-      "start_ms": 152,
-      "end_ms": 153
+      "start_ms": 151,
+      "end_ms": 152
     },
     "33": {
       "title": "[33] رسالة التحذير والتنبيه",
       "level": 1,
       "parent": null,
-      "start_ms": 153,
-      "end_ms": 155
+      "start_ms": 152,
+      "end_ms": 154
     },
     "34": {
       "title": "[34] الرسالة الموسومة بالاعذار والانذار",
       "level": 1,
       "parent": null,
-      "start_ms": 155,
+      "start_ms": 154,
       "end_ms": 157
     },
     "35": {
@@ -244,27 +244,27 @@
       "level": 1,
       "parent": null,
       "start_ms": 157,
-      "end_ms": 163
+      "end_ms": 162
     },
     "36": {
       "title": "[36] كتاب فيه تقسيم العلوم",
       "level": 1,
       "parent": null,
-      "start_ms": 163,
-      "end_ms": 172
+      "start_ms": 162,
+      "end_ms": 171
     },
     "37": {
       "title": "[37] الموسومة برسالة الزناد والسبيل الواضح للطالب المرتاد.",
       "level": 1,
       "parent": null,
-      "start_ms": 172,
-      "end_ms": 176
+      "start_ms": 171,
+      "end_ms": 175
     },
     "38": {
       "title": "[38] الموسومة برسالة الشمعة",
       "level": 1,
       "parent": null,
-      "start_ms": 176,
+      "start_ms": 175,
       "end_ms": 179
     },
     "39": {
@@ -314,14 +314,14 @@
       6
     ],
     [
-      32,
+      31,
       [8],
       7
     ],
     [
       35,
       [9],
-      8
+      null
     ],
     [
       42,
@@ -361,7 +361,7 @@
     [
       118,
       [17],
-      16
+      null
     ],
     [
       125,
@@ -369,7 +369,7 @@
       17
     ],
     [
-      131,
+      130,
       [19],
       18
     ],
@@ -419,27 +419,22 @@
       28
     ],
     [
-      149,
+      148,
       [30],
       29
     ],
     [
       151,
-      [31],
+      [31, 32],
       30
     ],
     [
       152,
-      [32],
-      31
-    ],
-    [
-      153,
       [33],
       32
     ],
     [
-      155,
+      154,
       [34],
       33
     ],
@@ -449,17 +444,17 @@
       34
     ],
     [
-      163,
+      162,
       [36],
       35
     ],
     [
-      172,
+      171,
       [37],
       36
     ],
     [
-      176,
+      175,
       [38],
       37
     ],
@@ -474,5 +469,5 @@
       39
     ]
   ],
-  "last_ms": 185
+  "last_ms": 184
 }

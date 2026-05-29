@@ -13,34 +13,34 @@
       "level": 1,
       "parent": null,
       "start_ms": 28,
-      "end_ms": 59
+      "end_ms": 56
     },
     "3": {
       "title": "المقالة الثالثة",
       "level": 1,
       "parent": null,
-      "start_ms": 59,
-      "end_ms": 96
+      "start_ms": 56,
+      "end_ms": 89
     },
     "4": {
       "title": "المقالة الرابعة",
       "level": 1,
       "parent": null,
-      "start_ms": 96,
-      "end_ms": 126
+      "start_ms": 89,
+      "end_ms": 113
     },
     "5": {
       "title": "المقالة الخامسة",
       "level": 1,
       "parent": null,
-      "start_ms": 126,
-      "end_ms": 151
+      "start_ms": 113,
+      "end_ms": 138
     },
     "6": {
       "title": "خاتمة الكتاب",
       "level": 1,
       "parent": null,
-      "start_ms": 151,
+      "start_ms": 138,
       "end_ms": null
     }
   },
@@ -56,25 +56,25 @@
       1
     ],
     [
-      59,
+      56,
       [3],
       2
     ],
     [
-      96,
+      89,
       [4],
       3
     ],
     [
-      126,
+      113,
       [5],
       4
     ],
     [
-      151,
+      138,
       [6],
       5
     ]
   ],
-  "last_ms": 155
+  "last_ms": 141
 }

@@ -209,20 +209,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 43,
-      "end_ms": 47
+      "end_ms": 46
     },
     "31": {
       "title": "[chapter 29]",
       "level": 1,
       "parent": null,
-      "start_ms": 47,
-      "end_ms": 48
+      "start_ms": 46,
+      "end_ms": 47
     },
     "32": {
       "title": "[chapter 30]",
       "level": 1,
       "parent": null,
-      "start_ms": 48,
+      "start_ms": 47,
       "end_ms": 48
     },
     "33": {
@@ -244,13 +244,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 50,
-      "end_ms": 52
+      "end_ms": 51
     },
     "36": {
       "title": "[chapter 34]",
       "level": 1,
       "parent": null,
-      "start_ms": 52,
+      "start_ms": 51,
       "end_ms": 56
     },
     "37": {
@@ -417,14 +417,19 @@
       28
     ],
     [
-      47,
+      46,
       [31],
       30
     ],
     [
-      48,
-      [32, 33],
+      47,
+      [32],
       31
+    ],
+    [
+      48,
+      [33],
+      32
     ],
     [
       49,
@@ -437,7 +442,7 @@
       34
     ],
     [
-      52,
+      51,
       [36],
       35
     ],

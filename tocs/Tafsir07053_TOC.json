@@ -76,27 +76,27 @@
       "level": 1,
       "parent": null,
       "start_ms": 77,
-      "end_ms": 98
+      "end_ms": 97
     },
     "12": {
       "title": "[22.1-24]",
       "level": 2,
       "parent": 11,
       "start_ms": 77,
-      "end_ms": 98
+      "end_ms": 97
     },
     "13": {
       "title": "[23 - سورة المؤمنون]",
       "level": 1,
       "parent": null,
-      "start_ms": 98,
+      "start_ms": 97,
       "end_ms": 113
     },
     "14": {
       "title": "[23.1-22]",
       "level": 2,
       "parent": 13,
-      "start_ms": 98,
+      "start_ms": 97,
       "end_ms": 113
     },
     "15": {
@@ -244,27 +244,27 @@
       "level": 1,
       "parent": null,
       "start_ms": 260,
-      "end_ms": 275
+      "end_ms": 274
     },
     "36": {
       "title": "[76.1-31]",
       "level": 2,
       "parent": 35,
       "start_ms": 260,
-      "end_ms": 275
+      "end_ms": 274
     },
     "37": {
       "title": "[77 - سورة المرسلات]",
       "level": 1,
       "parent": null,
-      "start_ms": 275,
+      "start_ms": 274,
       "end_ms": 291
     },
     "38": {
       "title": "[77.1-50]",
       "level": 2,
       "parent": 37,
-      "start_ms": 275,
+      "start_ms": 274,
       "end_ms": 291
     },
     "39": {
@@ -342,7 +342,7 @@
       10
     ],
     [
-      98,
+      97,
       [13, 14],
       12
     ],
@@ -402,7 +402,7 @@
       34
     ],
     [
-      275,
+      274,
       [37, 38],
       36
     ],

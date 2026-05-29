@@ -55,13 +55,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 7,
-      "end_ms": 9
+      "end_ms": 8
     },
     "9": {
-      "title": "[صفات المرشد ووجوب الثواب ms08 والعقاب]",
+      "title": "[صفات المرشد ووجوب الثواب والعقاب]",
       "level": 1,
       "parent": null,
-      "start_ms": 9,
+      "start_ms": 8,
       "end_ms": 9
     },
     "10": {
@@ -69,20 +69,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 9,
-      "end_ms": 18
+      "end_ms": 17
     },
     "11": {
       "title": "[دليل الإمامة]",
       "level": 1,
       "parent": null,
-      "start_ms": 18,
-      "end_ms": 21
+      "start_ms": 17,
+      "end_ms": 20
     },
     "12": {
       "title": "[صفات الإمام]",
       "level": 1,
       "parent": null,
-      "start_ms": 21,
+      "start_ms": 20,
       "end_ms": 21
     },
     "13": {
@@ -125,20 +125,30 @@
       7
     ],
     [
-      9,
-      [9, 10],
-      null
+      8,
+      [9],
+      8
     ],
     [
-      18,
+      9,
+      [10],
+      9
+    ],
+    [
+      17,
       [11],
       10
     ],
     [
-      21,
-      [12, 13],
+      20,
+      [12],
       11
+    ],
+    [
+      21,
+      [13],
+      12
     ]
   ],
-  "last_ms": 25
+  "last_ms": 24
 }

@@ -55,13 +55,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 26,
-      "end_ms": 39
+      "end_ms": 40
     },
     "9": {
       "title": "أما الطهارة:",
       "level": 1,
       "parent": null,
-      "start_ms": 39,
+      "start_ms": 40,
       "end_ms": 41
     },
     "10": {
@@ -104,13 +104,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 63,
-      "end_ms": 64
+      "end_ms": 65
     },
     "16": {
       "title": "[كتاب الخمس ]",
       "level": 1,
       "parent": null,
-      "start_ms": 64,
+      "start_ms": 65,
       "end_ms": 65
     },
     "17": {
@@ -125,34 +125,34 @@
       "level": 1,
       "parent": null,
       "start_ms": 65,
-      "end_ms": 69
+      "end_ms": 70
     },
     "19": {
       "title": "[كتاب الحج ]",
       "level": 1,
       "parent": null,
-      "start_ms": 69,
-      "end_ms": 69
+      "start_ms": 70,
+      "end_ms": 70
     },
     "20": {
       "title": "وأما الكلام في ركن الحج",
       "level": 1,
       "parent": null,
-      "start_ms": 69,
-      "end_ms": 81
+      "start_ms": 70,
+      "end_ms": 82
     },
     "21": {
       "title": "وأما الكلام في الجهاد",
       "level": 1,
       "parent": null,
-      "start_ms": 81,
-      "end_ms": 84
+      "start_ms": 82,
+      "end_ms": 85
     },
     "22": {
       "title": "[الامر بالمعروف والنهي عن المنكر ](1)",
       "level": 1,
       "parent": null,
-      "start_ms": 84,
+      "start_ms": 85,
       "end_ms": 90
     },
     "23": {
@@ -167,13 +167,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 102,
-      "end_ms": 104
+      "end_ms": 105
     },
     "25": {
       "title": "المقام الثاني:",
       "level": 1,
       "parent": null,
-      "start_ms": 104,
+      "start_ms": 105,
       "end_ms": null
     }
   },
@@ -214,7 +214,7 @@
       7
     ],
     [
-      39,
+      40,
       [9],
       8
     ],
@@ -249,27 +249,22 @@
       14
     ],
     [
-      64,
-      [16],
+      65,
+      [16, 17, 18],
       15
     ],
     [
-      65,
-      [17, 18],
-      16
-    ],
-    [
-      69,
+      70,
       [19, 20],
       18
     ],
     [
-      81,
+      82,
       [21],
       20
     ],
     [
-      84,
+      85,
       [22],
       21
     ],
@@ -284,10 +279,10 @@
       23
     ],
     [
-      104,
+      105,
       [25],
       24
     ]
   ],
-  "last_ms": 141
+  "last_ms": 139
 }

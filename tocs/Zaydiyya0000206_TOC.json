@@ -34,13 +34,13 @@
       "level": 2,
       "parent": 1,
       "start_ms": 13,
-      "end_ms": 15
+      "end_ms": 14
     },
     "6": {
       "title": "AUTO دعوة مستجابة",
       "level": 2,
       "parent": 1,
-      "start_ms": 15,
+      "start_ms": 14,
       "end_ms": 16
     },
     "7": {
@@ -157,7 +157,7 @@
       4
     ],
     [
-      15,
+      14,
       [6],
       5
     ],
@@ -227,5 +227,5 @@
       18
     ]
   ],
-  "last_ms": 48
+  "last_ms": 47
 }

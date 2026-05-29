@@ -6,34 +6,34 @@
       "level": 1,
       "parent": null,
       "start_ms": 1,
-      "end_ms": 253
+      "end_ms": 233
     },
     "2": {
       "title": "CHECK [نقد الرجال ج2]",
       "level": 1,
       "parent": null,
-      "start_ms": 253,
-      "end_ms": 515
+      "start_ms": 233,
+      "end_ms": 472
     },
     "3": {
       "title": "CHECK [نقد الرجال ج3]",
       "level": 1,
       "parent": null,
-      "start_ms": 515,
-      "end_ms": 753
+      "start_ms": 472,
+      "end_ms": 690
     },
     "4": {
       "title": "CHECK [نقد الرجال ج4]",
       "level": 1,
       "parent": null,
-      "start_ms": 753,
-      "end_ms": 1018
+      "start_ms": 690,
+      "end_ms": 933
     },
     "5": {
       "title": "CHECK [نقد الرجال ج5]",
       "level": 1,
       "parent": null,
-      "start_ms": 1018,
+      "start_ms": 933,
       "end_ms": null
     }
   },
@@ -44,25 +44,25 @@
       null
     ],
     [
-      253,
+      233,
       [2],
       1
     ],
     [
-      515,
+      472,
       [3],
       2
     ],
     [
-      753,
+      690,
       [4],
       3
     ],
     [
-      1018,
+      933,
       [5],
       4
     ]
   ],
-  "last_ms": 1290
+  "last_ms": 1185
 }

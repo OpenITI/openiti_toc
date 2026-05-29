@@ -1,213 +1,213 @@
 {
-  "filename": "0425RaqiqQayrawani.TarikhIfriqiya.Masaha004657-ara1.completed",
+  "filename": "0425RaqiqQayrawani.TarikhIfriqiya.Masaha004657-ara1",
   "sections": {
     "1": {
       "title": "ولاية عقبة بن نافع (1)- (رحمه الله)",
-      "level": 1,
+      "level": 3,
       "parent": null,
       "start_ms": 1,
-      "end_ms": 3
+      "end_ms": null
     },
     "2": {
       "title": "ولاية زهير بن قيس البلوى",
-      "level": 1,
+      "level": 3,
       "parent": null,
       "start_ms": 3,
-      "end_ms": 5
+      "end_ms": null
     },
     "3": {
       "title": "ولاية حسان بن النعمان الغسانى",
-      "level": 1,
-      "parent": null,
+      "level": 3,
+      "parent": 2,
       "start_ms": 5,
       "end_ms": 9
     },
     "4": {
       "title": "موت عبد الملك بن مروان (1)",
-      "level": 1,
-      "parent": null,
+      "level": 3,
+      "parent": 2,
       "start_ms": 9,
       "end_ms": 10
     },
     "5": {
       "title": "ولاية موسى بن نصير (1)",
-      "level": 1,
-      "parent": null,
+      "level": 3,
+      "parent": 2,
       "start_ms": 10,
-      "end_ms": 17
+      "end_ms": 13
     },
     "6": {
       "title": "فتح مدينة طليطلة",
-      "level": 2,
-      "parent": 5,
+      "level": 3,
+      "parent": 2,
       "start_ms": 13,
       "end_ms": 15
     },
     "7": {
       "title": "خبر قرطاجنة ومن بناها",
-      "level": 2,
-      "parent": 5,
+      "level": 3,
+      "parent": 2,
       "start_ms": 15,
       "end_ms": 17
     },
     "8": {
       "title": "موت الوليد بن عبد الملك ولاية سليمان بن عبد الملك سنة ست وتسعين",
-      "level": 1,
-      "parent": null,
+      "level": 3,
+      "parent": 2,
       "start_ms": 17,
       "end_ms": 17
     },
     "9": {
       "title": "ولاية محمد بن يزيد (1) مولى قريش",
-      "level": 1,
-      "parent": null,
+      "level": 3,
+      "parent": 2,
       "start_ms": 17,
       "end_ms": 19
     },
     "10": {
       "title": "وفاة سليمان بن عبد الملك وولاية عمر بن عبد العزيز فى سنة تسع وتسعين",
-      "level": 1,
-      "parent": null,
+      "level": 3,
+      "parent": 2,
       "start_ms": 19,
       "end_ms": 19
     },
     "11": {
       "title": "وفاة عمر بن عبد العزيز ولاية يزيد بن عبد الملك فى سنة إحدى ومائة",
-      "level": 1,
-      "parent": null,
+      "level": 3,
+      "parent": 2,
       "start_ms": 19,
       "end_ms": 19
     },
     "12": {
       "title": "ولاية يزيد بن أبى مسلم مولى الحجاج (1)",
-      "level": 1,
-      "parent": null,
+      "level": 3,
+      "parent": 2,
       "start_ms": 19,
       "end_ms": 20
     },
     "13": {
       "title": "ولاية بشر بن صفوان الكلبى (1)",
-      "level": 1,
-      "parent": null,
+      "level": 3,
+      "parent": 2,
       "start_ms": 20,
       "end_ms": 21
     },
     "14": {
       "title": "ولاية عبيدة بن عبد الرحمن السلمى (1)",
-      "level": 1,
-      "parent": null,
+      "level": 3,
+      "parent": 2,
       "start_ms": 21,
       "end_ms": 22
     },
     "15": {
       "title": "وولى هشام إفريقية كلثوم بن عياض القشيرى (1)",
-      "level": 1,
-      "parent": null,
+      "level": 3,
+      "parent": 2,
       "start_ms": 22,
       "end_ms": 23
     },
     "16": {
       "title": "ولاية عبيد الله بن الحبحاب مولى بنى سلول (1)",
-      "level": 1,
-      "parent": null,
+      "level": 3,
+      "parent": 2,
       "start_ms": 23,
       "end_ms": 25
     },
     "17": {
       "title": "إمرة حنظلة بن صفوان الكلبى (1)",
-      "level": 1,
-      "parent": null,
+      "level": 3,
+      "parent": 2,
       "start_ms": 25,
       "end_ms": 29
     },
     "18": {
       "title": "ولاية عبد الرحمن بن حبيب",
-      "level": 1,
-      "parent": null,
+      "level": 3,
+      "parent": 2,
       "start_ms": 29,
       "end_ms": 43
     },
     "19": {
       "title": "ولاية يزيد بن حاتم بن قبيصة بن الملهب",
-      "level": 1,
-      "parent": null,
+      "level": 3,
+      "parent": 2,
       "start_ms": 43,
-      "end_ms": 53
+      "end_ms": 50
     },
     "20": {
       "title": "أخبار القضاة فى أيامه",
-      "level": 2,
-      "parent": 19,
+      "level": 3,
+      "parent": 2,
       "start_ms": 50,
       "end_ms": 53
     },
     "21": {
       "title": "ولاية داود بن يزيد بن حاتم",
-      "level": 1,
-      "parent": null,
+      "level": 3,
+      "parent": 2,
       "start_ms": 53,
       "end_ms": 54
     },
     "22": {
       "title": "ولاية روح بن حاتم بن قبيصة بن المهلب",
-      "level": 1,
-      "parent": null,
+      "level": 3,
+      "parent": 2,
       "start_ms": 54,
-      "end_ms": 60
+      "end_ms": 55
     },
     "23": {
       "title": "أخبار روح بإفريقية",
-      "level": 2,
-      "parent": 22,
+      "level": 3,
+      "parent": 2,
       "start_ms": 55,
-      "end_ms": 60
+      "end_ms": 61
     },
     "24": {
       "title": "ولاية نصر بن حبيب المهلبى",
-      "level": 1,
-      "parent": null,
-      "start_ms": 60,
+      "level": 3,
+      "parent": 2,
+      "start_ms": 61,
       "end_ms": 61
     },
     "25": {
       "title": "ولاية الفضل بن روح بن حاتم",
-      "level": 1,
-      "parent": null,
+      "level": 3,
+      "parent": 2,
       "start_ms": 61,
       "end_ms": 72
     },
     "26": {
       "title": "ولاية محمد بن مقاتل بن حكيم العكى",
-      "level": 1,
-      "parent": null,
+      "level": 3,
+      "parent": 2,
       "start_ms": 72,
       "end_ms": 72
     },
     "27": {
       "title": "ولاية هرثمة بن الأعين",
-      "level": 1,
-      "parent": null,
+      "level": 3,
+      "parent": 2,
       "start_ms": 72,
       "end_ms": 76
     },
     "28": {
       "title": "ابتداء دولة بنى الأغلب",
-      "level": 1,
-      "parent": null,
+      "level": 3,
+      "parent": 2,
       "start_ms": 76,
-      "end_ms": null
+      "end_ms": 76
     },
     "29": {
       "title": "ولاية إبراهيم بن الأغلب بن سالم التميمى",
-      "level": 2,
-      "parent": 28,
+      "level": 3,
+      "parent": 2,
       "start_ms": 76,
       "end_ms": 88
     },
     "30": {
       "title": "ولاية أبى العباس عبد الله ابن إبراهيم بن الأغلب التميمى",
-      "level": 2,
-      "parent": 28,
+      "level": 3,
+      "parent": 2,
       "start_ms": 88,
       "end_ms": null
     }
@@ -314,14 +314,9 @@
       22
     ],
     [
-      60,
-      [24],
-      23
-    ],
-    [
       61,
-      [25],
-      24
+      [24, 25],
+      23
     ],
     [
       72,

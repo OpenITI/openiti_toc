@@ -13,27 +13,27 @@
       "level": 2,
       "parent": 1,
       "start_ms": 2,
-      "end_ms": 4
+      "end_ms": 3
     },
     "3": {
       "title": "<I.2> ب في مراتب أنواع هذا العلم",
       "level": 2,
       "parent": 1,
-      "start_ms": 4,
-      "end_ms": 4
+      "start_ms": 3,
+      "end_ms": 3
     },
     "4": {
       "title": "<I.3> ج في أن السماء كرية وحركاتها مستديرة",
       "level": 2,
       "parent": 1,
-      "start_ms": 4,
-      "end_ms": 6
+      "start_ms": 3,
+      "end_ms": 5
     },
     "5": {
       "title": "<I.4> د في أن الأرض كرية في الحس بالقياس إلى الكل",
       "level": 2,
       "parent": 1,
-      "start_ms": 6,
+      "start_ms": 5,
       "end_ms": 6
     },
     "6": {
@@ -41,13 +41,13 @@
       "level": 2,
       "parent": 1,
       "start_ms": 6,
-      "end_ms": 8
+      "end_ms": 7
     },
     "7": {
       "title": "<I.6> و في أن الأرض كالنقطة عند فلك البروج",
       "level": 2,
       "parent": 1,
-      "start_ms": 8,
+      "start_ms": 7,
       "end_ms": 8
     },
     "8": {
@@ -55,55 +55,55 @@
       "level": 2,
       "parent": 1,
       "start_ms": 8,
-      "end_ms": 10
+      "end_ms": 9
     },
     "9": {
       "title": "<I.8> ح في أن أصناف الحركات الأول للسماء إثنان",
       "level": 2,
       "parent": 1,
-      "start_ms": 10,
-      "end_ms": 11
+      "start_ms": 9,
+      "end_ms": 10
     },
     "10": {
       "title": "<I.9> ط في العلوم الجزئية",
       "level": 2,
       "parent": 1,
-      "start_ms": 11,
-      "end_ms": 11
+      "start_ms": 10,
+      "end_ms": 10
     },
     "11": {
       "title": "<I.10> ى في مقادير الأوتار",
       "level": 2,
       "parent": 1,
-      "start_ms": 11,
-      "end_ms": 19
+      "start_ms": 10,
+      "end_ms": 18
     },
     "12": {
       "title": "<I.11> يا في القوس التي بين الانقلابين",
       "level": 2,
       "parent": 1,
-      "start_ms": 19,
-      "end_ms": 21
+      "start_ms": 18,
+      "end_ms": 20
     },
     "13": {
       "title": "<I.12> يب فيما يقدر جزء توطية للبراهين على المعاني الكرية",
       "level": 2,
       "parent": 1,
-      "start_ms": 21,
-      "end_ms": 34
+      "start_ms": 20,
+      "end_ms": 33
     },
     "14": {
       "title": "<I.13> يج في معرفة الميول PageV01P012B الجزئية",
       "level": 2,
       "parent": 1,
-      "start_ms": 34,
-      "end_ms": 35
+      "start_ms": 33,
+      "end_ms": 34
     },
     "15": {
       "title": "<I.14> يد في مطالع الكرة المنتصبة",
       "level": 2,
       "parent": 1,
-      "start_ms": 35,
+      "start_ms": 34,
       "end_ms": null
     }
   },
@@ -114,50 +114,60 @@
       null
     ],
     [
-      4,
+      3,
       [3, 4],
       2
     ],
     [
-      6,
-      [5, 6],
+      5,
+      [5],
       4
     ],
     [
-      8,
-      [7, 8],
+      6,
+      [6],
+      5
+    ],
+    [
+      7,
+      [7],
       6
     ],
     [
-      10,
+      8,
+      [8],
+      null
+    ],
+    [
+      9,
       [9],
       8
     ],
     [
-      11,
+      10,
       [10, 11],
       9
     ],
     [
-      19,
+      18,
       [12],
       11
     ],
     [
-      21,
+      20,
       [13],
       12
     ],
     [
-      34,
+      33,
       [14],
       13
     ],
     [
-      35,
+      34,
       [15],
       14
     ]
   ],
-  "last_ms": 36
+  "last_ms": 35
 }

@@ -300,7 +300,7 @@
       "level": 1,
       "parent": null,
       "start_ms": 68,
-      "end_ms": 72
+      "end_ms": 73
     },
     "44": {
       "title": "AUTO العودة والشيخ الفوزان",
@@ -314,13 +314,13 @@
       "level": 2,
       "parent": 43,
       "start_ms": 70,
-      "end_ms": 72
+      "end_ms": 73
     },
     "46": {
       "title": "AUTO المقال الثامن مرارات الحقائق",
       "level": 1,
       "parent": null,
-      "start_ms": 72,
+      "start_ms": 73,
       "end_ms": 77
     },
     "47": {
@@ -496,7 +496,7 @@
       "level": 1,
       "parent": null,
       "start_ms": 93,
-      "end_ms": 98
+      "end_ms": 97
     },
     "72": {
       "title": "AUTO ابن تيمية والدكتور",
@@ -538,13 +538,13 @@
       "level": 2,
       "parent": 71,
       "start_ms": 97,
-      "end_ms": 98
+      "end_ms": 97
     },
     "78": {
       "title": "AUTO المقال الثالث عشر",
       "level": 1,
       "parent": null,
-      "start_ms": 98,
+      "start_ms": 97,
       "end_ms": 99
     },
     "79": {
@@ -746,7 +746,7 @@
       43
     ],
     [
-      72,
+      73,
       [46],
       45
     ],
@@ -837,13 +837,8 @@
     ],
     [
       97,
-      [76, 77],
+      [76, 77, 78],
       75
-    ],
-    [
-      98,
-      [78],
-      77
     ],
     [
       99,

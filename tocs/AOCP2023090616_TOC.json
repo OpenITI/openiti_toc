@@ -27,27 +27,27 @@
       "level": 1,
       "parent": null,
       "start_ms": 49,
-      "end_ms": 51
+      "end_ms": 50
     },
     "5": {
       "title": "ثل سرج",
       "level": 1,
       "parent": null,
-      "start_ms": 51,
-      "end_ms": 73
+      "start_ms": 50,
+      "end_ms": 72
     },
     "6": {
       "title": "الباربا لتامحششر",
       "level": 1,
       "parent": null,
-      "start_ms": 73,
-      "end_ms": 94
+      "start_ms": 72,
+      "end_ms": 93
     },
     "7": {
       "title": "لى ومعروفي بها غير من %~% 2)",
       "level": 1,
       "parent": null,
-      "start_ms": 94,
+      "start_ms": 93,
       "end_ms": null
     }
   },
@@ -63,20 +63,20 @@
       3
     ],
     [
-      51,
+      50,
       [5],
       4
     ],
     [
-      73,
+      72,
       [6],
       5
     ],
     [
-      94,
+      93,
       [7],
       6
     ]
   ],
-  "last_ms": 122
+  "last_ms": 120
 }

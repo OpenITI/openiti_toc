@@ -1,5 +1,5 @@
 {
-  "filename": "0965ShahidThani.MusakkinFuad.Masaha004835-ara1",
+  "filename": "0966ShahidThani.MusakkinFuad.Masaha004835-ara1",
   "sections": {
     "1": {
       "title": "المقدمة",
@@ -27,13 +27,13 @@
       "level": 3,
       "parent": 2,
       "start_ms": 21,
-      "end_ms": 25
+      "end_ms": 26
     },
     "5": {
       "title": "فصل",
       "level": 3,
       "parent": 2,
-      "start_ms": 25,
+      "start_ms": 26,
       "end_ms": 27
     },
     "6": {
@@ -55,20 +55,20 @@
       "level": 3,
       "parent": 2,
       "start_ms": 29,
-      "end_ms": 29
+      "end_ms": 30
     },
     "9": {
       "title": "فصل في نبذ من أحوال السلف عند موت أبنائهم وأحبابهم",
       "level": 3,
       "parent": 2,
-      "start_ms": 29,
-      "end_ms": 36
+      "start_ms": 30,
+      "end_ms": 37
     },
     "10": {
       "title": "فصل في ذكر جماعة من النساء [نساء] نقل العلماء صبرهن",
       "level": 3,
       "parent": 2,
-      "start_ms": 36,
+      "start_ms": 37,
       "end_ms": 46
     },
     "11": {
@@ -118,34 +118,34 @@
       "level": 3,
       "parent": 2,
       "start_ms": 61,
-      "end_ms": 61
+      "end_ms": 62
     },
     "18": {
       "title": "فصل",
       "level": 3,
       "parent": 2,
-      "start_ms": 61,
-      "end_ms": 62
+      "start_ms": 62,
+      "end_ms": 63
     },
     "19": {
       "title": "فصل",
       "level": 3,
       "parent": 2,
-      "start_ms": 62,
+      "start_ms": 63,
       "end_ms": 64
     },
     "20": {
-      "title": "وأما ms63 الخاتمة",
+      "title": "وأما الخاتمة",
       "level": 3,
       "parent": 2,
       "start_ms": 64,
-      "end_ms": 65
+      "end_ms": 66
     },
     "21": {
       "title": "فصل",
       "level": 3,
       "parent": 2,
-      "start_ms": 65,
+      "start_ms": 66,
       "end_ms": 67
     },
     "22": {
@@ -160,41 +160,41 @@
       "level": 3,
       "parent": 2,
       "start_ms": 69,
-      "end_ms": 73
+      "end_ms": 74
     },
     "24": {
       "title": "[ملحقات الكتاب]",
       "level": 3,
       "parent": 2,
-      "start_ms": 73,
-      "end_ms": 73
+      "start_ms": 74,
+      "end_ms": 74
     },
     "25": {
       "title": "حديث شريف كساء",
       "level": 3,
       "parent": 2,
-      "start_ms": 73,
-      "end_ms": 75
+      "start_ms": 74,
+      "end_ms": 76
     },
     "26": {
       "title": "روايت شريفه ذهبيه",
       "level": 3,
       "parent": 2,
-      "start_ms": 75,
-      "end_ms": 76
+      "start_ms": 76,
+      "end_ms": 77
     },
     "27": {
       "title": "حديث سند",
       "level": 3,
       "parent": 2,
-      "start_ms": 76,
-      "end_ms": 77
+      "start_ms": 77,
+      "end_ms": 78
     },
     "28": {
       "title": "فهرس مسكنة الفؤاد عند فقد الاحبة والأولاد",
       "level": 3,
       "parent": 2,
-      "start_ms": 77,
+      "start_ms": 78,
       "end_ms": null
     }
   },
@@ -220,7 +220,7 @@
       3
     ],
     [
-      25,
+      26,
       [5],
       4
     ],
@@ -236,11 +236,16 @@
     ],
     [
       29,
-      [8, 9],
+      [8],
       7
     ],
     [
-      36,
+      30,
+      [9],
+      8
+    ],
+    [
+      37,
       [10],
       9
     ],
@@ -276,21 +281,26 @@
     ],
     [
       61,
-      [17, 18],
+      [17],
       16
     ],
     [
       62,
+      [18],
+      17
+    ],
+    [
+      63,
       [19],
       18
     ],
     [
       64,
       [20],
-      null
+      19
     ],
     [
-      65,
+      66,
       [21],
       20
     ],
@@ -305,25 +315,25 @@
       22
     ],
     [
-      73,
+      74,
       [24, 25],
       23
     ],
     [
-      75,
+      76,
       [26],
       25
     ],
     [
-      76,
+      77,
       [27],
       26
     ],
     [
-      77,
+      78,
       [28],
       27
     ]
   ],
-  "last_ms": 78
+  "last_ms": 79
 }

@@ -6,7 +6,7 @@
       "level": 1,
       "parent": null,
       "start_ms": 1,
-      "end_ms": 338
+      "end_ms": 337
     },
     "2": {
       "title": "AUTO 0كتاب العقل والجهل",
@@ -27,111 +27,111 @@
       "level": 2,
       "parent": 1,
       "start_ms": 51,
-      "end_ms": 338
+      "end_ms": 337
     },
     "5": {
       "title": "AUTO الجزء الثاني",
       "level": 1,
       "parent": null,
-      "start_ms": 338,
-      "end_ms": 679
+      "start_ms": 337,
+      "end_ms": 678
     },
     "6": {
       "title": "AUTO كتاب الإيمان والكفر",
       "level": 2,
       "parent": 5,
-      "start_ms": 338,
-      "end_ms": 679
+      "start_ms": 337,
+      "end_ms": 678
     },
     "7": {
       "title": "AUTO الجزء الثالث",
       "level": 1,
       "parent": null,
-      "start_ms": 679,
-      "end_ms": 1020
+      "start_ms": 678,
+      "end_ms": 1019
     },
     "8": {
       "title": "AUTO كتاب الطهارة",
       "level": 2,
       "parent": 7,
-      "start_ms": 679,
-      "end_ms": 877
+      "start_ms": 678,
+      "end_ms": 876
     },
     "9": {
       "title": "AUTO كتاب الصلاة",
       "level": 2,
       "parent": 7,
-      "start_ms": 877,
-      "end_ms": 1020
+      "start_ms": 876,
+      "end_ms": 1019
     },
     "10": {
       "title": "AUTO الجزء الرابع",
       "level": 1,
       "parent": null,
-      "start_ms": 1020,
-      "end_ms": 1362
+      "start_ms": 1019,
+      "end_ms": 1360
     },
     "11": {
       "title": "AUTO تتمة كتاب الزكاة",
       "level": 2,
       "parent": 10,
-      "start_ms": 1020,
-      "end_ms": 1362
+      "start_ms": 1019,
+      "end_ms": 1360
     },
     "12": {
       "title": "AUTO الجزء الخامس",
       "level": 1,
       "parent": null,
-      "start_ms": 1362,
-      "end_ms": 1703
+      "start_ms": 1360,
+      "end_ms": 1700
     },
     "13": {
       "title": "AUTO كتاب الجهاد",
       "level": 2,
       "parent": 12,
-      "start_ms": 1362,
-      "end_ms": 1703
+      "start_ms": 1360,
+      "end_ms": 1700
     },
     "14": {
       "title": "AUTO الجزء السادس",
       "level": 1,
       "parent": null,
-      "start_ms": 1703,
-      "end_ms": 2048
+      "start_ms": 1700,
+      "end_ms": 2045
     },
     "15": {
       "title": "AUTO كتاب العقيقة",
       "level": 2,
       "parent": 14,
-      "start_ms": 1703,
-      "end_ms": 2048
+      "start_ms": 1700,
+      "end_ms": 2045
     },
     "16": {
       "title": "AUTO الجزء السابع",
       "level": 1,
       "parent": null,
-      "start_ms": 2048,
-      "end_ms": 2387
+      "start_ms": 2045,
+      "end_ms": 2383
     },
     "17": {
       "title": "AUTO كتاب الوصايا",
       "level": 2,
       "parent": 16,
-      "start_ms": 2048,
-      "end_ms": 2387
+      "start_ms": 2045,
+      "end_ms": 2383
     },
     "18": {
       "title": "AUTO الجزء الثامن",
       "level": 1,
       "parent": null,
-      "start_ms": 2387,
+      "start_ms": 2383,
       "end_ms": null
     },
     "19": {
       "title": "AUTO كتاب الروضة",
       "level": 2,
       "parent": 18,
-      "start_ms": 2387,
+      "start_ms": 2383,
       "end_ms": null
     }
   },
@@ -152,45 +152,45 @@
       3
     ],
     [
-      338,
+      337,
       [5, 6],
       4
     ],
     [
-      679,
+      678,
       [7, 8],
       6
     ],
     [
-      877,
+      876,
       [9],
       8
     ],
     [
-      1020,
+      1019,
       [10, 11],
       9
     ],
     [
-      1362,
+      1360,
       [12, 13],
       11
     ],
     [
-      1703,
+      1700,
       [14, 15],
       13
     ],
     [
-      2048,
+      2045,
       [16, 17],
       15
     ],
     [
-      2387,
+      2383,
       [18, 19],
       17
     ]
   ],
-  "last_ms": 2689
+  "last_ms": 2684
 }

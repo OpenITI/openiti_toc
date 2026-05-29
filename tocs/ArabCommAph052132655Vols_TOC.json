@@ -41,13 +41,13 @@
       "level": 3,
       "parent": 5,
       "start_ms": 2,
-      "end_ms": 3
+      "end_ms": 2
     },
     "7": {
-      "title": "[commentary] ms02",
+      "title": "[commentary]",
       "level": 3,
       "parent": 5,
-      "start_ms": 3,
+      "start_ms": 2,
       "end_ms": 3
     },
     "8": {
@@ -62,13 +62,13 @@
       "level": 3,
       "parent": 8,
       "start_ms": 3,
-      "end_ms": 4
+      "end_ms": 3
     },
     "10": {
       "title": "[commentary]",
       "level": 3,
       "parent": 8,
-      "start_ms": 4,
+      "start_ms": 3,
       "end_ms": 4
     },
     "11": {
@@ -188,13 +188,13 @@
       "level": 3,
       "parent": 26,
       "start_ms": 7,
-      "end_ms": 8
+      "end_ms": 7
     },
     "28": {
       "title": "[commentary]",
       "level": 3,
       "parent": 26,
-      "start_ms": 8,
+      "start_ms": 7,
       "end_ms": 8
     },
     "29": {
@@ -412,7 +412,7 @@
       "level": 2,
       "parent": 1,
       "start_ms": 14,
-      "end_ms": 15
+      "end_ms": 14
     },
     "60": {
       "title": "[aphorism]",
@@ -426,20 +426,20 @@
       "level": 3,
       "parent": 59,
       "start_ms": 14,
-      "end_ms": 15
+      "end_ms": 14
     },
     "62": {
       "title": "21",
       "level": 2,
       "parent": 1,
-      "start_ms": 15,
+      "start_ms": 14,
       "end_ms": 15
     },
     "63": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 62,
-      "start_ms": 15,
+      "start_ms": 14,
       "end_ms": 15
     },
     "64": {
@@ -454,7 +454,7 @@
       "level": 2,
       "parent": 1,
       "start_ms": 15,
-      "end_ms": 16
+      "end_ms": 15
     },
     "66": {
       "title": "[aphorism]",
@@ -468,27 +468,27 @@
       "level": 3,
       "parent": 65,
       "start_ms": 15,
-      "end_ms": 16
+      "end_ms": 15
     },
     "68": {
       "title": "23",
       "level": 2,
       "parent": 1,
-      "start_ms": 16,
+      "start_ms": 15,
       "end_ms": 16
     },
     "69": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 68,
-      "start_ms": 16,
-      "end_ms": 16
+      "start_ms": 15,
+      "end_ms": 15
     },
     "70": {
       "title": "[commentary]",
       "level": 3,
       "parent": 68,
-      "start_ms": 16,
+      "start_ms": 15,
       "end_ms": 16
     },
     "71": {
@@ -545,7 +545,7 @@
       "level": 2,
       "parent": 71,
       "start_ms": 16,
-      "end_ms": 17
+      "end_ms": 16
     },
     "79": {
       "title": "[aphorism]",
@@ -559,27 +559,27 @@
       "level": 3,
       "parent": 78,
       "start_ms": 16,
-      "end_ms": 17
+      "end_ms": 16
     },
     "81": {
       "title": "4.",
       "level": 2,
       "parent": 71,
-      "start_ms": 17,
+      "start_ms": 16,
       "end_ms": 17
     },
     "82": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 81,
-      "start_ms": 17,
-      "end_ms": 17
+      "start_ms": 16,
+      "end_ms": 16
     },
     "83": {
       "title": "[commentary]",
       "level": 3,
       "parent": 81,
-      "start_ms": 17,
+      "start_ms": 16,
       "end_ms": 17
     },
     "84": {
@@ -629,7 +629,7 @@
       "level": 2,
       "parent": 71,
       "start_ms": 17,
-      "end_ms": 18
+      "end_ms": 17
     },
     "91": {
       "title": "[aphorism]",
@@ -643,20 +643,20 @@
       "level": 3,
       "parent": 90,
       "start_ms": 17,
-      "end_ms": 18
+      "end_ms": 17
     },
     "93": {
       "title": "8.",
       "level": 2,
       "parent": 71,
-      "start_ms": 18,
+      "start_ms": 17,
       "end_ms": 18
     },
     "94": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 93,
-      "start_ms": 18,
+      "start_ms": 17,
       "end_ms": 18
     },
     "95": {
@@ -734,41 +734,41 @@
       "level": 2,
       "parent": 71,
       "start_ms": 18,
-      "end_ms": 19
+      "end_ms": 18
     },
     "106": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 105,
       "start_ms": 18,
-      "end_ms": 19
+      "end_ms": 18
     },
     "107": {
       "title": "[commentary]",
       "level": 3,
       "parent": 105,
-      "start_ms": 19,
-      "end_ms": 19
+      "start_ms": 18,
+      "end_ms": 18
     },
     "108": {
       "title": "13.",
       "level": 2,
       "parent": 71,
-      "start_ms": 19,
+      "start_ms": 18,
       "end_ms": 19
     },
     "109": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 108,
-      "start_ms": 19,
-      "end_ms": 19
+      "start_ms": 18,
+      "end_ms": 18
     },
     "110": {
       "title": "[commentary]",
       "level": 3,
       "parent": 108,
-      "start_ms": 19,
+      "start_ms": 18,
       "end_ms": 19
     },
     "111": {
@@ -797,7 +797,7 @@
       "level": 2,
       "parent": 71,
       "start_ms": 19,
-      "end_ms": 20
+      "end_ms": 19
     },
     "115": {
       "title": "[aphorism]",
@@ -811,27 +811,27 @@
       "level": 3,
       "parent": 114,
       "start_ms": 19,
-      "end_ms": 20
+      "end_ms": 19
     },
     "117": {
       "title": "16",
       "level": 2,
       "parent": 71,
-      "start_ms": 20,
+      "start_ms": 19,
       "end_ms": 20
     },
     "118": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 117,
-      "start_ms": 20,
-      "end_ms": 20
+      "start_ms": 19,
+      "end_ms": 19
     },
     "119": {
       "title": "[commentary]",
       "level": 3,
       "parent": 117,
-      "start_ms": 20,
+      "start_ms": 19,
       "end_ms": 20
     },
     "120": {
@@ -881,7 +881,7 @@
       "level": 2,
       "parent": 71,
       "start_ms": 20,
-      "end_ms": 21
+      "end_ms": 20
     },
     "127": {
       "title": "[aphorism]",
@@ -895,48 +895,48 @@
       "level": 3,
       "parent": 126,
       "start_ms": 20,
-      "end_ms": 21
+      "end_ms": 20
     },
     "129": {
       "title": "20.",
       "level": 2,
       "parent": 71,
-      "start_ms": 21,
-      "end_ms": 21
+      "start_ms": 20,
+      "end_ms": 20
     },
     "130": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 129,
-      "start_ms": 21,
-      "end_ms": 21
+      "start_ms": 20,
+      "end_ms": 20
     },
     "131": {
       "title": "[commentary]",
       "level": 3,
       "parent": 129,
-      "start_ms": 21,
-      "end_ms": 21
+      "start_ms": 20,
+      "end_ms": 20
     },
     "132": {
       "title": "21.",
       "level": 2,
       "parent": 71,
-      "start_ms": 21,
+      "start_ms": 20,
       "end_ms": 21
     },
     "133": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 132,
-      "start_ms": 21,
-      "end_ms": 21
+      "start_ms": 20,
+      "end_ms": 20
     },
     "134": {
       "title": "[commentary]",
       "level": 3,
       "parent": 132,
-      "start_ms": 21,
+      "start_ms": 20,
       "end_ms": 21
     },
     "135": {
@@ -965,7 +965,7 @@
       "level": 2,
       "parent": 71,
       "start_ms": 21,
-      "end_ms": 22
+      "end_ms": 21
     },
     "139": {
       "title": "[aphorism]",
@@ -979,27 +979,27 @@
       "level": 3,
       "parent": 138,
       "start_ms": 21,
-      "end_ms": 22
+      "end_ms": 21
     },
     "141": {
       "title": "24",
       "level": 2,
       "parent": 71,
-      "start_ms": 22,
+      "start_ms": 21,
       "end_ms": 22
     },
     "142": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 141,
-      "start_ms": 22,
-      "end_ms": 22
+      "start_ms": 21,
+      "end_ms": 21
     },
     "143": {
       "title": "[commentary]",
       "level": 3,
       "parent": 141,
-      "start_ms": 22,
+      "start_ms": 21,
       "end_ms": 22
     },
     "144": {
@@ -1007,7 +1007,7 @@
       "level": 2,
       "parent": 71,
       "start_ms": 22,
-      "end_ms": 23
+      "end_ms": 22
     },
     "145": {
       "title": "[aphorism]",
@@ -1021,27 +1021,27 @@
       "level": 3,
       "parent": 144,
       "start_ms": 22,
-      "end_ms": 23
+      "end_ms": 22
     },
     "147": {
       "title": "26.",
       "level": 2,
       "parent": 71,
-      "start_ms": 23,
+      "start_ms": 22,
       "end_ms": 23
     },
     "148": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 147,
-      "start_ms": 23,
-      "end_ms": 23
+      "start_ms": 22,
+      "end_ms": 22
     },
     "149": {
       "title": "[commentary]",
       "level": 3,
       "parent": 147,
-      "start_ms": 23,
+      "start_ms": 22,
       "end_ms": 23
     },
     "150": {
@@ -1091,41 +1091,41 @@
       "level": 2,
       "parent": 71,
       "start_ms": 23,
-      "end_ms": 24
+      "end_ms": 23
     },
     "157": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 156,
       "start_ms": 23,
-      "end_ms": 24
+      "end_ms": 23
     },
     "158": {
       "title": "[commentary]",
       "level": 3,
       "parent": 156,
-      "start_ms": 24,
-      "end_ms": 24
+      "start_ms": 23,
+      "end_ms": 23
     },
     "159": {
       "title": "30.",
       "level": 2,
       "parent": 71,
-      "start_ms": 24,
+      "start_ms": 23,
       "end_ms": 24
     },
     "160": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 159,
-      "start_ms": 24,
-      "end_ms": 24
+      "start_ms": 23,
+      "end_ms": 23
     },
     "161": {
       "title": "[commentary]",
       "level": 3,
       "parent": 159,
-      "start_ms": 24,
+      "start_ms": 23,
       "end_ms": 24
     },
     "162": {
@@ -1175,7 +1175,7 @@
       "level": 2,
       "parent": 71,
       "start_ms": 24,
-      "end_ms": 25
+      "end_ms": 24
     },
     "169": {
       "title": "[aphorism]",
@@ -1189,41 +1189,41 @@
       "level": 3,
       "parent": 168,
       "start_ms": 24,
-      "end_ms": 25
+      "end_ms": 24
     },
     "171": {
       "title": "34.",
       "level": 2,
       "parent": 71,
-      "start_ms": 25,
-      "end_ms": 25
+      "start_ms": 24,
+      "end_ms": 24
     },
     "172": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 171,
-      "start_ms": 25,
-      "end_ms": 25
+      "start_ms": 24,
+      "end_ms": 24
     },
     "173": {
       "title": "[commentary]",
       "level": 3,
       "parent": 171,
-      "start_ms": 25,
-      "end_ms": 25
+      "start_ms": 24,
+      "end_ms": 24
     },
     "174": {
       "title": "35.",
       "level": 2,
       "parent": 71,
-      "start_ms": 25,
+      "start_ms": 24,
       "end_ms": 25
     },
     "175": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 174,
-      "start_ms": 25,
+      "start_ms": 24,
       "end_ms": 25
     },
     "176": {
@@ -1238,7 +1238,7 @@
       "level": 2,
       "parent": 71,
       "start_ms": 25,
-      "end_ms": 26
+      "end_ms": 25
     },
     "178": {
       "title": "[aphorism]",
@@ -1252,48 +1252,48 @@
       "level": 3,
       "parent": 177,
       "start_ms": 25,
-      "end_ms": 26
+      "end_ms": 25
     },
     "180": {
       "title": "37.",
       "level": 2,
       "parent": 71,
-      "start_ms": 26,
-      "end_ms": 26
+      "start_ms": 25,
+      "end_ms": 25
     },
     "181": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 180,
-      "start_ms": 26,
-      "end_ms": 26
+      "start_ms": 25,
+      "end_ms": 25
     },
     "182": {
       "title": "[commentary]",
       "level": 3,
       "parent": 180,
-      "start_ms": 26,
-      "end_ms": 26
+      "start_ms": 25,
+      "end_ms": 25
     },
     "183": {
       "title": "38.",
       "level": 2,
       "parent": 71,
-      "start_ms": 26,
+      "start_ms": 25,
       "end_ms": 26
     },
     "184": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 183,
-      "start_ms": 26,
-      "end_ms": 26
+      "start_ms": 25,
+      "end_ms": 25
     },
     "185": {
       "title": "[commentary]",
       "level": 3,
       "parent": 183,
-      "start_ms": 26,
+      "start_ms": 25,
       "end_ms": 26
     },
     "186": {
@@ -1343,7 +1343,7 @@
       "level": 2,
       "parent": 71,
       "start_ms": 26,
-      "end_ms": 27
+      "end_ms": 26
     },
     "193": {
       "title": "[aphorism]",
@@ -1357,48 +1357,48 @@
       "level": 3,
       "parent": 192,
       "start_ms": 26,
-      "end_ms": 27
+      "end_ms": 26
     },
     "195": {
       "title": "42.",
       "level": 2,
       "parent": 71,
-      "start_ms": 27,
-      "end_ms": 27
+      "start_ms": 26,
+      "end_ms": 26
     },
     "196": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 195,
-      "start_ms": 27,
-      "end_ms": 27
+      "start_ms": 26,
+      "end_ms": 26
     },
     "197": {
       "title": "[commentary]",
       "level": 3,
       "parent": 195,
-      "start_ms": 27,
-      "end_ms": 27
+      "start_ms": 26,
+      "end_ms": 26
     },
     "198": {
       "title": "43.",
       "level": 2,
       "parent": 71,
-      "start_ms": 27,
+      "start_ms": 26,
       "end_ms": 27
     },
     "199": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 198,
-      "start_ms": 27,
-      "end_ms": 27
+      "start_ms": 26,
+      "end_ms": 26
     },
     "200": {
       "title": "[commentary]",
       "level": 3,
       "parent": 198,
-      "start_ms": 27,
+      "start_ms": 26,
       "end_ms": 27
     },
     "201": {
@@ -1406,7 +1406,7 @@
       "level": 2,
       "parent": 71,
       "start_ms": 27,
-      "end_ms": 28
+      "end_ms": 27
     },
     "202": {
       "title": "[aphorism]",
@@ -1420,48 +1420,48 @@
       "level": 3,
       "parent": 201,
       "start_ms": 27,
-      "end_ms": 28
+      "end_ms": 27
     },
     "204": {
       "title": "45.",
       "level": 2,
       "parent": 71,
-      "start_ms": 28,
-      "end_ms": 28
+      "start_ms": 27,
+      "end_ms": 27
     },
     "205": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 204,
-      "start_ms": 28,
-      "end_ms": 28
+      "start_ms": 27,
+      "end_ms": 27
     },
     "206": {
       "title": "[commentary]",
       "level": 3,
       "parent": 204,
-      "start_ms": 28,
-      "end_ms": 28
+      "start_ms": 27,
+      "end_ms": 27
     },
     "207": {
       "title": "46.",
       "level": 2,
       "parent": 71,
-      "start_ms": 28,
+      "start_ms": 27,
       "end_ms": 28
     },
     "208": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 207,
-      "start_ms": 28,
-      "end_ms": 28
+      "start_ms": 27,
+      "end_ms": 27
     },
     "209": {
       "title": "[commentary]",
       "level": 3,
       "parent": 207,
-      "start_ms": 28,
+      "start_ms": 27,
       "end_ms": 28
     },
     "210": {
@@ -1497,7 +1497,7 @@
       "level": 2,
       "parent": 71,
       "start_ms": 28,
-      "end_ms": 29
+      "end_ms": 28
     },
     "215": {
       "title": "[aphorism]",
@@ -1511,48 +1511,48 @@
       "level": 3,
       "parent": 214,
       "start_ms": 28,
-      "end_ms": 29
+      "end_ms": 28
     },
     "217": {
       "title": "49.",
       "level": 2,
       "parent": 71,
-      "start_ms": 29,
-      "end_ms": 29
+      "start_ms": 28,
+      "end_ms": 28
     },
     "218": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 217,
-      "start_ms": 29,
-      "end_ms": 29
+      "start_ms": 28,
+      "end_ms": 28
     },
     "219": {
       "title": "[commentary]",
       "level": 3,
       "parent": 217,
-      "start_ms": 29,
-      "end_ms": 29
+      "start_ms": 28,
+      "end_ms": 28
     },
     "220": {
       "title": "50.",
       "level": 2,
       "parent": 71,
-      "start_ms": 29,
+      "start_ms": 28,
       "end_ms": 29
     },
     "221": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 220,
-      "start_ms": 29,
-      "end_ms": 29
+      "start_ms": 28,
+      "end_ms": 28
     },
     "222": {
       "title": "[commentary]",
       "level": 3,
       "parent": 220,
-      "start_ms": 29,
+      "start_ms": 28,
       "end_ms": 29
     },
     "223": {
@@ -1581,41 +1581,41 @@
       "level": 2,
       "parent": 71,
       "start_ms": 29,
-      "end_ms": 30
+      "end_ms": 29
     },
     "227": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 226,
       "start_ms": 29,
-      "end_ms": 30
+      "end_ms": 29
     },
     "228": {
       "title": "[commentary]",
       "level": 3,
       "parent": 226,
-      "start_ms": 30,
-      "end_ms": 30
+      "start_ms": 29,
+      "end_ms": 29
     },
     "229": {
       "title": "53.",
       "level": 2,
       "parent": 71,
-      "start_ms": 30,
+      "start_ms": 29,
       "end_ms": 30
     },
     "230": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 229,
-      "start_ms": 30,
-      "end_ms": 30
+      "start_ms": 29,
+      "end_ms": 29
     },
     "231": {
       "title": "[commentary]",
       "level": 3,
       "parent": 229,
-      "start_ms": 30,
+      "start_ms": 29,
       "end_ms": 30
     },
     "232": {
@@ -1651,41 +1651,41 @@
       "level": 2,
       "parent": 235,
       "start_ms": 30,
-      "end_ms": 31
+      "end_ms": 30
     },
     "237": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 236,
       "start_ms": 30,
-      "end_ms": 31
+      "end_ms": 30
     },
     "238": {
       "title": "[commentary]",
       "level": 3,
       "parent": 236,
-      "start_ms": 31,
-      "end_ms": 31
+      "start_ms": 30,
+      "end_ms": 30
     },
     "239": {
       "title": "2",
       "level": 2,
       "parent": 235,
-      "start_ms": 31,
+      "start_ms": 30,
       "end_ms": 31
     },
     "240": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 239,
-      "start_ms": 31,
-      "end_ms": 31
+      "start_ms": 30,
+      "end_ms": 30
     },
     "241": {
       "title": "[commentary]",
       "level": 3,
       "parent": 239,
-      "start_ms": 31,
+      "start_ms": 30,
       "end_ms": 31
     },
     "242": {
@@ -1714,76 +1714,76 @@
       "level": 2,
       "parent": 235,
       "start_ms": 31,
-      "end_ms": 32
+      "end_ms": 31
     },
     "246": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 245,
       "start_ms": 31,
-      "end_ms": 32
+      "end_ms": 31
     },
     "247": {
       "title": "[commentary]",
       "level": 3,
       "parent": 245,
-      "start_ms": 32,
-      "end_ms": 32
+      "start_ms": 31,
+      "end_ms": 31
     },
     "248": {
       "title": "5",
       "level": 2,
       "parent": 235,
-      "start_ms": 32,
-      "end_ms": 32
+      "start_ms": 31,
+      "end_ms": 31
     },
     "249": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 248,
-      "start_ms": 32,
-      "end_ms": 32
+      "start_ms": 31,
+      "end_ms": 31
     },
     "250": {
       "title": "[commentary]",
       "level": 3,
       "parent": 248,
-      "start_ms": 32,
-      "end_ms": 32
+      "start_ms": 31,
+      "end_ms": 31
     },
     "251": {
       "title": "6",
       "level": 2,
       "parent": 235,
-      "start_ms": 32,
-      "end_ms": 32
+      "start_ms": 31,
+      "end_ms": 31
     },
     "252": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 251,
-      "start_ms": 32,
-      "end_ms": 32
+      "start_ms": 31,
+      "end_ms": 31
     },
     "253": {
       "title": "[commentary]",
       "level": 3,
       "parent": 251,
-      "start_ms": 32,
-      "end_ms": 32
+      "start_ms": 31,
+      "end_ms": 31
     },
     "254": {
       "title": "7",
       "level": 2,
       "parent": 235,
-      "start_ms": 32,
+      "start_ms": 31,
       "end_ms": 32
     },
     "255": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 254,
-      "start_ms": 32,
+      "start_ms": 31,
       "end_ms": 32
     },
     "256": {
@@ -1798,76 +1798,76 @@
       "level": 2,
       "parent": 235,
       "start_ms": 32,
-      "end_ms": 33
+      "end_ms": 32
     },
     "258": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 257,
       "start_ms": 32,
-      "end_ms": 33
+      "end_ms": 32
     },
     "259": {
       "title": "[commentary]",
       "level": 3,
       "parent": 257,
-      "start_ms": 33,
-      "end_ms": 33
+      "start_ms": 32,
+      "end_ms": 32
     },
     "260": {
       "title": "9",
       "level": 2,
       "parent": 235,
-      "start_ms": 33,
-      "end_ms": 33
+      "start_ms": 32,
+      "end_ms": 32
     },
     "261": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 260,
-      "start_ms": 33,
-      "end_ms": 33
+      "start_ms": 32,
+      "end_ms": 32
     },
     "262": {
       "title": "[commentary]",
       "level": 3,
       "parent": 260,
-      "start_ms": 33,
-      "end_ms": 33
+      "start_ms": 32,
+      "end_ms": 32
     },
     "263": {
       "title": "10",
       "level": 2,
       "parent": 235,
-      "start_ms": 33,
-      "end_ms": 33
+      "start_ms": 32,
+      "end_ms": 32
     },
     "264": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 263,
-      "start_ms": 33,
-      "end_ms": 33
+      "start_ms": 32,
+      "end_ms": 32
     },
     "265": {
       "title": "[commentary]",
       "level": 3,
       "parent": 263,
-      "start_ms": 33,
-      "end_ms": 33
+      "start_ms": 32,
+      "end_ms": 32
     },
     "266": {
       "title": "11",
       "level": 2,
       "parent": 235,
-      "start_ms": 33,
-      "end_ms": 34
+      "start_ms": 32,
+      "end_ms": 33
     },
     "267": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 266,
-      "start_ms": 33,
+      "start_ms": 32,
       "end_ms": 33
     },
     "268": {
@@ -1875,27 +1875,27 @@
       "level": 3,
       "parent": 266,
       "start_ms": 33,
-      "end_ms": 34
+      "end_ms": 33
     },
     "269": {
       "title": "12",
       "level": 2,
       "parent": 235,
-      "start_ms": 34,
+      "start_ms": 33,
       "end_ms": 34
     },
     "270": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 269,
-      "start_ms": 34,
-      "end_ms": 34
+      "start_ms": 33,
+      "end_ms": 33
     },
     "271": {
       "title": "[commentary]",
       "level": 3,
       "parent": 269,
-      "start_ms": 34,
+      "start_ms": 33,
       "end_ms": 34
     },
     "272": {
@@ -1903,7 +1903,7 @@
       "level": 2,
       "parent": 235,
       "start_ms": 34,
-      "end_ms": 35
+      "end_ms": 34
     },
     "273": {
       "title": "[aphorism]",
@@ -1917,69 +1917,69 @@
       "level": 3,
       "parent": 272,
       "start_ms": 34,
-      "end_ms": 35
+      "end_ms": 34
     },
     "275": {
       "title": "14",
       "level": 2,
       "parent": 235,
-      "start_ms": 35,
-      "end_ms": 35
+      "start_ms": 34,
+      "end_ms": 34
     },
     "276": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 275,
-      "start_ms": 35,
-      "end_ms": 35
+      "start_ms": 34,
+      "end_ms": 34
     },
     "277": {
       "title": "[commentary]",
       "level": 3,
       "parent": 275,
-      "start_ms": 35,
-      "end_ms": 35
+      "start_ms": 34,
+      "end_ms": 34
     },
     "278": {
       "title": "15",
       "level": 2,
       "parent": 235,
-      "start_ms": 35,
-      "end_ms": 35
+      "start_ms": 34,
+      "end_ms": 34
     },
     "279": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 278,
-      "start_ms": 35,
-      "end_ms": 35
+      "start_ms": 34,
+      "end_ms": 34
     },
     "280": {
       "title": "[commentary]",
       "level": 3,
       "parent": 278,
-      "start_ms": 35,
-      "end_ms": 35
+      "start_ms": 34,
+      "end_ms": 34
     },
     "281": {
       "title": "16",
       "level": 2,
       "parent": 235,
-      "start_ms": 35,
+      "start_ms": 34,
       "end_ms": 35
     },
     "282": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 281,
-      "start_ms": 35,
-      "end_ms": 35
+      "start_ms": 34,
+      "end_ms": 34
     },
     "283": {
       "title": "[commentary]",
       "level": 3,
       "parent": 281,
-      "start_ms": 35,
+      "start_ms": 34,
       "end_ms": 35
     },
     "284": {
@@ -1987,76 +1987,76 @@
       "level": 2,
       "parent": 235,
       "start_ms": 35,
-      "end_ms": 36
+      "end_ms": 35
     },
     "285": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 284,
       "start_ms": 35,
-      "end_ms": 36
+      "end_ms": 35
     },
     "286": {
       "title": "[commentary]",
       "level": 3,
       "parent": 284,
-      "start_ms": 36,
-      "end_ms": 36
+      "start_ms": 35,
+      "end_ms": 35
     },
     "287": {
       "title": "18",
       "level": 2,
       "parent": 235,
-      "start_ms": 36,
-      "end_ms": 36
+      "start_ms": 35,
+      "end_ms": 35
     },
     "288": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 287,
-      "start_ms": 36,
-      "end_ms": 36
+      "start_ms": 35,
+      "end_ms": 35
     },
     "289": {
       "title": "[commentary]",
       "level": 3,
       "parent": 287,
-      "start_ms": 36,
-      "end_ms": 36
+      "start_ms": 35,
+      "end_ms": 35
     },
     "290": {
       "title": "19",
       "level": 2,
       "parent": 235,
-      "start_ms": 36,
-      "end_ms": 36
+      "start_ms": 35,
+      "end_ms": 35
     },
     "291": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 290,
-      "start_ms": 36,
-      "end_ms": 36
+      "start_ms": 35,
+      "end_ms": 35
     },
     "292": {
       "title": "[commentary]",
       "level": 3,
       "parent": 290,
-      "start_ms": 36,
-      "end_ms": 36
+      "start_ms": 35,
+      "end_ms": 35
     },
     "293": {
       "title": "20",
       "level": 2,
       "parent": 235,
-      "start_ms": 36,
+      "start_ms": 35,
       "end_ms": 36
     },
     "294": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 293,
-      "start_ms": 36,
+      "start_ms": 35,
       "end_ms": 36
     },
     "295": {
@@ -2071,76 +2071,76 @@
       "level": 2,
       "parent": 235,
       "start_ms": 36,
-      "end_ms": 37
+      "end_ms": 36
     },
     "297": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 296,
       "start_ms": 36,
-      "end_ms": 37
+      "end_ms": 36
     },
     "298": {
       "title": "[commentary]",
       "level": 3,
       "parent": 296,
-      "start_ms": 37,
-      "end_ms": 37
+      "start_ms": 36,
+      "end_ms": 36
     },
     "299": {
       "title": "22",
       "level": 2,
       "parent": 235,
-      "start_ms": 37,
-      "end_ms": 37
+      "start_ms": 36,
+      "end_ms": 36
     },
     "300": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 299,
-      "start_ms": 37,
-      "end_ms": 37
+      "start_ms": 36,
+      "end_ms": 36
     },
     "301": {
       "title": "[commentary]",
       "level": 3,
       "parent": 299,
-      "start_ms": 37,
-      "end_ms": 37
+      "start_ms": 36,
+      "end_ms": 36
     },
     "302": {
       "title": "23",
       "level": 2,
       "parent": 235,
-      "start_ms": 37,
-      "end_ms": 37
+      "start_ms": 36,
+      "end_ms": 36
     },
     "303": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 302,
-      "start_ms": 37,
-      "end_ms": 37
+      "start_ms": 36,
+      "end_ms": 36
     },
     "304": {
       "title": "[commentary]",
       "level": 3,
       "parent": 302,
-      "start_ms": 37,
-      "end_ms": 37
+      "start_ms": 36,
+      "end_ms": 36
     },
     "305": {
       "title": "24",
       "level": 2,
       "parent": 235,
-      "start_ms": 37,
-      "end_ms": 38
+      "start_ms": 36,
+      "end_ms": 37
     },
     "306": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 305,
-      "start_ms": 37,
+      "start_ms": 36,
       "end_ms": 37
     },
     "307": {
@@ -2148,48 +2148,48 @@
       "level": 3,
       "parent": 305,
       "start_ms": 37,
-      "end_ms": 38
+      "end_ms": 37
     },
     "308": {
       "title": "25",
       "level": 2,
       "parent": 235,
-      "start_ms": 38,
-      "end_ms": 38
+      "start_ms": 37,
+      "end_ms": 37
     },
     "309": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 308,
-      "start_ms": 38,
-      "end_ms": 38
+      "start_ms": 37,
+      "end_ms": 37
     },
     "310": {
       "title": "[commentary]",
       "level": 3,
       "parent": 308,
-      "start_ms": 38,
-      "end_ms": 38
+      "start_ms": 37,
+      "end_ms": 37
     },
     "311": {
       "title": "26",
       "level": 2,
       "parent": 235,
-      "start_ms": 38,
+      "start_ms": 37,
       "end_ms": 38
     },
     "312": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 311,
-      "start_ms": 38,
-      "end_ms": 38
+      "start_ms": 37,
+      "end_ms": 37
     },
     "313": {
       "title": "[commentary]",
       "level": 3,
       "parent": 311,
-      "start_ms": 38,
+      "start_ms": 37,
       "end_ms": 38
     },
     "314": {
@@ -2197,62 +2197,62 @@
       "level": 2,
       "parent": 235,
       "start_ms": 38,
-      "end_ms": 39
+      "end_ms": 38
     },
     "315": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 314,
       "start_ms": 38,
-      "end_ms": 39
+      "end_ms": 38
     },
     "316": {
       "title": "[commentary]",
       "level": 3,
       "parent": 314,
-      "start_ms": 39,
-      "end_ms": 39
+      "start_ms": 38,
+      "end_ms": 38
     },
     "317": {
       "title": "28",
       "level": 2,
       "parent": 235,
-      "start_ms": 39,
-      "end_ms": 39
+      "start_ms": 38,
+      "end_ms": 38
     },
     "318": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 317,
-      "start_ms": 39,
-      "end_ms": 39
+      "start_ms": 38,
+      "end_ms": 38
     },
     "319": {
       "title": "[commentary]",
       "level": 3,
       "parent": 317,
-      "start_ms": 39,
-      "end_ms": 39
+      "start_ms": 38,
+      "end_ms": 38
     },
     "320": {
       "title": "29",
       "level": 2,
       "parent": 235,
-      "start_ms": 39,
+      "start_ms": 38,
       "end_ms": 39
     },
     "321": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 320,
-      "start_ms": 39,
-      "end_ms": 39
+      "start_ms": 38,
+      "end_ms": 38
     },
     "322": {
       "title": "[commentary]",
       "level": 3,
       "parent": 320,
-      "start_ms": 39,
+      "start_ms": 38,
       "end_ms": 39
     },
     "323": {
@@ -2260,41 +2260,41 @@
       "level": 2,
       "parent": 235,
       "start_ms": 39,
-      "end_ms": 40
+      "end_ms": 39
     },
     "324": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 323,
       "start_ms": 39,
-      "end_ms": 40
+      "end_ms": 39
     },
     "325": {
       "title": "[commentary]",
       "level": 3,
       "parent": 323,
-      "start_ms": 40,
-      "end_ms": 40
+      "start_ms": 39,
+      "end_ms": 39
     },
     "326": {
       "title": "31",
       "level": 2,
       "parent": 235,
-      "start_ms": 40,
+      "start_ms": 39,
       "end_ms": 40
     },
     "327": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 326,
-      "start_ms": 40,
-      "end_ms": 40
+      "start_ms": 39,
+      "end_ms": 39
     },
     "328": {
       "title": "[commentary]",
       "level": 3,
       "parent": 326,
-      "start_ms": 40,
+      "start_ms": 39,
       "end_ms": 40
     },
     "329": {
@@ -2302,83 +2302,83 @@
       "level": 1,
       "parent": null,
       "start_ms": 40,
-      "end_ms": 59
+      "end_ms": 58
     },
     "330": {
       "title": "1",
       "level": 2,
       "parent": 329,
       "start_ms": 40,
-      "end_ms": 41
+      "end_ms": 40
     },
     "331": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 330,
       "start_ms": 40,
-      "end_ms": 41
+      "end_ms": 40
     },
     "332": {
       "title": "[commentary]",
       "level": 3,
       "parent": 330,
-      "start_ms": 41,
-      "end_ms": 41
+      "start_ms": 40,
+      "end_ms": 40
     },
     "333": {
       "title": "2",
       "level": 2,
       "parent": 329,
-      "start_ms": 41,
-      "end_ms": 41
+      "start_ms": 40,
+      "end_ms": 40
     },
     "334": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 333,
-      "start_ms": 41,
-      "end_ms": 41
+      "start_ms": 40,
+      "end_ms": 40
     },
     "335": {
       "title": "[commentary]",
       "level": 3,
       "parent": 333,
-      "start_ms": 41,
-      "end_ms": 41
+      "start_ms": 40,
+      "end_ms": 40
     },
     "336": {
       "title": "3",
       "level": 2,
       "parent": 329,
-      "start_ms": 41,
-      "end_ms": 41
+      "start_ms": 40,
+      "end_ms": 40
     },
     "337": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 336,
-      "start_ms": 41,
-      "end_ms": 41
+      "start_ms": 40,
+      "end_ms": 40
     },
     "338": {
       "title": "[commentary]",
       "level": 3,
       "parent": 336,
-      "start_ms": 41,
-      "end_ms": 41
+      "start_ms": 40,
+      "end_ms": 40
     },
     "339": {
       "title": "4",
       "level": 2,
       "parent": 329,
-      "start_ms": 41,
-      "end_ms": 42
+      "start_ms": 40,
+      "end_ms": 41
     },
     "340": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 339,
-      "start_ms": 41,
+      "start_ms": 40,
       "end_ms": 41
     },
     "341": {
@@ -2386,104 +2386,104 @@
       "level": 3,
       "parent": 339,
       "start_ms": 41,
-      "end_ms": 42
+      "end_ms": 41
     },
     "342": {
       "title": "5",
       "level": 2,
       "parent": 329,
-      "start_ms": 42,
-      "end_ms": 42
+      "start_ms": 41,
+      "end_ms": 41
     },
     "343": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 342,
-      "start_ms": 42,
-      "end_ms": 42
+      "start_ms": 41,
+      "end_ms": 41
     },
     "344": {
       "title": "[commentary]",
       "level": 3,
       "parent": 342,
-      "start_ms": 42,
-      "end_ms": 42
+      "start_ms": 41,
+      "end_ms": 41
     },
     "345": {
       "title": "6",
       "level": 2,
       "parent": 329,
-      "start_ms": 42,
-      "end_ms": 42
+      "start_ms": 41,
+      "end_ms": 41
     },
     "346": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 345,
-      "start_ms": 42,
-      "end_ms": 42
+      "start_ms": 41,
+      "end_ms": 41
     },
     "347": {
       "title": "[commentary]",
       "level": 3,
       "parent": 345,
-      "start_ms": 42,
-      "end_ms": 42
+      "start_ms": 41,
+      "end_ms": 41
     },
     "348": {
       "title": "7",
       "level": 2,
       "parent": 329,
-      "start_ms": 42,
-      "end_ms": 42
+      "start_ms": 41,
+      "end_ms": 41
     },
     "349": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 348,
-      "start_ms": 42,
-      "end_ms": 42
+      "start_ms": 41,
+      "end_ms": 41
     },
     "350": {
       "title": "[commentary]",
       "level": 3,
       "parent": 348,
-      "start_ms": 42,
-      "end_ms": 42
+      "start_ms": 41,
+      "end_ms": 41
     },
     "351": {
       "title": "8",
       "level": 2,
       "parent": 329,
-      "start_ms": 42,
-      "end_ms": 42
+      "start_ms": 41,
+      "end_ms": 41
     },
     "352": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 351,
-      "start_ms": 42,
-      "end_ms": 42
+      "start_ms": 41,
+      "end_ms": 41
     },
     "353": {
       "title": "[commentary]",
       "level": 3,
       "parent": 351,
-      "start_ms": 42,
-      "end_ms": 42
+      "start_ms": 41,
+      "end_ms": 41
     },
     "354": {
       "title": "9",
       "level": 2,
       "parent": 329,
-      "start_ms": 42,
-      "end_ms": 43
+      "start_ms": 41,
+      "end_ms": 42
     },
     "355": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 354,
-      "start_ms": 42,
+      "start_ms": 41,
       "end_ms": 42
     },
     "356": {
@@ -2491,5487 +2491,5487 @@
       "level": 3,
       "parent": 354,
       "start_ms": 42,
-      "end_ms": 43
+      "end_ms": 42
     },
     "357": {
       "title": "10",
       "level": 2,
       "parent": 329,
-      "start_ms": 43,
-      "end_ms": 43
+      "start_ms": 42,
+      "end_ms": 42
     },
     "358": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 357,
-      "start_ms": 43,
-      "end_ms": 43
+      "start_ms": 42,
+      "end_ms": 42
     },
     "359": {
       "title": "[commentary]",
       "level": 3,
       "parent": 357,
-      "start_ms": 43,
-      "end_ms": 43
+      "start_ms": 42,
+      "end_ms": 42
     },
     "360": {
       "title": "11",
       "level": 2,
       "parent": 329,
-      "start_ms": 43,
-      "end_ms": 43
+      "start_ms": 42,
+      "end_ms": 42
     },
     "361": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 360,
-      "start_ms": 43,
-      "end_ms": 43
+      "start_ms": 42,
+      "end_ms": 42
     },
     "362": {
       "title": "[commentary]",
       "level": 3,
       "parent": 360,
-      "start_ms": 43,
-      "end_ms": 43
+      "start_ms": 42,
+      "end_ms": 42
     },
     "363": {
       "title": "12",
       "level": 2,
       "parent": 329,
-      "start_ms": 43,
-      "end_ms": 44
+      "start_ms": 42,
+      "end_ms": 43
     },
     "364": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 363,
-      "start_ms": 43,
-      "end_ms": 43
+      "start_ms": 42,
+      "end_ms": 42
     },
     "365": {
       "title": "[commentary]",
       "level": 3,
       "parent": 363,
-      "start_ms": 43,
-      "end_ms": 44
+      "start_ms": 42,
+      "end_ms": 43
     },
     "366": {
       "title": "13",
       "level": 2,
       "parent": 329,
-      "start_ms": 44,
-      "end_ms": 44
+      "start_ms": 43,
+      "end_ms": 43
     },
     "367": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 366,
-      "start_ms": 44,
-      "end_ms": 44
+      "start_ms": 43,
+      "end_ms": 43
     },
     "368": {
       "title": "[commentary]",
       "level": 3,
       "parent": 366,
-      "start_ms": 44,
-      "end_ms": 44
+      "start_ms": 43,
+      "end_ms": 43
     },
     "369": {
       "title": "14",
       "level": 2,
       "parent": 329,
-      "start_ms": 44,
-      "end_ms": 44
+      "start_ms": 43,
+      "end_ms": 43
     },
     "370": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 369,
-      "start_ms": 44,
-      "end_ms": 44
+      "start_ms": 43,
+      "end_ms": 43
     },
     "371": {
       "title": "[commentary]",
       "level": 3,
       "parent": 369,
-      "start_ms": 44,
-      "end_ms": 44
+      "start_ms": 43,
+      "end_ms": 43
     },
     "372": {
       "title": "15",
       "level": 2,
       "parent": 329,
-      "start_ms": 44,
-      "end_ms": 44
+      "start_ms": 43,
+      "end_ms": 43
     },
     "373": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 372,
-      "start_ms": 44,
-      "end_ms": 44
+      "start_ms": 43,
+      "end_ms": 43
     },
     "374": {
       "title": "[commentary]",
       "level": 3,
       "parent": 372,
-      "start_ms": 44,
-      "end_ms": 44
+      "start_ms": 43,
+      "end_ms": 43
     },
     "375": {
       "title": "16",
       "level": 2,
       "parent": 329,
-      "start_ms": 44,
-      "end_ms": 45
+      "start_ms": 43,
+      "end_ms": 44
     },
     "376": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 375,
-      "start_ms": 44,
-      "end_ms": 44
+      "start_ms": 43,
+      "end_ms": 43
     },
     "377": {
       "title": "[commentary]",
       "level": 3,
       "parent": 375,
-      "start_ms": 44,
-      "end_ms": 45
+      "start_ms": 43,
+      "end_ms": 44
     },
     "378": {
       "title": "17",
       "level": 2,
       "parent": 329,
-      "start_ms": 45,
-      "end_ms": 45
+      "start_ms": 44,
+      "end_ms": 44
     },
     "379": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 378,
-      "start_ms": 45,
-      "end_ms": 45
+      "start_ms": 44,
+      "end_ms": 44
     },
     "380": {
       "title": "[commentary]",
       "level": 3,
       "parent": 378,
-      "start_ms": 45,
-      "end_ms": 45
+      "start_ms": 44,
+      "end_ms": 44
     },
     "381": {
       "title": "18",
       "level": 2,
       "parent": 329,
-      "start_ms": 45,
-      "end_ms": 45
+      "start_ms": 44,
+      "end_ms": 44
     },
     "382": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 381,
-      "start_ms": 45,
-      "end_ms": 45
+      "start_ms": 44,
+      "end_ms": 44
     },
     "383": {
       "title": "[commentary]",
       "level": 3,
       "parent": 381,
-      "start_ms": 45,
-      "end_ms": 45
+      "start_ms": 44,
+      "end_ms": 44
     },
     "384": {
       "title": "19",
       "level": 2,
       "parent": 329,
-      "start_ms": 45,
-      "end_ms": 45
+      "start_ms": 44,
+      "end_ms": 44
     },
     "385": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 384,
-      "start_ms": 45,
-      "end_ms": 45
+      "start_ms": 44,
+      "end_ms": 44
     },
     "386": {
       "title": "[commentary]",
       "level": 3,
       "parent": 384,
-      "start_ms": 45,
-      "end_ms": 45
+      "start_ms": 44,
+      "end_ms": 44
     },
     "387": {
       "title": "20",
       "level": 2,
       "parent": 329,
-      "start_ms": 45,
-      "end_ms": 46
+      "start_ms": 44,
+      "end_ms": 45
     },
     "388": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 387,
-      "start_ms": 45,
-      "end_ms": 46
+      "start_ms": 44,
+      "end_ms": 45
     },
     "389": {
       "title": "[commentary]",
       "level": 3,
       "parent": 387,
-      "start_ms": 46,
-      "end_ms": 46
+      "start_ms": 45,
+      "end_ms": 45
     },
     "390": {
       "title": "21",
       "level": 2,
       "parent": 329,
-      "start_ms": 46,
-      "end_ms": 46
+      "start_ms": 45,
+      "end_ms": 45
     },
     "391": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 390,
-      "start_ms": 46,
-      "end_ms": 46
+      "start_ms": 45,
+      "end_ms": 45
     },
     "392": {
       "title": "[commentary]",
       "level": 3,
       "parent": 390,
-      "start_ms": 46,
-      "end_ms": 46
+      "start_ms": 45,
+      "end_ms": 45
     },
     "393": {
       "title": "22",
       "level": 2,
       "parent": 329,
-      "start_ms": 46,
-      "end_ms": 46
+      "start_ms": 45,
+      "end_ms": 45
     },
     "394": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 393,
-      "start_ms": 46,
-      "end_ms": 46
+      "start_ms": 45,
+      "end_ms": 45
     },
     "395": {
       "title": "[commentary]",
       "level": 3,
       "parent": 393,
-      "start_ms": 46,
-      "end_ms": 46
+      "start_ms": 45,
+      "end_ms": 45
     },
     "396": {
       "title": "23",
       "level": 2,
       "parent": 329,
-      "start_ms": 46,
-      "end_ms": 47
+      "start_ms": 45,
+      "end_ms": 45
     },
     "397": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 396,
-      "start_ms": 46,
-      "end_ms": 46
+      "start_ms": 45,
+      "end_ms": 45
     },
     "398": {
       "title": "[commentary]",
       "level": 3,
       "parent": 396,
-      "start_ms": 46,
-      "end_ms": 47
+      "start_ms": 45,
+      "end_ms": 45
     },
     "399": {
       "title": "24",
       "level": 2,
       "parent": 329,
-      "start_ms": 47,
-      "end_ms": 47
+      "start_ms": 45,
+      "end_ms": 46
     },
     "400": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 399,
-      "start_ms": 47,
-      "end_ms": 47
+      "start_ms": 45,
+      "end_ms": 46
     },
     "401": {
       "title": "[commentary]",
       "level": 3,
       "parent": 399,
-      "start_ms": 47,
-      "end_ms": 47
+      "start_ms": 46,
+      "end_ms": 46
     },
     "402": {
       "title": "25",
       "level": 2,
       "parent": 329,
-      "start_ms": 47,
-      "end_ms": 47
+      "start_ms": 46,
+      "end_ms": 46
     },
     "403": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 402,
-      "start_ms": 47,
-      "end_ms": 47
+      "start_ms": 46,
+      "end_ms": 46
     },
     "404": {
       "title": "[commentary]",
       "level": 3,
       "parent": 402,
-      "start_ms": 47,
-      "end_ms": 47
+      "start_ms": 46,
+      "end_ms": 46
     },
     "405": {
       "title": "26",
       "level": 2,
       "parent": 329,
-      "start_ms": 47,
-      "end_ms": 47
+      "start_ms": 46,
+      "end_ms": 46
     },
     "406": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 405,
-      "start_ms": 47,
-      "end_ms": 47
+      "start_ms": 46,
+      "end_ms": 46
     },
     "407": {
       "title": "[commentary]",
       "level": 3,
       "parent": 405,
-      "start_ms": 47,
-      "end_ms": 47
+      "start_ms": 46,
+      "end_ms": 46
     },
     "408": {
       "title": "27",
       "level": 2,
       "parent": 329,
-      "start_ms": 47,
-      "end_ms": 47
+      "start_ms": 46,
+      "end_ms": 46
     },
     "409": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 408,
-      "start_ms": 47,
-      "end_ms": 47
+      "start_ms": 46,
+      "end_ms": 46
     },
     "410": {
       "title": "[commentary]",
       "level": 3,
       "parent": 408,
-      "start_ms": 47,
-      "end_ms": 47
+      "start_ms": 46,
+      "end_ms": 46
     },
     "411": {
       "title": "28",
       "level": 2,
       "parent": 329,
-      "start_ms": 47,
-      "end_ms": 48
+      "start_ms": 46,
+      "end_ms": 47
     },
     "412": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 411,
-      "start_ms": 47,
-      "end_ms": 48
+      "start_ms": 46,
+      "end_ms": 46
     },
     "413": {
       "title": "[commentary]",
       "level": 3,
       "parent": 411,
-      "start_ms": 48,
-      "end_ms": 48
+      "start_ms": 46,
+      "end_ms": 47
     },
     "414": {
       "title": "29",
       "level": 2,
       "parent": 329,
-      "start_ms": 48,
-      "end_ms": 48
+      "start_ms": 47,
+      "end_ms": 47
     },
     "415": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 414,
-      "start_ms": 48,
-      "end_ms": 48
+      "start_ms": 47,
+      "end_ms": 47
     },
     "416": {
       "title": "[commentary]",
       "level": 3,
       "parent": 414,
-      "start_ms": 48,
-      "end_ms": 48
+      "start_ms": 47,
+      "end_ms": 47
     },
     "417": {
       "title": "30",
       "level": 2,
       "parent": 329,
-      "start_ms": 48,
-      "end_ms": 48
+      "start_ms": 47,
+      "end_ms": 47
     },
     "418": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 417,
-      "start_ms": 48,
-      "end_ms": 48
+      "start_ms": 47,
+      "end_ms": 47
     },
     "419": {
       "title": "[commentary]",
       "level": 3,
       "parent": 417,
-      "start_ms": 48,
-      "end_ms": 48
+      "start_ms": 47,
+      "end_ms": 47
     },
     "420": {
       "title": "31",
       "level": 2,
       "parent": 329,
-      "start_ms": 48,
-      "end_ms": 48
+      "start_ms": 47,
+      "end_ms": 47
     },
     "421": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 420,
-      "start_ms": 48,
-      "end_ms": 48
+      "start_ms": 47,
+      "end_ms": 47
     },
     "422": {
       "title": "[commentary]",
       "level": 3,
       "parent": 420,
-      "start_ms": 48,
-      "end_ms": 48
+      "start_ms": 47,
+      "end_ms": 47
     },
     "423": {
       "title": "32",
       "level": 2,
       "parent": 329,
-      "start_ms": 48,
-      "end_ms": 49
+      "start_ms": 47,
+      "end_ms": 48
     },
     "424": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 423,
-      "start_ms": 48,
-      "end_ms": 49
+      "start_ms": 47,
+      "end_ms": 47
     },
     "425": {
       "title": "[commentary]",
       "level": 3,
       "parent": 423,
-      "start_ms": 49,
-      "end_ms": 49
+      "start_ms": 47,
+      "end_ms": 48
     },
     "426": {
       "title": "33",
       "level": 2,
       "parent": 329,
-      "start_ms": 49,
-      "end_ms": 49
+      "start_ms": 48,
+      "end_ms": 48
     },
     "427": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 426,
-      "start_ms": 49,
-      "end_ms": 49
+      "start_ms": 48,
+      "end_ms": 48
     },
     "428": {
       "title": "[commentary]",
       "level": 3,
       "parent": 426,
-      "start_ms": 49,
-      "end_ms": 49
+      "start_ms": 48,
+      "end_ms": 48
     },
     "429": {
       "title": "34",
       "level": 2,
       "parent": 329,
-      "start_ms": 49,
-      "end_ms": 50
+      "start_ms": 48,
+      "end_ms": 48
     },
     "430": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 429,
-      "start_ms": 49,
-      "end_ms": 49
+      "start_ms": 48,
+      "end_ms": 48
     },
     "431": {
       "title": "[commentary]",
       "level": 3,
       "parent": 429,
-      "start_ms": 49,
-      "end_ms": 50
+      "start_ms": 48,
+      "end_ms": 48
     },
     "432": {
       "title": "35",
       "level": 2,
       "parent": 329,
-      "start_ms": 50,
-      "end_ms": 50
+      "start_ms": 48,
+      "end_ms": 49
     },
     "433": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 432,
-      "start_ms": 50,
-      "end_ms": 50
+      "start_ms": 48,
+      "end_ms": 49
     },
     "434": {
       "title": "[commentary]",
       "level": 3,
       "parent": 432,
-      "start_ms": 50,
-      "end_ms": 50
+      "start_ms": 49,
+      "end_ms": 49
     },
     "435": {
       "title": "36",
       "level": 2,
       "parent": 329,
-      "start_ms": 50,
-      "end_ms": 50
+      "start_ms": 49,
+      "end_ms": 49
     },
     "436": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 435,
-      "start_ms": 50,
-      "end_ms": 50
+      "start_ms": 49,
+      "end_ms": 49
     },
     "437": {
       "title": "[commentary]",
       "level": 3,
       "parent": 435,
-      "start_ms": 50,
-      "end_ms": 50
+      "start_ms": 49,
+      "end_ms": 49
     },
     "438": {
       "title": "37",
       "level": 2,
       "parent": 329,
-      "start_ms": 50,
-      "end_ms": 51
+      "start_ms": 49,
+      "end_ms": 49
     },
     "439": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 438,
-      "start_ms": 50,
-      "end_ms": 50
+      "start_ms": 49,
+      "end_ms": 49
     },
     "440": {
       "title": "[commentary]",
       "level": 3,
       "parent": 438,
-      "start_ms": 50,
-      "end_ms": 50
+      "start_ms": 49,
+      "end_ms": 49
     },
     "441": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 438,
-      "start_ms": 50,
-      "end_ms": 51
+      "start_ms": 49,
+      "end_ms": 49
     },
     "442": {
       "title": "[commentary]",
       "level": 3,
       "parent": 438,
-      "start_ms": 51,
-      "end_ms": 51
+      "start_ms": 49,
+      "end_ms": 49
     },
     "443": {
       "title": "38",
       "level": 2,
       "parent": 329,
-      "start_ms": 51,
-      "end_ms": 51
+      "start_ms": 49,
+      "end_ms": 50
     },
     "444": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 443,
-      "start_ms": 51,
-      "end_ms": 51
+      "start_ms": 49,
+      "end_ms": 50
     },
     "445": {
       "title": "[commentary]",
       "level": 3,
       "parent": 443,
-      "start_ms": 51,
-      "end_ms": 51
+      "start_ms": 50,
+      "end_ms": 50
     },
     "446": {
       "title": "39",
       "level": 2,
       "parent": 329,
-      "start_ms": 51,
-      "end_ms": 51
+      "start_ms": 50,
+      "end_ms": 50
     },
     "447": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 446,
-      "start_ms": 51,
-      "end_ms": 51
+      "start_ms": 50,
+      "end_ms": 50
     },
     "448": {
       "title": "[commentary]",
       "level": 3,
       "parent": 446,
-      "start_ms": 51,
-      "end_ms": 51
+      "start_ms": 50,
+      "end_ms": 50
     },
     "449": {
       "title": "40",
       "level": 2,
       "parent": 329,
-      "start_ms": 51,
-      "end_ms": 51
+      "start_ms": 50,
+      "end_ms": 50
     },
     "450": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 449,
-      "start_ms": 51,
-      "end_ms": 51
+      "start_ms": 50,
+      "end_ms": 50
     },
     "451": {
       "title": "[commentary]",
       "level": 3,
       "parent": 449,
-      "start_ms": 51,
-      "end_ms": 51
+      "start_ms": 50,
+      "end_ms": 50
     },
     "452": {
       "title": "41",
       "level": 2,
       "parent": 329,
-      "start_ms": 51,
-      "end_ms": 51
+      "start_ms": 50,
+      "end_ms": 50
     },
     "453": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 452,
-      "start_ms": 51,
-      "end_ms": 51
+      "start_ms": 50,
+      "end_ms": 50
     },
     "454": {
       "title": "[commentary]",
       "level": 3,
       "parent": 452,
-      "start_ms": 51,
-      "end_ms": 51
+      "start_ms": 50,
+      "end_ms": 50
     },
     "455": {
       "title": "42",
       "level": 2,
       "parent": 329,
-      "start_ms": 51,
-      "end_ms": 52
+      "start_ms": 50,
+      "end_ms": 50
     },
     "456": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 455,
-      "start_ms": 51,
-      "end_ms": 52
+      "start_ms": 50,
+      "end_ms": 50
     },
     "457": {
       "title": "[commentary]",
       "level": 3,
       "parent": 455,
-      "start_ms": 52,
-      "end_ms": 52
+      "start_ms": 50,
+      "end_ms": 50
     },
     "458": {
       "title": "43",
       "level": 2,
       "parent": 329,
-      "start_ms": 52,
-      "end_ms": 52
+      "start_ms": 50,
+      "end_ms": 51
     },
     "459": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 458,
-      "start_ms": 52,
-      "end_ms": 52
+      "start_ms": 50,
+      "end_ms": 50
     },
     "460": {
       "title": "[commentary]",
       "level": 3,
       "parent": 458,
-      "start_ms": 52,
-      "end_ms": 52
+      "start_ms": 50,
+      "end_ms": 51
     },
     "461": {
       "title": "44",
       "level": 2,
       "parent": 329,
-      "start_ms": 52,
-      "end_ms": 52
+      "start_ms": 51,
+      "end_ms": 51
     },
     "462": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 461,
-      "start_ms": 52,
-      "end_ms": 52
+      "start_ms": 51,
+      "end_ms": 51
     },
     "463": {
       "title": "[commentary]",
       "level": 3,
       "parent": 461,
-      "start_ms": 52,
-      "end_ms": 52
+      "start_ms": 51,
+      "end_ms": 51
     },
     "464": {
       "title": "45",
       "level": 2,
       "parent": 329,
-      "start_ms": 52,
-      "end_ms": 52
+      "start_ms": 51,
+      "end_ms": 51
     },
     "465": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 464,
-      "start_ms": 52,
-      "end_ms": 52
+      "start_ms": 51,
+      "end_ms": 51
     },
     "466": {
       "title": "[commentary]",
       "level": 3,
       "parent": 464,
-      "start_ms": 52,
-      "end_ms": 52
+      "start_ms": 51,
+      "end_ms": 51
     },
     "467": {
       "title": "46",
       "level": 2,
       "parent": 329,
-      "start_ms": 52,
-      "end_ms": 53
+      "start_ms": 51,
+      "end_ms": 51
     },
     "468": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 467,
-      "start_ms": 52,
-      "end_ms": 53
+      "start_ms": 51,
+      "end_ms": 51
     },
     "469": {
       "title": "[commentary]",
       "level": 3,
       "parent": 467,
-      "start_ms": 53,
-      "end_ms": 53
+      "start_ms": 51,
+      "end_ms": 51
     },
     "470": {
       "title": "47",
       "level": 2,
       "parent": 329,
-      "start_ms": 53,
-      "end_ms": 53
+      "start_ms": 51,
+      "end_ms": 52
     },
     "471": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 470,
-      "start_ms": 53,
-      "end_ms": 53
+      "start_ms": 51,
+      "end_ms": 52
     },
     "472": {
       "title": "[commentary]",
       "level": 3,
       "parent": 470,
-      "start_ms": 53,
-      "end_ms": 53
+      "start_ms": 52,
+      "end_ms": 52
     },
     "473": {
       "title": "48",
       "level": 2,
       "parent": 329,
-      "start_ms": 53,
-      "end_ms": 53
+      "start_ms": 52,
+      "end_ms": 52
     },
     "474": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 473,
-      "start_ms": 53,
-      "end_ms": 53
+      "start_ms": 52,
+      "end_ms": 52
     },
     "475": {
       "title": "[commentary]",
       "level": 3,
       "parent": 473,
-      "start_ms": 53,
-      "end_ms": 53
+      "start_ms": 52,
+      "end_ms": 52
     },
     "476": {
       "title": "49",
       "level": 2,
       "parent": 329,
-      "start_ms": 53,
-      "end_ms": 53
+      "start_ms": 52,
+      "end_ms": 52
     },
     "477": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 476,
-      "start_ms": 53,
-      "end_ms": 53
+      "start_ms": 52,
+      "end_ms": 52
     },
     "478": {
       "title": "[commentary]",
       "level": 3,
       "parent": 476,
-      "start_ms": 53,
-      "end_ms": 53
+      "start_ms": 52,
+      "end_ms": 52
     },
     "479": {
       "title": "50",
       "level": 2,
       "parent": 329,
-      "start_ms": 53,
-      "end_ms": 54
+      "start_ms": 52,
+      "end_ms": 52
     },
     "480": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 479,
-      "start_ms": 53,
-      "end_ms": 54
+      "start_ms": 52,
+      "end_ms": 52
     },
     "481": {
-      "title": "[commentary] ms53",
+      "title": "[commentary]",
       "level": 3,
       "parent": 479,
-      "start_ms": 54,
-      "end_ms": 54
+      "start_ms": 52,
+      "end_ms": 52
     },
     "482": {
       "title": "51",
       "level": 2,
       "parent": 329,
-      "start_ms": 54,
-      "end_ms": 54
+      "start_ms": 52,
+      "end_ms": 52
     },
     "483": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 482,
-      "start_ms": 54,
-      "end_ms": 54
+      "start_ms": 52,
+      "end_ms": 52
     },
     "484": {
       "title": "[commentary]",
       "level": 3,
       "parent": 482,
-      "start_ms": 54,
-      "end_ms": 54
+      "start_ms": 52,
+      "end_ms": 52
     },
     "485": {
       "title": "52",
       "level": 2,
       "parent": 329,
-      "start_ms": 54,
-      "end_ms": 54
+      "start_ms": 52,
+      "end_ms": 53
     },
     "486": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 485,
-      "start_ms": 54,
-      "end_ms": 54
+      "start_ms": 52,
+      "end_ms": 52
     },
     "487": {
       "title": "[commentary]",
       "level": 3,
       "parent": 485,
-      "start_ms": 54,
-      "end_ms": 54
+      "start_ms": 52,
+      "end_ms": 53
     },
     "488": {
       "title": "53",
       "level": 2,
       "parent": 329,
-      "start_ms": 54,
-      "end_ms": 54
+      "start_ms": 53,
+      "end_ms": 53
     },
     "489": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 488,
-      "start_ms": 54,
-      "end_ms": 54
+      "start_ms": 53,
+      "end_ms": 53
     },
     "490": {
       "title": "[commentary]",
       "level": 3,
       "parent": 488,
-      "start_ms": 54,
-      "end_ms": 54
+      "start_ms": 53,
+      "end_ms": 53
     },
     "491": {
       "title": "54",
       "level": 2,
       "parent": 329,
-      "start_ms": 54,
-      "end_ms": 54
+      "start_ms": 53,
+      "end_ms": 53
     },
     "492": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 491,
-      "start_ms": 54,
-      "end_ms": 54
+      "start_ms": 53,
+      "end_ms": 53
     },
     "493": {
       "title": "[commentary]",
       "level": 3,
       "parent": 491,
-      "start_ms": 54,
-      "end_ms": 54
+      "start_ms": 53,
+      "end_ms": 53
     },
     "494": {
       "title": "55",
       "level": 2,
       "parent": 329,
-      "start_ms": 54,
-      "end_ms": 54
+      "start_ms": 53,
+      "end_ms": 53
     },
     "495": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 494,
-      "start_ms": 54,
-      "end_ms": 54
+      "start_ms": 53,
+      "end_ms": 53
     },
     "496": {
       "title": "[commentary]",
       "level": 3,
       "parent": 494,
-      "start_ms": 54,
-      "end_ms": 54
+      "start_ms": 53,
+      "end_ms": 53
     },
     "497": {
       "title": "56",
       "level": 2,
       "parent": 329,
-      "start_ms": 54,
-      "end_ms": 54
+      "start_ms": 53,
+      "end_ms": 53
     },
     "498": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 497,
-      "start_ms": 54,
-      "end_ms": 54
+      "start_ms": 53,
+      "end_ms": 53
     },
     "499": {
       "title": "[commentary]",
       "level": 3,
       "parent": 497,
-      "start_ms": 54,
-      "end_ms": 54
+      "start_ms": 53,
+      "end_ms": 53
     },
     "500": {
       "title": "57",
       "level": 2,
       "parent": 329,
-      "start_ms": 54,
-      "end_ms": 55
+      "start_ms": 53,
+      "end_ms": 53
     },
     "501": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 500,
-      "start_ms": 54,
-      "end_ms": 55
+      "start_ms": 53,
+      "end_ms": 53
     },
     "502": {
       "title": "[commentary]",
       "level": 3,
       "parent": 500,
-      "start_ms": 55,
-      "end_ms": 55
+      "start_ms": 53,
+      "end_ms": 53
     },
     "503": {
       "title": "58",
       "level": 2,
       "parent": 329,
-      "start_ms": 55,
-      "end_ms": 55
+      "start_ms": 53,
+      "end_ms": 53
     },
     "504": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 503,
-      "start_ms": 55,
-      "end_ms": 55
+      "start_ms": 53,
+      "end_ms": 53
     },
     "505": {
       "title": "[commentary]",
       "level": 3,
       "parent": 503,
-      "start_ms": 55,
-      "end_ms": 55
+      "start_ms": 53,
+      "end_ms": 53
     },
     "506": {
       "title": "59",
       "level": 2,
       "parent": 329,
-      "start_ms": 55,
-      "end_ms": 55
+      "start_ms": 53,
+      "end_ms": 54
     },
     "507": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 506,
-      "start_ms": 55,
-      "end_ms": 55
+      "start_ms": 53,
+      "end_ms": 54
     },
     "508": {
       "title": "[commentary]",
       "level": 3,
       "parent": 506,
-      "start_ms": 55,
-      "end_ms": 55
+      "start_ms": 54,
+      "end_ms": 54
     },
     "509": {
       "title": "60",
       "level": 2,
       "parent": 329,
-      "start_ms": 55,
-      "end_ms": 55
+      "start_ms": 54,
+      "end_ms": 54
     },
     "510": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 509,
-      "start_ms": 55,
-      "end_ms": 55
+      "start_ms": 54,
+      "end_ms": 54
     },
     "511": {
       "title": "[commentary]",
       "level": 3,
       "parent": 509,
-      "start_ms": 55,
-      "end_ms": 55
+      "start_ms": 54,
+      "end_ms": 54
     },
     "512": {
       "title": "61",
       "level": 2,
       "parent": 329,
-      "start_ms": 55,
-      "end_ms": 55
+      "start_ms": 54,
+      "end_ms": 54
     },
     "513": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 512,
-      "start_ms": 55,
-      "end_ms": 55
+      "start_ms": 54,
+      "end_ms": 54
     },
     "514": {
       "title": "[commentary]",
       "level": 3,
       "parent": 512,
-      "start_ms": 55,
-      "end_ms": 55
+      "start_ms": 54,
+      "end_ms": 54
     },
     "515": {
       "title": "62",
       "level": 2,
       "parent": 329,
-      "start_ms": 55,
-      "end_ms": 56
+      "start_ms": 54,
+      "end_ms": 54
     },
     "516": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 515,
-      "start_ms": 55,
-      "end_ms": 55
+      "start_ms": 54,
+      "end_ms": 54
     },
     "517": {
       "title": "[commentary]",
       "level": 3,
       "parent": 515,
-      "start_ms": 55,
-      "end_ms": 56
+      "start_ms": 54,
+      "end_ms": 54
     },
     "518": {
       "title": "63",
       "level": 2,
       "parent": 329,
-      "start_ms": 56,
-      "end_ms": 56
+      "start_ms": 54,
+      "end_ms": 54
     },
     "519": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 518,
-      "start_ms": 56,
-      "end_ms": 56
+      "start_ms": 54,
+      "end_ms": 54
     },
     "520": {
       "title": "[commentary]",
       "level": 3,
       "parent": 518,
-      "start_ms": 56,
-      "end_ms": 56
+      "start_ms": 54,
+      "end_ms": 54
     },
     "521": {
       "title": "64",
       "level": 2,
       "parent": 329,
-      "start_ms": 56,
-      "end_ms": 56
+      "start_ms": 54,
+      "end_ms": 54
     },
     "522": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 521,
-      "start_ms": 56,
-      "end_ms": 56
+      "start_ms": 54,
+      "end_ms": 54
     },
     "523": {
       "title": "[commentary]",
       "level": 3,
       "parent": 521,
-      "start_ms": 56,
-      "end_ms": 56
+      "start_ms": 54,
+      "end_ms": 54
     },
     "524": {
       "title": "65",
       "level": 2,
       "parent": 329,
-      "start_ms": 56,
-      "end_ms": 56
+      "start_ms": 54,
+      "end_ms": 55
     },
     "525": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 524,
-      "start_ms": 56,
-      "end_ms": 56
+      "start_ms": 54,
+      "end_ms": 54
     },
     "526": {
       "title": "[commentary]",
       "level": 3,
       "parent": 524,
-      "start_ms": 56,
-      "end_ms": 56
+      "start_ms": 54,
+      "end_ms": 55
     },
     "527": {
       "title": "66",
       "level": 2,
       "parent": 329,
-      "start_ms": 56,
-      "end_ms": 56
+      "start_ms": 55,
+      "end_ms": 55
     },
     "528": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 527,
-      "start_ms": 56,
-      "end_ms": 56
+      "start_ms": 55,
+      "end_ms": 55
     },
     "529": {
       "title": "[commentary]",
       "level": 3,
       "parent": 527,
-      "start_ms": 56,
-      "end_ms": 56
+      "start_ms": 55,
+      "end_ms": 55
     },
     "530": {
       "title": "67",
       "level": 2,
       "parent": 329,
-      "start_ms": 56,
-      "end_ms": 57
+      "start_ms": 55,
+      "end_ms": 55
     },
     "531": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 530,
-      "start_ms": 56,
-      "end_ms": 56
+      "start_ms": 55,
+      "end_ms": 55
     },
     "532": {
       "title": "[commentary]",
       "level": 3,
       "parent": 530,
-      "start_ms": 56,
-      "end_ms": 57
+      "start_ms": 55,
+      "end_ms": 55
     },
     "533": {
       "title": "68",
       "level": 2,
       "parent": 329,
-      "start_ms": 57,
-      "end_ms": 57
+      "start_ms": 55,
+      "end_ms": 55
     },
     "534": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 533,
-      "start_ms": 57,
-      "end_ms": 57
+      "start_ms": 55,
+      "end_ms": 55
     },
     "535": {
       "title": "[commentary]",
       "level": 3,
       "parent": 533,
-      "start_ms": 57,
-      "end_ms": 57
+      "start_ms": 55,
+      "end_ms": 55
     },
     "536": {
       "title": "69",
       "level": 2,
       "parent": 329,
-      "start_ms": 57,
-      "end_ms": 57
+      "start_ms": 55,
+      "end_ms": 55
     },
     "537": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 536,
-      "start_ms": 57,
-      "end_ms": 57
+      "start_ms": 55,
+      "end_ms": 55
     },
     "538": {
       "title": "[commentary]",
       "level": 3,
       "parent": 536,
-      "start_ms": 57,
-      "end_ms": 57
+      "start_ms": 55,
+      "end_ms": 55
     },
     "539": {
       "title": "70",
       "level": 2,
       "parent": 329,
-      "start_ms": 57,
-      "end_ms": 57
+      "start_ms": 55,
+      "end_ms": 56
     },
     "540": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 539,
-      "start_ms": 57,
-      "end_ms": 57
+      "start_ms": 55,
+      "end_ms": 56
     },
     "541": {
       "title": "[commentary]",
       "level": 3,
       "parent": 539,
-      "start_ms": 57,
-      "end_ms": 57
+      "start_ms": 56,
+      "end_ms": 56
     },
     "542": {
       "title": "71",
       "level": 2,
       "parent": 329,
-      "start_ms": 57,
-      "end_ms": 58
+      "start_ms": 56,
+      "end_ms": 56
     },
     "543": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 542,
-      "start_ms": 57,
-      "end_ms": 57
+      "start_ms": 56,
+      "end_ms": 56
     },
     "544": {
       "title": "[commentary]",
       "level": 3,
       "parent": 542,
-      "start_ms": 57,
-      "end_ms": 58
+      "start_ms": 56,
+      "end_ms": 56
     },
     "545": {
       "title": "72",
       "level": 2,
       "parent": 329,
-      "start_ms": 58,
-      "end_ms": 58
+      "start_ms": 56,
+      "end_ms": 56
     },
     "546": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 545,
-      "start_ms": 58,
-      "end_ms": 58
+      "start_ms": 56,
+      "end_ms": 56
     },
     "547": {
       "title": "[commentary]",
       "level": 3,
       "parent": 545,
-      "start_ms": 58,
-      "end_ms": 58
+      "start_ms": 56,
+      "end_ms": 56
     },
     "548": {
       "title": "73",
       "level": 2,
       "parent": 329,
-      "start_ms": 58,
-      "end_ms": 58
+      "start_ms": 56,
+      "end_ms": 57
     },
     "549": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 548,
-      "start_ms": 58,
-      "end_ms": 58
+      "start_ms": 56,
+      "end_ms": 56
     },
     "550": {
       "title": "[commentary]",
       "level": 3,
       "parent": 548,
-      "start_ms": 58,
-      "end_ms": 58
+      "start_ms": 56,
+      "end_ms": 57
     },
     "551": {
       "title": "74",
       "level": 2,
       "parent": 329,
-      "start_ms": 58,
-      "end_ms": 58
+      "start_ms": 57,
+      "end_ms": 57
     },
     "552": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 551,
-      "start_ms": 58,
-      "end_ms": 58
+      "start_ms": 57,
+      "end_ms": 57
     },
     "553": {
       "title": "[commentary]",
       "level": 3,
       "parent": 551,
-      "start_ms": 58,
-      "end_ms": 58
+      "start_ms": 57,
+      "end_ms": 57
     },
     "554": {
       "title": "75",
       "level": 2,
       "parent": 329,
-      "start_ms": 58,
-      "end_ms": 58
+      "start_ms": 57,
+      "end_ms": 57
     },
     "555": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 554,
-      "start_ms": 58,
-      "end_ms": 58
+      "start_ms": 57,
+      "end_ms": 57
     },
     "556": {
       "title": "[commentary]",
       "level": 3,
       "parent": 554,
-      "start_ms": 58,
-      "end_ms": 58
+      "start_ms": 57,
+      "end_ms": 57
     },
     "557": {
       "title": "76",
       "level": 2,
       "parent": 329,
-      "start_ms": 58,
-      "end_ms": 59
+      "start_ms": 57,
+      "end_ms": 57
     },
     "558": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 557,
-      "start_ms": 58,
-      "end_ms": 59
+      "start_ms": 57,
+      "end_ms": 57
     },
     "559": {
       "title": "[commentary]",
       "level": 3,
       "parent": 557,
-      "start_ms": 59,
-      "end_ms": 59
+      "start_ms": 57,
+      "end_ms": 57
     },
     "560": {
       "title": "77",
       "level": 2,
       "parent": 329,
-      "start_ms": 59,
-      "end_ms": 59
+      "start_ms": 57,
+      "end_ms": 57
     },
     "561": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 560,
-      "start_ms": 59,
-      "end_ms": 59
+      "start_ms": 57,
+      "end_ms": 57
     },
     "562": {
       "title": "[commentary]",
       "level": 3,
       "parent": 560,
-      "start_ms": 59,
-      "end_ms": 59
+      "start_ms": 57,
+      "end_ms": 57
     },
     "563": {
       "title": "78",
       "level": 2,
       "parent": 329,
-      "start_ms": 59,
-      "end_ms": 59
+      "start_ms": 57,
+      "end_ms": 57
     },
     "564": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 563,
-      "start_ms": 59,
-      "end_ms": 59
+      "start_ms": 57,
+      "end_ms": 57
     },
     "565": {
       "title": "[commentary]",
       "level": 3,
       "parent": 563,
-      "start_ms": 59,
-      "end_ms": 59
+      "start_ms": 57,
+      "end_ms": 57
     },
     "566": {
       "title": "79",
       "level": 2,
       "parent": 329,
-      "start_ms": 59,
-      "end_ms": 59
+      "start_ms": 57,
+      "end_ms": 58
     },
     "567": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 566,
-      "start_ms": 59,
-      "end_ms": 59
+      "start_ms": 57,
+      "end_ms": 57
     },
     "568": {
       "title": "[commentary]",
       "level": 3,
       "parent": 566,
-      "start_ms": 59,
-      "end_ms": 59
+      "start_ms": 57,
+      "end_ms": 58
     },
     "569": {
       "title": "80",
       "level": 2,
       "parent": 329,
-      "start_ms": 59,
-      "end_ms": 59
+      "start_ms": 58,
+      "end_ms": 58
     },
     "570": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 569,
-      "start_ms": 59,
-      "end_ms": 59
+      "start_ms": 58,
+      "end_ms": 58
     },
     "571": {
       "title": "[commentary]",
       "level": 3,
       "parent": 569,
-      "start_ms": 59,
-      "end_ms": 59
+      "start_ms": 58,
+      "end_ms": 58
     },
     "572": {
       "title": "* (1) المقالة الخامسة",
       "level": 1,
       "parent": null,
-      "start_ms": 59,
-      "end_ms": 75
+      "start_ms": 58,
+      "end_ms": 72
     },
     "573": {
       "title": "1",
       "level": 2,
       "parent": 572,
-      "start_ms": 59,
-      "end_ms": 59
+      "start_ms": 58,
+      "end_ms": 58
     },
     "574": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 573,
-      "start_ms": 59,
-      "end_ms": 59
+      "start_ms": 58,
+      "end_ms": 58
     },
     "575": {
       "title": "[commentary]",
       "level": 3,
       "parent": 573,
-      "start_ms": 59,
-      "end_ms": 59
+      "start_ms": 58,
+      "end_ms": 58
     },
     "576": {
       "title": "2",
       "level": 2,
       "parent": 572,
-      "start_ms": 59,
-      "end_ms": 60
+      "start_ms": 58,
+      "end_ms": 58
     },
     "577": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 576,
-      "start_ms": 59,
-      "end_ms": 59
+      "start_ms": 58,
+      "end_ms": 58
     },
     "578": {
       "title": "[commentary]",
       "level": 3,
       "parent": 576,
-      "start_ms": 59,
-      "end_ms": 60
+      "start_ms": 58,
+      "end_ms": 58
     },
     "579": {
       "title": "3",
       "level": 2,
       "parent": 572,
-      "start_ms": 60,
-      "end_ms": 60
+      "start_ms": 58,
+      "end_ms": 58
     },
     "580": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 579,
-      "start_ms": 60,
-      "end_ms": 60
+      "start_ms": 58,
+      "end_ms": 58
     },
     "581": {
       "title": "[commentary]",
       "level": 3,
       "parent": 579,
-      "start_ms": 60,
-      "end_ms": 60
+      "start_ms": 58,
+      "end_ms": 58
     },
     "582": {
       "title": "4",
       "level": 2,
       "parent": 572,
-      "start_ms": 60,
-      "end_ms": 60
+      "start_ms": 58,
+      "end_ms": 58
     },
     "583": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 582,
-      "start_ms": 60,
-      "end_ms": 60
+      "start_ms": 58,
+      "end_ms": 58
     },
     "584": {
       "title": "[commentary]",
       "level": 3,
       "parent": 582,
-      "start_ms": 60,
-      "end_ms": 60
+      "start_ms": 58,
+      "end_ms": 58
     },
     "585": {
       "title": "5",
       "level": 2,
       "parent": 572,
-      "start_ms": 60,
-      "end_ms": 60
+      "start_ms": 58,
+      "end_ms": 59
     },
     "586": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 585,
-      "start_ms": 60,
-      "end_ms": 60
+      "start_ms": 58,
+      "end_ms": 58
     },
     "587": {
       "title": "[commentary]",
       "level": 3,
       "parent": 585,
-      "start_ms": 60,
-      "end_ms": 60
+      "start_ms": 58,
+      "end_ms": 59
     },
     "588": {
       "title": "6",
       "level": 2,
       "parent": 572,
-      "start_ms": 60,
-      "end_ms": 60
+      "start_ms": 59,
+      "end_ms": 59
     },
     "589": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 588,
-      "start_ms": 60,
-      "end_ms": 60
+      "start_ms": 59,
+      "end_ms": 59
     },
     "590": {
       "title": "[commentary]",
       "level": 3,
       "parent": 588,
-      "start_ms": 60,
-      "end_ms": 60
+      "start_ms": 59,
+      "end_ms": 59
     },
     "591": {
       "title": "7",
       "level": 2,
       "parent": 572,
-      "start_ms": 60,
-      "end_ms": 61
+      "start_ms": 59,
+      "end_ms": 59
     },
     "592": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 591,
-      "start_ms": 60,
-      "end_ms": 60
+      "start_ms": 59,
+      "end_ms": 59
     },
     "593": {
       "title": "[commentary]",
       "level": 3,
       "parent": 591,
-      "start_ms": 60,
-      "end_ms": 61
+      "start_ms": 59,
+      "end_ms": 59
     },
     "594": {
       "title": "8",
       "level": 2,
       "parent": 572,
-      "start_ms": 61,
-      "end_ms": 61
+      "start_ms": 59,
+      "end_ms": 59
     },
     "595": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 594,
-      "start_ms": 61,
-      "end_ms": 61
+      "start_ms": 59,
+      "end_ms": 59
     },
     "596": {
       "title": "[commentary]",
       "level": 3,
       "parent": 594,
-      "start_ms": 61,
-      "end_ms": 61
+      "start_ms": 59,
+      "end_ms": 59
     },
     "597": {
       "title": "9",
       "level": 2,
       "parent": 572,
-      "start_ms": 61,
-      "end_ms": 61
+      "start_ms": 59,
+      "end_ms": 59
     },
     "598": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 597,
-      "start_ms": 61,
-      "end_ms": 61
+      "start_ms": 59,
+      "end_ms": 59
     },
     "599": {
       "title": "[commentary]",
       "level": 3,
       "parent": 597,
-      "start_ms": 61,
-      "end_ms": 61
+      "start_ms": 59,
+      "end_ms": 59
     },
     "600": {
       "title": "10",
       "level": 2,
       "parent": 572,
-      "start_ms": 61,
-      "end_ms": 61
+      "start_ms": 59,
+      "end_ms": 60
     },
     "601": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 600,
-      "start_ms": 61,
-      "end_ms": 61
+      "start_ms": 59,
+      "end_ms": 60
     },
     "602": {
       "title": "[commentary]",
       "level": 3,
       "parent": 600,
-      "start_ms": 61,
-      "end_ms": 61
+      "start_ms": 60,
+      "end_ms": 60
     },
     "603": {
       "title": "11",
       "level": 2,
       "parent": 572,
-      "start_ms": 61,
-      "end_ms": 61
+      "start_ms": 60,
+      "end_ms": 60
     },
     "604": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 603,
-      "start_ms": 61,
-      "end_ms": 61
+      "start_ms": 60,
+      "end_ms": 60
     },
     "605": {
       "title": "[commentary]",
       "level": 3,
       "parent": 603,
-      "start_ms": 61,
-      "end_ms": 61
+      "start_ms": 60,
+      "end_ms": 60
     },
     "606": {
       "title": "12",
       "level": 2,
       "parent": 572,
-      "start_ms": 61,
-      "end_ms": 62
+      "start_ms": 60,
+      "end_ms": 60
     },
     "607": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 606,
-      "start_ms": 61,
-      "end_ms": 61
+      "start_ms": 60,
+      "end_ms": 60
     },
     "608": {
       "title": "[commentary]",
       "level": 3,
       "parent": 606,
-      "start_ms": 61,
-      "end_ms": 62
+      "start_ms": 60,
+      "end_ms": 60
     },
     "609": {
       "title": "13",
       "level": 2,
       "parent": 572,
-      "start_ms": 62,
-      "end_ms": 62
+      "start_ms": 60,
+      "end_ms": 60
     },
     "610": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 609,
-      "start_ms": 62,
-      "end_ms": 62
+      "start_ms": 60,
+      "end_ms": 60
     },
     "611": {
       "title": "[commentary]",
       "level": 3,
       "parent": 609,
-      "start_ms": 62,
-      "end_ms": 62
+      "start_ms": 60,
+      "end_ms": 60
     },
     "612": {
       "title": "14",
       "level": 2,
       "parent": 572,
-      "start_ms": 62,
-      "end_ms": 62
+      "start_ms": 60,
+      "end_ms": 60
     },
     "613": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 612,
-      "start_ms": 62,
-      "end_ms": 62
+      "start_ms": 60,
+      "end_ms": 60
     },
     "614": {
       "title": "[commentary]",
       "level": 3,
       "parent": 612,
-      "start_ms": 62,
-      "end_ms": 62
+      "start_ms": 60,
+      "end_ms": 60
     },
     "615": {
       "title": "15",
       "level": 2,
       "parent": 572,
-      "start_ms": 62,
-      "end_ms": 62
+      "start_ms": 60,
+      "end_ms": 60
     },
     "616": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 615,
-      "start_ms": 62,
-      "end_ms": 62
+      "start_ms": 60,
+      "end_ms": 60
     },
     "617": {
       "title": "[commentary]",
       "level": 3,
       "parent": 615,
-      "start_ms": 62,
-      "end_ms": 62
+      "start_ms": 60,
+      "end_ms": 60
     },
     "618": {
       "title": "16",
       "level": 2,
       "parent": 572,
-      "start_ms": 62,
-      "end_ms": 62
+      "start_ms": 60,
+      "end_ms": 61
     },
     "619": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 618,
-      "start_ms": 62,
-      "end_ms": 62
+      "start_ms": 60,
+      "end_ms": 60
     },
     "620": {
       "title": "[commentary]",
       "level": 3,
       "parent": 618,
-      "start_ms": 62,
-      "end_ms": 62
+      "start_ms": 60,
+      "end_ms": 61
     },
     "621": {
       "title": "17",
       "level": 2,
       "parent": 572,
-      "start_ms": 62,
-      "end_ms": 62
+      "start_ms": 61,
+      "end_ms": 61
     },
     "622": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 621,
-      "start_ms": 62,
-      "end_ms": 62
+      "start_ms": 61,
+      "end_ms": 61
     },
     "623": {
       "title": "[commentary]",
       "level": 3,
       "parent": 621,
-      "start_ms": 62,
-      "end_ms": 62
+      "start_ms": 61,
+      "end_ms": 61
     },
     "624": {
       "title": "18",
       "level": 2,
       "parent": 572,
-      "start_ms": 62,
-      "end_ms": 63
+      "start_ms": 61,
+      "end_ms": 61
     },
     "625": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 624,
-      "start_ms": 62,
-      "end_ms": 63
+      "start_ms": 61,
+      "end_ms": 61
     },
     "626": {
       "title": "[commentary]",
       "level": 3,
       "parent": 624,
-      "start_ms": 63,
-      "end_ms": 63
+      "start_ms": 61,
+      "end_ms": 61
     },
     "627": {
       "title": "19",
       "level": 2,
       "parent": 572,
-      "start_ms": 63,
-      "end_ms": 63
+      "start_ms": 61,
+      "end_ms": 61
     },
     "628": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 627,
-      "start_ms": 63,
-      "end_ms": 63
+      "start_ms": 61,
+      "end_ms": 61
     },
     "629": {
       "title": "[commentary]",
       "level": 3,
       "parent": 627,
-      "start_ms": 63,
-      "end_ms": 63
+      "start_ms": 61,
+      "end_ms": 61
     },
     "630": {
       "title": "20",
       "level": 2,
       "parent": 572,
-      "start_ms": 63,
-      "end_ms": 63
+      "start_ms": 61,
+      "end_ms": 61
     },
     "631": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 630,
-      "start_ms": 63,
-      "end_ms": 63
+      "start_ms": 61,
+      "end_ms": 61
     },
     "632": {
       "title": "[commentary]",
       "level": 3,
       "parent": 630,
-      "start_ms": 63,
-      "end_ms": 63
+      "start_ms": 61,
+      "end_ms": 61
     },
     "633": {
       "title": "21",
       "level": 2,
       "parent": 572,
-      "start_ms": 63,
-      "end_ms": 64
+      "start_ms": 61,
+      "end_ms": 62
     },
     "634": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 633,
-      "start_ms": 63,
-      "end_ms": 63
+      "start_ms": 61,
+      "end_ms": 62
     },
     "635": {
       "title": "[commentary]",
       "level": 3,
       "parent": 633,
-      "start_ms": 63,
-      "end_ms": 64
+      "start_ms": 62,
+      "end_ms": 62
     },
     "636": {
       "title": "22",
       "level": 2,
       "parent": 572,
-      "start_ms": 64,
-      "end_ms": 64
+      "start_ms": 62,
+      "end_ms": 62
     },
     "637": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 636,
-      "start_ms": 64,
-      "end_ms": 64
+      "start_ms": 62,
+      "end_ms": 62
     },
     "638": {
       "title": "[commentary]",
       "level": 3,
       "parent": 636,
-      "start_ms": 64,
-      "end_ms": 64
+      "start_ms": 62,
+      "end_ms": 62
     },
     "639": {
       "title": "23",
       "level": 2,
       "parent": 572,
-      "start_ms": 64,
-      "end_ms": 64
+      "start_ms": 62,
+      "end_ms": 63
     },
     "640": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 639,
-      "start_ms": 64,
-      "end_ms": 64
+      "start_ms": 62,
+      "end_ms": 62
     },
     "641": {
       "title": "[commentary]",
       "level": 3,
       "parent": 639,
-      "start_ms": 64,
-      "end_ms": 64
+      "start_ms": 62,
+      "end_ms": 63
     },
     "642": {
       "title": "24",
       "level": 2,
       "parent": 572,
-      "start_ms": 64,
-      "end_ms": 65
+      "start_ms": 63,
+      "end_ms": 63
     },
     "643": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 642,
-      "start_ms": 64,
-      "end_ms": 65
+      "start_ms": 63,
+      "end_ms": 63
     },
     "644": {
       "title": "[commentary]",
       "level": 3,
       "parent": 642,
-      "start_ms": 65,
-      "end_ms": 65
+      "start_ms": 63,
+      "end_ms": 63
     },
     "645": {
       "title": "25",
       "level": 2,
       "parent": 572,
-      "start_ms": 65,
-      "end_ms": 65
+      "start_ms": 63,
+      "end_ms": 63
     },
     "646": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 645,
-      "start_ms": 65,
-      "end_ms": 65
+      "start_ms": 63,
+      "end_ms": 63
     },
     "647": {
       "title": "[commentary]",
       "level": 3,
       "parent": 645,
-      "start_ms": 65,
-      "end_ms": 65
+      "start_ms": 63,
+      "end_ms": 63
     },
     "648": {
       "title": "26",
       "level": 2,
       "parent": 572,
-      "start_ms": 65,
-      "end_ms": 65
+      "start_ms": 63,
+      "end_ms": 63
     },
     "649": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 648,
-      "start_ms": 65,
-      "end_ms": 65
+      "start_ms": 63,
+      "end_ms": 63
     },
     "650": {
       "title": "[commentary]",
       "level": 3,
       "parent": 648,
-      "start_ms": 65,
-      "end_ms": 65
+      "start_ms": 63,
+      "end_ms": 63
     },
     "651": {
       "title": "27",
       "level": 2,
       "parent": 572,
-      "start_ms": 65,
-      "end_ms": 65
+      "start_ms": 63,
+      "end_ms": 63
     },
     "652": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 651,
-      "start_ms": 65,
-      "end_ms": 65
+      "start_ms": 63,
+      "end_ms": 63
     },
     "653": {
       "title": "[commentary]",
       "level": 3,
       "parent": 651,
-      "start_ms": 65,
-      "end_ms": 65
+      "start_ms": 63,
+      "end_ms": 63
     },
     "654": {
       "title": "28",
       "level": 2,
       "parent": 572,
-      "start_ms": 65,
-      "end_ms": 65
+      "start_ms": 63,
+      "end_ms": 63
     },
     "655": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 654,
-      "start_ms": 65,
-      "end_ms": 65
+      "start_ms": 63,
+      "end_ms": 63
     },
     "656": {
       "title": "[commentary]",
       "level": 3,
       "parent": 654,
-      "start_ms": 65,
-      "end_ms": 65
+      "start_ms": 63,
+      "end_ms": 63
     },
     "657": {
       "title": "29",
       "level": 2,
       "parent": 572,
-      "start_ms": 65,
-      "end_ms": 65
+      "start_ms": 63,
+      "end_ms": 63
     },
     "658": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 657,
-      "start_ms": 65,
-      "end_ms": 65
+      "start_ms": 63,
+      "end_ms": 63
     },
     "659": {
       "title": "[commentary]",
       "level": 3,
       "parent": 657,
-      "start_ms": 65,
-      "end_ms": 65
+      "start_ms": 63,
+      "end_ms": 63
     },
     "660": {
       "title": "30",
       "level": 2,
       "parent": 572,
-      "start_ms": 65,
-      "end_ms": 65
+      "start_ms": 63,
+      "end_ms": 64
     },
     "661": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 660,
-      "start_ms": 65,
-      "end_ms": 65
+      "start_ms": 63,
+      "end_ms": 63
     },
     "662": {
       "title": "[commentary]",
       "level": 3,
       "parent": 660,
-      "start_ms": 65,
-      "end_ms": 65
+      "start_ms": 63,
+      "end_ms": 64
     },
     "663": {
       "title": "31",
       "level": 2,
       "parent": 572,
-      "start_ms": 65,
-      "end_ms": 66
+      "start_ms": 64,
+      "end_ms": 64
     },
     "664": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 663,
-      "start_ms": 65,
-      "end_ms": 66
+      "start_ms": 64,
+      "end_ms": 64
     },
     "665": {
       "title": "[commentary]",
       "level": 3,
       "parent": 663,
-      "start_ms": 66,
-      "end_ms": 66
+      "start_ms": 64,
+      "end_ms": 64
     },
     "666": {
       "title": "32",
       "level": 2,
       "parent": 572,
-      "start_ms": 66,
-      "end_ms": 66
+      "start_ms": 64,
+      "end_ms": 64
     },
     "667": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 666,
-      "start_ms": 66,
-      "end_ms": 66
+      "start_ms": 64,
+      "end_ms": 64
     },
     "668": {
       "title": "[commentary]",
       "level": 3,
       "parent": 666,
-      "start_ms": 66,
-      "end_ms": 66
+      "start_ms": 64,
+      "end_ms": 64
     },
     "669": {
       "title": "33",
       "level": 2,
       "parent": 572,
-      "start_ms": 66,
-      "end_ms": 66
+      "start_ms": 64,
+      "end_ms": 64
     },
     "670": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 669,
-      "start_ms": 66,
-      "end_ms": 66
+      "start_ms": 64,
+      "end_ms": 64
     },
     "671": {
       "title": "[commentary]",
       "level": 3,
       "parent": 669,
-      "start_ms": 66,
-      "end_ms": 66
+      "start_ms": 64,
+      "end_ms": 64
     },
     "672": {
       "title": "34",
       "level": 2,
       "parent": 572,
-      "start_ms": 66,
-      "end_ms": 66
+      "start_ms": 64,
+      "end_ms": 64
     },
     "673": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 672,
-      "start_ms": 66,
-      "end_ms": 66
+      "start_ms": 64,
+      "end_ms": 64
     },
     "674": {
       "title": "[commentary]",
       "level": 3,
       "parent": 672,
-      "start_ms": 66,
-      "end_ms": 66
+      "start_ms": 64,
+      "end_ms": 64
     },
     "675": {
       "title": "35",
       "level": 2,
       "parent": 572,
-      "start_ms": 66,
-      "end_ms": 66
+      "start_ms": 64,
+      "end_ms": 64
     },
     "676": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 675,
-      "start_ms": 66,
-      "end_ms": 66
+      "start_ms": 64,
+      "end_ms": 64
     },
     "677": {
       "title": "[commentary]",
       "level": 3,
       "parent": 675,
-      "start_ms": 66,
-      "end_ms": 66
+      "start_ms": 64,
+      "end_ms": 64
     },
     "678": {
       "title": "36",
       "level": 2,
       "parent": 572,
-      "start_ms": 66,
-      "end_ms": 66
+      "start_ms": 64,
+      "end_ms": 64
     },
     "679": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 678,
-      "start_ms": 66,
-      "end_ms": 66
+      "start_ms": 64,
+      "end_ms": 64
     },
     "680": {
       "title": "[commentary]",
       "level": 3,
       "parent": 678,
-      "start_ms": 66,
-      "end_ms": 66
+      "start_ms": 64,
+      "end_ms": 64
     },
     "681": {
       "title": "37",
       "level": 2,
       "parent": 572,
-      "start_ms": 66,
-      "end_ms": 66
+      "start_ms": 64,
+      "end_ms": 64
     },
     "682": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 681,
-      "start_ms": 66,
-      "end_ms": 66
+      "start_ms": 64,
+      "end_ms": 64
     },
     "683": {
       "title": "[commentary]",
       "level": 3,
       "parent": 681,
-      "start_ms": 66,
-      "end_ms": 66
+      "start_ms": 64,
+      "end_ms": 64
     },
     "684": {
       "title": "38",
       "level": 2,
       "parent": 572,
-      "start_ms": 66,
-      "end_ms": 67
+      "start_ms": 64,
+      "end_ms": 65
     },
     "685": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 684,
-      "start_ms": 66,
-      "end_ms": 66
+      "start_ms": 64,
+      "end_ms": 64
     },
     "686": {
       "title": "[commentary]",
       "level": 3,
       "parent": 684,
-      "start_ms": 66,
-      "end_ms": 67
+      "start_ms": 64,
+      "end_ms": 65
     },
     "687": {
       "title": "39",
       "level": 2,
       "parent": 572,
-      "start_ms": 67,
-      "end_ms": 67
+      "start_ms": 65,
+      "end_ms": 65
     },
     "688": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 687,
-      "start_ms": 67,
-      "end_ms": 67
+      "start_ms": 65,
+      "end_ms": 65
     },
     "689": {
       "title": "[commentary]",
       "level": 3,
       "parent": 687,
-      "start_ms": 67,
-      "end_ms": 67
+      "start_ms": 65,
+      "end_ms": 65
     },
     "690": {
       "title": "40",
       "level": 2,
       "parent": 572,
-      "start_ms": 67,
-      "end_ms": 67
+      "start_ms": 65,
+      "end_ms": 65
     },
     "691": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 690,
-      "start_ms": 67,
-      "end_ms": 67
+      "start_ms": 65,
+      "end_ms": 65
     },
     "692": {
       "title": "[commentary]",
       "level": 3,
       "parent": 690,
-      "start_ms": 67,
-      "end_ms": 67
+      "start_ms": 65,
+      "end_ms": 65
     },
     "693": {
       "title": "41",
       "level": 2,
       "parent": 572,
-      "start_ms": 67,
-      "end_ms": 67
+      "start_ms": 65,
+      "end_ms": 65
     },
     "694": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 693,
-      "start_ms": 67,
-      "end_ms": 67
+      "start_ms": 65,
+      "end_ms": 65
     },
     "695": {
       "title": "[commentary]",
       "level": 3,
       "parent": 693,
-      "start_ms": 67,
-      "end_ms": 67
+      "start_ms": 65,
+      "end_ms": 65
     },
     "696": {
       "title": "42",
       "level": 2,
       "parent": 572,
-      "start_ms": 67,
-      "end_ms": 67
+      "start_ms": 65,
+      "end_ms": 65
     },
     "697": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 696,
-      "start_ms": 67,
-      "end_ms": 67
+      "start_ms": 65,
+      "end_ms": 65
     },
     "698": {
       "title": "[commentary]",
       "level": 3,
       "parent": 696,
-      "start_ms": 67,
-      "end_ms": 67
+      "start_ms": 65,
+      "end_ms": 65
     },
     "699": {
       "title": "43",
       "level": 2,
       "parent": 572,
-      "start_ms": 67,
-      "end_ms": 67
+      "start_ms": 65,
+      "end_ms": 65
     },
     "700": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 699,
-      "start_ms": 67,
-      "end_ms": 67
+      "start_ms": 65,
+      "end_ms": 65
     },
     "701": {
       "title": "[commentary]",
       "level": 3,
       "parent": 699,
-      "start_ms": 67,
-      "end_ms": 67
+      "start_ms": 65,
+      "end_ms": 65
     },
     "702": {
       "title": "44",
       "level": 2,
       "parent": 572,
-      "start_ms": 67,
-      "end_ms": 68
+      "start_ms": 65,
+      "end_ms": 65
     },
     "703": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 702,
-      "start_ms": 67,
-      "end_ms": 67
+      "start_ms": 65,
+      "end_ms": 65
     },
     "704": {
       "title": "[commentary]",
       "level": 3,
       "parent": 702,
-      "start_ms": 67,
-      "end_ms": 68
+      "start_ms": 65,
+      "end_ms": 65
     },
     "705": {
       "title": "45",
       "level": 2,
       "parent": 572,
-      "start_ms": 68,
-      "end_ms": 68
+      "start_ms": 65,
+      "end_ms": 66
     },
     "706": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 705,
-      "start_ms": 68,
-      "end_ms": 68
+      "start_ms": 65,
+      "end_ms": 66
     },
     "707": {
       "title": "[commentary]",
       "level": 3,
       "parent": 705,
-      "start_ms": 68,
-      "end_ms": 68
+      "start_ms": 66,
+      "end_ms": 66
     },
     "708": {
       "title": "46",
       "level": 2,
       "parent": 572,
-      "start_ms": 68,
-      "end_ms": 68
+      "start_ms": 66,
+      "end_ms": 66
     },
     "709": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 708,
-      "start_ms": 68,
-      "end_ms": 68
+      "start_ms": 66,
+      "end_ms": 66
     },
     "710": {
       "title": "[commentary]",
       "level": 3,
       "parent": 708,
-      "start_ms": 68,
-      "end_ms": 68
+      "start_ms": 66,
+      "end_ms": 66
     },
     "711": {
       "title": "47",
       "level": 2,
       "parent": 572,
-      "start_ms": 68,
-      "end_ms": 68
+      "start_ms": 66,
+      "end_ms": 66
     },
     "712": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 711,
-      "start_ms": 68,
-      "end_ms": 68
+      "start_ms": 66,
+      "end_ms": 66
     },
     "713": {
       "title": "[commentary]",
       "level": 3,
       "parent": 711,
-      "start_ms": 68,
-      "end_ms": 68
+      "start_ms": 66,
+      "end_ms": 66
     },
     "714": {
       "title": "48",
       "level": 2,
       "parent": 572,
-      "start_ms": 68,
-      "end_ms": 69
+      "start_ms": 66,
+      "end_ms": 66
     },
     "715": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 714,
-      "start_ms": 68,
-      "end_ms": 68
+      "start_ms": 66,
+      "end_ms": 66
     },
     "716": {
       "title": "[commentary]",
       "level": 3,
       "parent": 714,
-      "start_ms": 68,
-      "end_ms": 69
+      "start_ms": 66,
+      "end_ms": 66
     },
     "717": {
       "title": "49",
       "level": 2,
       "parent": 572,
-      "start_ms": 69,
-      "end_ms": 69
+      "start_ms": 66,
+      "end_ms": 67
     },
     "718": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 717,
-      "start_ms": 69,
-      "end_ms": 69
+      "start_ms": 66,
+      "end_ms": 66
     },
     "719": {
       "title": "[commentary]",
       "level": 3,
       "parent": 717,
-      "start_ms": 69,
-      "end_ms": 69
+      "start_ms": 66,
+      "end_ms": 67
     },
     "720": {
       "title": "50",
       "level": 2,
       "parent": 572,
-      "start_ms": 69,
-      "end_ms": 69
+      "start_ms": 67,
+      "end_ms": 67
     },
     "721": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 720,
-      "start_ms": 69,
-      "end_ms": 69
+      "start_ms": 67,
+      "end_ms": 67
     },
     "722": {
       "title": "[commentary]",
       "level": 3,
       "parent": 720,
-      "start_ms": 69,
-      "end_ms": 69
+      "start_ms": 67,
+      "end_ms": 67
     },
     "723": {
       "title": "51",
       "level": 2,
       "parent": 572,
-      "start_ms": 69,
-      "end_ms": 69
+      "start_ms": 67,
+      "end_ms": 67
     },
     "724": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 723,
-      "start_ms": 69,
-      "end_ms": 69
+      "start_ms": 67,
+      "end_ms": 67
     },
     "725": {
       "title": "[commentary]",
       "level": 3,
       "parent": 723,
-      "start_ms": 69,
-      "end_ms": 69
+      "start_ms": 67,
+      "end_ms": 67
     },
     "726": {
       "title": "52",
       "level": 2,
       "parent": 572,
-      "start_ms": 69,
-      "end_ms": 69
+      "start_ms": 67,
+      "end_ms": 67
     },
     "727": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 726,
-      "start_ms": 69,
-      "end_ms": 69
+      "start_ms": 67,
+      "end_ms": 67
     },
     "728": {
       "title": "[commentary]",
       "level": 3,
       "parent": 726,
-      "start_ms": 69,
-      "end_ms": 69
+      "start_ms": 67,
+      "end_ms": 67
     },
     "729": {
       "title": "53",
       "level": 2,
       "parent": 572,
-      "start_ms": 69,
-      "end_ms": 70
+      "start_ms": 67,
+      "end_ms": 68
     },
     "730": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 729,
-      "start_ms": 69,
-      "end_ms": 70
+      "start_ms": 67,
+      "end_ms": 67
     },
     "731": {
       "title": "[commentary]",
       "level": 3,
       "parent": 729,
-      "start_ms": 70,
-      "end_ms": 70
+      "start_ms": 67,
+      "end_ms": 68
     },
     "732": {
       "title": "54",
       "level": 2,
       "parent": 572,
-      "start_ms": 70,
-      "end_ms": 70
+      "start_ms": 68,
+      "end_ms": 68
     },
     "733": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 732,
-      "start_ms": 70,
-      "end_ms": 70
+      "start_ms": 68,
+      "end_ms": 68
     },
     "734": {
       "title": "[commentary]",
       "level": 3,
       "parent": 732,
-      "start_ms": 70,
-      "end_ms": 70
+      "start_ms": 68,
+      "end_ms": 68
     },
     "735": {
       "title": "55",
       "level": 2,
       "parent": 572,
-      "start_ms": 70,
-      "end_ms": 70
+      "start_ms": 68,
+      "end_ms": 68
     },
     "736": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 735,
-      "start_ms": 70,
-      "end_ms": 70
+      "start_ms": 68,
+      "end_ms": 68
     },
     "737": {
       "title": "[commentary]",
       "level": 3,
       "parent": 735,
-      "start_ms": 70,
-      "end_ms": 70
+      "start_ms": 68,
+      "end_ms": 68
     },
     "738": {
       "title": "56",
       "level": 2,
       "parent": 572,
-      "start_ms": 70,
-      "end_ms": 70
+      "start_ms": 68,
+      "end_ms": 68
     },
     "739": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 738,
-      "start_ms": 70,
-      "end_ms": 70
+      "start_ms": 68,
+      "end_ms": 68
     },
     "740": {
       "title": "[commentary]",
       "level": 3,
       "parent": 738,
-      "start_ms": 70,
-      "end_ms": 70
+      "start_ms": 68,
+      "end_ms": 68
     },
     "741": {
       "title": "57",
       "level": 2,
       "parent": 572,
-      "start_ms": 70,
-      "end_ms": 70
+      "start_ms": 68,
+      "end_ms": 68
     },
     "742": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 741,
-      "start_ms": 70,
-      "end_ms": 70
+      "start_ms": 68,
+      "end_ms": 68
     },
     "743": {
       "title": "[commentary]",
       "level": 3,
       "parent": 741,
-      "start_ms": 70,
-      "end_ms": 70
+      "start_ms": 68,
+      "end_ms": 68
     },
     "744": {
       "title": "58",
       "level": 2,
       "parent": 572,
-      "start_ms": 70,
-      "end_ms": 71
+      "start_ms": 68,
+      "end_ms": 69
     },
     "745": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 744,
-      "start_ms": 70,
-      "end_ms": 71
+      "start_ms": 68,
+      "end_ms": 68
     },
     "746": {
       "title": "[commentary]",
       "level": 3,
       "parent": 744,
-      "start_ms": 71,
-      "end_ms": 71
+      "start_ms": 68,
+      "end_ms": 69
     },
     "747": {
       "title": "59",
       "level": 2,
       "parent": 572,
-      "start_ms": 71,
-      "end_ms": 71
+      "start_ms": 69,
+      "end_ms": 69
     },
     "748": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 747,
-      "start_ms": 71,
-      "end_ms": 71
+      "start_ms": 69,
+      "end_ms": 69
     },
     "749": {
       "title": "[commentary]",
       "level": 3,
       "parent": 747,
-      "start_ms": 71,
-      "end_ms": 71
+      "start_ms": 69,
+      "end_ms": 69
     },
     "750": {
       "title": "60",
       "level": 2,
       "parent": 572,
-      "start_ms": 71,
-      "end_ms": 71
+      "start_ms": 69,
+      "end_ms": 69
     },
     "751": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 750,
-      "start_ms": 71,
-      "end_ms": 71
+      "start_ms": 69,
+      "end_ms": 69
     },
     "752": {
       "title": "[commentary]",
       "level": 3,
       "parent": 750,
-      "start_ms": 71,
-      "end_ms": 71
+      "start_ms": 69,
+      "end_ms": 69
     },
     "753": {
       "title": "61",
       "level": 2,
       "parent": 572,
-      "start_ms": 71,
-      "end_ms": 72
+      "start_ms": 69,
+      "end_ms": 69
     },
     "754": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 753,
-      "start_ms": 71,
-      "end_ms": 71
+      "start_ms": 69,
+      "end_ms": 69
     },
     "755": {
       "title": "[commentary]",
       "level": 3,
       "parent": 753,
-      "start_ms": 71,
-      "end_ms": 72
+      "start_ms": 69,
+      "end_ms": 69
     },
     "756": {
       "title": "62",
       "level": 2,
       "parent": 572,
-      "start_ms": 72,
-      "end_ms": 72
+      "start_ms": 69,
+      "end_ms": 70
     },
     "757": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 756,
-      "start_ms": 72,
-      "end_ms": 72
+      "start_ms": 69,
+      "end_ms": 70
     },
     "758": {
       "title": "[commentary]",
       "level": 3,
       "parent": 756,
-      "start_ms": 72,
-      "end_ms": 72
+      "start_ms": 70,
+      "end_ms": 70
     },
     "759": {
       "title": "63",
       "level": 2,
       "parent": 572,
-      "start_ms": 72,
-      "end_ms": 73
+      "start_ms": 70,
+      "end_ms": 71
     },
     "760": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 759,
-      "start_ms": 72,
-      "end_ms": 72
+      "start_ms": 70,
+      "end_ms": 70
     },
     "761": {
       "title": "[commentary]",
       "level": 3,
       "parent": 759,
-      "start_ms": 72,
-      "end_ms": 73
+      "start_ms": 70,
+      "end_ms": 71
     },
     "762": {
       "title": "64",
       "level": 2,
       "parent": 572,
-      "start_ms": 73,
-      "end_ms": 73
+      "start_ms": 71,
+      "end_ms": 71
     },
     "763": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 762,
-      "start_ms": 73,
-      "end_ms": 73
+      "start_ms": 71,
+      "end_ms": 71
     },
     "764": {
       "title": "[commentary]",
       "level": 3,
       "parent": 762,
-      "start_ms": 73,
-      "end_ms": 73
+      "start_ms": 71,
+      "end_ms": 71
     },
     "765": {
       "title": "65",
       "level": 2,
       "parent": 572,
-      "start_ms": 73,
-      "end_ms": 74
+      "start_ms": 71,
+      "end_ms": 71
     },
     "766": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 765,
-      "start_ms": 73,
-      "end_ms": 73
+      "start_ms": 71,
+      "end_ms": 71
     },
     "767": {
       "title": "[commentary]",
       "level": 3,
       "parent": 765,
-      "start_ms": 73,
-      "end_ms": 74
+      "start_ms": 71,
+      "end_ms": 71
     },
     "768": {
       "title": "66",
       "level": 2,
       "parent": 572,
-      "start_ms": 74,
-      "end_ms": 74
+      "start_ms": 71,
+      "end_ms": 71
     },
     "769": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 768,
-      "start_ms": 74,
-      "end_ms": 74
+      "start_ms": 71,
+      "end_ms": 71
     },
     "770": {
       "title": "[commentary]",
       "level": 3,
       "parent": 768,
-      "start_ms": 74,
-      "end_ms": 74
+      "start_ms": 71,
+      "end_ms": 71
     },
     "771": {
       "title": "67",
       "level": 2,
       "parent": 572,
-      "start_ms": 74,
-      "end_ms": 74
+      "start_ms": 71,
+      "end_ms": 72
     },
     "772": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 771,
-      "start_ms": 74,
-      "end_ms": 74
+      "start_ms": 71,
+      "end_ms": 71
     },
     "773": {
       "title": "[commentary]",
       "level": 3,
       "parent": 771,
-      "start_ms": 74,
-      "end_ms": 74
+      "start_ms": 71,
+      "end_ms": 72
     },
     "774": {
       "title": "68",
       "level": 2,
       "parent": 572,
-      "start_ms": 74,
-      "end_ms": 74
+      "start_ms": 72,
+      "end_ms": 72
     },
     "775": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 774,
-      "start_ms": 74,
-      "end_ms": 74
+      "start_ms": 72,
+      "end_ms": 72
     },
     "776": {
       "title": "[commentary]",
       "level": 3,
       "parent": 774,
-      "start_ms": 74,
-      "end_ms": 74
+      "start_ms": 72,
+      "end_ms": 72
     },
     "777": {
       "title": "69",
       "level": 2,
       "parent": 572,
-      "start_ms": 74,
-      "end_ms": 74
+      "start_ms": 72,
+      "end_ms": 72
     },
     "778": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 777,
-      "start_ms": 74,
-      "end_ms": 74
+      "start_ms": 72,
+      "end_ms": 72
     },
     "779": {
       "title": "[commentary]",
       "level": 3,
       "parent": 777,
-      "start_ms": 74,
-      "end_ms": 74
+      "start_ms": 72,
+      "end_ms": 72
     },
     "780": {
       "title": "70",
       "level": 2,
       "parent": 572,
-      "start_ms": 74,
-      "end_ms": 74
+      "start_ms": 72,
+      "end_ms": 72
     },
     "781": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 780,
-      "start_ms": 74,
-      "end_ms": 74
+      "start_ms": 72,
+      "end_ms": 72
     },
     "782": {
       "title": "[commentary]",
       "level": 3,
       "parent": 780,
-      "start_ms": 74,
-      "end_ms": 74
+      "start_ms": 72,
+      "end_ms": 72
     },
     "783": {
       "title": "71",
       "level": 2,
       "parent": 572,
-      "start_ms": 74,
-      "end_ms": 75
+      "start_ms": 72,
+      "end_ms": 72
     },
     "784": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 783,
-      "start_ms": 74,
-      "end_ms": 75
+      "start_ms": 72,
+      "end_ms": 72
     },
     "785": {
       "title": "[commentary]",
       "level": 3,
       "parent": 783,
-      "start_ms": 75,
-      "end_ms": 75
+      "start_ms": 72,
+      "end_ms": 72
     },
     "786": {
       "title": "المقالة السادسة",
       "level": 1,
       "parent": null,
-      "start_ms": 75,
-      "end_ms": 86
+      "start_ms": 72,
+      "end_ms": 83
     },
     "787": {
       "title": "1",
       "level": 2,
       "parent": 786,
-      "start_ms": 75,
-      "end_ms": 75
+      "start_ms": 72,
+      "end_ms": 72
     },
     "788": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 787,
-      "start_ms": 75,
-      "end_ms": 75
+      "start_ms": 72,
+      "end_ms": 72
     },
     "789": {
       "title": "[commentary]",
       "level": 3,
       "parent": 787,
-      "start_ms": 75,
-      "end_ms": 75
+      "start_ms": 72,
+      "end_ms": 72
     },
     "790": {
       "title": "2",
       "level": 2,
       "parent": 786,
-      "start_ms": 75,
-      "end_ms": 75
+      "start_ms": 72,
+      "end_ms": 73
     },
     "791": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 790,
-      "start_ms": 75,
-      "end_ms": 75
+      "start_ms": 72,
+      "end_ms": 72
     },
     "792": {
       "title": "[commentary]",
       "level": 3,
       "parent": 790,
-      "start_ms": 75,
-      "end_ms": 75
+      "start_ms": 72,
+      "end_ms": 73
     },
     "793": {
       "title": "3",
       "level": 2,
       "parent": 786,
-      "start_ms": 75,
-      "end_ms": 76
+      "start_ms": 73,
+      "end_ms": 73
     },
     "794": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 793,
-      "start_ms": 75,
-      "end_ms": 75
+      "start_ms": 73,
+      "end_ms": 73
     },
     "795": {
       "title": "[commentary]",
       "level": 3,
       "parent": 793,
-      "start_ms": 75,
-      "end_ms": 76
+      "start_ms": 73,
+      "end_ms": 73
     },
     "796": {
       "title": "4",
       "level": 2,
       "parent": 786,
-      "start_ms": 76,
-      "end_ms": 76
+      "start_ms": 73,
+      "end_ms": 73
     },
     "797": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 796,
-      "start_ms": 76,
-      "end_ms": 76
+      "start_ms": 73,
+      "end_ms": 73
     },
     "798": {
       "title": "[commentary]",
       "level": 3,
       "parent": 796,
-      "start_ms": 76,
-      "end_ms": 76
+      "start_ms": 73,
+      "end_ms": 73
     },
     "799": {
       "title": "5",
       "level": 2,
       "parent": 786,
-      "start_ms": 76,
-      "end_ms": 76
+      "start_ms": 73,
+      "end_ms": 74
     },
     "800": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 799,
-      "start_ms": 76,
-      "end_ms": 76
+      "start_ms": 73,
+      "end_ms": 73
     },
     "801": {
       "title": "[commentary]",
       "level": 3,
       "parent": 799,
-      "start_ms": 76,
-      "end_ms": 76
+      "start_ms": 73,
+      "end_ms": 74
     },
     "802": {
       "title": "6",
       "level": 2,
       "parent": 786,
-      "start_ms": 76,
-      "end_ms": 76
+      "start_ms": 74,
+      "end_ms": 74
     },
     "803": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 802,
-      "start_ms": 76,
-      "end_ms": 76
+      "start_ms": 74,
+      "end_ms": 74
     },
     "804": {
       "title": "[commentary]",
       "level": 3,
       "parent": 802,
-      "start_ms": 76,
-      "end_ms": 76
+      "start_ms": 74,
+      "end_ms": 74
     },
     "805": {
       "title": "7",
       "level": 2,
       "parent": 786,
-      "start_ms": 76,
-      "end_ms": 76
+      "start_ms": 74,
+      "end_ms": 74
     },
     "806": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 805,
-      "start_ms": 76,
-      "end_ms": 76
+      "start_ms": 74,
+      "end_ms": 74
     },
     "807": {
       "title": "[commentary]",
       "level": 3,
       "parent": 805,
-      "start_ms": 76,
-      "end_ms": 76
+      "start_ms": 74,
+      "end_ms": 74
     },
     "808": {
       "title": "8",
       "level": 2,
       "parent": 786,
-      "start_ms": 76,
-      "end_ms": 76
+      "start_ms": 74,
+      "end_ms": 74
     },
     "809": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 808,
-      "start_ms": 76,
-      "end_ms": 76
+      "start_ms": 74,
+      "end_ms": 74
     },
     "810": {
       "title": "[commentary]",
       "level": 3,
       "parent": 808,
-      "start_ms": 76,
-      "end_ms": 76
+      "start_ms": 74,
+      "end_ms": 74
     },
     "811": {
       "title": "9",
       "level": 2,
       "parent": 786,
-      "start_ms": 76,
-      "end_ms": 77
+      "start_ms": 74,
+      "end_ms": 74
     },
     "812": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 811,
-      "start_ms": 76,
-      "end_ms": 76
+      "start_ms": 74,
+      "end_ms": 74
     },
     "813": {
       "title": "[commentary]",
       "level": 3,
       "parent": 811,
-      "start_ms": 76,
-      "end_ms": 77
+      "start_ms": 74,
+      "end_ms": 74
     },
     "814": {
       "title": "10",
       "level": 2,
       "parent": 786,
-      "start_ms": 77,
-      "end_ms": 77
+      "start_ms": 74,
+      "end_ms": 74
     },
     "815": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 814,
-      "start_ms": 77,
-      "end_ms": 77
+      "start_ms": 74,
+      "end_ms": 74
     },
     "816": {
       "title": "[commentary]",
       "level": 3,
       "parent": 814,
-      "start_ms": 77,
-      "end_ms": 77
+      "start_ms": 74,
+      "end_ms": 74
     },
     "817": {
       "title": "11",
       "level": 2,
       "parent": 786,
-      "start_ms": 77,
-      "end_ms": 77
+      "start_ms": 74,
+      "end_ms": 74
     },
     "818": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 817,
-      "start_ms": 77,
-      "end_ms": 77
+      "start_ms": 74,
+      "end_ms": 74
     },
     "819": {
       "title": "[commentary]",
       "level": 3,
       "parent": 817,
-      "start_ms": 77,
-      "end_ms": 77
+      "start_ms": 74,
+      "end_ms": 74
     },
     "820": {
       "title": "12",
       "level": 2,
       "parent": 786,
-      "start_ms": 77,
-      "end_ms": 77
+      "start_ms": 74,
+      "end_ms": 75
     },
     "821": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 820,
-      "start_ms": 77,
-      "end_ms": 77
+      "start_ms": 74,
+      "end_ms": 75
     },
     "822": {
       "title": "[commentary]",
       "level": 3,
       "parent": 820,
-      "start_ms": 77,
-      "end_ms": 77
+      "start_ms": 75,
+      "end_ms": 75
     },
     "823": {
       "title": "13",
       "level": 2,
       "parent": 786,
-      "start_ms": 77,
-      "end_ms": 77
+      "start_ms": 75,
+      "end_ms": 75
     },
     "824": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 823,
-      "start_ms": 77,
-      "end_ms": 77
+      "start_ms": 75,
+      "end_ms": 75
     },
     "825": {
       "title": "[commentary]",
       "level": 3,
       "parent": 823,
-      "start_ms": 77,
-      "end_ms": 77
+      "start_ms": 75,
+      "end_ms": 75
     },
     "826": {
       "title": "14",
       "level": 2,
       "parent": 786,
-      "start_ms": 77,
-      "end_ms": 78
+      "start_ms": 75,
+      "end_ms": 75
     },
     "827": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 826,
-      "start_ms": 77,
-      "end_ms": 77
+      "start_ms": 75,
+      "end_ms": 75
     },
     "828": {
       "title": "[commentary]",
       "level": 3,
       "parent": 826,
-      "start_ms": 77,
-      "end_ms": 78
+      "start_ms": 75,
+      "end_ms": 75
     },
     "829": {
       "title": "15",
       "level": 2,
       "parent": 786,
-      "start_ms": 78,
-      "end_ms": 78
+      "start_ms": 75,
+      "end_ms": 75
     },
     "830": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 829,
-      "start_ms": 78,
-      "end_ms": 78
+      "start_ms": 75,
+      "end_ms": 75
     },
     "831": {
       "title": "[commentary]",
       "level": 3,
       "parent": 829,
-      "start_ms": 78,
-      "end_ms": 78
+      "start_ms": 75,
+      "end_ms": 75
     },
     "832": {
       "title": "16",
       "level": 2,
       "parent": 786,
-      "start_ms": 78,
-      "end_ms": 78
+      "start_ms": 75,
+      "end_ms": 75
     },
     "833": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 832,
-      "start_ms": 78,
-      "end_ms": 78
+      "start_ms": 75,
+      "end_ms": 75
     },
     "834": {
       "title": "[commentary]",
       "level": 3,
       "parent": 832,
-      "start_ms": 78,
-      "end_ms": 78
+      "start_ms": 75,
+      "end_ms": 75
     },
     "835": {
       "title": "17",
       "level": 2,
       "parent": 786,
-      "start_ms": 78,
-      "end_ms": 78
+      "start_ms": 75,
+      "end_ms": 76
     },
     "836": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 835,
-      "start_ms": 78,
-      "end_ms": 78
+      "start_ms": 75,
+      "end_ms": 75
     },
     "837": {
       "title": "[commentary]",
       "level": 3,
       "parent": 835,
-      "start_ms": 78,
-      "end_ms": 78
+      "start_ms": 75,
+      "end_ms": 76
     },
     "838": {
       "title": "18",
       "level": 2,
       "parent": 786,
-      "start_ms": 78,
-      "end_ms": 78
+      "start_ms": 76,
+      "end_ms": 76
     },
     "839": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 838,
-      "start_ms": 78,
-      "end_ms": 78
+      "start_ms": 76,
+      "end_ms": 76
     },
     "840": {
       "title": "[commentary]",
       "level": 3,
       "parent": 838,
-      "start_ms": 78,
-      "end_ms": 78
+      "start_ms": 76,
+      "end_ms": 76
     },
     "841": {
       "title": "19",
       "level": 2,
       "parent": 786,
-      "start_ms": 78,
-      "end_ms": 79
+      "start_ms": 76,
+      "end_ms": 76
     },
     "842": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 841,
-      "start_ms": 78,
-      "end_ms": 78
+      "start_ms": 76,
+      "end_ms": 76
     },
     "843": {
       "title": "[commentary]",
       "level": 3,
       "parent": 841,
-      "start_ms": 78,
-      "end_ms": 79
+      "start_ms": 76,
+      "end_ms": 76
     },
     "844": {
       "title": "20",
       "level": 2,
       "parent": 786,
-      "start_ms": 79,
-      "end_ms": 79
+      "start_ms": 76,
+      "end_ms": 76
     },
     "845": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 844,
-      "start_ms": 79,
-      "end_ms": 79
+      "start_ms": 76,
+      "end_ms": 76
     },
     "846": {
       "title": "[commentary]",
       "level": 3,
       "parent": 844,
-      "start_ms": 79,
-      "end_ms": 79
+      "start_ms": 76,
+      "end_ms": 76
     },
     "847": {
       "title": "21",
       "level": 2,
       "parent": 786,
-      "start_ms": 79,
-      "end_ms": 79
+      "start_ms": 76,
+      "end_ms": 76
     },
     "848": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 847,
-      "start_ms": 79,
-      "end_ms": 79
+      "start_ms": 76,
+      "end_ms": 76
     },
     "849": {
       "title": "[commentary]",
       "level": 3,
       "parent": 847,
-      "start_ms": 79,
-      "end_ms": 79
+      "start_ms": 76,
+      "end_ms": 76
     },
     "850": {
       "title": "22",
       "level": 2,
       "parent": 786,
-      "start_ms": 79,
-      "end_ms": 79
+      "start_ms": 76,
+      "end_ms": 76
     },
     "851": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 850,
-      "start_ms": 79,
-      "end_ms": 79
+      "start_ms": 76,
+      "end_ms": 76
     },
     "852": {
       "title": "23",
       "level": 2,
       "parent": 786,
-      "start_ms": 79,
-      "end_ms": 79
+      "start_ms": 76,
+      "end_ms": 77
     },
     "853": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 852,
-      "start_ms": 79,
-      "end_ms": 79
+      "start_ms": 76,
+      "end_ms": 76
     },
     "854": {
       "title": "[commentary]",
       "level": 3,
       "parent": 852,
-      "start_ms": 79,
-      "end_ms": 79
+      "start_ms": 76,
+      "end_ms": 77
     },
     "855": {
       "title": "24",
       "level": 2,
       "parent": 786,
-      "start_ms": 79,
-      "end_ms": 79
+      "start_ms": 77,
+      "end_ms": 77
     },
     "856": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 855,
-      "start_ms": 79,
-      "end_ms": 79
+      "start_ms": 77,
+      "end_ms": 77
     },
     "857": {
       "title": "[commentary]",
       "level": 3,
       "parent": 855,
-      "start_ms": 79,
-      "end_ms": 79
+      "start_ms": 77,
+      "end_ms": 77
     },
     "858": {
       "title": "25",
       "level": 2,
       "parent": 786,
-      "start_ms": 79,
-      "end_ms": 79
+      "start_ms": 77,
+      "end_ms": 77
     },
     "859": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 858,
-      "start_ms": 79,
-      "end_ms": 79
+      "start_ms": 77,
+      "end_ms": 77
     },
     "860": {
       "title": "[commentary]",
       "level": 3,
       "parent": 858,
-      "start_ms": 79,
-      "end_ms": 79
+      "start_ms": 77,
+      "end_ms": 77
     },
     "861": {
       "title": "26",
       "level": 2,
       "parent": 786,
-      "start_ms": 79,
-      "end_ms": 80
+      "start_ms": 77,
+      "end_ms": 77
     },
     "862": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 861,
-      "start_ms": 79,
-      "end_ms": 79
+      "start_ms": 77,
+      "end_ms": 77
     },
     "863": {
       "title": "[commentary]",
       "level": 3,
       "parent": 861,
-      "start_ms": 79,
-      "end_ms": 80
+      "start_ms": 77,
+      "end_ms": 77
     },
     "864": {
       "title": "27",
       "level": 2,
       "parent": 786,
-      "start_ms": 80,
-      "end_ms": 80
+      "start_ms": 77,
+      "end_ms": 77
     },
     "865": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 864,
-      "start_ms": 80,
-      "end_ms": 80
+      "start_ms": 77,
+      "end_ms": 77
     },
     "866": {
       "title": "[commentary]",
       "level": 3,
       "parent": 864,
-      "start_ms": 80,
-      "end_ms": 80
+      "start_ms": 77,
+      "end_ms": 77
     },
     "867": {
       "title": "28",
       "level": 2,
       "parent": 786,
-      "start_ms": 80,
-      "end_ms": 80
+      "start_ms": 77,
+      "end_ms": 77
     },
     "868": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 867,
-      "start_ms": 80,
-      "end_ms": 80
+      "start_ms": 77,
+      "end_ms": 77
     },
     "869": {
       "title": "[commentary]",
       "level": 3,
       "parent": 867,
-      "start_ms": 80,
-      "end_ms": 80
+      "start_ms": 77,
+      "end_ms": 77
     },
     "870": {
       "title": "29",
       "level": 2,
       "parent": 786,
-      "start_ms": 80,
-      "end_ms": 80
+      "start_ms": 77,
+      "end_ms": 77
     },
     "871": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 870,
-      "start_ms": 80,
-      "end_ms": 80
+      "start_ms": 77,
+      "end_ms": 77
     },
     "872": {
       "title": "[commentary]",
       "level": 3,
       "parent": 870,
-      "start_ms": 80,
-      "end_ms": 80
+      "start_ms": 77,
+      "end_ms": 77
     },
     "873": {
       "title": "30",
       "level": 2,
       "parent": 786,
-      "start_ms": 80,
-      "end_ms": 80
+      "start_ms": 77,
+      "end_ms": 78
     },
     "874": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 873,
-      "start_ms": 80,
-      "end_ms": 80
+      "start_ms": 77,
+      "end_ms": 77
     },
     "875": {
       "title": "[commentary]",
       "level": 3,
       "parent": 873,
-      "start_ms": 80,
-      "end_ms": 80
+      "start_ms": 77,
+      "end_ms": 78
     },
     "876": {
       "title": "31",
       "level": 2,
       "parent": 786,
-      "start_ms": 80,
-      "end_ms": 81
+      "start_ms": 78,
+      "end_ms": 78
     },
     "877": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 876,
-      "start_ms": 80,
-      "end_ms": 80
+      "start_ms": 78,
+      "end_ms": 78
     },
     "878": {
       "title": "[commentary]",
       "level": 3,
       "parent": 876,
-      "start_ms": 80,
-      "end_ms": 81
+      "start_ms": 78,
+      "end_ms": 78
     },
     "879": {
       "title": "32",
       "level": 2,
       "parent": 786,
-      "start_ms": 81,
-      "end_ms": 81
+      "start_ms": 78,
+      "end_ms": 78
     },
     "880": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 879,
-      "start_ms": 81,
-      "end_ms": 81
+      "start_ms": 78,
+      "end_ms": 78
     },
     "881": {
       "title": "[commentary]",
       "level": 3,
       "parent": 879,
-      "start_ms": 81,
-      "end_ms": 81
+      "start_ms": 78,
+      "end_ms": 78
     },
     "882": {
       "title": "33",
       "level": 2,
       "parent": 786,
-      "start_ms": 81,
-      "end_ms": 81
+      "start_ms": 78,
+      "end_ms": 78
     },
     "883": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 882,
-      "start_ms": 81,
-      "end_ms": 81
+      "start_ms": 78,
+      "end_ms": 78
     },
     "884": {
       "title": "[commentary]",
       "level": 3,
       "parent": 882,
-      "start_ms": 81,
-      "end_ms": 81
+      "start_ms": 78,
+      "end_ms": 78
     },
     "885": {
       "title": "34",
       "level": 2,
       "parent": 786,
-      "start_ms": 81,
-      "end_ms": 81
+      "start_ms": 78,
+      "end_ms": 78
     },
     "886": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 885,
-      "start_ms": 81,
-      "end_ms": 81
+      "start_ms": 78,
+      "end_ms": 78
     },
     "887": {
       "title": "[commentary]",
       "level": 3,
       "parent": 885,
-      "start_ms": 81,
-      "end_ms": 81
+      "start_ms": 78,
+      "end_ms": 78
     },
     "888": {
       "title": "35",
       "level": 2,
       "parent": 786,
-      "start_ms": 81,
-      "end_ms": 81
+      "start_ms": 78,
+      "end_ms": 79
     },
     "889": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 888,
-      "start_ms": 81,
-      "end_ms": 81
+      "start_ms": 78,
+      "end_ms": 79
     },
     "890": {
       "title": "[commentary]",
       "level": 3,
       "parent": 888,
-      "start_ms": 81,
-      "end_ms": 81
+      "start_ms": 79,
+      "end_ms": 79
     },
     "891": {
       "title": "36",
       "level": 2,
       "parent": 786,
-      "start_ms": 81,
-      "end_ms": 82
+      "start_ms": 79,
+      "end_ms": 79
     },
     "892": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 891,
-      "start_ms": 81,
-      "end_ms": 81
+      "start_ms": 79,
+      "end_ms": 79
     },
     "893": {
       "title": "[commentary]",
       "level": 3,
       "parent": 891,
-      "start_ms": 81,
-      "end_ms": 82
+      "start_ms": 79,
+      "end_ms": 79
     },
     "894": {
       "title": "37",
       "level": 2,
       "parent": 786,
-      "start_ms": 82,
-      "end_ms": 82
+      "start_ms": 79,
+      "end_ms": 79
     },
     "895": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 894,
-      "start_ms": 82,
-      "end_ms": 82
+      "start_ms": 79,
+      "end_ms": 79
     },
     "896": {
       "title": "[commentary]",
       "level": 3,
       "parent": 894,
-      "start_ms": 82,
-      "end_ms": 82
+      "start_ms": 79,
+      "end_ms": 79
     },
     "897": {
       "title": "38",
       "level": 2,
       "parent": 786,
-      "start_ms": 82,
-      "end_ms": 82
+      "start_ms": 79,
+      "end_ms": 79
     },
     "898": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 897,
-      "start_ms": 82,
-      "end_ms": 82
+      "start_ms": 79,
+      "end_ms": 79
     },
     "899": {
       "title": "[commentary]",
       "level": 3,
       "parent": 897,
-      "start_ms": 82,
-      "end_ms": 82
+      "start_ms": 79,
+      "end_ms": 79
     },
     "900": {
       "title": "39",
       "level": 2,
       "parent": 786,
-      "start_ms": 82,
-      "end_ms": 82
+      "start_ms": 79,
+      "end_ms": 79
     },
     "901": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 900,
-      "start_ms": 82,
-      "end_ms": 82
+      "start_ms": 79,
+      "end_ms": 79
     },
     "902": {
       "title": "[commentary]",
       "level": 3,
       "parent": 900,
-      "start_ms": 82,
-      "end_ms": 82
+      "start_ms": 79,
+      "end_ms": 79
     },
     "903": {
       "title": "40",
       "level": 2,
       "parent": 786,
-      "start_ms": 82,
-      "end_ms": 82
+      "start_ms": 79,
+      "end_ms": 80
     },
     "904": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 903,
-      "start_ms": 82,
-      "end_ms": 82
+      "start_ms": 79,
+      "end_ms": 80
     },
     "905": {
       "title": "[commentary]",
       "level": 3,
       "parent": 903,
-      "start_ms": 82,
-      "end_ms": 82
+      "start_ms": 80,
+      "end_ms": 80
     },
     "906": {
       "title": "41",
       "level": 2,
       "parent": 786,
-      "start_ms": 82,
-      "end_ms": 83
+      "start_ms": 80,
+      "end_ms": 80
     },
     "907": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 906,
-      "start_ms": 82,
-      "end_ms": 82
+      "start_ms": 80,
+      "end_ms": 80
     },
     "908": {
       "title": "[commentary]",
       "level": 3,
       "parent": 906,
-      "start_ms": 82,
-      "end_ms": 83
+      "start_ms": 80,
+      "end_ms": 80
     },
     "909": {
       "title": "42",
       "level": 2,
       "parent": 786,
-      "start_ms": 83,
-      "end_ms": 83
+      "start_ms": 80,
+      "end_ms": 80
     },
     "910": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 909,
-      "start_ms": 83,
-      "end_ms": 83
+      "start_ms": 80,
+      "end_ms": 80
     },
     "911": {
       "title": "[commentary]",
       "level": 3,
       "parent": 909,
-      "start_ms": 83,
-      "end_ms": 83
+      "start_ms": 80,
+      "end_ms": 80
     },
     "912": {
       "title": "43",
       "level": 2,
       "parent": 786,
-      "start_ms": 83,
-      "end_ms": 83
+      "start_ms": 80,
+      "end_ms": 80
     },
     "913": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 912,
-      "start_ms": 83,
-      "end_ms": 83
+      "start_ms": 80,
+      "end_ms": 80
     },
     "914": {
       "title": "[commentary]",
       "level": 3,
       "parent": 912,
-      "start_ms": 83,
-      "end_ms": 83
+      "start_ms": 80,
+      "end_ms": 80
     },
     "915": {
       "title": "44",
       "level": 2,
       "parent": 786,
-      "start_ms": 83,
-      "end_ms": 83
+      "start_ms": 80,
+      "end_ms": 80
     },
     "916": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 915,
-      "start_ms": 83,
-      "end_ms": 83
+      "start_ms": 80,
+      "end_ms": 80
     },
     "917": {
       "title": "[commentary]",
       "level": 3,
       "parent": 915,
-      "start_ms": 83,
-      "end_ms": 83
+      "start_ms": 80,
+      "end_ms": 80
     },
     "918": {
       "title": "45",
       "level": 2,
       "parent": 786,
-      "start_ms": 83,
-      "end_ms": 83
+      "start_ms": 80,
+      "end_ms": 81
     },
     "919": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 918,
-      "start_ms": 83,
-      "end_ms": 83
+      "start_ms": 80,
+      "end_ms": 80
     },
     "920": {
       "title": "[commentary]",
       "level": 3,
       "parent": 918,
-      "start_ms": 83,
-      "end_ms": 83
+      "start_ms": 80,
+      "end_ms": 81
     },
     "921": {
       "title": "46",
       "level": 2,
       "parent": 786,
-      "start_ms": 83,
-      "end_ms": 84
+      "start_ms": 81,
+      "end_ms": 81
     },
     "922": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 921,
-      "start_ms": 83,
-      "end_ms": 84
+      "start_ms": 81,
+      "end_ms": 81
     },
     "923": {
       "title": "[commentary]",
       "level": 3,
       "parent": 921,
-      "start_ms": 84,
-      "end_ms": 84
+      "start_ms": 81,
+      "end_ms": 81
     },
     "924": {
       "title": "47",
       "level": 2,
       "parent": 786,
-      "start_ms": 84,
-      "end_ms": 84
+      "start_ms": 81,
+      "end_ms": 81
     },
     "925": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 924,
-      "start_ms": 84,
-      "end_ms": 84
+      "start_ms": 81,
+      "end_ms": 81
     },
     "926": {
       "title": "[commentary]",
       "level": 3,
       "parent": 924,
-      "start_ms": 84,
-      "end_ms": 84
+      "start_ms": 81,
+      "end_ms": 81
     },
     "927": {
       "title": "48",
       "level": 2,
       "parent": 786,
-      "start_ms": 84,
-      "end_ms": 84
+      "start_ms": 81,
+      "end_ms": 81
     },
     "928": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 927,
-      "start_ms": 84,
-      "end_ms": 84
+      "start_ms": 81,
+      "end_ms": 81
     },
     "929": {
       "title": "[commentary]",
       "level": 3,
       "parent": 927,
-      "start_ms": 84,
-      "end_ms": 84
+      "start_ms": 81,
+      "end_ms": 81
     },
     "930": {
       "title": "49",
       "level": 2,
       "parent": 786,
-      "start_ms": 84,
-      "end_ms": 84
+      "start_ms": 81,
+      "end_ms": 81
     },
     "931": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 930,
-      "start_ms": 84,
-      "end_ms": 84
+      "start_ms": 81,
+      "end_ms": 81
     },
     "932": {
       "title": "[commentary]",
       "level": 3,
       "parent": 930,
-      "start_ms": 84,
-      "end_ms": 84
+      "start_ms": 81,
+      "end_ms": 81
     },
     "933": {
       "title": "50",
       "level": 2,
       "parent": 786,
-      "start_ms": 84,
-      "end_ms": 84
+      "start_ms": 81,
+      "end_ms": 81
     },
     "934": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 933,
-      "start_ms": 84,
-      "end_ms": 84
+      "start_ms": 81,
+      "end_ms": 81
     },
     "935": {
       "title": "[commentary]",
       "level": 3,
       "parent": 933,
-      "start_ms": 84,
-      "end_ms": 84
+      "start_ms": 81,
+      "end_ms": 81
     },
     "936": {
       "title": "51",
       "level": 2,
       "parent": 786,
-      "start_ms": 84,
-      "end_ms": 85
+      "start_ms": 81,
+      "end_ms": 82
     },
     "937": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 936,
-      "start_ms": 84,
-      "end_ms": 84
+      "start_ms": 81,
+      "end_ms": 81
     },
     "938": {
       "title": "[commentary]",
       "level": 3,
       "parent": 936,
-      "start_ms": 84,
-      "end_ms": 85
+      "start_ms": 81,
+      "end_ms": 82
     },
     "939": {
       "title": "52",
       "level": 2,
       "parent": 786,
-      "start_ms": 85,
-      "end_ms": 85
+      "start_ms": 82,
+      "end_ms": 82
     },
     "940": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 939,
-      "start_ms": 85,
-      "end_ms": 85
+      "start_ms": 82,
+      "end_ms": 82
     },
     "941": {
       "title": "[commentary]",
       "level": 3,
       "parent": 939,
-      "start_ms": 85,
-      "end_ms": 85
+      "start_ms": 82,
+      "end_ms": 82
     },
     "942": {
       "title": "53",
       "level": 2,
       "parent": 786,
-      "start_ms": 85,
-      "end_ms": 85
+      "start_ms": 82,
+      "end_ms": 82
     },
     "943": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 942,
-      "start_ms": 85,
-      "end_ms": 85
+      "start_ms": 82,
+      "end_ms": 82
     },
     "944": {
       "title": "[commentary]",
       "level": 3,
       "parent": 942,
-      "start_ms": 85,
-      "end_ms": 85
+      "start_ms": 82,
+      "end_ms": 82
     },
     "945": {
       "title": "54",
       "level": 2,
       "parent": 786,
-      "start_ms": 85,
-      "end_ms": 85
+      "start_ms": 82,
+      "end_ms": 82
     },
     "946": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 945,
-      "start_ms": 85,
-      "end_ms": 85
+      "start_ms": 82,
+      "end_ms": 82
     },
     "947": {
       "title": "[commentary]",
       "level": 3,
       "parent": 945,
-      "start_ms": 85,
-      "end_ms": 85
+      "start_ms": 82,
+      "end_ms": 82
     },
     "948": {
       "title": "55",
       "level": 2,
       "parent": 786,
-      "start_ms": 85,
-      "end_ms": 85
+      "start_ms": 82,
+      "end_ms": 82
     },
     "949": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 948,
-      "start_ms": 85,
-      "end_ms": 85
+      "start_ms": 82,
+      "end_ms": 82
     },
     "950": {
       "title": "[commentary]",
       "level": 3,
       "parent": 948,
-      "start_ms": 85,
-      "end_ms": 85
+      "start_ms": 82,
+      "end_ms": 82
     },
     "951": {
       "title": "56",
       "level": 2,
       "parent": 786,
-      "start_ms": 85,
-      "end_ms": 86
+      "start_ms": 82,
+      "end_ms": 83
     },
     "952": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 951,
-      "start_ms": 85,
-      "end_ms": 85
+      "start_ms": 82,
+      "end_ms": 83
     },
     "953": {
       "title": "[commentary]",
       "level": 3,
       "parent": 951,
-      "start_ms": 85,
-      "end_ms": 86
+      "start_ms": 83,
+      "end_ms": 83
     },
     "954": {
       "title": "57",
       "level": 2,
       "parent": 786,
-      "start_ms": 86,
-      "end_ms": 86
+      "start_ms": 83,
+      "end_ms": 83
     },
     "955": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 954,
-      "start_ms": 86,
-      "end_ms": 86
+      "start_ms": 83,
+      "end_ms": 83
     },
     "956": {
       "title": "[commentary]",
       "level": 3,
       "parent": 954,
-      "start_ms": 86,
-      "end_ms": 86
+      "start_ms": 83,
+      "end_ms": 83
     },
     "957": {
       "title": "58",
       "level": 2,
       "parent": 786,
-      "start_ms": 86,
-      "end_ms": 86
+      "start_ms": 83,
+      "end_ms": 83
     },
     "958": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 957,
-      "start_ms": 86,
-      "end_ms": 86
+      "start_ms": 83,
+      "end_ms": 83
     },
     "959": {
       "title": "[commentary]",
       "level": 3,
       "parent": 957,
-      "start_ms": 86,
-      "end_ms": 86
+      "start_ms": 83,
+      "end_ms": 83
     },
     "960": {
       "title": "59",
       "level": 2,
       "parent": 786,
-      "start_ms": 86,
-      "end_ms": 86
+      "start_ms": 83,
+      "end_ms": 83
     },
     "961": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 960,
-      "start_ms": 86,
-      "end_ms": 86
+      "start_ms": 83,
+      "end_ms": 83
     },
     "962": {
       "title": "[commentary]",
       "level": 3,
       "parent": 960,
-      "start_ms": 86,
-      "end_ms": 86
+      "start_ms": 83,
+      "end_ms": 83
     },
     "963": {
       "title": "60",
       "level": 2,
       "parent": 786,
-      "start_ms": 86,
-      "end_ms": 86
+      "start_ms": 83,
+      "end_ms": 83
     },
     "964": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 963,
-      "start_ms": 86,
-      "end_ms": 86
+      "start_ms": 83,
+      "end_ms": 83
     },
     "965": {
       "title": "[commentary]",
       "level": 3,
       "parent": 963,
-      "start_ms": 86,
-      "end_ms": 86
+      "start_ms": 83,
+      "end_ms": 83
     },
     "966": {
       "title": "المقالة * السابعة (1)",
       "level": 1,
       "parent": null,
-      "start_ms": 86,
+      "start_ms": 83,
       "end_ms": null
     },
     "967": {
       "title": "1",
       "level": 2,
       "parent": 966,
-      "start_ms": 86,
-      "end_ms": 86
+      "start_ms": 83,
+      "end_ms": 83
     },
     "968": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 967,
-      "start_ms": 86,
-      "end_ms": 86
+      "start_ms": 83,
+      "end_ms": 83
     },
     "969": {
       "title": "[commentary]",
       "level": 3,
       "parent": 967,
-      "start_ms": 86,
-      "end_ms": 86
+      "start_ms": 83,
+      "end_ms": 83
     },
     "970": {
       "title": "2",
       "level": 2,
       "parent": 966,
-      "start_ms": 86,
-      "end_ms": 86
+      "start_ms": 83,
+      "end_ms": 83
     },
     "971": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 970,
-      "start_ms": 86,
-      "end_ms": 86
+      "start_ms": 83,
+      "end_ms": 83
     },
     "972": {
       "title": "[commentary]",
       "level": 3,
       "parent": 970,
-      "start_ms": 86,
-      "end_ms": 86
+      "start_ms": 83,
+      "end_ms": 83
     },
     "973": {
       "title": "3",
       "level": 2,
       "parent": 966,
-      "start_ms": 86,
-      "end_ms": 87
+      "start_ms": 83,
+      "end_ms": 84
     },
     "974": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 973,
-      "start_ms": 86,
-      "end_ms": 86
+      "start_ms": 83,
+      "end_ms": 83
     },
     "975": {
       "title": "[commentary]",
       "level": 3,
       "parent": 973,
-      "start_ms": 86,
-      "end_ms": 87
+      "start_ms": 83,
+      "end_ms": 84
     },
     "976": {
       "title": "4",
       "level": 2,
       "parent": 966,
-      "start_ms": 87,
-      "end_ms": 87
+      "start_ms": 84,
+      "end_ms": 84
     },
     "977": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 976,
-      "start_ms": 87,
-      "end_ms": 87
+      "start_ms": 84,
+      "end_ms": 84
     },
     "978": {
       "title": "[commentary]",
       "level": 3,
       "parent": 976,
-      "start_ms": 87,
-      "end_ms": 87
+      "start_ms": 84,
+      "end_ms": 84
     },
     "979": {
       "title": "5",
       "level": 2,
       "parent": 966,
-      "start_ms": 87,
-      "end_ms": 87
+      "start_ms": 84,
+      "end_ms": 84
     },
     "980": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 979,
-      "start_ms": 87,
-      "end_ms": 87
+      "start_ms": 84,
+      "end_ms": 84
     },
     "981": {
       "title": "[commentary]",
       "level": 3,
       "parent": 979,
-      "start_ms": 87,
-      "end_ms": 87
+      "start_ms": 84,
+      "end_ms": 84
     },
     "982": {
       "title": "6",
       "level": 2,
       "parent": 966,
-      "start_ms": 87,
-      "end_ms": 87
+      "start_ms": 84,
+      "end_ms": 84
     },
     "983": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 982,
-      "start_ms": 87,
-      "end_ms": 87
+      "start_ms": 84,
+      "end_ms": 84
     },
     "984": {
       "title": "[commentary]",
       "level": 3,
       "parent": 982,
-      "start_ms": 87,
-      "end_ms": 87
+      "start_ms": 84,
+      "end_ms": 84
     },
     "985": {
       "title": "7",
       "level": 2,
       "parent": 966,
-      "start_ms": 87,
-      "end_ms": 87
+      "start_ms": 84,
+      "end_ms": 84
     },
     "986": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 985,
-      "start_ms": 87,
-      "end_ms": 87
+      "start_ms": 84,
+      "end_ms": 84
     },
     "987": {
       "title": "[commentary]",
       "level": 3,
       "parent": 985,
-      "start_ms": 87,
-      "end_ms": 87
+      "start_ms": 84,
+      "end_ms": 84
     },
     "988": {
       "title": "8",
       "level": 2,
       "parent": 966,
-      "start_ms": 87,
-      "end_ms": 87
+      "start_ms": 84,
+      "end_ms": 84
     },
     "989": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 988,
-      "start_ms": 87,
-      "end_ms": 87
+      "start_ms": 84,
+      "end_ms": 84
     },
     "990": {
       "title": "[commentary]",
       "level": 3,
       "parent": 988,
-      "start_ms": 87,
-      "end_ms": 87
+      "start_ms": 84,
+      "end_ms": 84
     },
     "991": {
       "title": "9",
       "level": 2,
       "parent": 966,
-      "start_ms": 87,
-      "end_ms": 88
+      "start_ms": 84,
+      "end_ms": 84
     },
     "992": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 991,
-      "start_ms": 87,
-      "end_ms": 87
+      "start_ms": 84,
+      "end_ms": 84
     },
     "993": {
       "title": "[commentary]",
       "level": 3,
       "parent": 991,
-      "start_ms": 87,
-      "end_ms": 88
+      "start_ms": 84,
+      "end_ms": 84
     },
     "994": {
       "title": "10",
       "level": 2,
       "parent": 966,
-      "start_ms": 88,
-      "end_ms": 88
+      "start_ms": 84,
+      "end_ms": 85
     },
     "995": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 994,
-      "start_ms": 88,
-      "end_ms": 88
+      "start_ms": 84,
+      "end_ms": 85
     },
     "996": {
       "title": "[commentary]",
       "level": 3,
       "parent": 994,
-      "start_ms": 88,
-      "end_ms": 88
+      "start_ms": 85,
+      "end_ms": 85
     },
     "997": {
       "title": "11",
       "level": 2,
       "parent": 966,
-      "start_ms": 88,
-      "end_ms": 88
+      "start_ms": 85,
+      "end_ms": 85
     },
     "998": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 997,
-      "start_ms": 88,
-      "end_ms": 88
+      "start_ms": 85,
+      "end_ms": 85
     },
     "999": {
       "title": "[commentary]",
       "level": 3,
       "parent": 997,
-      "start_ms": 88,
-      "end_ms": 88
+      "start_ms": 85,
+      "end_ms": 85
     },
     "1000": {
       "title": "12",
       "level": 2,
       "parent": 966,
-      "start_ms": 88,
-      "end_ms": 88
+      "start_ms": 85,
+      "end_ms": 85
     },
     "1001": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1000,
-      "start_ms": 88,
-      "end_ms": 88
+      "start_ms": 85,
+      "end_ms": 85
     },
     "1002": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1000,
-      "start_ms": 88,
-      "end_ms": 88
+      "start_ms": 85,
+      "end_ms": 85
     },
     "1003": {
       "title": "13",
       "level": 2,
       "parent": 966,
-      "start_ms": 88,
-      "end_ms": 88
+      "start_ms": 85,
+      "end_ms": 85
     },
     "1004": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1003,
-      "start_ms": 88,
-      "end_ms": 88
+      "start_ms": 85,
+      "end_ms": 85
     },
     "1005": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1003,
-      "start_ms": 88,
-      "end_ms": 88
+      "start_ms": 85,
+      "end_ms": 85
     },
     "1006": {
       "title": "14",
       "level": 2,
       "parent": 966,
-      "start_ms": 88,
-      "end_ms": 88
+      "start_ms": 85,
+      "end_ms": 85
     },
     "1007": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1006,
-      "start_ms": 88,
-      "end_ms": 88
+      "start_ms": 85,
+      "end_ms": 85
     },
     "1008": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1006,
-      "start_ms": 88,
-      "end_ms": 88
+      "start_ms": 85,
+      "end_ms": 85
     },
     "1009": {
       "title": "15",
       "level": 2,
       "parent": 966,
-      "start_ms": 88,
-      "end_ms": 88
+      "start_ms": 85,
+      "end_ms": 85
     },
     "1010": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1009,
-      "start_ms": 88,
-      "end_ms": 88
+      "start_ms": 85,
+      "end_ms": 85
     },
     "1011": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1009,
-      "start_ms": 88,
-      "end_ms": 88
+      "start_ms": 85,
+      "end_ms": 85
     },
     "1012": {
       "title": "16",
       "level": 2,
       "parent": 966,
-      "start_ms": 88,
-      "end_ms": 89
+      "start_ms": 85,
+      "end_ms": 85
     },
     "1013": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1012,
-      "start_ms": 88,
-      "end_ms": 88
+      "start_ms": 85,
+      "end_ms": 85
     },
     "1014": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1012,
-      "start_ms": 88,
-      "end_ms": 89
+      "start_ms": 85,
+      "end_ms": 85
     },
     "1015": {
       "title": "17",
       "level": 2,
       "parent": 966,
-      "start_ms": 89,
-      "end_ms": 89
+      "start_ms": 85,
+      "end_ms": 86
     },
     "1016": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1015,
-      "start_ms": 89,
-      "end_ms": 89
+      "start_ms": 85,
+      "end_ms": 85
     },
     "1017": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1015,
-      "start_ms": 89,
-      "end_ms": 89
+      "start_ms": 85,
+      "end_ms": 86
     },
     "1018": {
       "title": "18",
       "level": 2,
       "parent": 966,
-      "start_ms": 89,
-      "end_ms": 89
+      "start_ms": 86,
+      "end_ms": 86
     },
     "1019": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1018,
-      "start_ms": 89,
-      "end_ms": 89
+      "start_ms": 86,
+      "end_ms": 86
     },
     "1020": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1018,
-      "start_ms": 89,
-      "end_ms": 89
+      "start_ms": 86,
+      "end_ms": 86
     },
     "1021": {
       "title": "19",
       "level": 2,
       "parent": 966,
-      "start_ms": 89,
-      "end_ms": 89
+      "start_ms": 86,
+      "end_ms": 86
     },
     "1022": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1021,
-      "start_ms": 89,
-      "end_ms": 89
+      "start_ms": 86,
+      "end_ms": 86
     },
     "1023": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1021,
-      "start_ms": 89,
-      "end_ms": 89
+      "start_ms": 86,
+      "end_ms": 86
     },
     "1024": {
       "title": "20",
       "level": 2,
       "parent": 966,
-      "start_ms": 89,
-      "end_ms": 89
+      "start_ms": 86,
+      "end_ms": 86
     },
     "1025": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1024,
-      "start_ms": 89,
-      "end_ms": 89
+      "start_ms": 86,
+      "end_ms": 86
     },
     "1026": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1024,
-      "start_ms": 89,
-      "end_ms": 89
+      "start_ms": 86,
+      "end_ms": 86
     },
     "1027": {
       "title": "21",
       "level": 2,
       "parent": 966,
-      "start_ms": 89,
-      "end_ms": 89
+      "start_ms": 86,
+      "end_ms": 86
     },
     "1028": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1027,
-      "start_ms": 89,
-      "end_ms": 89
+      "start_ms": 86,
+      "end_ms": 86
     },
     "1029": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1027,
-      "start_ms": 89,
-      "end_ms": 89
+      "start_ms": 86,
+      "end_ms": 86
     },
     "1030": {
       "title": "22",
       "level": 2,
       "parent": 966,
-      "start_ms": 89,
-      "end_ms": 89
+      "start_ms": 86,
+      "end_ms": 86
     },
     "1031": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1030,
-      "start_ms": 89,
-      "end_ms": 89
+      "start_ms": 86,
+      "end_ms": 86
     },
     "1032": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1030,
-      "start_ms": 89,
-      "end_ms": 89
+      "start_ms": 86,
+      "end_ms": 86
     },
     "1033": {
       "title": "23",
       "level": 2,
       "parent": 966,
-      "start_ms": 89,
-      "end_ms": 89
+      "start_ms": 86,
+      "end_ms": 86
     },
     "1034": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1033,
-      "start_ms": 89,
-      "end_ms": 89
+      "start_ms": 86,
+      "end_ms": 86
     },
     "1035": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1033,
-      "start_ms": 89,
-      "end_ms": 89
+      "start_ms": 86,
+      "end_ms": 86
     },
     "1036": {
       "title": "24",
       "level": 2,
       "parent": 966,
-      "start_ms": 89,
-      "end_ms": 89
+      "start_ms": 86,
+      "end_ms": 86
     },
     "1037": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1036,
-      "start_ms": 89,
-      "end_ms": 89
+      "start_ms": 86,
+      "end_ms": 86
     },
     "1038": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1036,
-      "start_ms": 89,
-      "end_ms": 89
+      "start_ms": 86,
+      "end_ms": 86
     },
     "1039": {
       "title": "25",
       "level": 2,
       "parent": 966,
-      "start_ms": 89,
-      "end_ms": 89
+      "start_ms": 86,
+      "end_ms": 86
     },
     "1040": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1039,
-      "start_ms": 89,
-      "end_ms": 89
+      "start_ms": 86,
+      "end_ms": 86
     },
     "1041": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1039,
-      "start_ms": 89,
-      "end_ms": 89
+      "start_ms": 86,
+      "end_ms": 86
     },
     "1042": {
       "title": "26",
       "level": 2,
       "parent": 966,
-      "start_ms": 89,
-      "end_ms": 90
+      "start_ms": 86,
+      "end_ms": 86
     },
     "1043": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1042,
-      "start_ms": 89,
-      "end_ms": 89
+      "start_ms": 86,
+      "end_ms": 86
     },
     "1044": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1042,
-      "start_ms": 89,
-      "end_ms": 90
+      "start_ms": 86,
+      "end_ms": 86
     },
     "1045": {
       "title": "27",
       "level": 2,
       "parent": 966,
-      "start_ms": 90,
-      "end_ms": 90
+      "start_ms": 86,
+      "end_ms": 86
     },
     "1046": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1045,
-      "start_ms": 90,
-      "end_ms": 90
+      "start_ms": 86,
+      "end_ms": 86
     },
     "1047": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1045,
-      "start_ms": 90,
-      "end_ms": 90
+      "start_ms": 86,
+      "end_ms": 86
     },
     "1048": {
       "title": "28",
       "level": 2,
       "parent": 966,
-      "start_ms": 90,
-      "end_ms": 90
+      "start_ms": 86,
+      "end_ms": 87
     },
     "1049": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1048,
-      "start_ms": 90,
-      "end_ms": 90
+      "start_ms": 86,
+      "end_ms": 86
     },
     "1050": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1048,
-      "start_ms": 90,
-      "end_ms": 90
+      "start_ms": 86,
+      "end_ms": 87
     },
     "1051": {
       "title": "29",
       "level": 2,
       "parent": 966,
-      "start_ms": 90,
-      "end_ms": 90
+      "start_ms": 87,
+      "end_ms": 87
     },
     "1052": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1051,
-      "start_ms": 90,
-      "end_ms": 90
+      "start_ms": 87,
+      "end_ms": 87
     },
     "1053": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1051,
-      "start_ms": 90,
-      "end_ms": 90
+      "start_ms": 87,
+      "end_ms": 87
     },
     "1054": {
       "title": "30",
       "level": 2,
       "parent": 966,
-      "start_ms": 90,
-      "end_ms": 90
+      "start_ms": 87,
+      "end_ms": 87
     },
     "1055": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1054,
-      "start_ms": 90,
-      "end_ms": 90
+      "start_ms": 87,
+      "end_ms": 87
     },
     "1056": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1054,
-      "start_ms": 90,
-      "end_ms": 90
+      "start_ms": 87,
+      "end_ms": 87
     },
     "1057": {
       "title": "31",
       "level": 2,
       "parent": 966,
-      "start_ms": 90,
-      "end_ms": 90
+      "start_ms": 87,
+      "end_ms": 87
     },
     "1058": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1057,
-      "start_ms": 90,
-      "end_ms": 90
+      "start_ms": 87,
+      "end_ms": 87
     },
     "1059": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1057,
-      "start_ms": 90,
-      "end_ms": 90
+      "start_ms": 87,
+      "end_ms": 87
     },
     "1060": {
       "title": "32",
       "level": 2,
       "parent": 966,
-      "start_ms": 90,
-      "end_ms": 91
+      "start_ms": 87,
+      "end_ms": 87
     },
     "1061": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1060,
-      "start_ms": 90,
-      "end_ms": 90
+      "start_ms": 87,
+      "end_ms": 87
     },
     "1062": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1060,
-      "start_ms": 90,
-      "end_ms": 91
+      "start_ms": 87,
+      "end_ms": 87
     },
     "1063": {
       "title": "33",
       "level": 2,
       "parent": 966,
-      "start_ms": 91,
-      "end_ms": 91
+      "start_ms": 87,
+      "end_ms": 88
     },
     "1064": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1063,
-      "start_ms": 91,
-      "end_ms": 91
+      "start_ms": 87,
+      "end_ms": 87
     },
     "1065": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1063,
-      "start_ms": 91,
-      "end_ms": 91
+      "start_ms": 87,
+      "end_ms": 88
     },
     "1066": {
       "title": "34",
       "level": 2,
       "parent": 966,
-      "start_ms": 91,
-      "end_ms": 91
+      "start_ms": 88,
+      "end_ms": 88
     },
     "1067": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1066,
-      "start_ms": 91,
-      "end_ms": 91
+      "start_ms": 88,
+      "end_ms": 88
     },
     "1068": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1066,
-      "start_ms": 91,
-      "end_ms": 91
+      "start_ms": 88,
+      "end_ms": 88
     },
     "1069": {
       "title": "35",
       "level": 2,
       "parent": 966,
-      "start_ms": 91,
-      "end_ms": 91
+      "start_ms": 88,
+      "end_ms": 88
     },
     "1070": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1069,
-      "start_ms": 91,
-      "end_ms": 91
+      "start_ms": 88,
+      "end_ms": 88
     },
     "1071": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1069,
-      "start_ms": 91,
-      "end_ms": 91
+      "start_ms": 88,
+      "end_ms": 88
     },
     "1072": {
       "title": "36",
       "level": 2,
       "parent": 966,
-      "start_ms": 91,
-      "end_ms": 92
+      "start_ms": 88,
+      "end_ms": 88
     },
     "1073": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1072,
-      "start_ms": 91,
-      "end_ms": 91
+      "start_ms": 88,
+      "end_ms": 88
     },
     "1074": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1072,
-      "start_ms": 91,
-      "end_ms": 92
+      "start_ms": 88,
+      "end_ms": 88
     },
     "1075": {
       "title": "37",
       "level": 2,
       "parent": 966,
-      "start_ms": 92,
-      "end_ms": 92
+      "start_ms": 88,
+      "end_ms": 88
     },
     "1076": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1075,
-      "start_ms": 92,
-      "end_ms": 92
+      "start_ms": 88,
+      "end_ms": 88
     },
     "1077": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1075,
-      "start_ms": 92,
-      "end_ms": 92
+      "start_ms": 88,
+      "end_ms": 88
     },
     "1078": {
       "title": "38",
       "level": 2,
       "parent": 966,
-      "start_ms": 92,
-      "end_ms": 92
+      "start_ms": 88,
+      "end_ms": 88
     },
     "1079": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1078,
-      "start_ms": 92,
-      "end_ms": 92
+      "start_ms": 88,
+      "end_ms": 88
     },
     "1080": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1078,
-      "start_ms": 92,
-      "end_ms": 92
+      "start_ms": 88,
+      "end_ms": 88
     },
     "1081": {
       "title": "39",
       "level": 2,
       "parent": 966,
-      "start_ms": 92,
-      "end_ms": 92
+      "start_ms": 88,
+      "end_ms": 89
     },
     "1082": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1081,
-      "start_ms": 92,
-      "end_ms": 92
+      "start_ms": 88,
+      "end_ms": 89
     },
     "1083": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1081,
-      "start_ms": 92,
-      "end_ms": 92
+      "start_ms": 89,
+      "end_ms": 89
     },
     "1084": {
       "title": "40",
       "level": 2,
       "parent": 966,
-      "start_ms": 92,
-      "end_ms": 92
+      "start_ms": 89,
+      "end_ms": 89
     },
     "1085": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1084,
-      "start_ms": 92,
-      "end_ms": 92
+      "start_ms": 89,
+      "end_ms": 89
     },
     "1086": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1084,
-      "start_ms": 92,
-      "end_ms": 92
+      "start_ms": 89,
+      "end_ms": 89
     },
     "1087": {
       "title": "41",
       "level": 2,
       "parent": 966,
-      "start_ms": 92,
-      "end_ms": 92
+      "start_ms": 89,
+      "end_ms": 89
     },
     "1088": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1087,
-      "start_ms": 92,
-      "end_ms": 92
+      "start_ms": 89,
+      "end_ms": 89
     },
     "1089": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1087,
-      "start_ms": 92,
-      "end_ms": 92
+      "start_ms": 89,
+      "end_ms": 89
     },
     "1090": {
       "title": "42",
       "level": 2,
       "parent": 966,
-      "start_ms": 92,
-      "end_ms": 93
+      "start_ms": 89,
+      "end_ms": 89
     },
     "1091": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1090,
-      "start_ms": 92,
-      "end_ms": 93
+      "start_ms": 89,
+      "end_ms": 89
     },
     "1092": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1090,
-      "start_ms": 93,
-      "end_ms": 93
+      "start_ms": 89,
+      "end_ms": 89
     },
     "1093": {
       "title": "43",
       "level": 2,
       "parent": 966,
-      "start_ms": 93,
-      "end_ms": 93
+      "start_ms": 89,
+      "end_ms": 89
     },
     "1094": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1093,
-      "start_ms": 93,
-      "end_ms": 93
+      "start_ms": 89,
+      "end_ms": 89
     },
     "1095": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1093,
-      "start_ms": 93,
-      "end_ms": 93
+      "start_ms": 89,
+      "end_ms": 89
     },
     "1096": {
       "title": "44",
       "level": 2,
       "parent": 966,
-      "start_ms": 93,
-      "end_ms": 93
+      "start_ms": 89,
+      "end_ms": 90
     },
     "1097": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1096,
-      "start_ms": 93,
-      "end_ms": 93
+      "start_ms": 89,
+      "end_ms": 89
     },
     "1098": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1096,
-      "start_ms": 93,
-      "end_ms": 93
+      "start_ms": 89,
+      "end_ms": 90
     },
     "1099": {
       "title": "45",
       "level": 2,
       "parent": 966,
-      "start_ms": 93,
-      "end_ms": 93
+      "start_ms": 90,
+      "end_ms": 90
     },
     "1100": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1099,
-      "start_ms": 93,
-      "end_ms": 93
+      "start_ms": 90,
+      "end_ms": 90
     },
     "1101": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1099,
-      "start_ms": 93,
-      "end_ms": 93
+      "start_ms": 90,
+      "end_ms": 90
     },
     "1102": {
       "title": "46",
       "level": 2,
       "parent": 966,
-      "start_ms": 93,
-      "end_ms": 93
+      "start_ms": 90,
+      "end_ms": 90
     },
     "1103": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1102,
-      "start_ms": 93,
-      "end_ms": 93
+      "start_ms": 90,
+      "end_ms": 90
     },
     "1104": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1102,
-      "start_ms": 93,
-      "end_ms": 93
+      "start_ms": 90,
+      "end_ms": 90
     },
     "1105": {
       "title": "47",
       "level": 2,
       "parent": 966,
-      "start_ms": 93,
-      "end_ms": 94
+      "start_ms": 90,
+      "end_ms": 90
     },
     "1106": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1105,
-      "start_ms": 93,
-      "end_ms": 94
+      "start_ms": 90,
+      "end_ms": 90
     },
     "1107": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1105,
-      "start_ms": 94,
-      "end_ms": 94
+      "start_ms": 90,
+      "end_ms": 90
     },
     "1108": {
       "title": "48",
       "level": 2,
       "parent": 966,
-      "start_ms": 94,
-      "end_ms": 94
+      "start_ms": 90,
+      "end_ms": 90
     },
     "1109": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1108,
-      "start_ms": 94,
-      "end_ms": 94
+      "start_ms": 90,
+      "end_ms": 90
     },
     "1110": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1108,
-      "start_ms": 94,
-      "end_ms": 94
+      "start_ms": 90,
+      "end_ms": 90
     },
     "1111": {
       "title": "49",
       "level": 2,
       "parent": 966,
-      "start_ms": 94,
-      "end_ms": 94
+      "start_ms": 90,
+      "end_ms": 90
     },
     "1112": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1111,
-      "start_ms": 94,
-      "end_ms": 94
+      "start_ms": 90,
+      "end_ms": 90
     },
     "1113": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1111,
-      "start_ms": 94,
-      "end_ms": 94
+      "start_ms": 90,
+      "end_ms": 90
     },
     "1114": {
       "title": "50",
       "level": 2,
       "parent": 966,
-      "start_ms": 94,
-      "end_ms": 94
+      "start_ms": 90,
+      "end_ms": 91
     },
     "1115": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1114,
-      "start_ms": 94,
-      "end_ms": 94
+      "start_ms": 90,
+      "end_ms": 90
     },
     "1116": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1114,
-      "start_ms": 94,
-      "end_ms": 94
+      "start_ms": 90,
+      "end_ms": 91
     },
     "1117": {
       "title": "51",
       "level": 2,
       "parent": 966,
-      "start_ms": 94,
-      "end_ms": 94
+      "start_ms": 91,
+      "end_ms": 91
     },
     "1118": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1117,
-      "start_ms": 94,
-      "end_ms": 94
+      "start_ms": 91,
+      "end_ms": 91
     },
     "1119": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1117,
-      "start_ms": 94,
-      "end_ms": 94
+      "start_ms": 91,
+      "end_ms": 91
     },
     "1120": {
       "title": "52",
       "level": 2,
       "parent": 966,
-      "start_ms": 94,
-      "end_ms": 95
+      "start_ms": 91,
+      "end_ms": 91
     },
     "1121": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1120,
-      "start_ms": 94,
-      "end_ms": 95
+      "start_ms": 91,
+      "end_ms": 91
     },
     "1122": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1120,
-      "start_ms": 95,
-      "end_ms": 95
+      "start_ms": 91,
+      "end_ms": 91
     },
     "1123": {
       "title": "53",
       "level": 2,
       "parent": 966,
-      "start_ms": 95,
-      "end_ms": 95
+      "start_ms": 91,
+      "end_ms": 91
     },
     "1124": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1123,
-      "start_ms": 95,
-      "end_ms": 95
+      "start_ms": 91,
+      "end_ms": 91
     },
     "1125": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1123,
-      "start_ms": 95,
-      "end_ms": 95
+      "start_ms": 91,
+      "end_ms": 91
     },
     "1126": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1123,
-      "start_ms": 95,
-      "end_ms": 95
+      "start_ms": 91,
+      "end_ms": 91
     },
     "1127": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1123,
-      "start_ms": 95,
-      "end_ms": 95
+      "start_ms": 91,
+      "end_ms": 91
     },
     "1128": {
       "title": "54",
       "level": 2,
       "parent": 966,
-      "start_ms": 95,
-      "end_ms": 95
+      "start_ms": 91,
+      "end_ms": 92
     },
     "1129": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1128,
-      "start_ms": 95,
-      "end_ms": 95
+      "start_ms": 91,
+      "end_ms": 91
     },
     "1130": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1128,
-      "start_ms": 95,
-      "end_ms": 95
+      "start_ms": 91,
+      "end_ms": 92
     },
     "1131": {
       "title": "55",
       "level": 2,
       "parent": 966,
-      "start_ms": 95,
-      "end_ms": 96
+      "start_ms": 92,
+      "end_ms": 92
     },
     "1132": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1131,
-      "start_ms": 95,
-      "end_ms": 95
+      "start_ms": 92,
+      "end_ms": 92
     },
     "1133": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1131,
-      "start_ms": 95,
-      "end_ms": 96
+      "start_ms": 92,
+      "end_ms": 92
     },
     "1134": {
       "title": "56",
       "level": 2,
       "parent": 966,
-      "start_ms": 96,
-      "end_ms": 96
+      "start_ms": 92,
+      "end_ms": 92
     },
     "1135": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1134,
-      "start_ms": 96,
-      "end_ms": 96
+      "start_ms": 92,
+      "end_ms": 92
     },
     "1136": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1134,
-      "start_ms": 96,
-      "end_ms": 96
+      "start_ms": 92,
+      "end_ms": 92
     },
     "1137": {
       "title": "57",
       "level": 2,
       "parent": 966,
-      "start_ms": 96,
+      "start_ms": 92,
       "end_ms": null
     },
     "1138": {
       "title": "[aphorism]",
       "level": 3,
       "parent": 1137,
-      "start_ms": 96,
-      "end_ms": 96
+      "start_ms": 92,
+      "end_ms": 92
     },
     "1139": {
       "title": "[commentary]",
       "level": 3,
       "parent": 1137,
-      "start_ms": 96,
+      "start_ms": 92,
       "end_ms": null
     }
   },
@@ -7983,18 +7983,18 @@
     ],
     [
       2,
-      [5, 6],
+      [5, 6, 7],
       4
     ],
     [
       3,
-      [7, 8, 9],
-      null
+      [8, 9, 10],
+      7
     ],
     [
       4,
-      [10, 11, 12],
-      9
+      [11, 12],
+      10
     ],
     [
       5,
@@ -8008,13 +8008,13 @@
     ],
     [
       7,
-      [23, 24, 25, 26, 27],
+      [23, 24, 25, 26, 27, 28],
       22
     ],
     [
       8,
-      [28, 29, 30, 31, 32, 33, 34],
-      27
+      [29, 30, 31, 32, 33, 34],
+      28
     ],
     [
       9,
@@ -8043,419 +8043,399 @@
     ],
     [
       14,
-      [56, 57, 58, 59, 60, 61],
+      [56, 57, 58, 59, 60, 61, 62, 63],
       55
     ],
     [
       15,
-      [62, 63, 64, 65, 66, 67],
-      61
+      [64, 65, 66, 67, 68, 69, 70],
+      63
     ],
     [
       16,
-      [68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80],
-      67
+      [71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83],
+      70
     ],
     [
       17,
-      [81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92],
-      80
+      [84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94],
+      83
     ],
     [
       18,
-      [93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106],
-      92
+      [95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110],
+      94
     ],
     [
       19,
-      [107, 108, 109, 110, 111, 112, 113, 114, 115, 116],
-      106
+      [111, 112, 113, 114, 115, 116, 117, 118, 119],
+      110
     ],
     [
       20,
-      [117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128],
-      116
+      [120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134],
+      119
     ],
     [
       21,
-      [129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140],
-      128
+      [135, 136, 137, 138, 139, 140, 141, 142, 143],
+      134
     ],
     [
       22,
-      [141, 142, 143, 144, 145, 146],
-      140
+      [144, 145, 146, 147, 148, 149],
+      143
     ],
     [
       23,
-      [147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157],
-      146
+      [150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161],
+      149
     ],
     [
       24,
-      [158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170],
-      157
+      [162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175],
+      161
     ],
     [
       25,
-      [171, 172, 173, 174, 175, 176, 177, 178, 179],
-      170
+      [176, 177, 178, 179, 180, 181, 182, 183, 184, 185],
+      175
     ],
     [
       26,
-      [180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194],
-      179
+      [186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200],
+      185
     ],
     [
       27,
-      [195, 196, 197, 198, 199, 200, 201, 202, 203],
-      194
+      [201, 202, 203, 204, 205, 206, 207, 208, 209],
+      200
     ],
     [
       28,
-      [204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216],
-      203
+      [210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222],
+      209
     ],
     [
       29,
-      [217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227],
-      216
+      [223, 224, 225, 226, 227, 228, 229, 230, 231],
+      222
     ],
     [
       30,
-      [228, 229, 230, 231, 232, 233, 234, 235, 236, 237],
-      227
+      [232, 233, 234, 235, 236, 237, 238, 239, 240, 241],
+      231
     ],
     [
       31,
-      [238, 239, 240, 241, 242, 243, 244, 245, 246],
-      237
+      [242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255],
+      241
     ],
     [
       32,
-      [247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258],
-      246
+      [256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267],
+      255
     ],
     [
       33,
-      [259, 260, 261, 262, 263, 264, 265, 266, 267, 268],
-      258
+      [268, 269, 270, 271],
+      267
     ],
     [
       34,
-      [269, 270, 271, 272, 273, 274],
-      268
+      [272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283],
+      271
     ],
     [
       35,
-      [275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285],
-      274
+      [284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294],
+      283
     ],
     [
       36,
-      [286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297],
-      285
+      [295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306],
+      294
     ],
     [
       37,
-      [298, 299, 300, 301, 302, 303, 304, 305, 306, 307],
-      297
+      [307, 308, 309, 310, 311, 312, 313],
+      306
     ],
     [
       38,
-      [308, 309, 310, 311, 312, 313, 314, 315],
-      307
+      [314, 315, 316, 317, 318, 319, 320, 321, 322],
+      313
     ],
     [
       39,
-      [316, 317, 318, 319, 320, 321, 322, 323, 324],
-      315
+      [323, 324, 325, 326, 327, 328],
+      322
     ],
     [
       40,
-      [325, 326, 327, 328, 329, 330, 331],
-      324
+      [329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340],
+      328
     ],
     [
       41,
-      [332, 333, 334, 335, 336, 337, 338, 339, 340, 341],
-      331
+      [341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355],
+      340
     ],
     [
       42,
-      [342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356],
-      341
+      [356, 357, 358, 359, 360, 361, 362, 363, 364, 365],
+      355
     ],
     [
       43,
-      [357, 358, 359, 360, 361, 362, 363, 364, 365],
-      356
-    ],
-    [
-      44,
       [366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377],
       365
     ],
     [
-      45,
+      44,
       [378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388],
       377
     ],
     [
-      46,
-      [389, 390, 391, 392, 393, 394, 395, 396, 397, 398],
+      45,
+      [389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400],
       388
     ],
     [
+      46,
+      [401, 402, 403, 404, 405, 406, 407, 408, 409, 410, 411, 412, 413],
+      400
+    ],
+    [
       47,
-      [399, 400, 401, 402, 403, 404, 405, 406, 407, 408, 409, 410, 411, 412],
-      398
+      [414, 415, 416, 417, 418, 419, 420, 421, 422, 423, 424, 425],
+      413
     ],
     [
       48,
-      [413, 414, 415, 416, 417, 418, 419, 420, 421, 422, 423, 424],
-      412
+      [426, 427, 428, 429, 430, 431, 432, 433],
+      425
     ],
     [
       49,
-      [425, 426, 427, 428, 429, 430, 431],
-      424
+      [434, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444],
+      433
     ],
     [
       50,
-      [432, 433, 434, 435, 436, 437, 438, 439, 440, 441],
-      431
+      [445, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458, 459, 460],
+      444
     ],
     [
       51,
-      [442, 443, 444, 445, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456],
-      441
+      [461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471],
+      460
     ],
     [
       52,
-      [457, 458, 459, 460, 461, 462, 463, 464, 465, 466, 467, 468],
-      456
+      [472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487],
+      471
     ],
     [
       53,
-      [469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480],
-      468
+      [488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 501, 502, 503, 504, 505, 506, 507],
+      487
     ],
     [
       54,
-      [481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 501],
-      null
+      [508, 509, 510, 511, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524, 525, 526],
+      507
     ],
     [
       55,
-      [502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 516, 517],
-      501
+      [527, 528, 529, 530, 531, 532, 533, 534, 535, 536, 537, 538, 539, 540],
+      526
     ],
     [
       56,
-      [518, 519, 520, 521, 522, 523, 524, 525, 526, 527, 528, 529, 530, 531, 532],
-      517
+      [541, 542, 543, 544, 545, 546, 547, 548, 549, 550],
+      540
     ],
     [
       57,
-      [533, 534, 535, 536, 537, 538, 539, 540, 541, 542, 543, 544],
-      532
+      [551, 552, 553, 554, 555, 556, 557, 558, 559, 560, 561, 562, 563, 564, 565, 566, 567, 568],
+      550
     ],
     [
       58,
-      [545, 546, 547, 548, 549, 550, 551, 552, 553, 554, 555, 556, 557, 558],
-      544
+      [569, 570, 571, 572, 573, 574, 575, 576, 577, 578, 579, 580, 581, 582, 583, 584, 585, 586, 587],
+      568
     ],
     [
       59,
-      [559, 560, 561, 562, 563, 564, 565, 566, 567, 568, 569, 570, 571, 572, 573, 574, 575, 576, 577, 578],
-      558
+      [588, 589, 590, 591, 592, 593, 594, 595, 596, 597, 598, 599, 600, 601],
+      587
     ],
     [
       60,
-      [579, 580, 581, 582, 583, 584, 585, 586, 587, 588, 589, 590, 591, 592, 593],
-      578
+      [602, 603, 604, 605, 606, 607, 608, 609, 610, 611, 612, 613, 614, 615, 616, 617, 618, 619, 620],
+      601
     ],
     [
       61,
-      [594, 595, 596, 597, 598, 599, 600, 601, 602, 603, 604, 605, 606, 607, 608],
-      593
+      [621, 622, 623, 624, 625, 626, 627, 628, 629, 630, 631, 632, 633, 634],
+      620
     ],
     [
       62,
-      [609, 610, 611, 612, 613, 614, 615, 616, 617, 618, 619, 620, 621, 622, 623, 624, 625],
-      608
+      [635, 636, 637, 638, 639, 640, 641],
+      634
     ],
     [
       63,
-      [626, 627, 628, 629, 630, 631, 632, 633, 634, 635],
-      625
+      [642, 643, 644, 645, 646, 647, 648, 649, 650, 651, 652, 653, 654, 655, 656, 657, 658, 659, 660, 661, 662],
+      641
     ],
     [
       64,
-      [636, 637, 638, 639, 640, 641, 642, 643],
-      635
+      [663, 664, 665, 666, 667, 668, 669, 670, 671, 672, 673, 674, 675, 676, 677, 678, 679, 680, 681, 682, 683, 684, 685, 686],
+      662
     ],
     [
       65,
-      [644, 645, 646, 647, 648, 649, 650, 651, 652, 653, 654, 655, 656, 657, 658, 659, 660, 661, 662, 663, 664],
-      643
-    ],
-    [
-      66,
-      [665, 666, 667, 668, 669, 670, 671, 672, 673, 674, 675, 676, 677, 678, 679, 680, 681, 682, 683, 684, 685, 686],
-      664
-    ],
-    [
-      67,
-      [687, 688, 689, 690, 691, 692, 693, 694, 695, 696, 697, 698, 699, 700, 701, 702, 703, 704],
+      [687, 688, 689, 690, 691, 692, 693, 694, 695, 696, 697, 698, 699, 700, 701, 702, 703, 704, 705, 706],
       686
     ],
     [
+      66,
+      [707, 708, 709, 710, 711, 712, 713, 714, 715, 716, 717, 718, 719],
+      706
+    ],
+    [
+      67,
+      [720, 721, 722, 723, 724, 725, 726, 727, 728, 729, 730, 731],
+      719
+    ],
+    [
       68,
-      [705, 706, 707, 708, 709, 710, 711, 712, 713, 714, 715, 716],
-      704
+      [732, 733, 734, 735, 736, 737, 738, 739, 740, 741, 742, 743, 744, 745, 746],
+      731
     ],
     [
       69,
-      [717, 718, 719, 720, 721, 722, 723, 724, 725, 726, 727, 728, 729, 730],
-      716
+      [747, 748, 749, 750, 751, 752, 753, 754, 755, 756, 757],
+      746
     ],
     [
       70,
-      [731, 732, 733, 734, 735, 736, 737, 738, 739, 740, 741, 742, 743, 744, 745],
-      730
+      [758, 759, 760, 761],
+      757
     ],
     [
       71,
-      [746, 747, 748, 749, 750, 751, 752, 753, 754, 755],
-      745
-    ],
-    [
-      72,
-      [756, 757, 758, 759, 760, 761],
-      755
-    ],
-    [
-      73,
-      [762, 763, 764, 765, 766, 767],
+      [762, 763, 764, 765, 766, 767, 768, 769, 770, 771, 772, 773],
       761
     ],
     [
+      72,
+      [774, 775, 776, 777, 778, 779, 780, 781, 782, 783, 784, 785, 786, 787, 788, 789, 790, 791, 792],
+      773
+    ],
+    [
+      73,
+      [793, 794, 795, 796, 797, 798, 799, 800, 801],
+      792
+    ],
+    [
       74,
-      [768, 769, 770, 771, 772, 773, 774, 775, 776, 777, 778, 779, 780, 781, 782, 783, 784],
-      767
+      [802, 803, 804, 805, 806, 807, 808, 809, 810, 811, 812, 813, 814, 815, 816, 817, 818, 819, 820, 821],
+      801
     ],
     [
       75,
-      [785, 786, 787, 788, 789, 790, 791, 792, 793, 794, 795],
-      784
+      [822, 823, 824, 825, 826, 827, 828, 829, 830, 831, 832, 833, 834, 835, 836, 837],
+      821
     ],
     [
       76,
-      [796, 797, 798, 799, 800, 801, 802, 803, 804, 805, 806, 807, 808, 809, 810, 811, 812, 813],
-      795
+      [838, 839, 840, 841, 842, 843, 844, 845, 846, 847, 848, 849, 850, 851, 852, 853, 854],
+      837
     ],
     [
       77,
-      [814, 815, 816, 817, 818, 819, 820, 821, 822, 823, 824, 825, 826, 827, 828],
-      813
+      [855, 856, 857, 858, 859, 860, 861, 862, 863, 864, 865, 866, 867, 868, 869, 870, 871, 872, 873, 874, 875],
+      854
     ],
     [
       78,
-      [829, 830, 831, 832, 833, 834, 835, 836, 837, 838, 839, 840, 841, 842, 843],
-      828
+      [876, 877, 878, 879, 880, 881, 882, 883, 884, 885, 886, 887, 888, 889],
+      875
     ],
     [
       79,
-      [844, 845, 846, 847, 848, 849, 850, 851, 852, 853, 854, 855, 856, 857, 858, 859, 860, 861, 862, 863],
-      843
+      [890, 891, 892, 893, 894, 895, 896, 897, 898, 899, 900, 901, 902, 903, 904],
+      889
     ],
     [
       80,
-      [864, 865, 866, 867, 868, 869, 870, 871, 872, 873, 874, 875, 876, 877, 878],
-      863
+      [905, 906, 907, 908, 909, 910, 911, 912, 913, 914, 915, 916, 917, 918, 919, 920],
+      904
     ],
     [
       81,
-      [879, 880, 881, 882, 883, 884, 885, 886, 887, 888, 889, 890, 891, 892, 893],
-      878
+      [921, 922, 923, 924, 925, 926, 927, 928, 929, 930, 931, 932, 933, 934, 935, 936, 937, 938],
+      920
     ],
     [
       82,
-      [894, 895, 896, 897, 898, 899, 900, 901, 902, 903, 904, 905, 906, 907, 908],
-      893
-    ],
-    [
-      83,
-      [909, 910, 911, 912, 913, 914, 915, 916, 917, 918, 919, 920, 921, 922],
-      908
-    ],
-    [
-      84,
-      [923, 924, 925, 926, 927, 928, 929, 930, 931, 932, 933, 934, 935, 936, 937, 938],
-      922
-    ],
-    [
-      85,
-      [939, 940, 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953],
+      [939, 940, 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952],
       938
     ],
     [
-      86,
-      [954, 955, 956, 957, 958, 959, 960, 961, 962, 963, 964, 965, 966, 967, 968, 969, 970, 971, 972, 973, 974, 975],
-      953
+      83,
+      [953, 954, 955, 956, 957, 958, 959, 960, 961, 962, 963, 964, 965, 966, 967, 968, 969, 970, 971, 972, 973, 974, 975],
+      952
     ],
     [
-      87,
-      [976, 977, 978, 979, 980, 981, 982, 983, 984, 985, 986, 987, 988, 989, 990, 991, 992, 993],
+      84,
+      [976, 977, 978, 979, 980, 981, 982, 983, 984, 985, 986, 987, 988, 989, 990, 991, 992, 993, 994, 995],
       975
     ],
     [
+      85,
+      [996, 997, 998, 999, 1000, 1001, 1002, 1003, 1004, 1005, 1006, 1007, 1008, 1009, 1010, 1011, 1012, 1013, 1014, 1015, 1016, 1017],
+      995
+    ],
+    [
+      86,
+      [1018, 1019, 1020, 1021, 1022, 1023, 1024, 1025, 1026, 1027, 1028, 1029, 1030, 1031, 1032, 1033, 1034, 1035, 1036, 1037, 1038, 1039, 1040, 1041, 1042, 1043, 1044, 1045, 1046, 1047, 1048, 1049, 1050],
+      1017
+    ],
+    [
+      87,
+      [1051, 1052, 1053, 1054, 1055, 1056, 1057, 1058, 1059, 1060, 1061, 1062, 1063, 1064, 1065],
+      1050
+    ],
+    [
       88,
-      [994, 995, 996, 997, 998, 999, 1000, 1001, 1002, 1003, 1004, 1005, 1006, 1007, 1008, 1009, 1010, 1011, 1012, 1013, 1014],
-      993
+      [1066, 1067, 1068, 1069, 1070, 1071, 1072, 1073, 1074, 1075, 1076, 1077, 1078, 1079, 1080, 1081, 1082],
+      1065
     ],
     [
       89,
-      [1015, 1016, 1017, 1018, 1019, 1020, 1021, 1022, 1023, 1024, 1025, 1026, 1027, 1028, 1029, 1030, 1031, 1032, 1033, 1034, 1035, 1036, 1037, 1038, 1039, 1040, 1041, 1042, 1043, 1044],
-      1014
+      [1083, 1084, 1085, 1086, 1087, 1088, 1089, 1090, 1091, 1092, 1093, 1094, 1095, 1096, 1097, 1098],
+      1082
     ],
     [
       90,
-      [1045, 1046, 1047, 1048, 1049, 1050, 1051, 1052, 1053, 1054, 1055, 1056, 1057, 1058, 1059, 1060, 1061, 1062],
-      1044
+      [1099, 1100, 1101, 1102, 1103, 1104, 1105, 1106, 1107, 1108, 1109, 1110, 1111, 1112, 1113, 1114, 1115, 1116],
+      1098
     ],
     [
       91,
-      [1063, 1064, 1065, 1066, 1067, 1068, 1069, 1070, 1071, 1072, 1073, 1074],
-      1062
+      [1117, 1118, 1119, 1120, 1121, 1122, 1123, 1124, 1125, 1126, 1127, 1128, 1129, 1130],
+      1116
     ],
     [
       92,
-      [1075, 1076, 1077, 1078, 1079, 1080, 1081, 1082, 1083, 1084, 1085, 1086, 1087, 1088, 1089, 1090, 1091],
-      1074
-    ],
-    [
-      93,
-      [1092, 1093, 1094, 1095, 1096, 1097, 1098, 1099, 1100, 1101, 1102, 1103, 1104, 1105, 1106],
-      1091
-    ],
-    [
-      94,
-      [1107, 1108, 1109, 1110, 1111, 1112, 1113, 1114, 1115, 1116, 1117, 1118, 1119, 1120, 1121],
-      1106
-    ],
-    [
-      95,
-      [1122, 1123, 1124, 1125, 1126, 1127, 1128, 1129, 1130, 1131, 1132, 1133],
-      1121
-    ],
-    [
-      96,
-      [1134, 1135, 1136, 1137, 1138, 1139],
-      1133
+      [1131, 1132, 1133, 1134, 1135, 1136, 1137, 1138, 1139],
+      1130
     ]
   ],
-  "last_ms": 96
+  "last_ms": 92
 }
