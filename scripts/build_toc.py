@@ -309,7 +309,7 @@ def load_toc(toc_fp):
 
 if __name__ == "__main__":
     corpus_folder = "/home/admin-kitab/Documents/OpenITI/RELEASE_git/RELEASE/data"
-    corpus_folder = "corpus/RELEASE/data"
+    corpus_folder = "../corpus/RELEASE_private/data"
     build_tocs_for_folder(corpus_folder, "../tocs")
     
     
