@@ -117,6 +117,7 @@ def build_toc(path, heading_re=HEADING_RE, milestone_re=MILESTONE_RE, outfp=None
 
             pipes, title = h.groups()
             level = len(pipes)
+            title = re.sub(" *ms\d+ *", " ", title).strip()
 
             section_count += 1
             section_id = section_count
@@ -308,6 +309,7 @@ def load_toc(toc_fp):
 
 if __name__ == "__main__":
     corpus_folder = "/home/admin-kitab/Documents/OpenITI/RELEASE_git/RELEASE/data"
+    corpus_folder = "corpus/RELEASE/data"
     build_tocs_for_folder(corpus_folder, "../tocs")
     
     
