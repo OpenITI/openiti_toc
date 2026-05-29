@@ -97,27 +97,27 @@
       "level": 1,
       "parent": null,
       "start_ms": 500,
-      "end_ms": 522
+      "end_ms": 521
     },
     "15": {
       "title": "AUTO [الكتاب الرابع: في القياس]",
       "level": 1,
       "parent": null,
-      "start_ms": 522,
-      "end_ms": 522
+      "start_ms": 521,
+      "end_ms": 521
     },
     "16": {
       "title": "AUTO الكتاب الرابع: في القياس",
       "level": 1,
       "parent": null,
-      "start_ms": 522,
-      "end_ms": 632
+      "start_ms": 521,
+      "end_ms": 631
     },
     "17": {
       "title": "AUTO الكتاب الخامس: في الاستدلال",
       "level": 1,
       "parent": null,
-      "start_ms": 632,
+      "start_ms": 631,
       "end_ms": 658
     },
     "18": {
@@ -125,13 +125,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 658,
-      "end_ms": 692
+      "end_ms": 691
     },
     "19": {
       "title": "AUTO الكتاب السابع: في الاجتهاد",
       "level": 1,
       "parent": null,
-      "start_ms": 692,
+      "start_ms": 691,
       "end_ms": null
     }
   },
@@ -159,7 +159,7 @@
     [
       238,
       [6],
-      5
+      null
     ],
     [
       266,
@@ -192,12 +192,12 @@
       12
     ],
     [
-      522,
+      521,
       [15, 16],
       14
     ],
     [
-      632,
+      631,
       [17],
       16
     ],
@@ -207,10 +207,10 @@
       17
     ],
     [
-      692,
+      691,
       [19],
       18
     ]
   ],
-  "last_ms": 913
+  "last_ms": 912
 }

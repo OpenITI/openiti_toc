@@ -12,11 +12,11 @@
       "title": "AUTO المقدمة",
       "level": 2,
       "parent": 1,
-      "start_ms": 2,
+      "start_ms": 3,
       "end_ms": 3
     },
     "3": {
-      "title": "AUTO المقدمة ms002",
+      "title": "AUTO المقدمة",
       "level": 2,
       "parent": 1,
       "start_ms": 3,
@@ -41,7 +41,7 @@
       "level": 2,
       "parent": 5,
       "start_ms": 8,
-      "end_ms": 90
+      "end_ms": 91
     },
     "7": {
       "title": "AUTO الفن الأول: في الإسناد",
@@ -55,27 +55,27 @@
       "level": 3,
       "parent": 6,
       "start_ms": 15,
-      "end_ms": 46
+      "end_ms": 47
     },
     "9": {
       "title": "CHECK النوع الأول: في الحذف والإثبات",
       "level": 4,
       "parent": 8,
-      "start_ms": 15,
+      "start_ms": 16,
       "end_ms": 22
     },
     "10": {
       "title": "AUTO الحذف",
       "level": 5,
       "parent": 9,
-      "start_ms": 15,
-      "end_ms": 15
+      "start_ms": 16,
+      "end_ms": 16
     },
     "11": {
       "title": "AUTO الحذف",
       "level": 5,
       "parent": 9,
-      "start_ms": 15,
+      "start_ms": 16,
       "end_ms": 20
     },
     "12": {
@@ -216,7 +216,7 @@
       "level": 4,
       "parent": 8,
       "start_ms": 34,
-      "end_ms": 46
+      "end_ms": 47
     },
     "32": {
       "title": "AUTO الوصف",
@@ -230,13 +230,13 @@
       "level": 5,
       "parent": 31,
       "start_ms": 35,
-      "end_ms": 35
+      "end_ms": 36
     },
     "34": {
       "title": "AUTO البيان",
       "level": 5,
       "parent": 31,
-      "start_ms": 35,
+      "start_ms": 36,
       "end_ms": 37
     },
     "35": {
@@ -272,27 +272,27 @@
       "level": 5,
       "parent": 31,
       "start_ms": 46,
-      "end_ms": 46
+      "end_ms": 47
     },
     "40": {
       "title": "CHECK الفن الثالث: في وضع الطرفين كل عند صاحبه",
       "level": 3,
       "parent": 6,
-      "start_ms": 46,
-      "end_ms": 76
+      "start_ms": 47,
+      "end_ms": 77
     },
     "41": {
       "title": "CHECK النوع الأول: في التقديم والتأخير",
       "level": 4,
       "parent": 40,
-      "start_ms": 46,
+      "start_ms": 47,
       "end_ms": 55
     },
     "42": {
       "title": "AUTO التقديم",
       "level": 5,
       "parent": 41,
-      "start_ms": 46,
+      "start_ms": 47,
       "end_ms": 47
     },
     "43": {
@@ -349,34 +349,34 @@
       "level": 5,
       "parent": 48,
       "start_ms": 56,
-      "end_ms": 56
+      "end_ms": 57
     },
     "51": {
       "title": "CHECK أدوات الشرط",
       "level": 5,
       "parent": 48,
-      "start_ms": 56,
-      "end_ms": 62
+      "start_ms": 57,
+      "end_ms": 63
     },
     "52": {
       "title": "AUTO تنبيهات",
       "level": 5,
       "parent": 48,
-      "start_ms": 62,
-      "end_ms": 66
+      "start_ms": 63,
+      "end_ms": 67
     },
     "53": {
       "title": "CHECK الربط بالتردد",
       "level": 5,
       "parent": 48,
-      "start_ms": 66,
-      "end_ms": 66
+      "start_ms": 67,
+      "end_ms": 67
     },
     "54": {
       "title": "AUTO أدواته)",
       "level": 5,
       "parent": 48,
-      "start_ms": 66,
+      "start_ms": 67,
       "end_ms": 68
     },
     "55": {
@@ -384,28 +384,28 @@
       "level": 4,
       "parent": 40,
       "start_ms": 68,
-      "end_ms": 76
+      "end_ms": 77
     },
     "56": {
       "title": "AUTO طرق القصر",
       "level": 5,
       "parent": 55,
       "start_ms": 70,
-      "end_ms": 75
+      "end_ms": 76
     },
     "57": {
       "title": "AUTO خاتمة",
       "level": 5,
       "parent": 55,
-      "start_ms": 75,
-      "end_ms": 76
+      "start_ms": 76,
+      "end_ms": 77
     },
     "58": {
       "title": "CHECK الفن الرابع: في وضع الجملتين، والكلام في الوصل والفصل، وفي الإيجاز والإطناب، وفي جعل إحداهما حالا",
       "level": 3,
       "parent": 6,
-      "start_ms": 76,
-      "end_ms": 90
+      "start_ms": 77,
+      "end_ms": 91
     },
     "59": {
       "title": "AUTO النوع الأول: في الفصل والوصل",
@@ -419,34 +419,34 @@
       "level": 5,
       "parent": 59,
       "start_ms": 78,
-      "end_ms": 81
+      "end_ms": 82
     },
     "61": {
       "title": "AUTO الفصل",
       "level": 5,
       "parent": 59,
-      "start_ms": 81,
-      "end_ms": 81
+      "start_ms": 82,
+      "end_ms": 82
     },
     "62": {
       "title": "AUTO الفصل",
       "level": 5,
       "parent": 59,
-      "start_ms": 81,
-      "end_ms": 81
+      "start_ms": 82,
+      "end_ms": 82
     },
     "63": {
       "title": "AUTO الفصل",
       "level": 5,
       "parent": 59,
-      "start_ms": 81,
-      "end_ms": 81
+      "start_ms": 82,
+      "end_ms": 82
     },
     "64": {
       "title": "AUTO الفصل",
       "level": 5,
       "parent": 59,
-      "start_ms": 81,
+      "start_ms": 82,
       "end_ms": 84
     },
     "65": {
@@ -460,21 +460,21 @@
       "title": "AUTO الإيجاز",
       "level": 5,
       "parent": 65,
-      "start_ms": 84,
-      "end_ms": 84
+      "start_ms": 85,
+      "end_ms": 85
     },
     "67": {
       "title": "AUTO الإيجاز",
       "level": 5,
       "parent": 65,
-      "start_ms": 84,
-      "end_ms": 84
+      "start_ms": 85,
+      "end_ms": 85
     },
     "68": {
       "title": "AUTO الإيجاز",
       "level": 5,
       "parent": 65,
-      "start_ms": 84,
+      "start_ms": 85,
       "end_ms": 85
     },
     "69": {
@@ -482,13 +482,13 @@
       "level": 5,
       "parent": 65,
       "start_ms": 85,
-      "end_ms": 85
+      "end_ms": 86
     },
     "70": {
       "title": "AUTO الإطناب",
       "level": 5,
       "parent": 65,
-      "start_ms": 85,
+      "start_ms": 86,
       "end_ms": 88
     },
     "71": {
@@ -496,13 +496,13 @@
       "level": 4,
       "parent": 58,
       "start_ms": 88,
-      "end_ms": 90
+      "end_ms": 91
     },
     "72": {
       "title": "CHECK القانون الثاني: في الطلب",
       "level": 2,
       "parent": 5,
-      "start_ms": 90,
+      "start_ms": 91,
       "end_ms": 107
     },
     "73": {
@@ -531,27 +531,27 @@
       "level": 4,
       "parent": 74,
       "start_ms": 94,
-      "end_ms": 94
+      "end_ms": 95
     },
     "77": {
       "title": "AUTO الاستفهام",
       "level": 4,
       "parent": 74,
-      "start_ms": 94,
-      "end_ms": 94
+      "start_ms": 95,
+      "end_ms": 95
     },
     "78": {
       "title": "AUTO الاستفهام",
       "level": 4,
       "parent": 74,
-      "start_ms": 94,
-      "end_ms": 101
+      "start_ms": 95,
+      "end_ms": 102
     },
     "79": {
       "title": "AUTO الأمر",
       "level": 4,
       "parent": 74,
-      "start_ms": 101,
+      "start_ms": 102,
       "end_ms": 102
     },
     "80": {
@@ -562,38 +562,38 @@
       "end_ms": 103
     },
     "81": {
-      "title": "AUTO النهي ms102",
+      "title": "AUTO النهي",
       "level": 4,
       "parent": 74,
       "start_ms": 103,
-      "end_ms": 104
+      "end_ms": 105
     },
     "82": {
       "title": "AUTO النداء",
       "level": 4,
       "parent": 74,
-      "start_ms": 104,
-      "end_ms": 104
+      "start_ms": 105,
+      "end_ms": 105
     },
     "83": {
       "title": "AUTO النداء",
       "level": 4,
       "parent": 74,
-      "start_ms": 104,
-      "end_ms": 104
+      "start_ms": 105,
+      "end_ms": 105
     },
     "84": {
       "title": "AUTO النداء",
       "level": 4,
       "parent": 74,
-      "start_ms": 104,
-      "end_ms": 104
+      "start_ms": 105,
+      "end_ms": 105
     },
     "85": {
       "title": "AUTO النداء",
       "level": 4,
       "parent": 74,
-      "start_ms": 104,
+      "start_ms": 105,
       "end_ms": 107
     },
     "86": {
@@ -607,8 +607,8 @@
       "title": "AUTO الأصل الأول: في التشبيه",
       "level": 2,
       "parent": 86,
-      "start_ms": 110,
-      "end_ms": 123
+      "start_ms": 111,
+      "end_ms": 124
     },
     "88": {
       "title": "AUTO النوع الأول: في طرفيه",
@@ -636,20 +636,20 @@
       "level": 3,
       "parent": 87,
       "start_ms": 119,
-      "end_ms": 121
+      "end_ms": 122
     },
     "92": {
       "title": "CHECK النوع الخامس: في صيغة التشبيه",
       "level": 3,
       "parent": 87,
-      "start_ms": 121,
-      "end_ms": 123
+      "start_ms": 122,
+      "end_ms": 124
     },
     "93": {
       "title": "AUTO الأصل الثاني: في المجاز",
       "level": 2,
       "parent": 86,
-      "start_ms": 123,
+      "start_ms": 124,
       "end_ms": 138
     },
     "94": {
@@ -657,13 +657,13 @@
       "level": 3,
       "parent": 93,
       "start_ms": 129,
-      "end_ms": 135
+      "end_ms": 136
     },
     "95": {
       "title": "AUTO وجوه التصرف في المعنى",
       "level": 3,
       "parent": 93,
-      "start_ms": 135,
+      "start_ms": 136,
       "end_ms": 138
     },
     "96": {
@@ -671,7 +671,7 @@
       "level": 2,
       "parent": 86,
       "start_ms": 138,
-      "end_ms": 152
+      "end_ms": 153
     },
     "97": {
       "title": "AUTO المقدمة",
@@ -720,27 +720,27 @@
       "level": 3,
       "parent": 96,
       "start_ms": 149,
-      "end_ms": 152
+      "end_ms": 153
     },
     "104": {
       "title": "AUTO الأصل الرابع: في الكناية",
       "level": 2,
       "parent": 86,
-      "start_ms": 152,
+      "start_ms": 153,
       "end_ms": null
     },
     "105": {
       "title": "CHECK أقسام الكناية",
       "level": 3,
       "parent": 104,
-      "start_ms": 153,
-      "end_ms": 155
+      "start_ms": 154,
+      "end_ms": 156
     },
     "106": {
       "title": "AUTO تذنيبات",
       "level": 3,
       "parent": 104,
-      "start_ms": 155,
+      "start_ms": 156,
       "end_ms": 158
     },
     "107": {
@@ -748,20 +748,20 @@
       "level": 3,
       "parent": 104,
       "start_ms": 158,
-      "end_ms": 159
+      "end_ms": 160
     },
     "108": {
       "title": "CHECK المحسنات المعنوية",
       "level": 3,
       "parent": 104,
-      "start_ms": 159,
-      "end_ms": 159
+      "start_ms": 160,
+      "end_ms": 160
     },
     "109": {
       "title": "CHECK أقسام علم البدبع",
       "level": 3,
       "parent": 104,
-      "start_ms": 159,
+      "start_ms": 160,
       "end_ms": 164
     },
     "110": {
@@ -776,48 +776,48 @@
       "level": 4,
       "parent": 109,
       "start_ms": 160,
-      "end_ms": 160
+      "end_ms": 161
     },
     "112": {
       "title": "AUTO المقابلة",
       "level": 4,
       "parent": 109,
-      "start_ms": 160,
-      "end_ms": 160
+      "start_ms": 161,
+      "end_ms": 161
     },
     "113": {
       "title": "AUTO المشاكلة",
       "level": 4,
       "parent": 109,
-      "start_ms": 160,
-      "end_ms": 160
+      "start_ms": 161,
+      "end_ms": 161
     },
     "114": {
       "title": "AUTO مراعاة النظير",
       "level": 4,
       "parent": 109,
-      "start_ms": 160,
-      "end_ms": 161
+      "start_ms": 161,
+      "end_ms": 162
     },
     "115": {
       "title": "AUTO المزاوجة",
       "level": 4,
       "parent": 109,
-      "start_ms": 161,
-      "end_ms": 161
+      "start_ms": 162,
+      "end_ms": 162
     },
     "116": {
       "title": "AUTO اللف والنشر",
       "level": 4,
       "parent": 109,
-      "start_ms": 161,
-      "end_ms": 161
+      "start_ms": 162,
+      "end_ms": 162
     },
     "117": {
       "title": "AUTO الجمع",
       "level": 4,
       "parent": 109,
-      "start_ms": 161,
+      "start_ms": 162,
       "end_ms": 162
     },
     "118": {
@@ -846,27 +846,27 @@
       "level": 4,
       "parent": 109,
       "start_ms": 162,
-      "end_ms": 162
+      "end_ms": 163
     },
     "122": {
       "title": "AUTO الجمع مع التقسيم",
       "level": 4,
       "parent": 109,
-      "start_ms": 162,
-      "end_ms": 162
+      "start_ms": 163,
+      "end_ms": 163
     },
     "123": {
       "title": "AUTO التقسيم مع الجمع",
       "level": 4,
       "parent": 109,
-      "start_ms": 162,
-      "end_ms": 162
+      "start_ms": 163,
+      "end_ms": 163
     },
     "124": {
       "title": "AUTO الجمع مع التفريق والتقسيم",
       "level": 4,
       "parent": 109,
-      "start_ms": 162,
+      "start_ms": 163,
       "end_ms": 163
     },
     "125": {
@@ -895,24 +895,24 @@
       "level": 4,
       "parent": 109,
       "start_ms": 163,
-      "end_ms": 163
+      "end_ms": 164
     },
     "129": {
       "title": "AUTO التجاهل",
       "level": 4,
       "parent": 109,
-      "start_ms": 163,
-      "end_ms": 163
+      "start_ms": 164,
+      "end_ms": 164
     },
     "130": {
       "title": "AUTO التجاهل",
       "level": 4,
       "parent": 109,
-      "start_ms": 163,
+      "start_ms": 164,
       "end_ms": 164
     },
     "131": {
-      "title": "AUTO التجاهل ms163",
+      "title": "AUTO التجاهل",
       "level": 4,
       "parent": 109,
       "start_ms": 164,
@@ -944,13 +944,13 @@
       "level": 4,
       "parent": 133,
       "start_ms": 166,
-      "end_ms": 166
+      "end_ms": 167
     },
     "136": {
       "title": "AUTO السجع",
       "level": 4,
       "parent": 133,
-      "start_ms": 166,
+      "start_ms": 167,
       "end_ms": 167
     },
     "137": {
@@ -975,13 +975,8 @@
       null
     ],
     [
-      2,
-      [2],
-      1
-    ],
-    [
       3,
-      [3, 4],
+      [2, 3, 4],
       null
     ],
     [
@@ -1001,8 +996,13 @@
     ],
     [
       15,
-      [8, 9, 10, 11],
+      [8],
       7
+    ],
+    [
+      16,
+      [9, 10, 11],
+      8
     ],
     [
       20,
@@ -1056,8 +1056,13 @@
     ],
     [
       35,
-      [33, 34],
+      [33],
       32
+    ],
+    [
+      36,
+      [34],
+      33
     ],
     [
       37,
@@ -1076,13 +1081,13 @@
     ],
     [
       46,
-      [39, 40, 41, 42],
+      [39],
       38
     ],
     [
       47,
-      [43, 44, 45],
-      42
+      [40, 41, 42, 43, 44, 45],
+      39
     ],
     [
       52,
@@ -1096,16 +1101,21 @@
     ],
     [
       56,
-      [49, 50, 51],
+      [49, 50],
       48
     ],
     [
-      62,
+      57,
+      [51],
+      50
+    ],
+    [
+      63,
       [52],
       51
     ],
     [
-      66,
+      67,
       [53, 54],
       52
     ],
@@ -1120,19 +1130,14 @@
       55
     ],
     [
-      75,
+      76,
       [57],
       56
     ],
     [
-      76,
-      [58],
-      57
-    ],
-    [
       77,
-      [59],
-      58
+      [58, 59],
+      57
     ],
     [
       78,
@@ -1140,19 +1145,24 @@
       59
     ],
     [
-      81,
+      82,
       [61, 62, 63, 64],
       60
     ],
     [
       84,
-      [65, 66, 67, 68],
+      [65],
       64
     ],
     [
       85,
-      [69, 70],
-      68
+      [66, 67, 68, 69],
+      65
+    ],
+    [
+      86,
+      [70],
+      69
     ],
     [
       88,
@@ -1160,7 +1170,7 @@
       70
     ],
     [
-      90,
+      91,
       [72],
       71
     ],
@@ -1171,26 +1181,26 @@
     ],
     [
       94,
-      [74, 75, 76, 77, 78],
+      [74, 75, 76],
       73
     ],
     [
-      101,
-      [79],
-      78
+      95,
+      [77, 78],
+      76
     ],
     [
       102,
-      [80],
-      79
+      [79, 80],
+      78
     ],
     [
       103,
       [81],
-      null
+      80
     ],
     [
-      104,
+      105,
       [82, 83, 84, 85],
       81
     ],
@@ -1200,14 +1210,9 @@
       85
     ],
     [
-      110,
-      [87],
-      86
-    ],
-    [
       111,
-      [88],
-      87
+      [87, 88],
+      86
     ],
     [
       112,
@@ -1225,12 +1230,12 @@
       90
     ],
     [
-      121,
+      122,
       [92],
       91
     ],
     [
-      123,
+      124,
       [93],
       92
     ],
@@ -1240,7 +1245,7 @@
       93
     ],
     [
-      135,
+      136,
       [95],
       94
     ],
@@ -1270,17 +1275,17 @@
       102
     ],
     [
-      152,
+      153,
       [104],
       103
     ],
     [
-      153,
+      154,
       [105],
       104
     ],
     [
-      155,
+      156,
       [106],
       105
     ],
@@ -1290,45 +1295,40 @@
       106
     ],
     [
-      159,
-      [108, 109],
+      160,
+      [108, 109, 110, 111],
       107
     ],
     [
-      160,
-      [110, 111, 112, 113, 114],
-      109
-    ],
-    [
       161,
-      [115, 116, 117],
-      114
-    ],
-    [
-      162,
-      [118, 119, 120, 121, 122, 123, 124],
-      117
-    ],
-    [
-      163,
-      [125, 126, 127, 128, 129, 130],
-      124
-    ],
-    [
-      164,
-      [131, 132, 133, 134],
+      [112, 113, 114],
       null
     ],
     [
+      162,
+      [115, 116, 117, 118, 119, 120, 121],
+      114
+    ],
+    [
+      163,
+      [122, 123, 124, 125, 126, 127, 128],
+      121
+    ],
+    [
+      164,
+      [129, 130, 131, 132, 133, 134],
+      128
+    ],
+    [
       166,
-      [135, 136],
+      [135],
       134
     ],
     [
       167,
-      [137, 138],
-      136
+      [136, 137, 138],
+      135
     ]
   ],
-  "last_ms": 168
+  "last_ms": 169
 }

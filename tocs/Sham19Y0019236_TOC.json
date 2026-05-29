@@ -62,13 +62,13 @@
       "level": 2,
       "parent": 2,
       "start_ms": 15,
-      "end_ms": 18
+      "end_ms": 17
     },
     "10": {
       "title": "AUTO [الواقعة جوابا لشرط جازم]",
       "level": 2,
       "parent": 2,
-      "start_ms": 18,
+      "start_ms": 17,
       "end_ms": 19
     },
     "11": {
@@ -160,20 +160,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 55,
-      "end_ms": 118
+      "end_ms": 117
     },
     "24": {
-      "title": "AUTO ما جاء على وجه واحد ms055",
+      "title": "AUTO ما جاء على وجه واحد",
       "level": 2,
       "parent": 23,
-      "start_ms": 56,
-      "end_ms": 56
+      "start_ms": 55,
+      "end_ms": 55
     },
     "25": {
       "title": "AUTO ما جاء على وجه واحد",
       "level": 2,
       "parent": 23,
-      "start_ms": 56,
+      "start_ms": 55,
       "end_ms": 59
     },
     "26": {
@@ -300,27 +300,27 @@
       "level": 3,
       "parent": 25,
       "start_ms": 58,
-      "end_ms": 59
+      "end_ms": 58
     },
     "44": {
       "title": "AUTO بلى",
       "level": 3,
       "parent": 25,
-      "start_ms": 59,
-      "end_ms": 59
+      "start_ms": 58,
+      "end_ms": 58
     },
     "45": {
       "title": "AUTO بلى",
       "level": 3,
       "parent": 25,
-      "start_ms": 59,
-      "end_ms": 59
+      "start_ms": 58,
+      "end_ms": 58
     },
     "46": {
       "title": "AUTO بلى",
       "level": 3,
       "parent": 25,
-      "start_ms": 59,
+      "start_ms": 58,
       "end_ms": 59
     },
     "47": {
@@ -363,7 +363,7 @@
       "level": 2,
       "parent": 23,
       "start_ms": 59,
-      "end_ms": 62
+      "end_ms": 61
     },
     "53": {
       "title": "AUTO إذا",
@@ -384,20 +384,20 @@
       "level": 3,
       "parent": 52,
       "start_ms": 59,
-      "end_ms": 60
+      "end_ms": 59
     },
     "56": {
       "title": "AUTO إذا",
       "level": 3,
       "parent": 52,
-      "start_ms": 60,
-      "end_ms": 60
+      "start_ms": 59,
+      "end_ms": 59
     },
     "57": {
       "title": "AUTO إذا",
       "level": 3,
       "parent": 52,
-      "start_ms": 60,
+      "start_ms": 59,
       "end_ms": 60
     },
     "58": {
@@ -433,27 +433,27 @@
       "level": 3,
       "parent": 52,
       "start_ms": 60,
-      "end_ms": 62
+      "end_ms": 61
     },
     "63": {
       "title": "AUTO ما جاء على ثلاثة أوجه",
       "level": 2,
       "parent": 23,
-      "start_ms": 62,
-      "end_ms": 62
+      "start_ms": 61,
+      "end_ms": 61
     },
     "64": {
       "title": "AUTO ما جاء على ثلاثة أوجه",
       "level": 2,
       "parent": 23,
-      "start_ms": 62,
-      "end_ms": 62
+      "start_ms": 61,
+      "end_ms": 61
     },
     "65": {
       "title": "AUTO ما جاء على ثلاثة أوجه",
       "level": 2,
       "parent": 23,
-      "start_ms": 62,
+      "start_ms": 61,
       "end_ms": 79
     },
     "66": {
@@ -573,27 +573,27 @@
       "level": 3,
       "parent": 65,
       "start_ms": 62,
-      "end_ms": 63
+      "end_ms": 62
     },
     "83": {
       "title": "AUTO (إذ)",
       "level": 3,
       "parent": 65,
-      "start_ms": 63,
-      "end_ms": 63
+      "start_ms": 62,
+      "end_ms": 62
     },
     "84": {
       "title": "AUTO (إذ",
       "level": 3,
       "parent": 65,
-      "start_ms": 63,
-      "end_ms": 63
+      "start_ms": 62,
+      "end_ms": 62
     },
     "85": {
       "title": "AUTO إذ",
       "level": 3,
       "parent": 65,
-      "start_ms": 63,
+      "start_ms": 62,
       "end_ms": 64
     },
     "86": {
@@ -699,34 +699,34 @@
       "level": 3,
       "parent": 65,
       "start_ms": 68,
-      "end_ms": 69
+      "end_ms": 68
     },
     "101": {
       "title": "AUTO حتى",
       "level": 3,
       "parent": 65,
-      "start_ms": 69,
-      "end_ms": 69
+      "start_ms": 68,
+      "end_ms": 68
     },
     "102": {
       "title": "AUTO حتى",
       "level": 3,
       "parent": 65,
-      "start_ms": 69,
-      "end_ms": 69
+      "start_ms": 68,
+      "end_ms": 68
     },
     "103": {
       "title": "AUTO حتى",
       "level": 3,
       "parent": 65,
-      "start_ms": 69,
-      "end_ms": 69
+      "start_ms": 68,
+      "end_ms": 68
     },
     "104": {
       "title": "AUTO حتى",
       "level": 3,
       "parent": 65,
-      "start_ms": 69,
+      "start_ms": 68,
       "end_ms": 69
     },
     "105": {
@@ -734,20 +734,20 @@
       "level": 3,
       "parent": 65,
       "start_ms": 69,
-      "end_ms": 75
+      "end_ms": 74
     },
     "106": {
       "title": "AUTO كلا",
       "level": 3,
       "parent": 65,
-      "start_ms": 75,
-      "end_ms": 75
+      "start_ms": 74,
+      "end_ms": 74
     },
     "107": {
       "title": "AUTO كلا",
       "level": 3,
       "parent": 65,
-      "start_ms": 75,
+      "start_ms": 74,
       "end_ms": 75
     },
     "108": {
@@ -930,48 +930,48 @@
       "level": 3,
       "parent": 65,
       "start_ms": 76,
-      "end_ms": 77
+      "end_ms": 76
     },
     "134": {
       "title": "AUTO لا",
       "level": 3,
       "parent": 65,
-      "start_ms": 77,
-      "end_ms": 77
+      "start_ms": 76,
+      "end_ms": 76
     },
     "135": {
       "title": "AUTO (لا)",
       "level": 3,
       "parent": 65,
-      "start_ms": 77,
-      "end_ms": 77
+      "start_ms": 76,
+      "end_ms": 76
     },
     "136": {
       "title": "AUTO (لا)",
       "level": 3,
       "parent": 65,
-      "start_ms": 77,
-      "end_ms": 77
+      "start_ms": 76,
+      "end_ms": 76
     },
     "137": {
       "title": "AUTO لا",
       "level": 3,
       "parent": 65,
-      "start_ms": 77,
-      "end_ms": 77
+      "start_ms": 76,
+      "end_ms": 76
     },
     "138": {
       "title": "AUTO لا",
       "level": 3,
       "parent": 65,
-      "start_ms": 77,
-      "end_ms": 77
+      "start_ms": 76,
+      "end_ms": 76
     },
     "139": {
       "title": "AUTO لا",
       "level": 3,
       "parent": 65,
-      "start_ms": 77,
+      "start_ms": 76,
       "end_ms": 77
     },
     "140": {
@@ -993,7 +993,7 @@
       "level": 2,
       "parent": 23,
       "start_ms": 79,
-      "end_ms": 92
+      "end_ms": 91
     },
     "143": {
       "title": "AUTO لولا",
@@ -1049,20 +1049,20 @@
       "level": 3,
       "parent": 142,
       "start_ms": 82,
-      "end_ms": 83
+      "end_ms": 82
     },
     "151": {
       "title": "AUTO إن",
       "level": 3,
       "parent": 142,
-      "start_ms": 83,
-      "end_ms": 83
+      "start_ms": 82,
+      "end_ms": 82
     },
     "152": {
       "title": "AUTO إن",
       "level": 3,
       "parent": 142,
-      "start_ms": 83,
+      "start_ms": 82,
       "end_ms": 85
     },
     "153": {
@@ -1161,125 +1161,125 @@
       "level": 3,
       "parent": 142,
       "start_ms": 90,
-      "end_ms": 91
+      "end_ms": 90
     },
     "167": {
       "title": "AUTO من",
       "level": 3,
       "parent": 142,
-      "start_ms": 91,
-      "end_ms": 91
+      "start_ms": 90,
+      "end_ms": 90
     },
     "168": {
       "title": "AUTO من",
       "level": 3,
       "parent": 142,
-      "start_ms": 91,
-      "end_ms": 91
+      "start_ms": 90,
+      "end_ms": 90
     },
     "169": {
       "title": "AUTO من",
       "level": 3,
       "parent": 142,
-      "start_ms": 91,
-      "end_ms": 91
+      "start_ms": 90,
+      "end_ms": 90
     },
     "170": {
       "title": "AUTO من",
       "level": 3,
       "parent": 142,
-      "start_ms": 91,
-      "end_ms": 91
+      "start_ms": 90,
+      "end_ms": 90
     },
     "171": {
       "title": "AUTO من",
       "level": 3,
       "parent": 142,
-      "start_ms": 91,
-      "end_ms": 92
+      "start_ms": 90,
+      "end_ms": 91
     },
     "172": {
       "title": "AUTO ما يأتي على خمسة أوجه",
       "level": 2,
       "parent": 23,
-      "start_ms": 92,
-      "end_ms": 92
+      "start_ms": 91,
+      "end_ms": 91
     },
     "173": {
       "title": "AUTO ما يأتي على خمسة أوجه",
       "level": 2,
       "parent": 23,
-      "start_ms": 92,
-      "end_ms": 100
+      "start_ms": 91,
+      "end_ms": 99
     },
     "174": {
       "title": "AUTO أي",
       "level": 3,
       "parent": 173,
-      "start_ms": 92,
-      "end_ms": 92
+      "start_ms": 91,
+      "end_ms": 91
     },
     "175": {
       "title": "AUTO أي",
       "level": 3,
       "parent": 173,
-      "start_ms": 92,
-      "end_ms": 92
+      "start_ms": 91,
+      "end_ms": 91
     },
     "176": {
       "title": "AUTO أي",
       "level": 3,
       "parent": 173,
-      "start_ms": 92,
-      "end_ms": 92
+      "start_ms": 91,
+      "end_ms": 91
     },
     "177": {
       "title": "AUTO أي",
       "level": 3,
       "parent": 173,
-      "start_ms": 92,
-      "end_ms": 92
+      "start_ms": 91,
+      "end_ms": 91
     },
     "178": {
       "title": "AUTO أي",
       "level": 3,
       "parent": 173,
-      "start_ms": 92,
-      "end_ms": 92
+      "start_ms": 91,
+      "end_ms": 91
     },
     "179": {
       "title": "AUTO أي",
       "level": 3,
       "parent": 173,
-      "start_ms": 92,
-      "end_ms": 92
+      "start_ms": 91,
+      "end_ms": 91
     },
     "180": {
       "title": "AUTO أي",
       "level": 3,
       "parent": 173,
-      "start_ms": 92,
-      "end_ms": 92
+      "start_ms": 91,
+      "end_ms": 91
     },
     "181": {
       "title": "AUTO أي",
       "level": 3,
       "parent": 173,
-      "start_ms": 92,
-      "end_ms": 94
+      "start_ms": 91,
+      "end_ms": 93
     },
     "182": {
       "title": "AUTO لو",
       "level": 3,
       "parent": 173,
-      "start_ms": 94,
-      "end_ms": 94
+      "start_ms": 93,
+      "end_ms": 93
     },
     "183": {
       "title": "AUTO لو",
       "level": 3,
       "parent": 173,
-      "start_ms": 94,
+      "start_ms": 93,
       "end_ms": 99
     },
     "184": {
@@ -1294,118 +1294,118 @@
       "level": 3,
       "parent": 173,
       "start_ms": 99,
-      "end_ms": 100
+      "end_ms": 99
     },
     "186": {
       "title": "AUTO ما يأتي على سبعة أوجه",
       "level": 2,
       "parent": 23,
-      "start_ms": 100,
-      "end_ms": 100
+      "start_ms": 99,
+      "end_ms": 99
     },
     "187": {
       "title": "AUTO قد",
       "level": 3,
       "parent": 186,
-      "start_ms": 100,
-      "end_ms": 100
+      "start_ms": 99,
+      "end_ms": 99
     },
     "188": {
       "title": "AUTO ما يأتي على سبعة أوجه",
       "level": 2,
       "parent": 23,
-      "start_ms": 100,
-      "end_ms": 105
+      "start_ms": 99,
+      "end_ms": 104
     },
     "189": {
       "title": "AUTO قد",
       "level": 3,
       "parent": 188,
-      "start_ms": 100,
-      "end_ms": 100
+      "start_ms": 99,
+      "end_ms": 99
     },
     "190": {
       "title": "AUTO قد",
       "level": 3,
       "parent": 188,
-      "start_ms": 100,
-      "end_ms": 100
+      "start_ms": 99,
+      "end_ms": 99
     },
     "191": {
       "title": "AUTO قد",
       "level": 3,
       "parent": 188,
-      "start_ms": 100,
-      "end_ms": 100
+      "start_ms": 99,
+      "end_ms": 99
     },
     "192": {
       "title": "AUTO [قد",
       "level": 3,
       "parent": 188,
-      "start_ms": 100,
-      "end_ms": 100
+      "start_ms": 99,
+      "end_ms": 99
     },
     "193": {
       "title": "AUTO قد",
       "level": 3,
       "parent": 188,
-      "start_ms": 100,
-      "end_ms": 100
+      "start_ms": 99,
+      "end_ms": 99
     },
     "194": {
       "title": "AUTO قد",
       "level": 3,
       "parent": 188,
-      "start_ms": 100,
-      "end_ms": 100
+      "start_ms": 99,
+      "end_ms": 99
     },
     "195": {
       "title": "AUTO قد",
       "level": 3,
       "parent": 188,
-      "start_ms": 100,
-      "end_ms": 100
+      "start_ms": 99,
+      "end_ms": 99
     },
     "196": {
       "title": "AUTO قد",
       "level": 3,
       "parent": 188,
-      "start_ms": 100,
-      "end_ms": 105
+      "start_ms": 99,
+      "end_ms": 104
     },
     "197": {
       "title": "AUTO ما يأتي على ثمانية أوجه",
       "level": 2,
       "parent": 23,
-      "start_ms": 105,
-      "end_ms": 105
+      "start_ms": 104,
+      "end_ms": 104
     },
     "198": {
       "title": "AUTO الواو",
       "level": 3,
       "parent": 197,
-      "start_ms": 105,
-      "end_ms": 105
+      "start_ms": 104,
+      "end_ms": 104
     },
     "199": {
       "title": "AUTO ما يأتي على ثمانية أوجه",
       "level": 2,
       "parent": 23,
-      "start_ms": 105,
-      "end_ms": 110
+      "start_ms": 104,
+      "end_ms": 109
     },
     "200": {
       "title": "AUTO الواو",
       "level": 3,
       "parent": 199,
-      "start_ms": 105,
-      "end_ms": 105
+      "start_ms": 104,
+      "end_ms": 104
     },
     "201": {
       "title": "AUTO الواو",
       "level": 3,
       "parent": 199,
-      "start_ms": 105,
+      "start_ms": 104,
       "end_ms": 105
     },
     "202": {
@@ -1427,83 +1427,83 @@
       "level": 3,
       "parent": 199,
       "start_ms": 105,
-      "end_ms": 110
+      "end_ms": 109
     },
     "205": {
       "title": "AUTO",
       "level": 3,
       "parent": 199,
-      "start_ms": 110,
-      "end_ms": 110
+      "start_ms": 109,
+      "end_ms": 109
     },
     "206": {
       "title": "AUTO ما",
       "level": 2,
       "parent": 23,
-      "start_ms": 110,
-      "end_ms": 110
+      "start_ms": 109,
+      "end_ms": 109
     },
     "207": {
       "title": "AUTO ما",
       "level": 3,
       "parent": 206,
-      "start_ms": 110,
-      "end_ms": 110
+      "start_ms": 109,
+      "end_ms": 109
     },
     "208": {
       "title": "AUTO",
       "level": 3,
       "parent": 206,
-      "start_ms": 110,
-      "end_ms": 110
+      "start_ms": 109,
+      "end_ms": 109
     },
     "209": {
       "title": "AUTO ما",
       "level": 2,
       "parent": 23,
-      "start_ms": 110,
-      "end_ms": 118
+      "start_ms": 109,
+      "end_ms": 117
     },
     "210": {
       "title": "AUTO (ما)",
       "level": 3,
       "parent": 209,
-      "start_ms": 110,
-      "end_ms": 110
+      "start_ms": 109,
+      "end_ms": 109
     },
     "211": {
       "title": "AUTO (ما)",
       "level": 3,
       "parent": 209,
-      "start_ms": 110,
-      "end_ms": 110
+      "start_ms": 109,
+      "end_ms": 109
     },
     "212": {
       "title": "AUTO (ما)",
       "level": 3,
       "parent": 209,
-      "start_ms": 110,
-      "end_ms": 110
+      "start_ms": 109,
+      "end_ms": 109
     },
     "213": {
       "title": "AUTO ما",
       "level": 3,
       "parent": 209,
-      "start_ms": 110,
-      "end_ms": 110
+      "start_ms": 109,
+      "end_ms": 109
     },
     "214": {
       "title": "AUTO ما",
       "level": 3,
       "parent": 209,
-      "start_ms": 110,
-      "end_ms": 110
+      "start_ms": 109,
+      "end_ms": 109
     },
     "215": {
       "title": "AUTO ما",
       "level": 3,
       "parent": 209,
-      "start_ms": 110,
+      "start_ms": 109,
       "end_ms": 110
     },
     "216": {
@@ -1539,62 +1539,62 @@
       "level": 3,
       "parent": 209,
       "start_ms": 110,
-      "end_ms": 111
+      "end_ms": 110
     },
     "221": {
       "title": "AUTO ما",
       "level": 3,
       "parent": 209,
-      "start_ms": 111,
-      "end_ms": 111
+      "start_ms": 110,
+      "end_ms": 110
     },
     "222": {
       "title": "AUTO ما",
       "level": 3,
       "parent": 209,
-      "start_ms": 111,
-      "end_ms": 118
+      "start_ms": 110,
+      "end_ms": 117
     },
     "223": {
       "title": "AUTO [الباب الرابع] [الإشارات إلى عبارات]",
       "level": 1,
       "parent": null,
-      "start_ms": 118,
+      "start_ms": 117,
       "end_ms": null
     },
     "224": {
       "title": "CHECK الفعل لم يسم فاعله",
       "level": 2,
       "parent": 223,
-      "start_ms": 118,
-      "end_ms": 118
+      "start_ms": 117,
+      "end_ms": 117
     },
     "225": {
       "title": "CHECK النائب عن الفاعل",
       "level": 2,
       "parent": 223,
-      "start_ms": 118,
-      "end_ms": 119
+      "start_ms": 117,
+      "end_ms": 118
     },
     "226": {
       "title": "CHECK لن حرف نصب ونفي استقبال",
       "level": 2,
       "parent": 223,
-      "start_ms": 119,
-      "end_ms": 119
+      "start_ms": 118,
+      "end_ms": 118
     },
     "227": {
       "title": "CHECK قد حرف تقليل زمن الماضي، وحدث المضارع",
       "level": 2,
       "parent": 223,
-      "start_ms": 119,
-      "end_ms": 120
+      "start_ms": 118,
+      "end_ms": 119
     },
     "228": {
       "title": "CHECK لم حرف جزم لنفي المضارع وقلبه ماضيا",
       "level": 2,
       "parent": 223,
-      "start_ms": 120,
+      "start_ms": 119,
       "end_ms": 120
     },
     "229": {
@@ -1602,41 +1602,41 @@
       "level": 2,
       "parent": 223,
       "start_ms": 120,
-      "end_ms": 122
+      "end_ms": 121
     },
     "230": {
       "title": "CHECK الفاء بعد الشرط، رابطة لجواب الشرط",
       "level": 2,
       "parent": 223,
-      "start_ms": 122,
-      "end_ms": 122
+      "start_ms": 121,
+      "end_ms": 121
     },
     "231": {
       "title": "CHECK أن المفتوحة حرف مصدري ينصب المضارع",
       "level": 2,
       "parent": 223,
-      "start_ms": 122,
-      "end_ms": 123
+      "start_ms": 121,
+      "end_ms": 122
     },
     "232": {
       "title": "CHECK الواو العاطفة حرف عطف لمجرد الجمع",
       "level": 2,
       "parent": 223,
-      "start_ms": 123,
-      "end_ms": 123
+      "start_ms": 122,
+      "end_ms": 122
     },
     "233": {
       "title": "CHECK فاء (فصل لربك وانحر) السببية",
       "level": 2,
       "parent": 223,
-      "start_ms": 123,
-      "end_ms": 123
+      "start_ms": 122,
+      "end_ms": 122
     },
     "234": {
       "title": "CHECK المخفوض بالإضافة أو المضاف إليه",
       "level": 2,
       "parent": 223,
-      "start_ms": 123,
+      "start_ms": 122,
       "end_ms": 123
     },
     "235": {
@@ -1651,76 +1651,76 @@
       "level": 2,
       "parent": 223,
       "start_ms": 123,
-      "end_ms": 124
+      "end_ms": 123
     },
     "237": {
       "title": "AUTO ثم حرف عطف للترتيب والمهلة",
       "level": 2,
       "parent": 223,
-      "start_ms": 124,
-      "end_ms": 124
+      "start_ms": 123,
+      "end_ms": 123
     },
     "238": {
       "title": "CHECK أن المفتوحة حرف توكيد مصدري ينصب الاسم ويرفع الخبر",
       "level": 2,
       "parent": 223,
-      "start_ms": 124,
-      "end_ms": 124
+      "start_ms": 123,
+      "end_ms": 123
     },
     "239": {
       "title": "CHECK إن المكسورة حرف توكيد",
       "level": 2,
       "parent": 223,
-      "start_ms": 124,
-      "end_ms": 124
+      "start_ms": 123,
+      "end_ms": 123
     },
     "240": {
       "title": "CHECK حرف النصب والفعل: ناصب ومنصوب",
       "level": 2,
       "parent": 223,
-      "start_ms": 124,
-      "end_ms": 124
+      "start_ms": 123,
+      "end_ms": 123
     },
     "241": {
       "title": "CHECK حرف الجر واسمه: الجار والمجرور",
       "level": 2,
       "parent": 223,
-      "start_ms": 124,
+      "start_ms": 123,
       "end_ms": 125
     },
     "242": {
       "title": "CHECK أن يذكر موصولا ولا يبين صلته",
       "level": 3,
       "parent": 241,
-      "start_ms": 125,
-      "end_ms": 125
+      "start_ms": 124,
+      "end_ms": 124
     },
     "243": {
       "title": "CHECK أن يذكر الجملة ولا يذكر ألها محل من الإعراب أم لا",
       "level": 3,
       "parent": 241,
-      "start_ms": 125,
-      "end_ms": 125
+      "start_ms": 124,
+      "end_ms": 124
     },
     "244": {
       "title": "CHECK أن يأتي بالظرف والجار والمجرور، ولا يبحث عن متعلقه",
       "level": 3,
       "parent": 241,
-      "start_ms": 125,
-      "end_ms": 125
+      "start_ms": 124,
+      "end_ms": 124
     },
     "245": {
       "title": "CHECK ذكر المبتدأ وعدم التفحص عن خبره",
       "level": 3,
       "parent": 241,
-      "start_ms": 125,
-      "end_ms": 125
+      "start_ms": 124,
+      "end_ms": 124
     },
     "246": {
       "title": "CHECK ذكر الفعل وعدم البحث عن فاعله",
       "level": 3,
       "parent": 241,
-      "start_ms": 125,
+      "start_ms": 124,
       "end_ms": 125
     },
     "247": {
@@ -1728,34 +1728,34 @@
       "level": 2,
       "parent": 223,
       "start_ms": 125,
-      "end_ms": 128
+      "end_ms": 127
     },
     "248": {
       "title": "CHECK أن يذكر اسم إشارة ولا يذكر محله",
       "level": 3,
       "parent": 247,
-      "start_ms": 126,
-      "end_ms": 126
+      "start_ms": 125,
+      "end_ms": 125
     },
     "249": {
       "title": "CHECK أن يذكر اسما موصولا ولا يذكر محله",
       "level": 3,
       "parent": 247,
-      "start_ms": 126,
-      "end_ms": 128
+      "start_ms": 125,
+      "end_ms": 127
     },
     "250": {
       "title": "CHECK [الحرف الزائد من القرآن]",
       "level": 2,
       "parent": 223,
-      "start_ms": 128,
+      "start_ms": 127,
       "end_ms": null
     },
     "251": {
       "title": "CHECK ليس في كلام الله تعالى حرف زائد",
       "level": 3,
       "parent": 250,
-      "start_ms": 128,
+      "start_ms": 127,
       "end_ms": 128
     },
     "252": {
@@ -1812,7 +1812,7 @@
       8
     ],
     [
-      18,
+      17,
       [10],
       9
     ],
@@ -1824,7 +1824,7 @@
     [
       21,
       [12, 13, 14],
-      11
+      null
     ],
     [
       25,
@@ -1849,7 +1849,7 @@
     [
       35,
       [19, 20, 21],
-      18
+      null
     ],
     [
       39,
@@ -1858,13 +1858,13 @@
     ],
     [
       55,
-      [23],
+      [23, 24, 25],
       22
     ],
     [
       56,
-      [24, 25, 26, 27, 28, 29, 30, 31],
-      null
+      [26, 27, 28, 29, 30, 31],
+      25
     ],
     [
       57,
@@ -1873,28 +1873,28 @@
     ],
     [
       58,
-      [36, 37, 38, 39, 40, 41, 42, 43],
+      [36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46],
       35
     ],
     [
       59,
-      [44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55],
-      43
+      [47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57],
+      46
     ],
     [
       60,
-      [56, 57, 58, 59, 60, 61, 62],
-      55
+      [58, 59, 60, 61, 62],
+      57
     ],
     [
-      62,
-      [63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82],
+      61,
+      [63, 64, 65],
       62
     ],
     [
-      63,
-      [83, 84, 85],
-      82
+      62,
+      [66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85],
+      65
     ],
     [
       64,
@@ -1908,28 +1908,33 @@
     ],
     [
       68,
-      [95, 96, 97, 98, 99, 100],
+      [95, 96, 97, 98, 99, 100, 101, 102, 103, 104],
       94
     ],
     [
       69,
-      [101, 102, 103, 104, 105],
-      100
+      [105],
+      104
     ],
     [
-      75,
-      [106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117],
+      74,
+      [106, 107],
       105
     ],
     [
+      75,
+      [108, 109, 110, 111, 112, 113, 114, 115, 116, 117],
+      107
+    ],
+    [
       76,
-      [118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133],
+      [118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139],
       117
     ],
     [
       77,
-      [134, 135, 136, 137, 138, 139, 140],
-      133
+      [140],
+      139
     ],
     [
       79,
@@ -1938,13 +1943,8 @@
     ],
     [
       82,
-      [145, 146, 147, 148, 149, 150],
+      [145, 146, 147, 148, 149, 150, 151, 152],
       144
-    ],
-    [
-      83,
-      [151, 152],
-      150
     ],
     [
       85,
@@ -1953,93 +1953,98 @@
     ],
     [
       90,
-      [159, 160, 161, 162, 163, 164, 165, 166],
+      [159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171],
       158
     ],
     [
       91,
-      [167, 168, 169, 170, 171],
-      166
-    ],
-    [
-      92,
       [172, 173, 174, 175, 176, 177, 178, 179, 180, 181],
       171
     ],
     [
-      94,
+      93,
       [182, 183],
       181
     ],
     [
       99,
-      [184, 185],
+      [184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196],
       183
     ],
     [
-      100,
-      [186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196],
-      185
-    ],
-    [
-      105,
-      [197, 198, 199, 200, 201, 202, 203, 204],
+      104,
+      [197, 198, 199, 200, 201],
       196
     ],
     [
-      110,
-      [205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220],
+      105,
+      [202, 203, 204],
+      201
+    ],
+    [
+      109,
+      [205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215],
       204
     ],
     [
-      111,
-      [221, 222],
-      220
+      110,
+      [216, 217, 218, 219, 220, 221, 222],
+      215
     ],
     [
-      118,
+      117,
       [223, 224, 225],
       222
     ],
     [
-      119,
+      118,
       [226, 227],
       225
     ],
     [
-      120,
-      [228, 229],
+      119,
+      [228],
       227
     ],
     [
-      122,
+      120,
+      [229],
+      228
+    ],
+    [
+      121,
       [230, 231],
       229
     ],
     [
-      123,
-      [232, 233, 234, 235, 236],
+      122,
+      [232, 233, 234],
       231
     ],
     [
-      124,
-      [237, 238, 239, 240, 241],
-      236
+      123,
+      [235, 236, 237, 238, 239, 240, 241],
+      234
     ],
     [
-      125,
-      [242, 243, 244, 245, 246, 247],
+      124,
+      [242, 243, 244, 245, 246],
       241
     ],
     [
-      126,
-      [248, 249],
-      247
+      125,
+      [247, 248, 249],
+      246
+    ],
+    [
+      127,
+      [250, 251],
+      249
     ],
     [
       128,
-      [250, 251, 252],
-      249
+      [252],
+      251
     ],
     [
       129,
@@ -2047,5 +2052,5 @@
       252
     ]
   ],
-  "last_ms": 132
+  "last_ms": 131
 }

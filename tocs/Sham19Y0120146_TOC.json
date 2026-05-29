@@ -34,48 +34,48 @@
       "level": 1,
       "parent": null,
       "start_ms": 13,
-      "end_ms": 42
+      "end_ms": 41
     },
     "6": {
       "title": "AUTO الفصل الرابع",
       "level": 1,
       "parent": null,
-      "start_ms": 42,
-      "end_ms": 66
+      "start_ms": 41,
+      "end_ms": 65
     },
     "7": {
       "title": "AUTO الفصل الخامس",
       "level": 1,
       "parent": null,
-      "start_ms": 66,
-      "end_ms": 73
+      "start_ms": 65,
+      "end_ms": 72
     },
     "8": {
       "title": "AUTO الفصل السادس",
       "level": 1,
       "parent": null,
-      "start_ms": 73,
-      "end_ms": 87
+      "start_ms": 72,
+      "end_ms": 86
     },
     "9": {
       "title": "AUTO الفصل السابع",
       "level": 1,
       "parent": null,
-      "start_ms": 87,
-      "end_ms": 98
+      "start_ms": 86,
+      "end_ms": 96
     },
     "10": {
       "title": "AUTO الفصل الثامن",
       "level": 1,
       "parent": null,
-      "start_ms": 98,
-      "end_ms": 99
+      "start_ms": 96,
+      "end_ms": 97
     },
     "11": {
       "title": "AUTO الفصل التاسع",
       "level": 1,
       "parent": null,
-      "start_ms": 99,
+      "start_ms": 97,
       "end_ms": null
     }
   },
@@ -106,35 +106,35 @@
       4
     ],
     [
-      42,
+      41,
       [6],
       5
     ],
     [
-      66,
+      65,
       [7],
       6
     ],
     [
-      73,
+      72,
       [8],
       7
     ],
     [
-      87,
+      86,
       [9],
       8
     ],
     [
-      98,
+      96,
       [10],
       9
     ],
     [
-      99,
+      97,
       [11],
       10
     ]
   ],
-  "last_ms": 107
+  "last_ms": 105
 }

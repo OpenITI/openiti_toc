@@ -167,13 +167,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 64,
-      "end_ms": 65
+      "end_ms": 64
     },
     "25": {
-      "title": "AUTO مسألة ms64",
+      "title": "AUTO مسألة",
       "level": 1,
       "parent": null,
-      "start_ms": 65,
+      "start_ms": 64,
       "end_ms": null
     }
   },
@@ -290,13 +290,8 @@
     ],
     [
       64,
-      [24],
+      [24, 25],
       23
-    ],
-    [
-      65,
-      [25],
-      null
     ]
   ],
   "last_ms": 65

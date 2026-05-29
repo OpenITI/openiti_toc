@@ -202,34 +202,34 @@
       "level": 1,
       "parent": null,
       "start_ms": 42,
-      "end_ms": 50
+      "end_ms": 49
     },
     "30": {
       "title": "AUTO ومن الناس من يقول امنا بالله وباليوم الآخر وما هم بمؤمنين",
       "level": 1,
       "parent": null,
-      "start_ms": 50,
-      "end_ms": 53
+      "start_ms": 49,
+      "end_ms": 52
     },
     "31": {
       "title": "AUTO يخادعون الله",
       "level": 1,
       "parent": null,
-      "start_ms": 53,
-      "end_ms": 59
+      "start_ms": 52,
+      "end_ms": 58
     },
     "32": {
       "title": "AUTO واذا قيل لهم لا تفسدوا",
       "level": 1,
       "parent": null,
-      "start_ms": 59,
-      "end_ms": 62
+      "start_ms": 58,
+      "end_ms": 61
     },
     "33": {
       "title": "AUTO واذا قيل لهم آمنوا",
       "level": 1,
       "parent": null,
-      "start_ms": 62,
+      "start_ms": 61,
       "end_ms": 62
     },
     "34": {
@@ -237,20 +237,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 62,
-      "end_ms": 65
+      "end_ms": 64
     },
     "35": {
       "title": "AUTO واذا لقوا الذين آمنوا",
       "level": 1,
       "parent": null,
-      "start_ms": 65,
-      "end_ms": 69
+      "start_ms": 64,
+      "end_ms": 68
     },
     "36": {
       "title": "AUTO اولئك الذين اشتروا الضلالة بالهدى فما ربحت تجارتهم وما كانوا مهتدين",
       "level": 1,
       "parent": null,
-      "start_ms": 69,
+      "start_ms": 68,
       "end_ms": 70
     },
     "37": {
@@ -272,27 +272,27 @@
       "level": 1,
       "parent": null,
       "start_ms": 99,
-      "end_ms": 115
+      "end_ms": 114
     },
     "40": {
       "title": "AUTO وإن كنتم في ريب مما نزلنا",
       "level": 1,
       "parent": null,
-      "start_ms": 115,
-      "end_ms": 138
+      "start_ms": 114,
+      "end_ms": 137
     },
     "41": {
       "title": "AUTO وبشر الذين آمنوا وعملوا الصالحات",
       "level": 1,
       "parent": null,
-      "start_ms": 138,
-      "end_ms": 147
+      "start_ms": 137,
+      "end_ms": 146
     },
     "42": {
       "title": "AUTO ان الله لا يستحيي ان يضرب مثلا",
       "level": 1,
       "parent": null,
-      "start_ms": 147,
+      "start_ms": 146,
       "end_ms": 158
     },
     "43": {
@@ -307,20 +307,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 165,
-      "end_ms": 173
+      "end_ms": 172
     },
     "45": {
       "title": "AUTO واذ قال ربك للملئكة",
       "level": 1,
       "parent": null,
-      "start_ms": 173,
-      "end_ms": 179
+      "start_ms": 172,
+      "end_ms": 178
     },
     "46": {
       "title": "AUTO وعلم ادم الاسماء كلها",
       "level": 1,
       "parent": null,
-      "start_ms": 179,
+      "start_ms": 178,
       "end_ms": null
     }
   },
@@ -371,32 +371,37 @@
       28
     ],
     [
-      50,
+      49,
       [30],
       29
     ],
     [
-      53,
+      52,
       [31],
       30
     ],
     [
-      59,
+      58,
       [32],
       31
     ],
     [
-      62,
-      [33, 34],
+      61,
+      [33],
       32
     ],
     [
-      65,
+      62,
+      [34],
+      33
+    ],
+    [
+      64,
       [35],
       34
     ],
     [
-      69,
+      68,
       [36],
       35
     ],
@@ -416,17 +421,17 @@
       38
     ],
     [
-      115,
+      114,
       [40],
       39
     ],
     [
-      138,
+      137,
       [41],
       40
     ],
     [
-      147,
+      146,
       [42],
       41
     ],
@@ -438,15 +443,15 @@
     [
       165,
       [44],
-      43
+      null
     ],
     [
-      173,
+      172,
       [45],
       44
     ],
     [
-      179,
+      178,
       [46],
       45
     ]

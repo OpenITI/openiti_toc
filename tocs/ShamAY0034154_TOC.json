@@ -41,13 +41,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 4,
-      "end_ms": 5
+      "end_ms": 4
     },
     "7": {
       "title": "AUTO [أصحاب أبي إسحاق السبيعي :]",
       "level": 1,
       "parent": null,
-      "start_ms": 5,
+      "start_ms": 4,
       "end_ms": 5
     },
     "8": {
@@ -97,13 +97,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 9,
-      "end_ms": 10
+      "end_ms": 9
     },
     "15": {
       "title": "AUTO [باب الحاء :]",
       "level": 1,
       "parent": null,
-      "start_ms": 10,
+      "start_ms": 9,
       "end_ms": 12
     },
     "16": {
@@ -118,20 +118,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 13,
-      "end_ms": 14
+      "end_ms": 13
     },
     "18": {
       "title": "CHECK [باب الراء]",
       "level": 1,
       "parent": null,
-      "start_ms": 14,
-      "end_ms": 14
+      "start_ms": 13,
+      "end_ms": 13
     },
     "19": {
       "title": "AUTO [باب الذال :]",
       "level": 1,
       "parent": null,
-      "start_ms": 14,
+      "start_ms": 13,
       "end_ms": 14
     },
     "20": {
@@ -139,13 +139,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 14,
-      "end_ms": 15
+      "end_ms": 14
     },
     "21": {
       "title": "AUTO [باب السين :]",
       "level": 1,
       "parent": null,
-      "start_ms": 15,
+      "start_ms": 14,
       "end_ms": 17
     },
     "22": {
@@ -174,41 +174,41 @@
       "level": 1,
       "parent": null,
       "start_ms": 18,
-      "end_ms": 19
+      "end_ms": 18
     },
     "26": {
       "title": "AUTO [باب العين :]",
       "level": 1,
       "parent": null,
-      "start_ms": 19,
-      "end_ms": 28
+      "start_ms": 18,
+      "end_ms": 27
     },
     "27": {
       "title": "AUTO [باب الغين:]",
       "level": 1,
       "parent": null,
-      "start_ms": 28,
-      "end_ms": 28
+      "start_ms": 27,
+      "end_ms": 27
     },
     "28": {
       "title": "AUTO [باب الفاء:]",
       "level": 1,
       "parent": null,
-      "start_ms": 28,
-      "end_ms": 28
+      "start_ms": 27,
+      "end_ms": 27
     },
     "29": {
       "title": "AUTO [باب القاف :]",
       "level": 1,
       "parent": null,
-      "start_ms": 28,
-      "end_ms": 29
+      "start_ms": 27,
+      "end_ms": 28
     },
     "30": {
       "title": "AUTO [باب الكاف :]",
       "level": 1,
       "parent": null,
-      "start_ms": 29,
+      "start_ms": 28,
       "end_ms": 29
     },
     "31": {
@@ -223,13 +223,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 32,
-      "end_ms": 33
+      "end_ms": 32
     },
     "33": {
       "title": "AUTO [باب الواو :]",
       "level": 1,
       "parent": null,
-      "start_ms": 33,
+      "start_ms": 32,
       "end_ms": 33
     },
     "34": {
@@ -237,20 +237,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 33,
-      "end_ms": 34
+      "end_ms": 33
     },
     "35": {
       "title": "AUTO [باب الياء :]",
       "level": 1,
       "parent": null,
-      "start_ms": 34,
-      "end_ms": 36
+      "start_ms": 33,
+      "end_ms": 35
     },
     "36": {
       "title": "AUTO [باب من يعرف بالكنى وغير ذلك :]",
       "level": 1,
       "parent": null,
-      "start_ms": 36,
+      "start_ms": 35,
       "end_ms": null
     }
   },
@@ -267,13 +267,13 @@
     ],
     [
       4,
-      [4, 5, 6],
+      [4, 5, 6, 7],
       3
     ],
     [
       5,
-      [7, 8, 9, 10],
-      6
+      [8, 9, 10],
+      7
     ],
     [
       6,
@@ -287,13 +287,8 @@
     ],
     [
       9,
-      [13, 14],
+      [13, 14, 15],
       12
-    ],
-    [
-      10,
-      [15],
-      14
     ],
     [
       12,
@@ -302,18 +297,13 @@
     ],
     [
       13,
-      [17],
+      [17, 18, 19],
       16
     ],
     [
       14,
-      [18, 19, 20],
-      17
-    ],
-    [
-      15,
-      [21],
-      20
+      [20, 21],
+      19
     ],
     [
       17,
@@ -322,41 +312,36 @@
     ],
     [
       18,
-      [23, 24, 25],
+      [23, 24, 25, 26],
       22
     ],
     [
-      19,
-      [26],
-      25
-    ],
-    [
-      28,
+      27,
       [27, 28, 29],
       26
     ],
     [
-      29,
-      [30, 31],
+      28,
+      [30],
       29
     ],
     [
+      29,
+      [31],
+      30
+    ],
+    [
       32,
-      [32],
+      [32, 33],
       31
     ],
     [
       33,
-      [33, 34],
-      32
+      [34, 35],
+      33
     ],
     [
-      34,
-      [35],
-      34
-    ],
-    [
-      36,
+      35,
       [36],
       35
     ]

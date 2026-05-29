@@ -83,69 +83,69 @@
       "level": 1,
       "parent": null,
       "start_ms": 41,
-      "end_ms": 52
+      "end_ms": 53
     },
     "13": {
       "title": "AUTO الفصل \"1\" (السابع)",
       "level": 1,
       "parent": null,
-      "start_ms": 52,
-      "end_ms": 63
+      "start_ms": 53,
+      "end_ms": 64
     },
     "14": {
       "title": "AUTO فهارس الكتاب \"1\"",
       "level": 1,
       "parent": null,
-      "start_ms": 63,
+      "start_ms": 64,
       "end_ms": null
     },
     "15": {
       "title": "AUTO الأعلام",
       "level": 2,
       "parent": 14,
-      "start_ms": 63,
-      "end_ms": 64
+      "start_ms": 64,
+      "end_ms": 65
     },
     "16": {
       "title": "AUTO فهرس مقابلة فقرات تلخيص كتاب الشعر لابن رشد بنصوص كتاب الشعر لأرسطو",
       "level": 2,
       "parent": 14,
-      "start_ms": 64,
-      "end_ms": 66
+      "start_ms": 65,
+      "end_ms": 65
     },
     "17": {
       "title": "AUTO قائمة مقابلة فقرات تلخيص كتاب الشعر لابن رشد بفصول كتاب",
       "level": 2,
       "parent": 14,
-      "start_ms": 66,
-      "end_ms": 66
+      "start_ms": 65,
+      "end_ms": 65
     },
     "18": {
       "title": "AUTO قائمة مقابلة فصول تلخيص كتاب الشعر لابن رشد بفصول كتاب الشعر",
       "level": 2,
       "parent": 14,
-      "start_ms": 66,
-      "end_ms": 66
+      "start_ms": 65,
+      "end_ms": 65
     },
     "19": {
       "title": "AUTO فهرس الآيات القرآنية",
       "level": 2,
       "parent": 14,
-      "start_ms": 66,
-      "end_ms": 66
+      "start_ms": 65,
+      "end_ms": 65
     },
     "20": {
       "title": "AUTO فهرس الأشعار",
       "level": 2,
       "parent": 14,
-      "start_ms": 66,
-      "end_ms": 68
+      "start_ms": 65,
+      "end_ms": 67
     },
     "21": {
       "title": "AUTO قائمة مصادر توثيق النص",
       "level": 2,
       "parent": 14,
-      "start_ms": 68,
+      "start_ms": 67,
       "end_ms": null
     }
   },
@@ -201,30 +201,25 @@
       11
     ],
     [
-      52,
+      53,
       [13],
       12
     ],
     [
-      63,
+      64,
       [14, 15],
       13
     ],
     [
-      64,
-      [16],
+      65,
+      [16, 17, 18, 19, 20],
       15
     ],
     [
-      66,
-      [17, 18, 19, 20],
-      16
-    ],
-    [
-      68,
+      67,
       [21],
       20
     ]
   ],
-  "last_ms": 77
+  "last_ms": 75
 }

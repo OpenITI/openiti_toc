@@ -27,27 +27,27 @@
       "level": 1,
       "parent": null,
       "start_ms": 1938,
-      "end_ms": 2670
+      "end_ms": 2669
     },
     "5": {
       "title": "CHECK [البحر الرائق 5-م]",
       "level": 1,
       "parent": null,
-      "start_ms": 2670,
-      "end_ms": 3251
+      "start_ms": 2669,
+      "end_ms": 3250
     },
     "6": {
       "title": "CHECK [البحر الرائق 6-م]",
       "level": 1,
       "parent": null,
-      "start_ms": 3251,
-      "end_ms": 3794
+      "start_ms": 3250,
+      "end_ms": 3792
     },
     "7": {
       "title": "CHECK [البحر الرائق 7-م]",
       "level": 1,
       "parent": null,
-      "start_ms": 3794,
+      "start_ms": 3792,
       "end_ms": null
     }
   },
@@ -73,20 +73,20 @@
       3
     ],
     [
-      2670,
+      2669,
       [5],
       4
     ],
     [
-      3251,
+      3250,
       [6],
       5
     ],
     [
-      3794,
+      3792,
       [7],
       6
     ]
   ],
-  "last_ms": 4388
+  "last_ms": 4386
 }

@@ -13,13 +13,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 4,
-      "end_ms": 25
+      "end_ms": 24
     },
     "3": {
       "title": "AUTO وفي حديث عمر بن الخطاب",
       "level": 1,
       "parent": null,
-      "start_ms": 25,
+      "start_ms": 24,
       "end_ms": 27
     },
     "4": {
@@ -62,13 +62,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 34,
-      "end_ms": 35
+      "end_ms": 34
     },
     "10": {
       "title": "CHECK وفي حديث عمرو بن العاص -رحمه الله-",
       "level": 1,
       "parent": null,
-      "start_ms": 35,
+      "start_ms": 34,
       "end_ms": 35
     },
     "11": {
@@ -76,13 +76,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 35,
-      "end_ms": 37
+      "end_ms": 36
     },
     "12": {
       "title": "CHECK وفي حديث عبد الله بن عمر -رحمه الله-",
       "level": 1,
       "parent": null,
-      "start_ms": 37,
+      "start_ms": 36,
       "end_ms": 37
     },
     "13": {
@@ -118,13 +118,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 39,
-      "end_ms": 40
+      "end_ms": 39
     },
     "18": {
       "title": "AUTO حرف في حديث",
       "level": 1,
       "parent": null,
-      "start_ms": 40,
+      "start_ms": 39,
       "end_ms": null
     }
   },
@@ -140,7 +140,7 @@
       1
     ],
     [
-      25,
+      24,
       [3],
       2
     ],
@@ -166,34 +166,34 @@
     ],
     [
       34,
-      [9],
+      [9, 10],
       8
     ],
     [
       35,
-      [10, 11],
-      9
+      [11],
+      10
+    ],
+    [
+      36,
+      [12],
+      11
     ],
     [
       37,
-      [12, 13],
-      11
+      [13],
+      12
     ],
     [
       38,
       [14, 15],
-      13
+      null
     ],
     [
       39,
-      [16, 17],
+      [16, 17, 18],
       15
-    ],
-    [
-      40,
-      [18],
-      17
     ]
   ],
-  "last_ms": 41
+  "last_ms": 40
 }

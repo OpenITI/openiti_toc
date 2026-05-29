@@ -27,13 +27,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 2,
-      "end_ms": 6
+      "end_ms": 5
     },
     "5": {
-      "title": "AUTO [2] باب فرض طلب العلم ms05 على المسلم",
+      "title": "AUTO [2] باب فرض طلب العلم على المسلم",
       "level": 1,
       "parent": null,
-      "start_ms": 6,
+      "start_ms": 5,
       "end_ms": 8
     },
     "6": {
@@ -62,20 +62,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 14,
-      "end_ms": 18
+      "end_ms": 17
     },
     "10": {
       "title": "AUTO [5] باب: ذكر تواضع العالم والمتعلم",
       "level": 1,
       "parent": null,
-      "start_ms": 18,
-      "end_ms": 20
+      "start_ms": 17,
+      "end_ms": 19
     },
     "11": {
       "title": "AUTO [6] باب: .. .. ..",
       "level": 1,
       "parent": null,
-      "start_ms": 20,
+      "start_ms": 19,
       "end_ms": 24
     },
     "12": {
@@ -98,9 +98,9 @@
       3
     ],
     [
-      6,
+      5,
       [5],
-      null
+      4
     ],
     [
       8,
@@ -118,12 +118,12 @@
       8
     ],
     [
-      18,
+      17,
       [10],
       9
     ],
     [
-      20,
+      19,
       [11],
       10
     ],

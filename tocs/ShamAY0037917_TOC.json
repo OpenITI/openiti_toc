@@ -55,13 +55,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 10,
-      "end_ms": 11
+      "end_ms": 10
     },
     "9": {
       "title": "AUTO قافية القاف",
       "level": 1,
       "parent": null,
-      "start_ms": 11,
+      "start_ms": 10,
       "end_ms": 12
     },
     "10": {
@@ -109,13 +109,8 @@
     ],
     [
       10,
-      [8],
+      [8, 9],
       7
-    ],
-    [
-      11,
-      [9],
-      8
     ],
     [
       12,

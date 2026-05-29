@@ -27,13 +27,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 32,
-      "end_ms": 54
+      "end_ms": 53
     },
     "5": {
       "title": "AUTO فصل",
       "level": 1,
       "parent": null,
-      "start_ms": 54,
+      "start_ms": 53,
       "end_ms": 74
     },
     "6": {
@@ -55,20 +55,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 78,
-      "end_ms": 79
+      "end_ms": 78
     },
     "9": {
       "title": "AUTO فصل",
       "level": 1,
       "parent": null,
-      "start_ms": 79,
-      "end_ms": 83
+      "start_ms": 78,
+      "end_ms": 82
     },
     "10": {
       "title": "AUTO فصل",
       "level": 1,
       "parent": null,
-      "start_ms": 83,
+      "start_ms": 82,
       "end_ms": 93
     },
     "11": {
@@ -76,20 +76,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 93,
-      "end_ms": 96
+      "end_ms": 95
     },
     "12": {
       "title": "CHECK (فصل) وأما يوسف الصديق الكريم - صلى الله عليه وسلم -",
       "level": 1,
       "parent": null,
-      "start_ms": 96,
-      "end_ms": 110
+      "start_ms": 95,
+      "end_ms": 109
     },
     "13": {
       "title": "CHECK (فصل) فإن قيل: إن يحيى بن زكريا عليهما الصلاة والسلام أوتي الحكم صبيا",
       "level": 1,
       "parent": null,
-      "start_ms": 110,
+      "start_ms": 109,
       "end_ms": 112
     },
     "14": {
@@ -153,13 +153,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 131,
-      "end_ms": 132
+      "end_ms": 131
     },
     "23": {
       "title": "AUTO فصل",
       "level": 1,
       "parent": null,
-      "start_ms": 132,
+      "start_ms": 131,
       "end_ms": 132
     },
     "24": {
@@ -174,20 +174,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 155,
-      "end_ms": 157
+      "end_ms": 156
     },
     "26": {
       "title": "AUTO فصل",
       "level": 1,
       "parent": null,
-      "start_ms": 157,
-      "end_ms": 164
+      "start_ms": 156,
+      "end_ms": 163
     },
     "27": {
       "title": "AUTO فصل جامع لمقاصد الكتاب",
       "level": 1,
       "parent": null,
-      "start_ms": 164,
+      "start_ms": 163,
       "end_ms": 164
     },
     "28": {
@@ -195,13 +195,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 164,
-      "end_ms": 167
+      "end_ms": 166
     },
     "29": {
       "title": "AUTO فصل",
       "level": 1,
       "parent": null,
-      "start_ms": 167,
+      "start_ms": 166,
       "end_ms": 172
     },
     "30": {
@@ -216,13 +216,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 173,
-      "end_ms": 180
+      "end_ms": 179
     },
     "32": {
       "title": "CHECK (فصل) ومن خصائصه - صلى الله عليه وسلم - في ذكر اسمه والصلاة عليه",
       "level": 1,
       "parent": null,
-      "start_ms": 180,
+      "start_ms": 179,
       "end_ms": 180
     },
     "33": {
@@ -255,7 +255,7 @@
       3
     ],
     [
-      54,
+      53,
       [5],
       4
     ],
@@ -271,16 +271,11 @@
     ],
     [
       78,
-      [8],
+      [8, 9],
       7
     ],
     [
-      79,
-      [9],
-      8
-    ],
-    [
-      83,
+      82,
       [10],
       9
     ],
@@ -290,12 +285,12 @@
       10
     ],
     [
-      96,
+      95,
       [12],
       11
     ],
     [
-      110,
+      109,
       [13],
       12
     ],
@@ -331,13 +326,13 @@
     ],
     [
       131,
-      [22],
+      [22, 23],
       21
     ],
     [
       132,
-      [23, 24],
-      22
+      [24],
+      23
     ],
     [
       155,
@@ -345,17 +340,22 @@
       24
     ],
     [
-      157,
+      156,
       [26],
       25
     ],
     [
-      164,
-      [27, 28],
+      163,
+      [27],
       26
     ],
     [
-      167,
+      164,
+      [28],
+      27
+    ],
+    [
+      166,
       [29],
       28
     ],
@@ -370,10 +370,15 @@
       30
     ],
     [
-      180,
-      [32, 33],
+      179,
+      [32],
       31
+    ],
+    [
+      180,
+      [33],
+      32
     ]
   ],
-  "last_ms": 188
+  "last_ms": 187
 }

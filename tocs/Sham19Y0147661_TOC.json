@@ -5,7 +5,7 @@
       "title": "CHECK مقدمة المصنف",
       "level": 1,
       "parent": null,
-      "start_ms": 6,
+      "start_ms": 5,
       "end_ms": 6
     },
     "2": {
@@ -20,13 +20,13 @@
       "level": 2,
       "parent": 2,
       "start_ms": 6,
-      "end_ms": 7
+      "end_ms": 6
     },
     "4": {
       "title": "AUTO فصل",
       "level": 2,
       "parent": 2,
-      "start_ms": 7,
+      "start_ms": 6,
       "end_ms": 7
     },
     "5": {
@@ -83,13 +83,13 @@
       "level": 2,
       "parent": 2,
       "start_ms": 9,
-      "end_ms": 10
+      "end_ms": 9
     },
     "13": {
       "title": "AUTO فصل",
       "level": 2,
       "parent": 2,
-      "start_ms": 10,
+      "start_ms": 9,
       "end_ms": 10
     },
     "14": {
@@ -167,13 +167,13 @@
       "level": 2,
       "parent": 14,
       "start_ms": 14,
-      "end_ms": 15
+      "end_ms": 14
     },
     "25": {
       "title": "AUTO فصل",
       "level": 2,
       "parent": 14,
-      "start_ms": 15,
+      "start_ms": 14,
       "end_ms": 15
     },
     "26": {
@@ -195,13 +195,13 @@
       "level": 2,
       "parent": 14,
       "start_ms": 16,
-      "end_ms": 17
+      "end_ms": 16
     },
     "29": {
       "title": "AUTO فصل",
       "level": 2,
       "parent": 14,
-      "start_ms": 17,
+      "start_ms": 16,
       "end_ms": 17
     },
     "30": {
@@ -216,13 +216,13 @@
       "level": 2,
       "parent": 14,
       "start_ms": 17,
-      "end_ms": 18
+      "end_ms": 17
     },
     "32": {
       "title": "CHECK فصل - تسن صلاة الاستسقاء إذا أجدبت الأرض",
       "level": 2,
       "parent": 14,
-      "start_ms": 18,
+      "start_ms": 17,
       "end_ms": 18
     },
     "33": {
@@ -230,13 +230,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 18,
-      "end_ms": 21
+      "end_ms": 20
     },
     "34": {
       "title": "AUTO فصل",
       "level": 2,
       "parent": 33,
-      "start_ms": 19,
+      "start_ms": 18,
       "end_ms": 19
     },
     "35": {
@@ -244,13 +244,13 @@
       "level": 2,
       "parent": 33,
       "start_ms": 19,
-      "end_ms": 20
+      "end_ms": 19
     },
     "36": {
       "title": "AUTO فصل",
       "level": 2,
       "parent": 33,
-      "start_ms": 20,
+      "start_ms": 19,
       "end_ms": 20
     },
     "37": {
@@ -265,14 +265,14 @@
       "level": 2,
       "parent": 33,
       "start_ms": 20,
-      "end_ms": 21
+      "end_ms": 20
     },
     "39": {
       "title": "AUTO كتاب الزكاة",
       "level": 1,
       "parent": null,
-      "start_ms": 21,
-      "end_ms": 24
+      "start_ms": 20,
+      "end_ms": 23
     },
     "40": {
       "title": "AUTO فصل",
@@ -293,13 +293,13 @@
       "level": 2,
       "parent": 39,
       "start_ms": 22,
-      "end_ms": 23
+      "end_ms": 22
     },
     "43": {
       "title": "AUTO فصل",
       "level": 2,
       "parent": 39,
-      "start_ms": 23,
+      "start_ms": 22,
       "end_ms": 23
     },
     "44": {
@@ -314,13 +314,13 @@
       "level": 2,
       "parent": 39,
       "start_ms": 23,
-      "end_ms": 24
+      "end_ms": 23
     },
     "46": {
       "title": "AUTO كتاب الصيام",
       "level": 1,
       "parent": null,
-      "start_ms": 24,
+      "start_ms": 23,
       "end_ms": 27
     },
     "47": {
@@ -328,13 +328,13 @@
       "level": 2,
       "parent": 46,
       "start_ms": 24,
-      "end_ms": 25
+      "end_ms": 24
     },
     "48": {
       "title": "AUTO فصل",
       "level": 2,
       "parent": 46,
-      "start_ms": 25,
+      "start_ms": 24,
       "end_ms": 25
     },
     "49": {
@@ -342,13 +342,13 @@
       "level": 2,
       "parent": 46,
       "start_ms": 25,
-      "end_ms": 26
+      "end_ms": 25
     },
     "50": {
       "title": "AUTO فصل",
       "level": 2,
       "parent": 46,
-      "start_ms": 26,
+      "start_ms": 25,
       "end_ms": 26
     },
     "51": {
@@ -370,13 +370,13 @@
       "level": 2,
       "parent": 52,
       "start_ms": 27,
-      "end_ms": 28
+      "end_ms": 27
     },
     "54": {
       "title": "AUTO فصل",
       "level": 2,
       "parent": 52,
-      "start_ms": 28,
+      "start_ms": 27,
       "end_ms": 28
     },
     "55": {
@@ -391,13 +391,13 @@
       "level": 2,
       "parent": 52,
       "start_ms": 28,
-      "end_ms": 29
+      "end_ms": 28
     },
     "57": {
       "title": "AUTO فصل في جزاء الصيد",
       "level": 2,
       "parent": 52,
-      "start_ms": 29,
+      "start_ms": 28,
       "end_ms": 29
     },
     "58": {
@@ -440,13 +440,13 @@
       "level": 2,
       "parent": 52,
       "start_ms": 32,
-      "end_ms": 33
+      "end_ms": 32
     },
     "64": {
       "title": "AUTO فصل",
       "level": 2,
       "parent": 52,
-      "start_ms": 33,
+      "start_ms": 32,
       "end_ms": 33
     },
     "65": {
@@ -457,17 +457,17 @@
       "end_ms": null
     },
     "66": {
-      "title": "AUTO ms33 فصل",
+      "title": "AUTO فصل",
       "level": 2,
       "parent": 65,
-      "start_ms": 34,
-      "end_ms": 34
+      "start_ms": 33,
+      "end_ms": 33
     },
     "67": {
       "title": "AUTO فصل",
       "level": 2,
       "parent": 65,
-      "start_ms": 34,
+      "start_ms": 33,
       "end_ms": 34
     },
     "68": {
@@ -475,26 +475,31 @@
       "level": 2,
       "parent": 65,
       "start_ms": 34,
-      "end_ms": 35
+      "end_ms": 34
     },
     "69": {
       "title": "AUTO فصل",
       "level": 2,
       "parent": 65,
-      "start_ms": 35,
+      "start_ms": 34,
       "end_ms": null
     }
   },
   "starts": [
     [
-      6,
-      [1, 2, 3],
+      5,
+      [1],
       null
     ],
     [
+      6,
+      [2, 3, 4],
+      1
+    ],
+    [
       7,
-      [4, 5, 6, 7],
-      3
+      [5, 6, 7],
+      4
     ],
     [
       8,
@@ -503,13 +508,13 @@
     ],
     [
       9,
-      [11, 12],
+      [11, 12, 13],
       10
     ],
     [
       10,
-      [13, 14, 15, 16],
-      12
+      [14, 15, 16],
+      13
     ],
     [
       11,
@@ -528,83 +533,83 @@
     ],
     [
       14,
-      [22, 23, 24],
+      [22, 23, 24, 25],
       21
     ],
     [
       15,
-      [25, 26, 27],
-      24
+      [26, 27],
+      25
     ],
     [
       16,
-      [28],
+      [28, 29],
       27
     ],
     [
       17,
-      [29, 30, 31],
-      28
+      [30, 31, 32],
+      29
     ],
     [
       18,
-      [32, 33],
-      31
+      [33, 34],
+      32
     ],
     [
       19,
-      [34, 35],
-      33
+      [35, 36],
+      34
     ],
     [
       20,
-      [36, 37, 38],
-      35
+      [37, 38, 39],
+      36
     ],
     [
       21,
-      [39, 40, 41],
-      38
+      [40, 41],
+      39
     ],
     [
       22,
-      [42],
+      [42, 43],
       41
     ],
     [
       23,
-      [43, 44, 45],
-      42
+      [44, 45, 46],
+      43
     ],
     [
       24,
-      [46, 47],
-      45
+      [47, 48],
+      46
     ],
     [
       25,
-      [48, 49],
-      47
+      [49, 50],
+      48
     ],
     [
       26,
-      [50, 51],
-      49
+      [51],
+      50
     ],
     [
       27,
-      [52, 53],
-      51
+      [52, 53, 54],
+      null
     ],
     [
       28,
-      [54, 55, 56],
-      53
+      [55, 56, 57],
+      54
     ],
     [
       29,
-      [57, 58],
-      56
+      [58],
+      57
     ],
     [
       30,
@@ -618,24 +623,19 @@
     ],
     [
       32,
-      [62, 63],
+      [62, 63, 64],
       61
     ],
     [
       33,
-      [64, 65],
-      63
+      [65, 66, 67],
+      64
     ],
     [
       34,
-      [66, 67, 68],
-      null
-    ],
-    [
-      35,
-      [69],
-      68
+      [68, 69],
+      67
     ]
   ],
-  "last_ms": 49
+  "last_ms": 48
 }

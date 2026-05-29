@@ -48,13 +48,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 9,
-      "end_ms": 10
+      "end_ms": 9
     },
     "8": {
       "title": "باب حمد الصمت وذم المنطق",
       "level": 1,
       "parent": null,
-      "start_ms": 10,
+      "start_ms": 9,
       "end_ms": 12
     },
     "9": {
@@ -69,20 +69,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 13,
-      "end_ms": 14
+      "end_ms": 13
     },
     "11": {
       "title": "باب الأجوبة المسكتة وحسن البديهة",
       "level": 1,
       "parent": null,
-      "start_ms": 14,
-      "end_ms": 15
+      "start_ms": 13,
+      "end_ms": 14
     },
     "12": {
       "title": "باب الأدب",
       "level": 1,
       "parent": null,
-      "start_ms": 15,
+      "start_ms": 14,
       "end_ms": 15
     },
     "13": {
@@ -90,27 +90,27 @@
       "level": 1,
       "parent": null,
       "start_ms": 15,
-      "end_ms": 16
+      "end_ms": 15
     },
     "14": {
       "title": "باب ذم الخلاف ومدح المساعدة",
       "level": 1,
       "parent": null,
-      "start_ms": 16,
-      "end_ms": 17
+      "start_ms": 15,
+      "end_ms": 16
     },
     "15": {
       "title": "باب العفو والتجاوز وكظم الغيظ",
       "level": 1,
       "parent": null,
-      "start_ms": 17,
-      "end_ms": 18
+      "start_ms": 16,
+      "end_ms": 17
     },
     "16": {
       "title": "باب الغضب",
       "level": 1,
       "parent": null,
-      "start_ms": 18,
+      "start_ms": 17,
       "end_ms": null
     }
   },
@@ -142,13 +142,8 @@
     ],
     [
       9,
-      [7],
+      [7, 8],
       6
-    ],
-    [
-      10,
-      [8],
-      7
     ],
     [
       12,
@@ -157,34 +152,29 @@
     ],
     [
       13,
-      [10],
+      [10, 11],
       9
     ],
     [
       14,
-      [11],
-      10
-    ],
-    [
-      15,
-      [12, 13],
+      [12],
       11
     ],
     [
-      16,
-      [14],
-      13
+      15,
+      [13, 14],
+      12
     ],
     [
-      17,
+      16,
       [15],
       14
     ],
     [
-      18,
+      17,
       [16],
       15
     ]
   ],
-  "last_ms": 18
+  "last_ms": 17
 }

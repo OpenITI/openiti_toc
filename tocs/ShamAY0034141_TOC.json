@@ -118,13 +118,13 @@
       "level": 2,
       "parent": 13,
       "start_ms": 257,
-      "end_ms": 272
+      "end_ms": 271
     },
     "18": {
       "title": "AUTO باب الزاء.",
       "level": 2,
       "parent": 13,
-      "start_ms": 272,
+      "start_ms": 271,
       "end_ms": 294
     },
     "19": {
@@ -153,13 +153,13 @@
       "level": 2,
       "parent": 20,
       "start_ms": 375,
-      "end_ms": 391
+      "end_ms": 390
     },
     "23": {
       "title": "AUTO باب الضاد.",
       "level": 2,
       "parent": 20,
-      "start_ms": 391,
+      "start_ms": 390,
       "end_ms": 394
     },
     "24": {
@@ -209,13 +209,13 @@
       "level": 2,
       "parent": 20,
       "start_ms": 531,
-      "end_ms": 534
+      "end_ms": 533
     },
     "31": {
       "title": "AUTO باب عبد الكريم.",
       "level": 2,
       "parent": 20,
-      "start_ms": 534,
+      "start_ms": 533,
       "end_ms": 536
     },
     "32": {
@@ -230,13 +230,13 @@
       "level": 2,
       "parent": 20,
       "start_ms": 539,
-      "end_ms": 543
+      "end_ms": 542
     },
     "34": {
-      "title": "AUTO باب عبد ms0542 الرحيم.",
+      "title": "AUTO باب عبد الرحيم.",
       "level": 2,
       "parent": 20,
-      "start_ms": 543,
+      "start_ms": 542,
       "end_ms": 545
     },
     "35": {
@@ -258,13 +258,13 @@
       "level": 2,
       "parent": 35,
       "start_ms": 546,
-      "end_ms": 550
+      "end_ms": 549
     },
     "38": {
       "title": "AUTO - باب عبد المؤمن.",
       "level": 2,
       "parent": 35,
-      "start_ms": 550,
+      "start_ms": 549,
       "end_ms": 583
     },
     "39": {
@@ -335,13 +335,13 @@
       "level": 2,
       "parent": 43,
       "start_ms": 775,
-      "end_ms": 779
+      "end_ms": 778
     },
     "49": {
       "title": "AUTO باب الميم",
       "level": 2,
       "parent": 43,
-      "start_ms": 779,
+      "start_ms": 778,
       "end_ms": 876
     },
     "50": {
@@ -349,20 +349,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 876,
-      "end_ms": 1029
+      "end_ms": 1028
     },
     "51": {
       "title": "AUTO باب النون",
       "level": 2,
       "parent": 50,
       "start_ms": 923,
-      "end_ms": 945
+      "end_ms": 944
     },
     "52": {
       "title": "AUTO باب الواو",
       "level": 2,
       "parent": 50,
-      "start_ms": 945,
+      "start_ms": 944,
       "end_ms": 955
     },
     "53": {
@@ -384,13 +384,13 @@
       "level": 2,
       "parent": 50,
       "start_ms": 976,
-      "end_ms": 1029
+      "end_ms": 1028
     },
     "56": {
-      "title": "AUTO التراجم الزائدة من نسخة ms1028 (ش)",
+      "title": "AUTO التراجم الزائدة من نسخة (ش)",
       "level": 1,
       "parent": null,
-      "start_ms": 1029,
+      "start_ms": 1028,
       "end_ms": null
     }
   },
@@ -476,7 +476,7 @@
       16
     ],
     [
-      272,
+      271,
       [18],
       17
     ],
@@ -501,7 +501,7 @@
       21
     ],
     [
-      391,
+      390,
       [23],
       22
     ],
@@ -541,7 +541,7 @@
       29
     ],
     [
-      534,
+      533,
       [31],
       30
     ],
@@ -556,9 +556,9 @@
       32
     ],
     [
-      543,
+      542,
       [34],
-      null
+      33
     ],
     [
       545,
@@ -571,7 +571,7 @@
       36
     ],
     [
-      550,
+      549,
       [38],
       37
     ],
@@ -626,7 +626,7 @@
       47
     ],
     [
-      779,
+      778,
       [49],
       48
     ],
@@ -641,7 +641,7 @@
       50
     ],
     [
-      945,
+      944,
       [52],
       51
     ],
@@ -656,10 +656,10 @@
       53
     ],
     [
-      1029,
+      1028,
       [56],
-      null
+      55
     ]
   ],
-  "last_ms": 1045
+  "last_ms": 1044
 }

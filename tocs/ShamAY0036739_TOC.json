@@ -244,13 +244,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 65,
-      "end_ms": 66
+      "end_ms": 65
     },
     "36": {
       "title": "AUTO ومن سورة يس",
       "level": 1,
       "parent": null,
-      "start_ms": 66,
+      "start_ms": 65,
       "end_ms": 67
     },
     "37": {
@@ -300,13 +300,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 77,
-      "end_ms": 79
+      "end_ms": 78
     },
     "44": {
-      "title": "AUTO ومن سورة حم ms078 الدخان",
+      "title": "AUTO ومن سورة حم الدخان",
       "level": 1,
       "parent": null,
-      "start_ms": 79,
+      "start_ms": 78,
       "end_ms": 79
     },
     "45": {
@@ -328,13 +328,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 81,
-      "end_ms": 82
+      "end_ms": 81
     },
     "48": {
       "title": "AUTO ومن سورة الفتح",
       "level": 1,
       "parent": null,
-      "start_ms": 82,
+      "start_ms": 81,
       "end_ms": 83
     },
     "49": {
@@ -356,20 +356,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 85,
-      "end_ms": 86
+      "end_ms": 85
     },
     "52": {
       "title": "AUTO ومن سورة النجم",
       "level": 1,
       "parent": null,
-      "start_ms": 86,
-      "end_ms": 87
+      "start_ms": 85,
+      "end_ms": 86
     },
     "53": {
       "title": "AUTO ومن سورة القمر",
       "level": 1,
       "parent": null,
-      "start_ms": 87,
+      "start_ms": 86,
       "end_ms": 87
     },
     "54": {
@@ -398,13 +398,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 88,
-      "end_ms": 90
+      "end_ms": 89
     },
     "58": {
       "title": "AUTO ومن سورة الحشر",
       "level": 1,
       "parent": null,
-      "start_ms": 90,
+      "start_ms": 89,
       "end_ms": 90
     },
     "59": {
@@ -419,13 +419,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 91,
-      "end_ms": 92
+      "end_ms": 91
     },
     "61": {
-      "title": "AUTO ومن ms091 سورة الجمعة",
+      "title": "AUTO ومن سورة الجمعة",
       "level": 1,
       "parent": null,
-      "start_ms": 92,
+      "start_ms": 91,
       "end_ms": 92
     },
     "62": {
@@ -447,20 +447,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 92,
-      "end_ms": 93
+      "end_ms": 92
     },
     "65": {
       "title": "AUTO ومن سورة التحريم",
       "level": 1,
       "parent": null,
-      "start_ms": 93,
-      "end_ms": 94
+      "start_ms": 92,
+      "end_ms": 93
     },
     "66": {
       "title": "AUTO ومن سورة الملك",
       "level": 1,
       "parent": null,
-      "start_ms": 94,
+      "start_ms": 93,
       "end_ms": 94
     },
     "67": {
@@ -524,13 +524,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 97,
-      "end_ms": 98
+      "end_ms": 97
     },
     "76": {
       "title": "AUTO ومن سورة المرسلات",
       "level": 1,
       "parent": null,
-      "start_ms": 98,
+      "start_ms": 97,
       "end_ms": 98
     },
     "77": {
@@ -552,13 +552,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 99,
-      "end_ms": 100
+      "end_ms": 99
     },
     "80": {
-      "title": "AUTO ms099 ومن سورة التكوير",
+      "title": "AUTO ومن سورة التكوير",
       "level": 1,
       "parent": null,
-      "start_ms": 100,
+      "start_ms": 99,
       "end_ms": 100
     },
     "81": {
@@ -580,13 +580,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 101,
-      "end_ms": 102
+      "end_ms": 101
     },
     "84": {
       "title": "AUTO ومن سورة الفجر",
       "level": 1,
       "parent": null,
-      "start_ms": 102,
+      "start_ms": 101,
       "end_ms": 102
     },
     "85": {
@@ -608,13 +608,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 103,
-      "end_ms": 104
+      "end_ms": 103
     },
     "88": {
       "title": "AUTO ومن سورة اقرأ والقدر ولم يكن وزلزلت",
       "level": 1,
       "parent": null,
-      "start_ms": 104,
+      "start_ms": 103,
       "end_ms": 104
     },
     "89": {
@@ -629,13 +629,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 105,
-      "end_ms": 106
+      "end_ms": 105
     },
     "91": {
       "title": "AUTO ومن سورة النصر إلى الناس",
       "level": 1,
       "parent": null,
-      "start_ms": 106,
+      "start_ms": 105,
       "end_ms": null
     }
   },
@@ -703,7 +703,7 @@
     [
       26,
       [16],
-      15
+      null
     ],
     [
       27,
@@ -797,13 +797,8 @@
     ],
     [
       65,
-      [35],
+      [35, 36],
       34
-    ],
-    [
-      66,
-      [36],
-      35
     ],
     [
       67,
@@ -841,9 +836,14 @@
       42
     ],
     [
+      78,
+      [44],
+      43
+    ],
+    [
       79,
-      [44, 45],
-      null
+      [45],
+      44
     ],
     [
       80,
@@ -852,13 +852,8 @@
     ],
     [
       81,
-      [47],
+      [47, 48],
       46
-    ],
-    [
-      82,
-      [48],
-      47
     ],
     [
       83,
@@ -867,18 +862,18 @@
     ],
     [
       85,
-      [50, 51],
+      [50, 51, 52],
       49
     ],
     [
       86,
-      [52],
-      51
+      [53],
+      52
     ],
     [
       87,
-      [53, 54, 55],
-      52
+      [54, 55],
+      53
     ],
     [
       88,
@@ -886,29 +881,34 @@
       55
     ],
     [
-      90,
-      [58, 59],
+      89,
+      [58],
       57
     ],
     [
+      90,
+      [59],
+      58
+    ],
+    [
       91,
-      [60],
+      [60, 61],
       59
     ],
     [
       92,
-      [61, 62, 63, 64],
-      null
+      [62, 63, 64, 65],
+      61
     ],
     [
       93,
-      [65],
-      64
+      [66],
+      65
     ],
     [
       94,
-      [66, 67, 68],
-      65
+      [67, 68],
+      66
     ],
     [
       95,
@@ -922,54 +922,49 @@
     ],
     [
       97,
-      [74, 75],
+      [74, 75, 76],
       73
     ],
     [
       98,
-      [76, 77, 78],
-      75
+      [77, 78],
+      76
     ],
     [
       99,
-      [79],
+      [79, 80],
       78
     ],
     [
       100,
-      [80, 81, 82],
-      null
+      [81, 82],
+      80
     ],
     [
       101,
-      [83],
+      [83, 84],
       82
     ],
     [
       102,
-      [84, 85],
-      83
+      [85],
+      84
     ],
     [
       103,
-      [86, 87],
+      [86, 87, 88],
       85
     ],
     [
       104,
-      [88, 89],
-      87
+      [89],
+      88
     ],
     [
       105,
-      [90],
-      89
-    ],
-    [
-      106,
-      [91],
-      90
+      [90, 91],
+      null
     ]
   ],
-  "last_ms": 107
+  "last_ms": 106
 }

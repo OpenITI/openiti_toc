@@ -146,13 +146,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 22,
-      "end_ms": 23
+      "end_ms": 22
     },
     "22": {
       "title": "AUTO دخول وقت العصر على صلاة الجمعة",
       "level": 1,
       "parent": null,
-      "start_ms": 23,
+      "start_ms": 22,
       "end_ms": 23
     },
     "23": {
@@ -202,27 +202,27 @@
       "level": 1,
       "parent": null,
       "start_ms": 29,
-      "end_ms": 30
+      "end_ms": 29
     },
     "30": {
       "title": "AUTO الصلاة في مراح الغنم",
       "level": 1,
       "parent": null,
-      "start_ms": 30,
-      "end_ms": 30
+      "start_ms": 29,
+      "end_ms": 29
     },
     "31": {
       "title": "AUTO الصلاة في مراح الغنم",
       "level": 1,
       "parent": null,
-      "start_ms": 30,
-      "end_ms": 32
+      "start_ms": 29,
+      "end_ms": 31
     },
     "32": {
       "title": "AUTO تطهير المكان من البول",
       "level": 1,
       "parent": null,
-      "start_ms": 32,
+      "start_ms": 31,
       "end_ms": 32
     },
     "33": {
@@ -230,20 +230,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 32,
-      "end_ms": 33
+      "end_ms": 32
     },
     "34": {
       "title": "CHECK شعر الإنسان طاهر",
       "level": 1,
       "parent": null,
-      "start_ms": 33,
-      "end_ms": 35
+      "start_ms": 32,
+      "end_ms": 34
     },
     "35": {
       "title": "AUTO جبر العظم المكسور",
       "level": 1,
       "parent": null,
-      "start_ms": 35,
+      "start_ms": 34,
       "end_ms": 36
     },
     "36": {
@@ -251,20 +251,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 36,
-      "end_ms": 39
+      "end_ms": 38
     },
     "37": {
       "title": "AUTO وقت الآذان للصلاة",
       "level": 1,
       "parent": null,
-      "start_ms": 39,
-      "end_ms": 40
+      "start_ms": 38,
+      "end_ms": 39
     },
     "38": {
       "title": "CHECK اختلاف نية الإمام والمأموم",
       "level": 1,
       "parent": null,
-      "start_ms": 40,
+      "start_ms": 39,
       "end_ms": null
     }
   },
@@ -336,13 +336,13 @@
     ],
     [
       22,
-      [19, 20, 21],
+      [19, 20, 21, 22],
       18
     ],
     [
       23,
-      [22, 23],
-      21
+      [23],
+      22
     ],
     [
       24,
@@ -371,26 +371,21 @@
     ],
     [
       29,
-      [29],
+      [29, 30, 31],
       28
     ],
     [
-      30,
-      [30, 31],
-      29
-    ],
-    [
-      32,
-      [32, 33],
+      31,
+      [32],
       31
     ],
     [
-      33,
-      [34],
-      33
+      32,
+      [33, 34],
+      32
     ],
     [
-      35,
+      34,
       [35],
       34
     ],
@@ -400,12 +395,12 @@
       35
     ],
     [
-      39,
+      38,
       [37],
       36
     ],
     [
-      40,
+      39,
       [38],
       37
     ]

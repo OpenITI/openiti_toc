@@ -6,13 +6,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 2,
-      "end_ms": 6
+      "end_ms": 5
     },
     "2": {
       "title": "حرف الباء",
       "level": 1,
       "parent": null,
-      "start_ms": 6,
+      "start_ms": 5,
       "end_ms": 6
     },
     "3": {
@@ -20,13 +20,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 6,
-      "end_ms": 7
+      "end_ms": 6
     },
     "4": {
       "title": "\" حرف الثاء \"",
       "level": 1,
       "parent": null,
-      "start_ms": 7,
+      "start_ms": 6,
       "end_ms": 7
     },
     "5": {
@@ -55,13 +55,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 12,
-      "end_ms": 13
+      "end_ms": 12
     },
     "9": {
       "title": "\" حرف الذال \"",
       "level": 1,
       "parent": null,
-      "start_ms": 13,
+      "start_ms": 12,
       "end_ms": 13
     },
     "10": {
@@ -69,13 +69,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 13,
-      "end_ms": 14
+      "end_ms": 13
     },
     "11": {
       "title": "\" حرف الزاء \"",
       "level": 1,
       "parent": null,
-      "start_ms": 14,
+      "start_ms": 13,
       "end_ms": 14
     },
     "12": {
@@ -90,13 +90,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 15,
-      "end_ms": 16
+      "end_ms": 15
     },
     "14": {
       "title": "\" حرف الصاد \"",
       "level": 1,
       "parent": null,
-      "start_ms": 16,
+      "start_ms": 15,
       "end_ms": 16
     },
     "15": {
@@ -111,90 +111,90 @@
       "level": 1,
       "parent": null,
       "start_ms": 16,
-      "end_ms": 17
+      "end_ms": 16
     },
     "17": {
       "title": "\" حرف الظاء \"",
       "level": 1,
       "parent": null,
-      "start_ms": 17,
-      "end_ms": 17
+      "start_ms": 16,
+      "end_ms": 16
     },
     "18": {
       "title": "\" حرف العين \"",
       "level": 1,
       "parent": null,
-      "start_ms": 17,
-      "end_ms": 25
+      "start_ms": 16,
+      "end_ms": 24
     },
     "19": {
       "title": "\" حرف الغين \"",
       "level": 1,
       "parent": null,
-      "start_ms": 25,
-      "end_ms": 25
+      "start_ms": 24,
+      "end_ms": 24
     },
     "20": {
       "title": "\" حرف الفاء \"",
       "level": 1,
       "parent": null,
-      "start_ms": 25,
-      "end_ms": 25
+      "start_ms": 24,
+      "end_ms": 24
     },
     "21": {
       "title": "\" حرف القاف \"",
       "level": 1,
       "parent": null,
-      "start_ms": 25,
-      "end_ms": 26
+      "start_ms": 24,
+      "end_ms": 25
     },
     "22": {
       "title": "\" حرف الكاف \"",
       "level": 1,
       "parent": null,
-      "start_ms": 26,
-      "end_ms": 26
+      "start_ms": 25,
+      "end_ms": 25
     },
     "23": {
       "title": "\" حرف اللام \"",
       "level": 1,
       "parent": null,
-      "start_ms": 26,
-      "end_ms": 26
+      "start_ms": 25,
+      "end_ms": 25
     },
     "24": {
       "title": "\" حرف الميم \"",
       "level": 1,
       "parent": null,
-      "start_ms": 26,
-      "end_ms": 36
+      "start_ms": 25,
+      "end_ms": 34
     },
     "25": {
       "title": "حرف النون",
       "level": 1,
       "parent": null,
-      "start_ms": 36,
-      "end_ms": 36
+      "start_ms": 34,
+      "end_ms": 35
     },
     "26": {
       "title": "حرف الواو",
       "level": 1,
       "parent": null,
-      "start_ms": 36,
-      "end_ms": 37
+      "start_ms": 35,
+      "end_ms": 35
     },
     "27": {
       "title": "حرف الهاء",
       "level": 1,
       "parent": null,
-      "start_ms": 37,
-      "end_ms": 37
+      "start_ms": 35,
+      "end_ms": 35
     },
     "28": {
       "title": "حرف الياء",
       "level": 1,
       "parent": null,
-      "start_ms": 37,
+      "start_ms": 35,
       "end_ms": null
     }
   },
@@ -205,65 +205,65 @@
       null
     ],
     [
-      6,
-      [2, 3],
+      5,
+      [2],
       1
     ],
     [
+      6,
+      [3, 4],
+      2
+    ],
+    [
       7,
-      [4, 5, 6],
-      3
+      [5, 6],
+      4
     ],
     [
       12,
-      [7, 8],
+      [7, 8, 9],
       6
     ],
     [
       13,
-      [9, 10],
-      8
+      [10, 11],
+      9
     ],
     [
       14,
-      [11, 12],
-      10
+      [12],
+      11
     ],
     [
       15,
-      [13],
+      [13, 14],
       12
     ],
     [
       16,
-      [14, 15, 16],
-      13
+      [15, 16, 17, 18],
+      14
     ],
     [
-      17,
-      [17, 18],
-      16
-    ],
-    [
-      25,
+      24,
       [19, 20, 21],
       18
     ],
     [
-      26,
+      25,
       [22, 23, 24],
       21
     ],
     [
-      36,
-      [25, 26],
+      34,
+      [25],
       24
     ],
     [
-      37,
-      [27, 28],
-      26
+      35,
+      [26, 27, 28],
+      25
     ]
   ],
-  "last_ms": 38
+  "last_ms": 36
 }

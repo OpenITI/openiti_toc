@@ -27,7 +27,7 @@
       "level": 1,
       "parent": null,
       "start_ms": 1,
-      "end_ms": 3
+      "end_ms": 2
     },
     "5": {
       "title": "AUTO فمن الممدود على ألفاظها",
@@ -62,13 +62,13 @@
       "level": 2,
       "parent": 4,
       "start_ms": 2,
-      "end_ms": 3
+      "end_ms": 2
     },
     "10": {
-      "title": "AUTO ما يمد ms2 ويقصر، فإذا قصر كتب بالياء",
+      "title": "AUTO ما يمد ويقصر، فإذا قصر كتب بالياء",
       "level": 1,
       "parent": null,
-      "start_ms": 3,
+      "start_ms": 2,
       "end_ms": 3
     },
     "11": {
@@ -87,13 +87,13 @@
     ],
     [
       2,
-      [7, 8, 9],
-      6
+      [7, 8, 9, 10],
+      null
     ],
     [
       3,
-      [10, 11],
-      null
+      [11],
+      10
     ]
   ],
   "last_ms": 3

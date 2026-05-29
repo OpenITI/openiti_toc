@@ -27,13 +27,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 4,
-      "end_ms": 5
+      "end_ms": 4
     },
     "5": {
       "title": "AUTO باب ما يحبب الى الانسان القناعة.",
       "level": 1,
       "parent": null,
-      "start_ms": 5,
+      "start_ms": 4,
       "end_ms": 6
     },
     "6": {
@@ -69,13 +69,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 10,
-      "end_ms": 11
+      "end_ms": 10
     },
     "11": {
       "title": "AUTO باب.",
       "level": 1,
       "parent": null,
-      "start_ms": 11,
+      "start_ms": 10,
       "end_ms": 11
     },
     "12": {
@@ -90,20 +90,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 11,
-      "end_ms": 12
+      "end_ms": 11
     },
     "14": {
-      "title": "AUTO $ باب. ms11",
+      "title": "AUTO $ باب.",
       "level": 1,
       "parent": null,
-      "start_ms": 12,
-      "end_ms": 13
+      "start_ms": 11,
+      "end_ms": 12
     },
     "15": {
       "title": "AUTO باب ما يدفع به الانسان عن نفسه معرة الغنى.",
       "level": 1,
       "parent": null,
-      "start_ms": 13,
+      "start_ms": 12,
       "end_ms": 13
     },
     "16": {
@@ -111,13 +111,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 13,
-      "end_ms": 14
+      "end_ms": 13
     },
     "17": {
       "title": "AUTO $ باب.",
       "level": 1,
       "parent": null,
-      "start_ms": 14,
+      "start_ms": 13,
       "end_ms": null
     }
   },
@@ -134,13 +134,8 @@
     ],
     [
       4,
-      [4],
+      [4, 5],
       3
-    ],
-    [
-      5,
-      [5],
-      4
     ],
     [
       6,
@@ -159,29 +154,24 @@
     ],
     [
       10,
-      [10],
+      [10, 11],
       9
     ],
     [
       11,
-      [11, 12, 13],
-      10
+      [12, 13, 14],
+      11
     ],
     [
       12,
-      [14],
-      null
-    ],
-    [
-      13,
-      [15, 16],
+      [15],
       14
     ],
     [
-      14,
-      [17],
-      16
+      13,
+      [16, 17],
+      15
     ]
   ],
-  "last_ms": 15
+  "last_ms": 14
 }

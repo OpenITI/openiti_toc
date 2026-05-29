@@ -20,13 +20,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 4,
-      "end_ms": 15
+      "end_ms": 14
     },
     "4": {
       "title": "AUTO مسار الرحلة",
       "level": 1,
       "parent": null,
-      "start_ms": 15,
+      "start_ms": 14,
       "end_ms": 15
     },
     "5": {
@@ -48,13 +48,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 32,
-      "end_ms": 59
+      "end_ms": 58
     },
     "8": {
       "title": "AUTO الرسالة الرابعة",
       "level": 1,
       "parent": null,
-      "start_ms": 59,
+      "start_ms": 58,
       "end_ms": 80
     },
     "9": {
@@ -62,41 +62,41 @@
       "level": 1,
       "parent": null,
       "start_ms": 80,
-      "end_ms": 85
+      "end_ms": 84
     },
     "10": {
       "title": "AUTO كشاف حضاري وفهارس أخرى",
       "level": 1,
       "parent": null,
-      "start_ms": 85,
-      "end_ms": 89
+      "start_ms": 84,
+      "end_ms": 88
     },
     "11": {
       "title": "AUTO فهرس الأعلام والقبائل والجماعات",
       "level": 2,
       "parent": 10,
-      "start_ms": 85,
-      "end_ms": 88
+      "start_ms": 84,
+      "end_ms": 87
     },
     "12": {
       "title": "AUTO فهرس البلدان والجبال والأنهار",
       "level": 2,
       "parent": 10,
-      "start_ms": 88,
-      "end_ms": 89
+      "start_ms": 87,
+      "end_ms": 88
     },
     "13": {
       "title": "AUTO فهرس المصطلحات والألفاظ التي لها دلالات خاصة",
       "level": 2,
       "parent": 10,
-      "start_ms": 89,
-      "end_ms": 89
+      "start_ms": 88,
+      "end_ms": 88
     },
     "14": {
       "title": "AUTO المحتويات",
       "level": 1,
       "parent": null,
-      "start_ms": 89,
+      "start_ms": 88,
       "end_ms": null
     }
   },
@@ -117,9 +117,14 @@
       2
     ],
     [
-      15,
-      [4, 5],
+      14,
+      [4],
       3
+    ],
+    [
+      15,
+      [5],
+      4
     ],
     [
       28,
@@ -132,7 +137,7 @@
       6
     ],
     [
-      59,
+      58,
       [8],
       7
     ],
@@ -142,20 +147,20 @@
       8
     ],
     [
-      85,
+      84,
       [10, 11],
       9
     ],
     [
-      88,
+      87,
       [12],
       11
     ],
     [
-      89,
+      88,
       [13, 14],
       12
     ]
   ],
-  "last_ms": 89
+  "last_ms": 88
 }

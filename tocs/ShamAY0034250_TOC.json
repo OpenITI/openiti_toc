@@ -13,7 +13,7 @@
       "level": 1,
       "parent": null,
       "start_ms": 5,
-      "end_ms": 631
+      "end_ms": 629
     },
     "3": {
       "title": "AUTO \"\"\"\"\"\" صفحة رقم 12 \"\"\"\"\"\"",
@@ -90,13 +90,13 @@
       "level": 2,
       "parent": 2,
       "start_ms": 24,
-      "end_ms": 26
+      "end_ms": 25
     },
     "14": {
       "title": "AUTO قوله : ( والمتوسط ) وهو من قدر على التصوير فقط ، وسكت عن",
       "level": 2,
       "parent": 2,
-      "start_ms": 26,
+      "start_ms": 25,
       "end_ms": 28
     },
     "15": {
@@ -104,20 +104,20 @@
       "level": 2,
       "parent": 2,
       "start_ms": 28,
-      "end_ms": 29
+      "end_ms": 28
     },
     "16": {
       "title": "AUTO \"\"\"\"\"\" صفحة رقم 30 \"\"\"\"\"\"",
       "level": 2,
       "parent": 2,
-      "start_ms": 29,
-      "end_ms": 29
+      "start_ms": 28,
+      "end_ms": 28
     },
     "17": {
       "title": "AUTO وبين إليه وعليه الجناس المضارع وهو اختلاف الكلمتين بحرفين",
       "level": 2,
       "parent": 2,
-      "start_ms": 29,
+      "start_ms": 28,
       "end_ms": 30
     },
     "18": {
@@ -146,76 +146,76 @@
       "level": 2,
       "parent": 2,
       "start_ms": 32,
-      "end_ms": 41
+      "end_ms": 40
     },
     "22": {
       "title": "AUTO قوله : ( بدأ بالبسملة ثم بالحمدلة ) هذه العبارة متضمنة",
       "level": 2,
       "parent": 2,
-      "start_ms": 41,
-      "end_ms": 68
+      "start_ms": 40,
+      "end_ms": 67
     },
     "23": {
       "title": "AUTO المقصود منه الجمعية ، وإن لم يسبقه لفظ يدل عليه كان المقصود",
       "level": 2,
       "parent": 2,
-      "start_ms": 68,
-      "end_ms": 631
+      "start_ms": 67,
+      "end_ms": 629
     },
     "24": {
       "title": "AUTO كتاب الصلاة",
       "level": 1,
       "parent": null,
-      "start_ms": 631,
-      "end_ms": 1303
+      "start_ms": 629,
+      "end_ms": 1297
     },
     "25": {
       "title": "AUTO كتاب الزكاة",
       "level": 1,
       "parent": null,
-      "start_ms": 1303,
-      "end_ms": 1388
+      "start_ms": 1297,
+      "end_ms": 1382
     },
     "26": {
       "title": "AUTO كتاب الصيام",
       "level": 1,
       "parent": null,
-      "start_ms": 1388,
-      "end_ms": 1460
+      "start_ms": 1382,
+      "end_ms": 1454
     },
     "27": {
       "title": "AUTO كتاب الحج",
       "level": 1,
       "parent": null,
-      "start_ms": 1460,
-      "end_ms": 1556
+      "start_ms": 1454,
+      "end_ms": 1550
     },
     "28": {
       "title": "AUTO كتاب البيوع",
       "level": 1,
       "parent": null,
-      "start_ms": 1556,
-      "end_ms": 2040
+      "start_ms": 1550,
+      "end_ms": 2032
     },
     "29": {
       "title": "AUTO كتاب بيان أحكام الفرائض والوصايا",
       "level": 1,
       "parent": null,
-      "start_ms": 2040,
-      "end_ms": 2663
+      "start_ms": 2032,
+      "end_ms": 2652
     },
     "30": {
       "title": "AUTO كتاب الحدود",
       "level": 1,
       "parent": null,
-      "start_ms": 2663,
-      "end_ms": 2940
+      "start_ms": 2652,
+      "end_ms": 2928
     },
     "31": {
       "title": "AUTO كتاب السبق والرمي",
       "level": 1,
       "parent": null,
-      "start_ms": 2940,
+      "start_ms": 2928,
       "end_ms": null
     }
   },
@@ -233,7 +233,7 @@
     [
       7,
       [3, 4],
-      2
+      null
     ],
     [
       11,
@@ -266,19 +266,14 @@
       11
     ],
     [
-      26,
+      25,
       [14],
       13
     ],
     [
       28,
-      [15],
+      [15, 16, 17],
       14
-    ],
-    [
-      29,
-      [16, 17],
-      15
     ],
     [
       30,
@@ -291,55 +286,55 @@
       19
     ],
     [
-      41,
+      40,
       [22],
       21
     ],
     [
-      68,
+      67,
       [23],
       22
     ],
     [
-      631,
+      629,
       [24],
       23
     ],
     [
-      1303,
+      1297,
       [25],
       24
     ],
     [
-      1388,
+      1382,
       [26],
       25
     ],
     [
-      1460,
+      1454,
       [27],
       26
     ],
     [
-      1556,
+      1550,
       [28],
-      27
+      null
     ],
     [
-      2040,
+      2032,
       [29],
       28
     ],
     [
-      2663,
+      2652,
       [30],
       29
     ],
     [
-      2940,
+      2928,
       [31],
       30
     ]
   ],
-  "last_ms": 3185
+  "last_ms": 3172
 }

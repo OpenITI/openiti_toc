@@ -5,7 +5,7 @@
       "title": "AUTO ### | CHECK [[NO TITLE]]",
       "level": 1,
       "parent": null,
-      "start_ms": 20,
+      "start_ms": 19,
       "end_ms": 20
     },
     "2": {
@@ -13,13 +13,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 20,
-      "end_ms": 39
+      "end_ms": 38
     },
     "3": {
       "title": "AUTO الجزء الثالث من حديث الشيخ الصالح الدين : أبي القاسم يوسف",
       "level": 1,
       "parent": null,
-      "start_ms": 39,
+      "start_ms": 38,
       "end_ms": 56
     },
     "4": {
@@ -27,13 +27,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 56,
-      "end_ms": 58
+      "end_ms": 57
     },
     "5": {
       "title": "AUTO الجزء الرابع من الفوائد المنتخبة الصحاح والغرائب تخريج",
       "level": 1,
       "parent": null,
-      "start_ms": 58,
+      "start_ms": 57,
       "end_ms": 58
     },
     "6": {
@@ -41,38 +41,43 @@
       "level": 1,
       "parent": null,
       "start_ms": 58,
-      "end_ms": 75
+      "end_ms": 74
     },
     "7": {
       "title": "AUTO الجزء الخامس من الفوائد المنتخبة الصحاح والغرائب تخريج",
       "level": 1,
       "parent": null,
-      "start_ms": 75,
-      "end_ms": 76
+      "start_ms": 74,
+      "end_ms": 75
     },
     "8": {
       "title": "AUTO بسم الله الرحمن الرحيم وبه نستعين الحمد لله حق حمده",
       "level": 1,
       "parent": null,
-      "start_ms": 76,
-      "end_ms": 89
+      "start_ms": 75,
+      "end_ms": 88
     },
     "9": {
       "title": "AUTO آخر الجزء الخامس وهو الذي خرجه الخطيب إلى هنا والحمد",
       "level": 1,
       "parent": null,
-      "start_ms": 89,
+      "start_ms": 88,
       "end_ms": null
     }
   },
   "starts": [
     [
-      20,
-      [1, 2],
+      19,
+      [1],
       null
     ],
     [
-      39,
+      20,
+      [2],
+      1
+    ],
+    [
+      38,
       [3],
       2
     ],
@@ -82,25 +87,30 @@
       3
     ],
     [
-      58,
-      [5, 6],
+      57,
+      [5],
       4
     ],
     [
-      75,
+      58,
+      [6],
+      5
+    ],
+    [
+      74,
       [7],
       6
     ],
     [
-      76,
+      75,
       [8],
       7
     ],
     [
-      89,
+      88,
       [9],
       8
     ]
   ],
-  "last_ms": 92
+  "last_ms": 91
 }

@@ -6,27 +6,27 @@
       "level": 1,
       "parent": null,
       "start_ms": 260,
-      "end_ms": 570
+      "end_ms": 569
     },
     "2": {
-      "title": "AUTO ms0569 الجزء الثالث",
+      "title": "AUTO الجزء الثالث",
       "level": 1,
       "parent": null,
-      "start_ms": 570,
-      "end_ms": 860
+      "start_ms": 569,
+      "end_ms": 859
     },
     "3": {
       "title": "AUTO الجزء الرابع",
       "level": 1,
       "parent": null,
-      "start_ms": 860,
-      "end_ms": 1132
+      "start_ms": 859,
+      "end_ms": 1131
     },
     "4": {
       "title": "AUTO الجزء الخامس",
       "level": 1,
       "parent": null,
-      "start_ms": 1132,
+      "start_ms": 1131,
       "end_ms": null
     }
   },
@@ -37,20 +37,20 @@
       null
     ],
     [
-      570,
+      569,
       [2],
-      null
+      1
     ],
     [
-      860,
+      859,
       [3],
       2
     ],
     [
-      1132,
+      1131,
       [4],
       3
     ]
   ],
-  "last_ms": 1272
+  "last_ms": 1271
 }

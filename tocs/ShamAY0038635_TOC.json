@@ -20,20 +20,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 3,
-      "end_ms": 23
+      "end_ms": 21
     },
     "4": {
       "title": "AUTO ترجمة موجزة للقاضي عياض (1)",
       "level": 1,
       "parent": null,
-      "start_ms": 23,
-      "end_ms": 32
+      "start_ms": 21,
+      "end_ms": 31
     },
     "5": {
       "title": "CHECK [النص المحقق]",
       "level": 1,
       "parent": null,
-      "start_ms": 32,
+      "start_ms": 31,
       "end_ms": null
     }
   },
@@ -49,15 +49,15 @@
       2
     ],
     [
-      23,
+      21,
       [4],
       3
     ],
     [
-      32,
+      31,
       [5],
       4
     ]
   ],
-  "last_ms": 793
+  "last_ms": 735
 }

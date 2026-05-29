@@ -20,20 +20,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 4,
-      "end_ms": 5
+      "end_ms": 4
     },
     "4": {
       "title": "AUTO 29 - حديث عمر بن الخطاب: «من قال في السوق: لا إله إلا الله",
       "level": 1,
       "parent": null,
-      "start_ms": 5,
-      "end_ms": 9
+      "start_ms": 4,
+      "end_ms": 8
     },
     "5": {
       "title": "AUTO 56 - حديث عمر عن النبي صلى الله عليه وسلم: «من شغله ذكري عن",
       "level": 1,
       "parent": null,
-      "start_ms": 9,
+      "start_ms": 8,
       "end_ms": 9
     },
     "6": {
@@ -69,20 +69,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 14,
-      "end_ms": 20
+      "end_ms": 19
     },
     "11": {
       "title": "AUTO ذكر جزيرة العرب وحدودها",
       "level": 1,
       "parent": null,
-      "start_ms": 20,
-      "end_ms": 21
+      "start_ms": 19,
+      "end_ms": 20
     },
     "12": {
       "title": "AUTO 144 - (¬1) صلى الله عليه وسم فقال: يا عائشة أتعرفين هذه؟",
       "level": 1,
       "parent": null,
-      "start_ms": 21,
+      "start_ms": 20,
       "end_ms": 22
     },
     "13": {
@@ -97,48 +97,48 @@
       "level": 1,
       "parent": null,
       "start_ms": 27,
-      "end_ms": 29
+      "end_ms": 28
     },
     "15": {
       "title": "AUTO 198 - وكذلك حديثه: «ألا أنبئكم بشرار أمرائكم من خيارهم».",
       "level": 1,
       "parent": null,
-      "start_ms": 29,
-      "end_ms": 39
+      "start_ms": 28,
+      "end_ms": 38
     },
     "16": {
       "title": "AUTO فصل",
       "level": 1,
       "parent": null,
-      "start_ms": 39,
-      "end_ms": 40
+      "start_ms": 38,
+      "end_ms": 39
     },
     "17": {
       "title": "AUTO 278 - حدث عن عمر بحديث احتكار الطعام.",
       "level": 1,
       "parent": null,
-      "start_ms": 40,
-      "end_ms": 45
+      "start_ms": 39,
+      "end_ms": 44
     },
     "18": {
       "title": "AUTO 315 - حديث عمر بن الخطاب: رأيت حبي رسول الله صلى الله عليه",
       "level": 1,
       "parent": null,
-      "start_ms": 45,
-      "end_ms": 46
+      "start_ms": 44,
+      "end_ms": 45
     },
     "19": {
       "title": "AUTO 317 - حديثه: «من كان يؤمن بالله واليوم الآخر فلا يقعد على",
       "level": 1,
       "parent": null,
-      "start_ms": 46,
-      "end_ms": 46
+      "start_ms": 45,
+      "end_ms": 45
     },
     "20": {
       "title": "AUTO 319 - وحديثه: «ليس من ليلة إلا والبحر يشرف على الأرض يستأذن",
       "level": 1,
       "parent": null,
-      "start_ms": 46,
+      "start_ms": 45,
       "end_ms": null
     }
   },
@@ -155,18 +155,18 @@
     ],
     [
       4,
-      [3],
+      [3, 4],
       2
     ],
     [
-      5,
-      [4],
-      3
+      8,
+      [5],
+      4
     ],
     [
       9,
-      [5, 6, 7],
-      4
+      [6, 7],
+      5
     ],
     [
       10,
@@ -184,12 +184,12 @@
       9
     ],
     [
-      20,
+      19,
       [11],
       10
     ],
     [
-      21,
+      20,
       [12],
       11
     ],
@@ -204,30 +204,30 @@
       13
     ],
     [
-      29,
+      28,
       [15],
       14
     ],
     [
-      39,
+      38,
       [16],
       15
     ],
     [
-      40,
+      39,
       [17],
       16
     ],
     [
-      45,
+      44,
       [18],
       17
     ],
     [
-      46,
+      45,
       [19, 20],
       18
     ]
   ],
-  "last_ms": 47
+  "last_ms": 46
 }

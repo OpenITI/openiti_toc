@@ -230,13 +230,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 121,
-      "end_ms": 139
+      "end_ms": 138
     },
     "34": {
       "title": "AUTO فصل في الفرق بين الاستعارة والتمثيل",
       "level": 1,
       "parent": null,
-      "start_ms": 139,
+      "start_ms": 138,
       "end_ms": 152
     },
     "35": {
@@ -251,7 +251,7 @@
       "level": 1,
       "parent": null,
       "start_ms": 155,
-      "end_ms": 174
+      "end_ms": 173
     },
     "37": {
       "title": "AUTO القسم العقلي",
@@ -272,13 +272,13 @@
       "level": 2,
       "parent": 36,
       "start_ms": 157,
-      "end_ms": 174
+      "end_ms": 173
     },
     "40": {
       "title": "AUTO فصل نوع آخر في التعليل",
       "level": 1,
       "parent": null,
-      "start_ms": 174,
+      "start_ms": 173,
       "end_ms": 177
     },
     "41": {
@@ -476,7 +476,7 @@
       32
     ],
     [
-      139,
+      138,
       [34],
       33
     ],
@@ -496,7 +496,7 @@
       37
     ],
     [
-      174,
+      173,
       [40],
       39
     ],
@@ -546,5 +546,5 @@
       50
     ]
   ],
-  "last_ms": 310
+  "last_ms": 309
 }

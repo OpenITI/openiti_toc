@@ -97,13 +97,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 46,
-      "end_ms": 50
+      "end_ms": 49
     },
     "15": {
       "title": "AUTO باب المضموم أوله [من الأسماء]",
       "level": 1,
       "parent": null,
-      "start_ms": 50,
+      "start_ms": 49,
       "end_ms": 54
     },
     "16": {
@@ -181,13 +181,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 77,
-      "end_ms": 78
+      "end_ms": 77
     },
     "27": {
-      "title": "AUTO ms077 باب ما جاء مثلا أو كالمثل",
+      "title": "AUTO باب ما جاء مثلا أو كالمثل",
       "level": 1,
       "parent": null,
-      "start_ms": 78,
+      "start_ms": 77,
       "end_ms": 89
     },
     "28": {
@@ -284,7 +284,7 @@
       13
     ],
     [
-      50,
+      49,
       [15],
       14
     ],
@@ -335,13 +335,8 @@
     ],
     [
       77,
-      [26],
+      [26, 27],
       25
-    ],
-    [
-      78,
-      [27],
-      null
     ],
     [
       89,

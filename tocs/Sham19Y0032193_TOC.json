@@ -125,13 +125,13 @@
       "level": 2,
       "parent": 3,
       "start_ms": 31,
-      "end_ms": 32
+      "end_ms": 31
     },
     "19": {
       "title": "AUTO التصديق الضروري",
       "level": 2,
       "parent": 3,
-      "start_ms": 32,
+      "start_ms": 31,
       "end_ms": 33
     },
     "20": {
@@ -146,13 +146,13 @@
       "level": 3,
       "parent": 20,
       "start_ms": 37,
-      "end_ms": 38
+      "end_ms": 37
     },
     "22": {
       "title": "AUTO الذاتي",
       "level": 3,
       "parent": 20,
-      "start_ms": 38,
+      "start_ms": 37,
       "end_ms": 38
     },
     "23": {
@@ -292,7 +292,7 @@
       "title": "CHECK الشكل الأول وشرط إنتاجه",
       "level": 3,
       "parent": 41,
-      "start_ms": 61,
+      "start_ms": 60,
       "end_ms": 62
     },
     "43": {
@@ -342,13 +342,13 @@
       "level": 2,
       "parent": 3,
       "start_ms": 73,
-      "end_ms": 74
+      "end_ms": 73
     },
     "50": {
       "title": "CHECK الاستثنائي المنفصل",
       "level": 2,
       "parent": 3,
-      "start_ms": 74,
+      "start_ms": 73,
       "end_ms": 75
     },
     "51": {
@@ -397,7 +397,7 @@
       "title": "CHECK أقسام الموضوعات اللغوية",
       "level": 2,
       "parent": 56,
-      "start_ms": 80,
+      "start_ms": 79,
       "end_ms": 82
     },
     "58": {
@@ -411,14 +411,14 @@
       "title": "CHECK أقسام المفرد",
       "level": 3,
       "parent": 58,
-      "start_ms": 84,
+      "start_ms": 83,
       "end_ms": 86
     },
     "60": {
       "title": "CHECK الدلالة وأقسامها",
       "level": 4,
       "parent": 59,
-      "start_ms": 84,
+      "start_ms": 83,
       "end_ms": 86
     },
     "61": {
@@ -447,20 +447,20 @@
       "level": 3,
       "parent": 63,
       "start_ms": 91,
-      "end_ms": 95
+      "end_ms": 94
     },
     "65": {
       "title": "CHECK أدلة المانعين",
       "level": 4,
       "parent": 64,
       "start_ms": 94,
-      "end_ms": 95
+      "end_ms": 94
     },
     "66": {
       "title": "CHECK وقوع المشترك في القرآن",
       "level": 3,
       "parent": 63,
-      "start_ms": 95,
+      "start_ms": 94,
       "end_ms": 95
     },
     "67": {
@@ -503,13 +503,13 @@
       "level": 3,
       "parent": 71,
       "start_ms": 99,
-      "end_ms": 101
+      "end_ms": 100
     },
     "73": {
       "title": "CHECK اشتراط النقل في الآحاد",
       "level": 3,
       "parent": 71,
-      "start_ms": 101,
+      "start_ms": 100,
       "end_ms": 103
     },
     "74": {
@@ -531,13 +531,13 @@
       "level": 3,
       "parent": 71,
       "start_ms": 111,
-      "end_ms": 114
+      "end_ms": 113
     },
     "77": {
       "title": "CHECK الحقيقة الشرعية",
       "level": 3,
       "parent": 71,
-      "start_ms": 114,
+      "start_ms": 113,
       "end_ms": 121
     },
     "78": {
@@ -559,34 +559,34 @@
       "level": 2,
       "parent": 56,
       "start_ms": 121,
-      "end_ms": 123
+      "end_ms": 122
     },
     "81": {
       "title": "AUTO المشتق",
       "level": 2,
       "parent": 56,
-      "start_ms": 123,
-      "end_ms": 123
+      "start_ms": 122,
+      "end_ms": 122
     },
     "82": {
       "title": "AUTO المشتق",
       "level": 2,
       "parent": 56,
-      "start_ms": 123,
-      "end_ms": 123
+      "start_ms": 122,
+      "end_ms": 122
     },
     "83": {
       "title": "AUTO المشتق",
       "level": 2,
       "parent": 56,
-      "start_ms": 123,
-      "end_ms": 123
+      "start_ms": 122,
+      "end_ms": 122
     },
     "84": {
       "title": "AUTO المشتق",
       "level": 2,
       "parent": 56,
-      "start_ms": 123,
+      "start_ms": 122,
       "end_ms": 123
     },
     "85": {
@@ -601,13 +601,13 @@
       "level": 3,
       "parent": 85,
       "start_ms": 125,
-      "end_ms": 128
+      "end_ms": 127
     },
     "87": {
       "title": "CHECK اشتقاق اسم الفاعل لشيء والفعل قائم بغيره",
       "level": 3,
       "parent": 85,
-      "start_ms": 128,
+      "start_ms": 127,
       "end_ms": 129
     },
     "88": {
@@ -615,13 +615,13 @@
       "level": 3,
       "parent": 85,
       "start_ms": 129,
-      "end_ms": 131
+      "end_ms": 130
     },
     "89": {
       "title": "CHECK اللغة لا تثبت بالقياس",
       "level": 3,
       "parent": 85,
-      "start_ms": 131,
+      "start_ms": 130,
       "end_ms": 134
     },
     "90": {
@@ -635,7 +635,7 @@
       "title": "AUTO الواو للجمع المطلق",
       "level": 3,
       "parent": 90,
-      "start_ms": 136,
+      "start_ms": 135,
       "end_ms": 140
     },
     "92": {
@@ -643,13 +643,13 @@
       "level": 3,
       "parent": 90,
       "start_ms": 140,
-      "end_ms": 141
+      "end_ms": 140
     },
     "93": {
       "title": "AUTO ابتداء الوضع",
       "level": 3,
       "parent": 90,
-      "start_ms": 141,
+      "start_ms": 140,
       "end_ms": 141
     },
     "94": {
@@ -671,13 +671,13 @@
       "level": 3,
       "parent": 90,
       "start_ms": 146,
-      "end_ms": 155
+      "end_ms": 154
     },
     "97": {
       "title": "CHECK الرد على الجبائية",
       "level": 3,
       "parent": 90,
-      "start_ms": 155,
+      "start_ms": 154,
       "end_ms": 157
     },
     "98": {
@@ -734,13 +734,13 @@
       "level": 4,
       "parent": 101,
       "start_ms": 176,
-      "end_ms": 179
+      "end_ms": 178
     },
     "106": {
       "title": "CHECK الواجب الكفائي",
       "level": 4,
       "parent": 101,
-      "start_ms": 179,
+      "start_ms": 178,
       "end_ms": 181
     },
     "107": {
@@ -748,13 +748,13 @@
       "level": 4,
       "parent": 101,
       "start_ms": 181,
-      "end_ms": 188
+      "end_ms": 187
     },
     "108": {
       "title": "AUTO الواجب الموسع",
       "level": 4,
       "parent": 101,
-      "start_ms": 188,
+      "start_ms": 187,
       "end_ms": 191
     },
     "109": {
@@ -762,13 +762,13 @@
       "level": 4,
       "parent": 101,
       "start_ms": 191,
-      "end_ms": 196
+      "end_ms": 195
     },
     "110": {
       "title": "CHECK تحريم واحد لا بعينه",
       "level": 4,
       "parent": 101,
-      "start_ms": 196,
+      "start_ms": 195,
       "end_ms": 196
     },
     "111": {
@@ -783,14 +783,14 @@
       "level": 2,
       "parent": 56,
       "start_ms": 203,
-      "end_ms": 204
+      "end_ms": 203
     },
     "113": {
       "title": "AUTO المندوب",
       "level": 2,
       "parent": 56,
-      "start_ms": 204,
-      "end_ms": 215
+      "start_ms": 203,
+      "end_ms": 214
     },
     "114": {
       "title": "AUTO المندوب ليس بتكليف",
@@ -804,13 +804,13 @@
       "level": 3,
       "parent": 113,
       "start_ms": 205,
-      "end_ms": 206
+      "end_ms": 205
     },
     "116": {
       "title": "AUTO المكروه منهي عنه",
       "level": 3,
       "parent": 113,
-      "start_ms": 206,
+      "start_ms": 205,
       "end_ms": 206
     },
     "117": {
@@ -839,34 +839,34 @@
       "level": 3,
       "parent": 113,
       "start_ms": 207,
-      "end_ms": 208
+      "end_ms": 207
     },
     "121": {
       "title": "AUTO المباح غير مأمور به",
       "level": 3,
       "parent": 113,
-      "start_ms": 208,
-      "end_ms": 210
+      "start_ms": 207,
+      "end_ms": 209
     },
     "122": {
       "title": "CHECK المباح ليس بجنس الواجب",
       "level": 3,
       "parent": 113,
-      "start_ms": 210,
-      "end_ms": 211
+      "start_ms": 209,
+      "end_ms": 210
     },
     "123": {
       "title": "AUTO (خطاب الوضع",
       "level": 3,
       "parent": 113,
-      "start_ms": 211,
-      "end_ms": 211
+      "start_ms": 210,
+      "end_ms": 210
     },
     "124": {
       "title": "AUTO خطاب الوضع",
       "level": 3,
       "parent": 113,
-      "start_ms": 211,
+      "start_ms": 210,
       "end_ms": 213
     },
     "125": {
@@ -874,20 +874,20 @@
       "level": 3,
       "parent": 113,
       "start_ms": 213,
-      "end_ms": 214
+      "end_ms": 213
     },
     "126": {
       "title": "AUTO الصحة والبطلان",
       "level": 3,
       "parent": 113,
-      "start_ms": 214,
-      "end_ms": 215
+      "start_ms": 213,
+      "end_ms": 214
     },
     "127": {
       "title": "AUTO الرخصة",
       "level": 2,
       "parent": 56,
-      "start_ms": 215,
+      "start_ms": 214,
       "end_ms": 215
     },
     "128": {
@@ -902,7 +902,7 @@
       "level": 2,
       "parent": 56,
       "start_ms": 215,
-      "end_ms": 241
+      "end_ms": 240
     },
     "130": {
       "title": "AUTO (المحكوم فيه: الأفعال",
@@ -916,20 +916,20 @@
       "level": 3,
       "parent": 129,
       "start_ms": 223,
-      "end_ms": 227
+      "end_ms": 226
     },
     "132": {
       "title": "AUTO لا تكليف إلا بفعل",
       "level": 3,
       "parent": 129,
-      "start_ms": 227,
-      "end_ms": 228
+      "start_ms": 226,
+      "end_ms": 227
     },
     "133": {
       "title": "CHECK انقطاع التكليف بالفعل",
       "level": 3,
       "parent": 129,
-      "start_ms": 228,
+      "start_ms": 227,
       "end_ms": 229
     },
     "134": {
@@ -937,13 +937,13 @@
       "level": 3,
       "parent": 129,
       "start_ms": 229,
-      "end_ms": 232
+      "end_ms": 231
     },
     "135": {
       "title": "CHECK تعلق الأمر بالمعدوم",
       "level": 3,
       "parent": 129,
-      "start_ms": 232,
+      "start_ms": 231,
       "end_ms": 236
     },
     "136": {
@@ -951,13 +951,13 @@
       "level": 3,
       "parent": 129,
       "start_ms": 236,
-      "end_ms": 241
+      "end_ms": 240
     },
     "137": {
       "title": "AUTO (الأدلة الشرعية",
       "level": 2,
       "parent": 56,
-      "start_ms": 241,
+      "start_ms": 240,
       "end_ms": 241
     },
     "138": {
@@ -965,13 +965,13 @@
       "level": 2,
       "parent": 56,
       "start_ms": 241,
-      "end_ms": 244
+      "end_ms": 243
     },
     "139": {
       "title": "AUTO (الكتاب",
       "level": 2,
       "parent": 56,
-      "start_ms": 244,
+      "start_ms": 243,
       "end_ms": 244
     },
     "140": {
@@ -985,7 +985,7 @@
       "title": "CHECK ما نقل آحادا ليس بقرآن",
       "level": 3,
       "parent": 140,
-      "start_ms": 246,
+      "start_ms": 245,
       "end_ms": 249
     },
     "142": {
@@ -1000,13 +1000,13 @@
       "level": 3,
       "parent": 140,
       "start_ms": 250,
-      "end_ms": 251
+      "end_ms": 250
     },
     "144": {
       "title": "CHECK المحكم والمتشابه",
       "level": 3,
       "parent": 140,
-      "start_ms": 251,
+      "start_ms": 250,
       "end_ms": 253
     },
     "145": {
@@ -1027,7 +1027,7 @@
       "title": "CHECK حكم أفعال النبى صلى الله عليه وسلم بالنسبة إلى أمته",
       "level": 3,
       "parent": 146,
-      "start_ms": 256,
+      "start_ms": 255,
       "end_ms": 266
     },
     "148": {
@@ -1042,13 +1042,13 @@
       "level": 3,
       "parent": 146,
       "start_ms": 267,
-      "end_ms": 269
+      "end_ms": 268
     },
     "150": {
       "title": "CHECK حكم تعارض أفعاله صلى الله عليه وسلم مع أقواله",
       "level": 3,
       "parent": 146,
-      "start_ms": 269,
+      "start_ms": 268,
       "end_ms": 273
     },
     "151": {
@@ -1083,42 +1083,42 @@
       "title": "CHECK ثبوت الإجماع",
       "level": 3,
       "parent": 154,
-      "start_ms": 275,
-      "end_ms": 277
+      "start_ms": 274,
+      "end_ms": 276
     },
     "156": {
       "title": "CHECK الإجماع حجة شرعية يجب العمل به",
       "level": 3,
       "parent": 154,
-      "start_ms": 277,
-      "end_ms": 278
+      "start_ms": 276,
+      "end_ms": 277
     },
     "157": {
       "title": "CHECK الأدلة على حجية الإجماع",
       "level": 3,
       "parent": 154,
-      "start_ms": 278,
-      "end_ms": 287
+      "start_ms": 277,
+      "end_ms": 286
     },
     "158": {
       "title": "CHECK حكم اعتبار رأي مخالفي إجماع المجمعين",
       "level": 3,
       "parent": 154,
-      "start_ms": 287,
-      "end_ms": 288
+      "start_ms": 286,
+      "end_ms": 287
     },
     "159": {
       "title": "CHECK حكم اعتبار رأي المجتهد المبتدع في الإجماع",
       "level": 3,
       "parent": 154,
-      "start_ms": 288,
-      "end_ms": 289
+      "start_ms": 287,
+      "end_ms": 288
     },
     "160": {
       "title": "CHECK عدم اختصاص الإجماع بالصحابة عند الجمهور",
       "level": 3,
       "parent": 154,
-      "start_ms": 289,
+      "start_ms": 288,
       "end_ms": 291
     },
     "161": {
@@ -1140,27 +1140,27 @@
       "level": 3,
       "parent": 154,
       "start_ms": 293,
-      "end_ms": 297
+      "end_ms": 296
     },
     "164": {
       "title": "CHECK عدم انعقاد الإجماع بأهل البيت وحدهم",
       "level": 3,
       "parent": 154,
-      "start_ms": 297,
-      "end_ms": 298
+      "start_ms": 296,
+      "end_ms": 297
     },
     "165": {
       "title": "CHECK لا يشترط في المجمعين بلوغ عدد التواتر عند الأكثرين",
       "level": 3,
       "parent": 154,
-      "start_ms": 298,
-      "end_ms": 299
+      "start_ms": 297,
+      "end_ms": 298
     },
     "166": {
       "title": "CHECK إذا أفتى واحد وعرفوا به ولم ينكر أحد قبل استقرار المذهب",
       "level": 3,
       "parent": 154,
-      "start_ms": 299,
+      "start_ms": 298,
       "end_ms": 301
     },
     "167": {
@@ -1182,48 +1182,48 @@
       "level": 3,
       "parent": 154,
       "start_ms": 304,
-      "end_ms": 305
+      "end_ms": 304
     },
     "170": {
       "title": "CHECK إذا أجمعوا على قولين فلا يجوز لمن بعدهم إحداث قول ثالث",
       "level": 3,
       "parent": 154,
-      "start_ms": 305,
-      "end_ms": 309
+      "start_ms": 304,
+      "end_ms": 308
     },
     "171": {
       "title": "CHECK إذا استدل أهل العصر بدليل يجوز لمن بعدهم إحداث دليل آخر",
       "level": 3,
       "parent": 154,
-      "start_ms": 309,
-      "end_ms": 310
+      "start_ms": 308,
+      "end_ms": 309
     },
     "172": {
-      "title": "CHECK حكم اتفاق أهل العصر الثاني على أحد قولي ms309 العصر الأول",
+      "title": "CHECK حكم اتفاق أهل العصر الثاني على أحد قولي العصر الأول",
       "level": 3,
       "parent": 154,
-      "start_ms": 310,
-      "end_ms": 313
+      "start_ms": 309,
+      "end_ms": 312
     },
     "173": {
       "title": "CHECK اتفاق أهل العصر عقب اختلافهم يعد إجماعا",
       "level": 3,
       "parent": 154,
-      "start_ms": 313,
-      "end_ms": 314
+      "start_ms": 312,
+      "end_ms": 313
     },
     "174": {
       "title": "AUTO عدم علم الأمة بخبر أو دليل راجح إذا عمل على وفقه",
       "level": 3,
       "parent": 154,
-      "start_ms": 314,
-      "end_ms": 314
+      "start_ms": 313,
+      "end_ms": 313
     },
     "175": {
       "title": "CHECK امتناع ارتداد كل الأمة في عصر من العصور",
       "level": 3,
       "parent": 154,
-      "start_ms": 314,
+      "start_ms": 313,
       "end_ms": 314
     },
     "176": {
@@ -1231,27 +1231,27 @@
       "level": 3,
       "parent": 154,
       "start_ms": 314,
-      "end_ms": 315
+      "end_ms": 314
     },
     "177": {
       "title": "CHECK وجوب العمل بالإجماع المنقول بخبر الواحد",
       "level": 3,
       "parent": 154,
-      "start_ms": 315,
-      "end_ms": 316
+      "start_ms": 314,
+      "end_ms": 315
     },
     "178": {
       "title": "AUTO إنكار حكم الإجماع القطعي",
       "level": 3,
       "parent": 154,
-      "start_ms": 316,
-      "end_ms": 317
+      "start_ms": 315,
+      "end_ms": 316
     },
     "179": {
       "title": "AUTO التمسك بالإجماع فيما تتوقف حجية الإجماع عليه",
       "level": 3,
       "parent": 154,
-      "start_ms": 317,
+      "start_ms": 316,
       "end_ms": 317
     },
     "180": {
@@ -1259,20 +1259,20 @@
       "level": 2,
       "parent": 56,
       "start_ms": 317,
-      "end_ms": 364
+      "end_ms": 363
     },
     "181": {
       "title": "CHECK الأخبار: ما يشترك فيه الكتاب والسنة والإجماع",
       "level": 3,
       "parent": 180,
       "start_ms": 317,
-      "end_ms": 322
+      "end_ms": 321
     },
     "182": {
       "title": "CHECK صيغ العقود إنشاء لا أخبار",
       "level": 3,
       "parent": 180,
-      "start_ms": 322,
+      "start_ms": 321,
       "end_ms": 322
     },
     "183": {
@@ -1287,13 +1287,13 @@
       "level": 3,
       "parent": 180,
       "start_ms": 322,
-      "end_ms": 324
+      "end_ms": 323
     },
     "185": {
       "title": "CHECK تقسيم الخبر إلى صدق وكذب",
       "level": 3,
       "parent": 180,
-      "start_ms": 324,
+      "start_ms": 323,
       "end_ms": 325
     },
     "186": {
@@ -1308,13 +1308,13 @@
       "level": 3,
       "parent": 180,
       "start_ms": 326,
-      "end_ms": 328
+      "end_ms": 327
     },
     "188": {
       "title": "CHECK العلم الحاصل من المتواتر ضروري أم نظري؟",
       "level": 3,
       "parent": 180,
-      "start_ms": 328,
+      "start_ms": 327,
       "end_ms": 329
     },
     "189": {
@@ -1322,27 +1322,27 @@
       "level": 3,
       "parent": 180,
       "start_ms": 329,
-      "end_ms": 333
+      "end_ms": 332
     },
     "190": {
       "title": "AUTO التواتر المعنوي",
       "level": 3,
       "parent": 180,
-      "start_ms": 333,
-      "end_ms": 333
+      "start_ms": 332,
+      "end_ms": 332
     },
     "191": {
       "title": "CHECK حكم إفادة خبر الواحد العدل العلم",
       "level": 3,
       "parent": 180,
-      "start_ms": 333,
-      "end_ms": 333
+      "start_ms": 332,
+      "end_ms": 332
     },
     "192": {
       "title": "CHECK تعريف خبر الواحد",
       "level": 3,
       "parent": 180,
-      "start_ms": 333,
+      "start_ms": 332,
       "end_ms": 335
     },
     "193": {
@@ -1350,27 +1350,27 @@
       "level": 3,
       "parent": 180,
       "start_ms": 335,
-      "end_ms": 336
+      "end_ms": 335
     },
     "194": {
       "title": "CHECK حكم خبر الواحد بحضرة كثيرين لم يكذبوه",
       "level": 3,
       "parent": 180,
-      "start_ms": 336,
-      "end_ms": 337
+      "start_ms": 335,
+      "end_ms": 336
     },
     "195": {
       "title": "CHECK حكم انفراد الواحد بالأخبار عما تتوفو الدواعي على نقل مثله",
       "level": 3,
       "parent": 180,
-      "start_ms": 337,
-      "end_ms": 340
+      "start_ms": 336,
+      "end_ms": 339
     },
     "196": {
       "title": "CHECK جواز التعبد بخبر الواحد عقلا",
       "level": 3,
       "parent": 180,
-      "start_ms": 340,
+      "start_ms": 339,
       "end_ms": 341
     },
     "197": {
@@ -1378,20 +1378,20 @@
       "level": 3,
       "parent": 180,
       "start_ms": 341,
-      "end_ms": 343
+      "end_ms": 342
     },
     "198": {
       "title": "CHECK الأدلة على وجوب العمل بخبر الواحد",
       "level": 3,
       "parent": 180,
-      "start_ms": 343,
-      "end_ms": 345
+      "start_ms": 342,
+      "end_ms": 344
     },
     "199": {
       "title": "CHECK أدلة المانعين على وجوب العمل بخبر الواحد",
       "level": 3,
       "parent": 180,
-      "start_ms": 345,
+      "start_ms": 344,
       "end_ms": 346
     },
     "200": {
@@ -1399,34 +1399,34 @@
       "level": 3,
       "parent": 180,
       "start_ms": 346,
-      "end_ms": 351
+      "end_ms": 350
     },
     "201": {
       "title": "CHECK الشرط الثاني: الإسلام",
       "level": 4,
       "parent": 200,
-      "start_ms": 348,
-      "end_ms": 350
+      "start_ms": 347,
+      "end_ms": 349
     },
     "202": {
       "title": "CHECK الشرط الثالث: رجحان الضبط",
       "level": 4,
       "parent": 200,
-      "start_ms": 350,
-      "end_ms": 350
+      "start_ms": 349,
+      "end_ms": 349
     },
     "203": {
       "title": "CHECK الشرط الرابع: عدالة الراوي",
       "level": 4,
       "parent": 200,
-      "start_ms": 350,
-      "end_ms": 351
+      "start_ms": 349,
+      "end_ms": 350
     },
     "204": {
       "title": "CHECK رواية مجهول الحال",
       "level": 3,
       "parent": 180,
-      "start_ms": 351,
+      "start_ms": 350,
       "end_ms": 352
     },
     "205": {
@@ -1434,13 +1434,13 @@
       "level": 3,
       "parent": 180,
       "start_ms": 352,
-      "end_ms": 353
+      "end_ms": 352
     },
     "206": {
       "title": "CHECK ذكر سبب الجرح والتعديل",
       "level": 3,
       "parent": 180,
-      "start_ms": 353,
+      "start_ms": 352,
       "end_ms": 354
     },
     "207": {
@@ -1448,20 +1448,20 @@
       "level": 3,
       "parent": 180,
       "start_ms": 354,
-      "end_ms": 355
+      "end_ms": 354
     },
     "208": {
       "title": "CHECK رواية العدل عن شخص",
       "level": 3,
       "parent": 180,
-      "start_ms": 355,
-      "end_ms": 356
+      "start_ms": 354,
+      "end_ms": 355
     },
     "209": {
       "title": "CHECK الصحابة كلهم عدول",
       "level": 3,
       "parent": 180,
-      "start_ms": 356,
+      "start_ms": 355,
       "end_ms": 356
     },
     "210": {
@@ -1469,27 +1469,27 @@
       "level": 3,
       "parent": 180,
       "start_ms": 356,
-      "end_ms": 358
+      "end_ms": 357
     },
     "211": {
       "title": "CHECK عدم اشتراط العدد في الرواية",
       "level": 3,
       "parent": 180,
-      "start_ms": 358,
-      "end_ms": 358
+      "start_ms": 357,
+      "end_ms": 357
     },
     "212": {
       "title": "CHECK قول من عاصر النبى صلى الله عليه وسلم: أنا صحابي",
       "level": 3,
       "parent": 180,
-      "start_ms": 358,
-      "end_ms": 359
+      "start_ms": 357,
+      "end_ms": 358
     },
     "213": {
       "title": "CHECK قول الصحابي قال رسول الله صلى الله عليه وسلم يحمل على أنه سمع منه",
       "level": 3,
       "parent": 180,
-      "start_ms": 359,
+      "start_ms": 358,
       "end_ms": 359
     },
     "214": {
@@ -1497,13 +1497,13 @@
       "level": 3,
       "parent": 180,
       "start_ms": 359,
-      "end_ms": 360
+      "end_ms": 359
     },
     "215": {
       "title": "CHECK قول الصحابي: أمرنا أو نهينا",
       "level": 3,
       "parent": 180,
-      "start_ms": 360,
+      "start_ms": 359,
       "end_ms": 360
     },
     "216": {
@@ -1525,41 +1525,41 @@
       "level": 3,
       "parent": 180,
       "start_ms": 361,
-      "end_ms": 362
+      "end_ms": 361
     },
     "219": {
       "title": "AUTO مستند غير الصحابي",
       "level": 3,
       "parent": 180,
-      "start_ms": 362,
-      "end_ms": 364
+      "start_ms": 361,
+      "end_ms": 363
     },
     "220": {
       "title": "AUTO المناولة",
       "level": 2,
       "parent": 56,
-      "start_ms": 364,
-      "end_ms": 364
+      "start_ms": 363,
+      "end_ms": 363
     },
     "221": {
       "title": "AUTO المناولة",
       "level": 2,
       "parent": 56,
-      "start_ms": 364,
-      "end_ms": 364
+      "start_ms": 363,
+      "end_ms": 363
     },
     "222": {
       "title": "AUTO الإجازة",
       "level": 2,
       "parent": 56,
-      "start_ms": 364,
-      "end_ms": 364
+      "start_ms": 363,
+      "end_ms": 363
     },
     "223": {
       "title": "AUTO الإجازة",
       "level": 2,
       "parent": 56,
-      "start_ms": 364,
+      "start_ms": 363,
       "end_ms": 378
     },
     "224": {
@@ -1567,13 +1567,13 @@
       "level": 3,
       "parent": 223,
       "start_ms": 366,
-      "end_ms": 368
+      "end_ms": 367
     },
     "225": {
       "title": "CHECK تكذيب الأصل الفرع",
       "level": 3,
       "parent": 223,
-      "start_ms": 368,
+      "start_ms": 367,
       "end_ms": 369
     },
     "226": {
@@ -1581,55 +1581,55 @@
       "level": 3,
       "parent": 223,
       "start_ms": 369,
-      "end_ms": 371
+      "end_ms": 370
     },
     "227": {
       "title": "AUTO زيادة الوصل مع الإرسال",
       "level": 3,
       "parent": 223,
-      "start_ms": 371,
-      "end_ms": 371
+      "start_ms": 370,
+      "end_ms": 370
     },
     "228": {
       "title": "AUTO الفرق بين الشاذ وزيادة الثقة",
       "level": 3,
       "parent": 223,
-      "start_ms": 371,
-      "end_ms": 372
+      "start_ms": 370,
+      "end_ms": 371
     },
     "229": {
       "title": "AUTO حذف بعض الخبر",
       "level": 3,
       "parent": 223,
-      "start_ms": 372,
-      "end_ms": 372
+      "start_ms": 371,
+      "end_ms": 371
     },
     "230": {
       "title": "AUTO حذف بعض الخبر",
       "level": 3,
       "parent": 223,
-      "start_ms": 372,
-      "end_ms": 372
+      "start_ms": 371,
+      "end_ms": 371
     },
     "231": {
       "title": "CHECK الخبر فيما تعم به البلوى",
       "level": 3,
       "parent": 223,
-      "start_ms": 372,
-      "end_ms": 373
+      "start_ms": 371,
+      "end_ms": 372
     },
     "232": {
       "title": "CHECK قبول خبر الواحد فيما يوجب الحد",
       "level": 3,
       "parent": 223,
-      "start_ms": 373,
-      "end_ms": 374
+      "start_ms": 372,
+      "end_ms": 373
     },
     "233": {
       "title": "CHECK حمل الصحابي ما يرويه على أحد محمليه",
       "level": 3,
       "parent": 223,
-      "start_ms": 374,
+      "start_ms": 373,
       "end_ms": 375
     },
     "234": {
@@ -1644,48 +1644,48 @@
       "level": 2,
       "parent": 56,
       "start_ms": 378,
-      "end_ms": 382
+      "end_ms": 381
     },
     "236": {
       "title": "AUTO المنقطع",
       "level": 2,
       "parent": 56,
-      "start_ms": 382,
-      "end_ms": 382
+      "start_ms": 381,
+      "end_ms": 381
     },
     "237": {
       "title": "AUTO المنقطع",
       "level": 2,
       "parent": 56,
-      "start_ms": 382,
-      "end_ms": 382
+      "start_ms": 381,
+      "end_ms": 381
     },
     "238": {
       "title": "AUTO الموقوف",
       "level": 2,
       "parent": 56,
-      "start_ms": 382,
-      "end_ms": 382
+      "start_ms": 381,
+      "end_ms": 381
     },
     "239": {
       "title": "CHECK مسألة:",
       "level": 3,
       "parent": 238,
-      "start_ms": 382,
-      "end_ms": 382
+      "start_ms": 381,
+      "end_ms": 381
     },
     "240": {
       "title": "AUTO الأمر",
       "level": 2,
       "parent": 56,
-      "start_ms": 382,
-      "end_ms": 382
+      "start_ms": 381,
+      "end_ms": 381
     },
     "241": {
       "title": "AUTO (الأمر",
       "level": 2,
       "parent": 56,
-      "start_ms": 382,
+      "start_ms": 381,
       "end_ms": 382
     },
     "242": {
@@ -1707,34 +1707,34 @@
       "level": 2,
       "parent": 56,
       "start_ms": 382,
-      "end_ms": 383
+      "end_ms": 382
     },
     "245": {
       "title": "AUTO الأمر",
       "level": 2,
       "parent": 56,
-      "start_ms": 383,
-      "end_ms": 412
+      "start_ms": 382,
+      "end_ms": 411
     },
     "246": {
       "title": "CHECK مسألة: حد الأمر اقتضاء فعل غير كف على جهة الاستعلاء",
       "level": 3,
       "parent": 245,
-      "start_ms": 384,
-      "end_ms": 385
+      "start_ms": 383,
+      "end_ms": 384
     },
     "247": {
       "title": "CHECK مسألة: المعتزلة لما أنكروا الكلام النفسي",
       "level": 3,
       "parent": 245,
-      "start_ms": 385,
-      "end_ms": 387
+      "start_ms": 384,
+      "end_ms": 386
     },
     "248": {
       "title": "CHECK مسألة: القائلون بالنفسياختلفوا في كون الأمر له صيغة",
       "level": 3,
       "parent": 245,
-      "start_ms": 387,
+      "start_ms": 386,
       "end_ms": 388
     },
     "249": {
@@ -1742,13 +1742,13 @@
       "level": 3,
       "parent": 245,
       "start_ms": 388,
-      "end_ms": 390
+      "end_ms": 389
     },
     "250": {
       "title": "CHECK مسألة: الندب، إذا أمرتكم بأمر فأتوا منه ما استطعتم",
       "level": 3,
       "parent": 245,
-      "start_ms": 390,
+      "start_ms": 389,
       "end_ms": 391
     },
     "251": {
@@ -1756,132 +1756,132 @@
       "level": 3,
       "parent": 245,
       "start_ms": 391,
-      "end_ms": 394
+      "end_ms": 393
     },
     "252": {
       "title": "AUTO (مسألة: الأمر إذا علق على علة ثابتة",
       "level": 3,
       "parent": 245,
-      "start_ms": 394,
-      "end_ms": 395
+      "start_ms": 393,
+      "end_ms": 394
     },
     "253": {
       "title": "CHECK مسألة: القائلون بالتكرار قائلون بالفور",
       "level": 3,
       "parent": 245,
-      "start_ms": 395,
-      "end_ms": 398
+      "start_ms": 394,
+      "end_ms": 397
     },
     "254": {
       "title": "CHECK مسألة: الأمر بالشئ ليس نهيا عن ضده",
       "level": 3,
       "parent": 245,
-      "start_ms": 398,
-      "end_ms": 400
+      "start_ms": 397,
+      "end_ms": 399
     },
     "255": {
       "title": "CHECK مسألة: القاضي: لو لم يكن إياه لكان ضدا",
       "level": 3,
       "parent": 245,
-      "start_ms": 400,
-      "end_ms": 402
+      "start_ms": 399,
+      "end_ms": 401
     },
     "256": {
       "title": "CHECK مسألة: التضمن: أمر الإيجاب طلب فعل يذم على تركه اتفاقا",
       "level": 3,
       "parent": 245,
-      "start_ms": 402,
-      "end_ms": 404
+      "start_ms": 401,
+      "end_ms": 403
     },
     "257": {
       "title": "CHECK مسألة: الطاردون متمسكا القاضي المتقدمان",
       "level": 3,
       "parent": 245,
-      "start_ms": 404,
-      "end_ms": 405
+      "start_ms": 403,
+      "end_ms": 404
     },
     "258": {
       "title": "CHECK مسألة: الطاردون في التضمن: لا يتم المطلوب بالنهى",
       "level": 3,
       "parent": 245,
-      "start_ms": 405,
-      "end_ms": 407
+      "start_ms": 404,
+      "end_ms": 406
     },
     "259": {
       "title": "CHECK مسألة: الإجزاء الامتثال فالاتيان بالمأمور به على وجه",
       "level": 3,
       "parent": 245,
-      "start_ms": 407,
-      "end_ms": 408
+      "start_ms": 406,
+      "end_ms": 407
     },
     "260": {
       "title": "AUTO (مسألة: صيغة الأمر بعد الحظر للإباحة على الأكثر",
       "level": 3,
       "parent": 245,
-      "start_ms": 408,
-      "end_ms": 409
+      "start_ms": 407,
+      "end_ms": 408
     },
     "261": {
       "title": "AUTO (مسألة: القضاء بأمر جديد",
       "level": 3,
       "parent": 245,
-      "start_ms": 409,
-      "end_ms": 410
+      "start_ms": 408,
+      "end_ms": 409
     },
     "262": {
       "title": "CHECK مسألة: الأمر بالأمر الشئ ليس أمرا بالشئ",
       "level": 3,
       "parent": 245,
-      "start_ms": 410,
-      "end_ms": 411
+      "start_ms": 409,
+      "end_ms": 410
     },
     "263": {
       "title": "CHECK مسأله: الأمران المتعاقبان بمتماثلين",
       "level": 3,
       "parent": 245,
-      "start_ms": 411,
-      "end_ms": 411
+      "start_ms": 410,
+      "end_ms": 410
     },
     "264": {
       "title": "CHECK مسألة: إذا أمر بفعل مطلق فالمطلوب الفعل الممكن",
       "level": 3,
       "parent": 245,
-      "start_ms": 411,
-      "end_ms": 412
+      "start_ms": 410,
+      "end_ms": 411
     },
     "265": {
       "title": "CHECK النهي",
       "level": 2,
       "parent": 56,
-      "start_ms": 412,
-      "end_ms": 418
+      "start_ms": 411,
+      "end_ms": 417
     },
     "266": {
       "title": "CHECK مسألة: النهي عن الشئ لعينه",
       "level": 3,
       "parent": 265,
-      "start_ms": 413,
-      "end_ms": 413
+      "start_ms": 412,
+      "end_ms": 412
     },
     "267": {
       "title": "CHECK مسألة: النهي: اقتضاء كف عن فعل على جهة الاستعلاء",
       "level": 3,
       "parent": 265,
-      "start_ms": 413,
-      "end_ms": 413
+      "start_ms": 412,
+      "end_ms": 412
     },
     "268": {
       "title": "CHECK مسألة: اللغة: لم تزل العلماء",
       "level": 3,
       "parent": 265,
-      "start_ms": 413,
-      "end_ms": 415
+      "start_ms": 412,
+      "end_ms": 414
     },
     "269": {
       "title": "CHECK مسألة: النافي: لو دل لناقض تصريح الصحة",
       "level": 3,
       "parent": 265,
-      "start_ms": 415,
+      "start_ms": 414,
       "end_ms": 415
     },
     "270": {
@@ -1889,69 +1889,69 @@
       "level": 3,
       "parent": 265,
       "start_ms": 415,
-      "end_ms": 417
+      "end_ms": 416
     },
     "271": {
       "title": "CHECK مسألة: النهي عن الشئ لوصفه",
       "level": 3,
       "parent": 265,
-      "start_ms": 417,
-      "end_ms": 418
+      "start_ms": 416,
+      "end_ms": 417
     },
     "272": {
       "title": "AUTO (مسألة: النهي يقتضي الدوام ظاهرا",
       "level": 3,
       "parent": 265,
-      "start_ms": 418,
-      "end_ms": 418
+      "start_ms": 417,
+      "end_ms": 417
     },
     "273": {
       "title": "CHECK مسألة:",
       "level": 3,
       "parent": 265,
-      "start_ms": 418,
-      "end_ms": 418
+      "start_ms": 417,
+      "end_ms": 417
     },
     "274": {
       "title": "AUTO العام والخاص",
       "level": 2,
       "parent": 56,
-      "start_ms": 418,
-      "end_ms": 418
+      "start_ms": 417,
+      "end_ms": 417
     },
     "275": {
       "title": "AUTO (العام والخاص",
       "level": 2,
       "parent": 56,
-      "start_ms": 418,
-      "end_ms": 466
+      "start_ms": 417,
+      "end_ms": 465
     },
     "276": {
       "title": "AUTO (مسألة: العموم من عوارض الألفاظ حقيقة",
       "level": 3,
       "parent": 275,
-      "start_ms": 420,
-      "end_ms": 422
+      "start_ms": 419,
+      "end_ms": 421
     },
     "277": {
       "title": "CHECK مسألة: للعموم صيغة",
       "level": 3,
       "parent": 275,
-      "start_ms": 422,
-      "end_ms": 424
+      "start_ms": 421,
+      "end_ms": 423
     },
     "278": {
       "title": "CHECK مسألة: الخصوص متيقن",
       "level": 3,
       "parent": 275,
-      "start_ms": 424,
-      "end_ms": 425
+      "start_ms": 423,
+      "end_ms": 424
     },
     "279": {
       "title": "AUTO (مسألة: الجمع المنكر ليس بعام",
       "level": 3,
       "parent": 275,
-      "start_ms": 425,
+      "start_ms": 424,
       "end_ms": 426
     },
     "280": {
@@ -1959,20 +1959,20 @@
       "level": 3,
       "parent": 275,
       "start_ms": 426,
-      "end_ms": 428
+      "end_ms": 427
     },
     "281": {
       "title": "CHECK مسألة: إذا خص العام كان مجازا في الباقي",
       "level": 3,
       "parent": 275,
-      "start_ms": 428,
-      "end_ms": 429
+      "start_ms": 427,
+      "end_ms": 428
     },
     "282": {
       "title": "CHECK مسألة: إذا بقي غير منحصر فهو معنى العموم",
       "level": 3,
       "parent": 275,
-      "start_ms": 429,
+      "start_ms": 428,
       "end_ms": 431
     },
     "283": {
@@ -1980,13 +1980,13 @@
       "level": 3,
       "parent": 275,
       "start_ms": 431,
-      "end_ms": 433
+      "end_ms": 432
     },
     "284": {
       "title": "AUTO (مسألة: جواب السائل غير المستقل",
       "level": 3,
       "parent": 275,
-      "start_ms": 433,
+      "start_ms": 432,
       "end_ms": 436
     },
     "285": {
@@ -1994,2022 +1994,2022 @@
       "level": 3,
       "parent": 275,
       "start_ms": 436,
-      "end_ms": 441
+      "end_ms": 440
     },
     "286": {
       "title": "AUTO (مسألة: نفي المساواة",
       "level": 3,
       "parent": 275,
-      "start_ms": 441,
-      "end_ms": 443
+      "start_ms": 440,
+      "end_ms": 442
     },
     "287": {
       "title": "AUTO (مسألة: المقتضي",
       "level": 3,
       "parent": 275,
-      "start_ms": 443,
-      "end_ms": 444
+      "start_ms": 442,
+      "end_ms": 443
     },
     "288": {
       "title": "CHECK مسألة: لا أكلت، وإن أكلت: عام",
       "level": 3,
       "parent": 275,
-      "start_ms": 444,
-      "end_ms": 446
+      "start_ms": 443,
+      "end_ms": 445
     },
     "289": {
       "title": "AUTO (مسألة: الفعل المثبت لا يكون عاما في أقسامه",
       "level": 3,
       "parent": 275,
-      "start_ms": 446,
-      "end_ms": 447
+      "start_ms": 445,
+      "end_ms": 446
     },
     "290": {
       "title": "CHECK مسألة: نحو قول الصحابي: نهى عليه الصلاة والسلام عن",
       "level": 3,
       "parent": 275,
-      "start_ms": 447,
-      "end_ms": 447
+      "start_ms": 446,
+      "end_ms": 446
     },
     "291": {
       "title": "CHECK مسألة: إذا علق الحكم على علة عم بالقياس شرعا لا بالصيغة",
       "level": 3,
       "parent": 275,
-      "start_ms": 447,
-      "end_ms": 449
+      "start_ms": 446,
+      "end_ms": 448
     },
     "292": {
       "title": "AUTO (مسألة: الخلاف في أن المفهوم له عموم لا يتحقق",
       "level": 3,
       "parent": 275,
-      "start_ms": 449,
-      "end_ms": 449
+      "start_ms": 448,
+      "end_ms": 448
     },
     "293": {
       "title": "CHECK مسألة: قالت الحنفية: مثل قوله صلى الله عليه وسلم: لا يقتل مسلم بكافر",
       "level": 3,
       "parent": 275,
-      "start_ms": 449,
-      "end_ms": 452
+      "start_ms": 448,
+      "end_ms": 451
     },
     "294": {
       "title": "CHECK مسألة: {يا أيها المزمل}، {لئن أشركت} ليس بعام للأمة",
       "level": 3,
       "parent": 275,
-      "start_ms": 452,
-      "end_ms": 454
+      "start_ms": 451,
+      "end_ms": 453
     },
     "295": {
       "title": "CHECK مسألة: ما خطابه لواحد لا يعم",
       "level": 3,
       "parent": 275,
-      "start_ms": 454,
-      "end_ms": 456
+      "start_ms": 453,
+      "end_ms": 455
     },
     "296": {
       "title": "CHECK مسألة: جمع المذكر السالم كالمسلمين ونحو: فعلوا",
       "level": 3,
       "parent": 275,
-      "start_ms": 456,
-      "end_ms": 458
+      "start_ms": 455,
+      "end_ms": 457
     },
     "297": {
       "title": "CHECK مسألة: من الشرطية تشمل المؤنث عند الأكثر",
       "level": 3,
       "parent": 275,
-      "start_ms": 458,
-      "end_ms": 459
+      "start_ms": 457,
+      "end_ms": 458
     },
     "298": {
       "title": "AUTO (مسألة: الخطاب بالناس والمؤمنين يشمل العبيد",
       "level": 3,
       "parent": 275,
-      "start_ms": 459,
-      "end_ms": 460
+      "start_ms": 458,
+      "end_ms": 459
     },
     "299": {
       "title": "CHECK مسألة: {يا أيها الناس}، {يا عبادي} يشمل الرسول",
       "level": 3,
       "parent": 275,
-      "start_ms": 460,
-      "end_ms": 462
+      "start_ms": 459,
+      "end_ms": 461
     },
     "300": {
       "title": "CHECK مسألة: {يا أيها الناس} ليس خطابا لمن بعده",
       "level": 3,
       "parent": 275,
-      "start_ms": 462,
-      "end_ms": 463
+      "start_ms": 461,
+      "end_ms": 462
     },
     "301": {
       "title": "CHECK مسألة: المخاطب داخل في عموم متعلق خطابه",
       "level": 3,
       "parent": 275,
-      "start_ms": 463,
-      "end_ms": 464
+      "start_ms": 462,
+      "end_ms": 463
     },
     "302": {
       "title": "CHECK مسألة: مثل: {خذ من أموالهم صدقة}",
       "level": 3,
       "parent": 275,
-      "start_ms": 464,
-      "end_ms": 465
+      "start_ms": 463,
+      "end_ms": 464
     },
     "303": {
       "title": "AUTO (مسألة: العام بمعنى المدح والذم",
       "level": 3,
       "parent": 275,
-      "start_ms": 465,
-      "end_ms": 466
+      "start_ms": 464,
+      "end_ms": 465
     },
     "304": {
       "title": "CHECK مسألة:",
       "level": 3,
       "parent": 275,
-      "start_ms": 466,
-      "end_ms": 466
+      "start_ms": 465,
+      "end_ms": 465
     },
     "305": {
       "title": "AUTO التخصيص",
       "level": 2,
       "parent": 56,
-      "start_ms": 466,
-      "end_ms": 466
+      "start_ms": 465,
+      "end_ms": 465
     },
     "306": {
       "title": "AUTO (التخصيص",
       "level": 2,
       "parent": 56,
-      "start_ms": 466,
-      "end_ms": 466
+      "start_ms": 465,
+      "end_ms": 465
     },
     "307": {
       "title": "AUTO التخصيص",
       "level": 2,
       "parent": 56,
-      "start_ms": 466,
-      "end_ms": 466
+      "start_ms": 465,
+      "end_ms": 465
     },
     "308": {
       "title": "AUTO التخصيص",
       "level": 2,
       "parent": 56,
-      "start_ms": 466,
-      "end_ms": 466
+      "start_ms": 465,
+      "end_ms": 465
     },
     "309": {
       "title": "AUTO التخصيص",
       "level": 2,
       "parent": 56,
-      "start_ms": 466,
-      "end_ms": 466
+      "start_ms": 465,
+      "end_ms": 465
     },
     "310": {
       "title": "AUTO التخصيص",
       "level": 2,
       "parent": 56,
-      "start_ms": 466,
-      "end_ms": 510
+      "start_ms": 465,
+      "end_ms": 508
     },
     "311": {
       "title": "AUTO (مسألة: التخصيص جائز إلا عند شذوذ",
       "level": 3,
       "parent": 310,
-      "start_ms": 468,
-      "end_ms": 470
+      "start_ms": 467,
+      "end_ms": 469
     },
     "312": {
       "title": "CHECK مسألة: المخصص متصل ومنفصل",
       "level": 3,
       "parent": 310,
-      "start_ms": 470,
-      "end_ms": 471
+      "start_ms": 469,
+      "end_ms": 470
     },
     "313": {
       "title": "CHECK مسألة: وأما حده: فعلى التواطؤ ما دل على مخالفة بإلا",
       "level": 3,
       "parent": 310,
-      "start_ms": 471,
-      "end_ms": 474
+      "start_ms": 470,
+      "end_ms": 473
     },
     "314": {
       "title": "CHECK مسألة: وقد اختلف في تقرير الدلالة في الاستثناء",
       "level": 3,
       "parent": 310,
-      "start_ms": 474,
-      "end_ms": 478
+      "start_ms": 473,
+      "end_ms": 477
     },
     "315": {
       "title": "AUTO (مسألة: شرط الاستثناء الاتصال لفظا",
       "level": 3,
       "parent": 310,
-      "start_ms": 478,
-      "end_ms": 481
+      "start_ms": 477,
+      "end_ms": 480
     },
     "316": {
       "title": "AUTO (مسألة: الاستثناء المستغرق باطل باتفاق",
       "level": 3,
       "parent": 310,
-      "start_ms": 481,
-      "end_ms": 483
+      "start_ms": 480,
+      "end_ms": 482
     },
     "317": {
       "title": "AUTO (مسألة: الاستثناء بعد جمل بالواو",
       "level": 3,
       "parent": 310,
-      "start_ms": 483,
-      "end_ms": 484
+      "start_ms": 482,
+      "end_ms": 483
     },
     "318": {
       "title": "CHECK مسألة: الشافعية: العطف يصير المتعدد كالمفرد",
       "level": 3,
       "parent": 310,
-      "start_ms": 484,
-      "end_ms": 485
+      "start_ms": 483,
+      "end_ms": 484
     },
     "319": {
       "title": "CHECK مسألة: المخصص: آية القذف لم ترجع إلى الجلد اتفاقا",
       "level": 3,
       "parent": 310,
-      "start_ms": 485,
-      "end_ms": 488
+      "start_ms": 484,
+      "end_ms": 487
     },
     "320": {
       "title": "AUTO (مسألة: الاستثناء من الإثبات نفي وبالعكس",
       "level": 3,
       "parent": 310,
-      "start_ms": 488,
-      "end_ms": 490
+      "start_ms": 487,
+      "end_ms": 489
     },
     "321": {
       "title": "CHECK مسألة: التخصيص بالشرط",
       "level": 3,
       "parent": 310,
-      "start_ms": 490,
-      "end_ms": 493
+      "start_ms": 489,
+      "end_ms": 492
     },
     "322": {
       "title": "CHECK مسألة: التخصيص بالمنفصل",
       "level": 3,
       "parent": 310,
-      "start_ms": 493,
-      "end_ms": 493
+      "start_ms": 492,
+      "end_ms": 492
     },
     "323": {
       "title": "CHECK مسألة: التخصيص بالغاية",
       "level": 3,
       "parent": 310,
-      "start_ms": 493,
-      "end_ms": 493
+      "start_ms": 492,
+      "end_ms": 492
     },
     "324": {
       "title": "CHECK مسألة: التخصيص بالصفة",
       "level": 3,
       "parent": 310,
-      "start_ms": 493,
-      "end_ms": 495
+      "start_ms": 492,
+      "end_ms": 494
     },
     "325": {
       "title": "CHECK مسألة: يجوز تخصيص الكتاب بالكتاب",
       "level": 3,
       "parent": 310,
-      "start_ms": 495,
-      "end_ms": 498
+      "start_ms": 494,
+      "end_ms": 497
     },
     "326": {
       "title": "AUTO (مسألة: يجوز تخصيص السنة بالسنة",
       "level": 3,
       "parent": 310,
-      "start_ms": 498,
-      "end_ms": 498
+      "start_ms": 497,
+      "end_ms": 497
     },
     "327": {
       "title": "CHECK مسألة: يجوز تخصيص القرآن بالسنة",
       "level": 3,
       "parent": 310,
-      "start_ms": 498,
-      "end_ms": 498
+      "start_ms": 497,
+      "end_ms": 497
     },
     "328": {
       "title": "CHECK مسألة: يجوز تخصيص القرآن بخبر الواحد",
       "level": 3,
       "parent": 310,
-      "start_ms": 498,
-      "end_ms": 500
+      "start_ms": 497,
+      "end_ms": 499
     },
     "329": {
       "title": "AUTO (مسألة: الإجماع يخصص القرآن والسنة",
       "level": 3,
       "parent": 310,
-      "start_ms": 500,
-      "end_ms": 501
+      "start_ms": 499,
+      "end_ms": 500
     },
     "330": {
       "title": "AUTO (مسألة: العام يخص بالمفهوم",
       "level": 3,
       "parent": 310,
-      "start_ms": 501,
-      "end_ms": 501
+      "start_ms": 500,
+      "end_ms": 500
     },
     "331": {
       "title": "AUTO (مسألة: فعله عليه السلام يخصص العموم",
       "level": 3,
       "parent": 310,
-      "start_ms": 501,
-      "end_ms": 502
+      "start_ms": 500,
+      "end_ms": 501
     },
     "332": {
       "title": "AUTO (مسألة: الجمهور: إذا علم صلى الله عليه وسلم بفعل مخالف للعموم",
       "level": 3,
       "parent": 310,
-      "start_ms": 502,
-      "end_ms": 503
+      "start_ms": 501,
+      "end_ms": 501
     },
     "333": {
       "title": "AUTO (مسألة: الجمهور: مذهب الصحابي ليس بمخصص",
       "level": 3,
       "parent": 310,
-      "start_ms": 503,
-      "end_ms": 503
+      "start_ms": 501,
+      "end_ms": 502
     },
     "334": {
       "title": "CHECK مسألة: الجمهور: العادة في تناول بعض خاص ليس بمخصص",
       "level": 3,
       "parent": 310,
-      "start_ms": 503,
-      "end_ms": 505
+      "start_ms": 502,
+      "end_ms": 503
     },
     "335": {
       "title": "AUTO (مسألة: الجمهور: إذا وافق الخاص حكم العام فلا تخصيص",
       "level": 3,
       "parent": 310,
-      "start_ms": 505,
-      "end_ms": 505
+      "start_ms": 503,
+      "end_ms": 504
     },
     "336": {
       "title": "AUTO (مسألة: رجوع الضمير إلى البعض ليس بتخصيص",
       "level": 3,
       "parent": 310,
-      "start_ms": 505,
-      "end_ms": 506
+      "start_ms": 504,
+      "end_ms": 505
     },
     "337": {
       "title": "CHECK مسألة: جواز تخصيص العموم بالقياس",
       "level": 3,
       "parent": 310,
-      "start_ms": 506,
-      "end_ms": 510
+      "start_ms": 505,
+      "end_ms": 508
     },
     "338": {
       "title": "CHECK المطلق والمقيد",
       "level": 2,
       "parent": 56,
-      "start_ms": 510,
-      "end_ms": 513
+      "start_ms": 508,
+      "end_ms": 512
     },
     "339": {
       "title": "AUTO (مسألة: المطلق: ما دل على شائع في جنسه",
       "level": 3,
       "parent": 338,
-      "start_ms": 510,
-      "end_ms": 511
+      "start_ms": 509,
+      "end_ms": 510
     },
     "340": {
       "title": "AUTO مسألة: إذا ورد مطلق ومقيد",
       "level": 3,
       "parent": 338,
-      "start_ms": 511,
-      "end_ms": 513
+      "start_ms": 510,
+      "end_ms": 512
     },
     "341": {
       "title": "CHECK مسألة:",
       "level": 3,
       "parent": 338,
-      "start_ms": 513,
-      "end_ms": 513
+      "start_ms": 512,
+      "end_ms": 512
     },
     "342": {
       "title": "AUTO المجمل",
       "level": 2,
       "parent": 56,
-      "start_ms": 513,
-      "end_ms": 514
+      "start_ms": 512,
+      "end_ms": 512
     },
     "343": {
       "title": "AUTO (المجمل",
       "level": 2,
       "parent": 56,
-      "start_ms": 514,
-      "end_ms": 514
+      "start_ms": 512,
+      "end_ms": 513
     },
     "344": {
       "title": "AUTO المجمل",
       "level": 2,
       "parent": 56,
-      "start_ms": 514,
-      "end_ms": 522
+      "start_ms": 513,
+      "end_ms": 521
     },
     "345": {
       "title": "AUTO (مسألة: لا إجمال في نحو: {حرمت عليكم الميتة}",
       "level": 3,
       "parent": 344,
-      "start_ms": 515,
-      "end_ms": 515
+      "start_ms": 514,
+      "end_ms": 514
     },
     "346": {
       "title": "CHECK مسألة: لا إجمال في نحو: {وامسحوا برؤوسكم}",
       "level": 3,
       "parent": 344,
-      "start_ms": 515,
-      "end_ms": 516
+      "start_ms": 514,
+      "end_ms": 515
     },
     "347": {
       "title": "CHECK مسألة: لا إجمال في نحو: \"رفع عن أمتي الخطأ والنسيان\"",
       "level": 3,
       "parent": 344,
-      "start_ms": 516,
-      "end_ms": 516
+      "start_ms": 515,
+      "end_ms": 515
     },
     "348": {
       "title": "CHECK مسألة: لا إجمال في نحو: \"لا صلاة إلا بطهور\"",
       "level": 3,
       "parent": 344,
-      "start_ms": 516,
-      "end_ms": 518
+      "start_ms": 515,
+      "end_ms": 517
     },
     "349": {
       "title": "CHECK مسألة: لا إجمال في نحو: {والسارق والسارقة فاقطعوا. . .}",
       "level": 3,
       "parent": 344,
-      "start_ms": 518,
-      "end_ms": 519
+      "start_ms": 517,
+      "end_ms": 518
     },
     "350": {
       "title": "CHECK مسألة: المختار: أن اللفظ لمعنى تارة ولمعنيين أخرى",
       "level": 3,
       "parent": 344,
-      "start_ms": 519,
-      "end_ms": 520
+      "start_ms": 518,
+      "end_ms": 519
     },
     "351": {
       "title": "AUTO (مسألة: لا إجمال فيما له محمل لغوي",
       "level": 3,
       "parent": 344,
-      "start_ms": 520,
-      "end_ms": 521
+      "start_ms": 519,
+      "end_ms": 520
     },
     "352": {
       "title": "AUTO (مسألة: لا إجمال فيما له مسمى لغوي ومسمى شرعي",
       "level": 3,
       "parent": 344,
-      "start_ms": 521,
-      "end_ms": 522
+      "start_ms": 520,
+      "end_ms": 521
     },
     "353": {
       "title": "CHECK مسألة: يطلق البيان على الفعل المبين",
       "level": 3,
       "parent": 344,
-      "start_ms": 522,
-      "end_ms": 522
+      "start_ms": 521,
+      "end_ms": 521
     },
     "354": {
       "title": "AUTO (البيان والمبين",
       "level": 2,
       "parent": 56,
-      "start_ms": 522,
-      "end_ms": 535
+      "start_ms": 521,
+      "end_ms": 534
     },
     "355": {
       "title": "CHECK مسألة: المختار: أن الفعل يكون بيانا",
       "level": 3,
       "parent": 354,
-      "start_ms": 523,
-      "end_ms": 524
+      "start_ms": 521,
+      "end_ms": 523
     },
     "356": {
       "title": "AUTO (مسألة: إذا ورد بعد المجمل قول وفعل",
       "level": 3,
       "parent": 354,
-      "start_ms": 524,
-      "end_ms": 525
+      "start_ms": 523,
+      "end_ms": 524
     },
     "357": {
       "title": "AUTO (مسألة: المختار: أن البيان أقوى",
       "level": 3,
       "parent": 354,
-      "start_ms": 525,
-      "end_ms": 525
+      "start_ms": 524,
+      "end_ms": 524
     },
     "358": {
       "title": "AUTO (مسألة: تأخير البيان عن وقت الحاجة ممتنع",
       "level": 3,
       "parent": 354,
-      "start_ms": 525,
-      "end_ms": 527
+      "start_ms": 524,
+      "end_ms": 526
     },
     "359": {
       "title": "CHECK مسألة: واستدل بقوله تعالى: {أن تذبحوا بقرة} وكانت معينة",
       "level": 3,
       "parent": 354,
-      "start_ms": 527,
-      "end_ms": 529
+      "start_ms": 526,
+      "end_ms": 528
     },
     "360": {
       "title": "CHECK مسألة: المانع بيان الظاهر",
       "level": 3,
       "parent": 354,
-      "start_ms": 529,
-      "end_ms": 531
+      "start_ms": 528,
+      "end_ms": 530
     },
     "361": {
       "title": "CHECK مسأله: المختار على المنع: جواز تأخير إسماع المخصص الموجود",
       "level": 3,
       "parent": 354,
-      "start_ms": 531,
-      "end_ms": 532
+      "start_ms": 530,
+      "end_ms": 531
     },
     "362": {
       "title": "CHECK مسألة: المختار على المنع: جواز تأخيره عليه السلام تبليغ الحكم",
       "level": 3,
       "parent": 354,
-      "start_ms": 532,
-      "end_ms": 533
+      "start_ms": 531,
+      "end_ms": 532
     },
     "363": {
       "title": "AUTO (مسألة: المختار على التجويز: جواز بعض دون بعض",
       "level": 3,
       "parent": 354,
-      "start_ms": 533,
-      "end_ms": 533
+      "start_ms": 532,
+      "end_ms": 532
     },
     "364": {
       "title": "AUTO (مسألة: يمتنع العمل بالعموم قبل البحث عن المخصص",
       "level": 3,
       "parent": 354,
-      "start_ms": 533,
-      "end_ms": 535
+      "start_ms": 532,
+      "end_ms": 533
     },
     "365": {
       "title": "CHECK مسألة: الظاهر: الواضح",
       "level": 3,
       "parent": 354,
-      "start_ms": 535,
-      "end_ms": 535
+      "start_ms": 533,
+      "end_ms": 534
     },
     "366": {
       "title": "AUTO (الظاهر والمؤول",
       "level": 2,
       "parent": 56,
-      "start_ms": 535,
-      "end_ms": 540
+      "start_ms": 534,
+      "end_ms": 539
     },
     "367": {
       "title": "CHECK مسألة: يكون قريبا فيترجح بأدى مرجح",
       "level": 3,
       "parent": 366,
-      "start_ms": 536,
-      "end_ms": 537
+      "start_ms": 535,
+      "end_ms": 535
     },
     "368": {
       "title": "CHECK مسألة: ومنها قولهم في {إطعام ستين مسكينا}",
       "level": 3,
       "parent": 366,
-      "start_ms": 537,
-      "end_ms": 538
+      "start_ms": 535,
+      "end_ms": 537
     },
     "369": {
       "title": "CHECK مسألة: ومنها: حمل \"أيما امرأة نكحت بغير إذن وليها\"",
       "level": 3,
       "parent": 366,
-      "start_ms": 538,
-      "end_ms": 539
+      "start_ms": 537,
+      "end_ms": 538
     },
     "370": {
       "title": "CHECK مسألة: ومنها: حملهم \"لا صيام لمن لم يبيت النية من الليل\"",
       "level": 3,
       "parent": 366,
-      "start_ms": 539,
-      "end_ms": 540
+      "start_ms": 538,
+      "end_ms": 539
     },
     "371": {
       "title": "CHECK مسألة: ما دل عليه اللفظ في محل اللفظ",
       "level": 3,
       "parent": 366,
-      "start_ms": 540,
-      "end_ms": 540
+      "start_ms": 539,
+      "end_ms": 539
     },
     "372": {
       "title": "AUTO (المفهوم والمنطوق",
       "level": 2,
       "parent": 56,
-      "start_ms": 540,
-      "end_ms": 565
+      "start_ms": 539,
+      "end_ms": 564
     },
     "373": {
       "title": "CHECK مسألة: ثم المفهوم: مفهوم موافقة ومخالفة",
       "level": 3,
       "parent": 372,
-      "start_ms": 543,
-      "end_ms": 545
+      "start_ms": 542,
+      "end_ms": 544
     },
     "374": {
       "title": "CHECK مسألة: مفهوم المخالفة: أن يكون المسكوت مخالفا",
       "level": 3,
       "parent": 372,
-      "start_ms": 545,
-      "end_ms": 547
+      "start_ms": 544,
+      "end_ms": 546
     },
     "375": {
       "title": "CHECK مسألة: فأما مفهوم الصفة فقال به الشافعي وأحمد",
       "level": 3,
       "parent": 372,
-      "start_ms": 547,
-      "end_ms": 548
+      "start_ms": 546,
+      "end_ms": 546
     },
     "376": {
       "title": "CHECK مسألة: المثبتون: قال أبو عبيد في \"لي الواجد يحل عقوبته وعرضة\"",
       "level": 3,
       "parent": 372,
-      "start_ms": 548,
-      "end_ms": 551
+      "start_ms": 546,
+      "end_ms": 550
     },
     "377": {
       "title": "CHECK مسألة: واستدل: لو لم يكن للحصر لزم الاشتراك",
       "level": 3,
       "parent": 372,
-      "start_ms": 551,
-      "end_ms": 556
+      "start_ms": 550,
+      "end_ms": 554
     },
     "378": {
       "title": "CHECK مسألة: لنا في: لو ثبت لثبت بدليل",
       "level": 3,
       "parent": 372,
-      "start_ms": 556,
-      "end_ms": 558
+      "start_ms": 554,
+      "end_ms": 557
     },
     "379": {
       "title": "CHECK مسألة: فأما مفهوم الشرط",
       "level": 3,
       "parent": 372,
-      "start_ms": 558,
-      "end_ms": 560
+      "start_ms": 557,
+      "end_ms": 558
     },
     "380": {
       "title": "CHECK مسألة: مفهوم الغاية",
       "level": 3,
       "parent": 372,
-      "start_ms": 560,
-      "end_ms": 560
+      "start_ms": 558,
+      "end_ms": 559
     },
     "381": {
       "title": "CHECK مسألة: وأما مفهوم اللقب",
       "level": 3,
       "parent": 372,
-      "start_ms": 560,
-      "end_ms": 561
+      "start_ms": 559,
+      "end_ms": 560
     },
     "382": {
       "title": "CHECK مسألة: وأما الحصر بإنما",
       "level": 3,
       "parent": 372,
-      "start_ms": 561,
-      "end_ms": 562
+      "start_ms": 560,
+      "end_ms": 561
     },
     "383": {
       "title": "CHECK مسألة: وأما مفهوم الحصر",
       "level": 3,
       "parent": 372,
-      "start_ms": 562,
-      "end_ms": 565
+      "start_ms": 561,
+      "end_ms": 564
     },
     "384": {
       "title": "CHECK مسألة:",
       "level": 3,
       "parent": 372,
-      "start_ms": 565,
-      "end_ms": 565
+      "start_ms": 564,
+      "end_ms": 564
     },
     "385": {
       "title": "AUTO النسخ",
       "level": 2,
       "parent": 56,
-      "start_ms": 565,
-      "end_ms": 565
+      "start_ms": 564,
+      "end_ms": 564
     },
     "386": {
       "title": "AUTO (النسخ",
       "level": 2,
       "parent": 56,
-      "start_ms": 565,
-      "end_ms": 566
+      "start_ms": 564,
+      "end_ms": 564
     },
     "387": {
       "title": "AUTO النسخ",
       "level": 2,
       "parent": 56,
-      "start_ms": 566,
-      "end_ms": 606
+      "start_ms": 564,
+      "end_ms": 604
     },
     "388": {
       "title": "CHECK مسألة: الإمام: اللفظ الدال على ظهور انتفاء شرط",
       "level": 3,
       "parent": 387,
-      "start_ms": 567,
-      "end_ms": 569
+      "start_ms": 566,
+      "end_ms": 568
     },
     "389": {
       "title": "CHECK مسألة: وقال الغزالي: الخطاب الدال على ارتفاع الحكم الثابت",
       "level": 3,
       "parent": 387,
-      "start_ms": 569,
-      "end_ms": 571
+      "start_ms": 568,
+      "end_ms": 569
     },
     "390": {
       "title": "CHECK مسألة: الإجماع على الجواز والوقوع",
       "level": 3,
       "parent": 387,
-      "start_ms": 571,
-      "end_ms": 572
+      "start_ms": 569,
+      "end_ms": 570
     },
     "391": {
       "title": "CHECK مسألة: قالوا: لو نسخت شريعة موسى",
       "level": 3,
       "parent": 387,
-      "start_ms": 572,
-      "end_ms": 575
+      "start_ms": 570,
+      "end_ms": 574
     },
     "392": {
       "title": "CHECK مسألة: لو جاز لكان قيل وجوده أو معه",
       "level": 3,
       "parent": 387,
-      "start_ms": 575,
-      "end_ms": 576
+      "start_ms": 574,
+      "end_ms": 574
     },
     "393": {
       "title": "CHECK مسألة: المختار: جواز النسخ قبل وقت الفعل",
       "level": 3,
       "parent": 387,
-      "start_ms": 576,
-      "end_ms": 578
+      "start_ms": 574,
+      "end_ms": 577
     },
     "394": {
       "title": "CHECK مسألة: إن كان مأمورا به ذلك الوقت توارد النفي والإثبات",
       "level": 3,
       "parent": 387,
-      "start_ms": 578,
-      "end_ms": 579
+      "start_ms": 577,
+      "end_ms": 577
     },
     "395": {
-      "title": "CHECK ms578 مسألة: المختار: جواز نسخ \"صوموا أبدا\"",
+      "title": "CHECK مسألة: المختار: جواز نسخ \"صوموا أبدا\"",
       "level": 3,
       "parent": 387,
-      "start_ms": 579,
-      "end_ms": 579
+      "start_ms": 577,
+      "end_ms": 578
     },
     "396": {
       "title": "AUTO (مسألة: الجمهور: جواز النسخ من غير بدل",
       "level": 3,
       "parent": 387,
-      "start_ms": 579,
-      "end_ms": 580
+      "start_ms": 578,
+      "end_ms": 579
     },
     "397": {
       "title": "AUTO (مسألة: الجمهور: جواز النسخ بأثقل",
       "level": 3,
       "parent": 387,
-      "start_ms": 580,
-      "end_ms": 582
+      "start_ms": 579,
+      "end_ms": 581
     },
     "398": {
       "title": "CHECK مسألة: يجوز نسخ التلاوة دون الحكم وبالعكس",
       "level": 3,
       "parent": 387,
-      "start_ms": 582,
-      "end_ms": 584
+      "start_ms": 581,
+      "end_ms": 583
     },
     "399": {
       "title": "CHECK مسألة: يجوز نسخ التكليف بالإخبار بنقيضه",
       "level": 3,
       "parent": 387,
-      "start_ms": 584,
-      "end_ms": 586
+      "start_ms": 583,
+      "end_ms": 585
     },
     "400": {
       "title": "AUTO (مسألة: يجوز نسخ القرآن بالقرآن",
       "level": 3,
       "parent": 387,
-      "start_ms": 586,
-      "end_ms": 588
+      "start_ms": 585,
+      "end_ms": 587
     },
     "401": {
       "title": "CHECK مسألة: ويتعين الناسخ بعلم تأخره",
       "level": 3,
       "parent": 387,
-      "start_ms": 588,
-      "end_ms": 590
+      "start_ms": 587,
+      "end_ms": 588
     },
     "402": {
       "title": "CHECK مسألة: الجمهور على نسخ السنة بالقرآن",
       "level": 3,
       "parent": 387,
-      "start_ms": 590,
-      "end_ms": 591
+      "start_ms": 588,
+      "end_ms": 590
     },
     "403": {
       "title": "AUTO (مسألة: الجمهور على جواز نسخ القرآن بالخبر المتواتر",
       "level": 3,
       "parent": 387,
-      "start_ms": 591,
-      "end_ms": 594
+      "start_ms": 590,
+      "end_ms": 592
     },
     "404": {
       "title": "AUTO (مسألة: الجمهور على أن الإجماع لا ينسخ",
       "level": 3,
       "parent": 387,
-      "start_ms": 594,
-      "end_ms": 594
+      "start_ms": 592,
+      "end_ms": 593
     },
     "405": {
       "title": "CHECK مسألة: الجمهور على أن الإجماع لا ينسخ لأنه إذا كان. . .",
       "level": 3,
       "parent": 387,
-      "start_ms": 594,
-      "end_ms": 595
+      "start_ms": 593,
+      "end_ms": 594
     },
     "406": {
       "title": "CHECK مسألة: المختار: أن القياس المظنون لا يكون ناسخا ولا منسوخا",
       "level": 3,
       "parent": 387,
-      "start_ms": 595,
-      "end_ms": 597
+      "start_ms": 594,
+      "end_ms": 595
     },
     "407": {
       "title": "CHECK مسألة: المختار: جواز نسخ أصل الفحوى",
       "level": 3,
       "parent": 387,
-      "start_ms": 597,
-      "end_ms": 598
+      "start_ms": 595,
+      "end_ms": 596
     },
     "408": {
       "title": "CHECK مسألة: المختار: أن نسخ حكم أصل القياس لا يبقى مع حكم الفرع",
       "level": 3,
       "parent": 387,
-      "start_ms": 598,
-      "end_ms": 599
+      "start_ms": 596,
+      "end_ms": 597
     },
     "409": {
       "title": "CHECK مسألة: المختار: أن الناسخ قبل تبليغه عليه السلام حكمه. . .",
       "level": 3,
       "parent": 387,
-      "start_ms": 599,
-      "end_ms": 600
+      "start_ms": 597,
+      "end_ms": 599
     },
     "410": {
       "title": "AUTO (مسألة: العبادات المستقلة ليست نسخا",
       "level": 3,
       "parent": 387,
-      "start_ms": 600,
-      "end_ms": 604
+      "start_ms": 599,
+      "end_ms": 602
     },
     "411": {
       "title": "AUTO (مسألة: إذا نقص جزء العبادة أو شرطها",
       "level": 3,
       "parent": 387,
-      "start_ms": 604,
-      "end_ms": 604
+      "start_ms": 602,
+      "end_ms": 603
     },
     "412": {
       "title": "CHECK مسألة: المختار: جواز نسخ وجوب معرفته",
       "level": 3,
       "parent": 387,
-      "start_ms": 604,
-      "end_ms": 606
+      "start_ms": 603,
+      "end_ms": 604
     },
     "413": {
       "title": "CHECK مسألة:",
       "level": 3,
       "parent": 387,
-      "start_ms": 606,
-      "end_ms": 606
+      "start_ms": 604,
+      "end_ms": 604
     },
     "414": {
       "title": "AUTO القياس",
       "level": 2,
       "parent": 56,
-      "start_ms": 606,
-      "end_ms": 606
+      "start_ms": 604,
+      "end_ms": 604
     },
     "415": {
       "title": "AUTO (القياس",
       "level": 2,
       "parent": 56,
-      "start_ms": 606,
-      "end_ms": 606
+      "start_ms": 604,
+      "end_ms": 604
     },
     "416": {
       "title": "AUTO القياس",
       "level": 2,
       "parent": 56,
-      "start_ms": 606,
-      "end_ms": 606
+      "start_ms": 604,
+      "end_ms": 604
     },
     "417": {
       "title": "AUTO القياس",
       "level": 2,
       "parent": 56,
-      "start_ms": 606,
-      "end_ms": 606
+      "start_ms": 604,
+      "end_ms": 605
     },
     "418": {
       "title": "AUTO القياس",
       "level": 2,
       "parent": 56,
-      "start_ms": 606,
-      "end_ms": 724
+      "start_ms": 605,
+      "end_ms": 722
     },
     "419": {
       "title": "CHECK مسألة: وأورد قيالس الدلالة",
       "level": 3,
       "parent": 418,
-      "start_ms": 607,
-      "end_ms": 609
+      "start_ms": 606,
+      "end_ms": 608
     },
     "420": {
       "title": "CHECK مسألة: وقولهم: بذل المجتهد قي استخراج الحق",
       "level": 3,
       "parent": 418,
-      "start_ms": 609,
-      "end_ms": 611
+      "start_ms": 608,
+      "end_ms": 610
     },
     "421": {
       "title": "CHECK مسألة: وأركانه: الأصل، والفرع، وحكم الأصل، والوصف الجامع",
       "level": 3,
       "parent": 418,
-      "start_ms": 611,
-      "end_ms": 612
+      "start_ms": 610,
+      "end_ms": 611
     },
     "422": {
       "title": "CHECK مسألة: ومن شرط حكم الأصل أن يكون شرعيا",
       "level": 3,
       "parent": 418,
-      "start_ms": 612,
-      "end_ms": 614
+      "start_ms": 611,
+      "end_ms": 613
     },
     "423": {
       "title": "CHECK مسألة: ومنها: ألا يكون معدولا به عن سنن القياس",
       "level": 3,
       "parent": 418,
-      "start_ms": 614,
-      "end_ms": 615
+      "start_ms": 613,
+      "end_ms": 614
     },
     "424": {
       "title": "CHECK مسألة: ومنها: ألا يكون ذا قياس مركب",
       "level": 3,
       "parent": 418,
-      "start_ms": 615,
-      "end_ms": 617
+      "start_ms": 614,
+      "end_ms": 616
     },
     "425": {
       "title": "CHECK مسألة: ومن شروط علة الأصل أن تكون بمعنى الباعث",
       "level": 3,
       "parent": 418,
-      "start_ms": 617,
-      "end_ms": 620
+      "start_ms": 616,
+      "end_ms": 618
     },
     "426": {
-      "title": "CHECK مسألة: ومنها: ألا تكون عدما ms619 في الحكم الثبوتي",
+      "title": "CHECK مسألة: ومنها: ألا تكون عدما في الحكم الثبوتي",
       "level": 3,
       "parent": 418,
-      "start_ms": 620,
-      "end_ms": 622
+      "start_ms": 618,
+      "end_ms": 621
     },
     "427": {
       "title": "CHECK مسألة: وألا يكون العدم جزءا منها",
       "level": 3,
       "parent": 418,
-      "start_ms": 622,
-      "end_ms": 623
+      "start_ms": 621,
+      "end_ms": 621
     },
     "428": {
       "title": "CHECK مسألة: وألا تكون المتعدية المحل ولا جزءا منه",
       "level": 3,
       "parent": 418,
-      "start_ms": 623,
-      "end_ms": 625
+      "start_ms": 621,
+      "end_ms": 624
     },
     "429": {
       "title": "CHECK مسألة: وفي النقض",
       "level": 3,
       "parent": 418,
-      "start_ms": 625,
-      "end_ms": 627
+      "start_ms": 624,
+      "end_ms": 625
     },
     "430": {
       "title": "CHECK مسألة: النقض يلزم منه مانع وانتفاء شرطه",
       "level": 3,
       "parent": 418,
-      "start_ms": 627,
-      "end_ms": 628
+      "start_ms": 625,
+      "end_ms": 627
     },
     "431": {
       "title": "CHECK مسألة: المجوز في المنصوصة",
       "level": 3,
       "parent": 418,
-      "start_ms": 628,
-      "end_ms": 629
+      "start_ms": 627,
+      "end_ms": 628
     },
     "432": {
       "title": "CHECK مسألة: المجوز في المستنبطة",
       "level": 3,
       "parent": 418,
-      "start_ms": 629,
-      "end_ms": 631
+      "start_ms": 628,
+      "end_ms": 629
     },
     "433": {
       "title": "CHECK مسألة: وفي الكسر، وهو وجود الحكمة المقصودة",
       "level": 3,
       "parent": 418,
-      "start_ms": 631,
-      "end_ms": 632
+      "start_ms": 629,
+      "end_ms": 631
     },
     "434": {
       "title": "CHECK مسألة: وفي النقض المكسور",
       "level": 3,
       "parent": 418,
-      "start_ms": 632,
-      "end_ms": 633
+      "start_ms": 631,
+      "end_ms": 632
     },
     "435": {
       "title": "CHECK مسألة: وأما العكس وهو انتفاء الحكم لانتفاء العلة",
       "level": 3,
       "parent": 418,
-      "start_ms": 633,
-      "end_ms": 634
+      "start_ms": 632,
+      "end_ms": 633
     },
     "436": {
       "title": "CHECK مسألة: وفي تعليل الحكم الواحد بعلتين أو علل",
       "level": 3,
       "parent": 418,
-      "start_ms": 634,
-      "end_ms": 636
+      "start_ms": 633,
+      "end_ms": 634
     },
     "437": {
       "title": "CHECK مسألة: المانع: لو جاز لكانت كل واحدة مستقلة وغير مستقلة",
       "level": 3,
       "parent": 418,
-      "start_ms": 636,
-      "end_ms": 638
+      "start_ms": 634,
+      "end_ms": 636
     },
     "438": {
       "title": "CHECK مسألة: القاضي: لا بعد في المنصوصة",
       "level": 3,
       "parent": 418,
-      "start_ms": 638,
-      "end_ms": 639
+      "start_ms": 636,
+      "end_ms": 637
     },
     "439": {
       "title": "CHECK مسألة: القائلون بالوقوع إذا اجتمعت، فالمختار: كل واحدة علة",
       "level": 3,
       "parent": 418,
-      "start_ms": 639,
-      "end_ms": 640
+      "start_ms": 637,
+      "end_ms": 639
     },
     "440": {
       "title": "CHECK مسألة: والمختار: جواز تعليل حكمين بعلة بمعنى الباعث",
       "level": 3,
       "parent": 418,
-      "start_ms": 640,
-      "end_ms": 641
+      "start_ms": 639,
+      "end_ms": 639
     },
     "441": {
       "title": "CHECK مسألة: ومنها: أن لا تتأخر عن حكم الأصل",
       "level": 3,
       "parent": 418,
-      "start_ms": 641,
-      "end_ms": 643
+      "start_ms": 639,
+      "end_ms": 642
     },
     "442": {
       "title": "CHECK مسألة: والمختار: جواز كونه حكما شرعيا إن كان باعثا",
       "level": 3,
       "parent": 418,
-      "start_ms": 643,
-      "end_ms": 644
+      "start_ms": 642,
+      "end_ms": 642
     },
     "443": {
       "title": "CHECK مسألة: والمختار: جواز تعدد الوصف ووقوعه",
       "level": 3,
       "parent": 418,
-      "start_ms": 644,
-      "end_ms": 645
+      "start_ms": 642,
+      "end_ms": 644
     },
     "444": {
       "title": "CHECK مسألة: لا يشترط القطع بالأصل",
       "level": 3,
       "parent": 418,
-      "start_ms": 645,
-      "end_ms": 647
+      "start_ms": 644,
+      "end_ms": 645
     },
     "445": {
       "title": "CHECK مسألة: ومن شرط الفرع أن يساوي في العلة علة الأصل",
       "level": 3,
       "parent": 418,
-      "start_ms": 647,
-      "end_ms": 647
+      "start_ms": 645,
+      "end_ms": 645
     },
     "446": {
       "title": "CHECK مسألة: حكم الأصل ثابت بالعلة",
       "level": 3,
       "parent": 418,
-      "start_ms": 647,
-      "end_ms": 648
+      "start_ms": 645,
+      "end_ms": 647
     },
     "447": {
       "title": "CHECK مسألة: الثاني النص",
       "level": 3,
       "parent": 418,
-      "start_ms": 648,
-      "end_ms": 648
+      "start_ms": 647,
+      "end_ms": 647
     },
     "448": {
       "title": "CHECK مسألة: مسالك العلة، الأول: الإجماع",
       "level": 3,
       "parent": 418,
-      "start_ms": 648,
-      "end_ms": 650
+      "start_ms": 647,
+      "end_ms": 648
     },
     "449": {
       "title": "CHECK مسألة: وتنبيه وايماء",
       "level": 3,
       "parent": 418,
-      "start_ms": 650,
-      "end_ms": 651
+      "start_ms": 648,
+      "end_ms": 649
     },
     "450": {
       "title": "CHECK مسألة: ومثل بالنظير لما سألته الخثعمية",
       "level": 3,
       "parent": 418,
-      "start_ms": 651,
-      "end_ms": 652
+      "start_ms": 649,
+      "end_ms": 651
     },
     "451": {
       "title": "CHECK مسألة: ومثل أن يفرق بين حكمين بصفة مع ذكرهما",
       "level": 3,
       "parent": 418,
-      "start_ms": 652,
-      "end_ms": 652
+      "start_ms": 651,
+      "end_ms": 651
     },
     "452": {
       "title": "CHECK مسألة: فإن ذكر الوصف صريحا",
       "level": 3,
       "parent": 418,
-      "start_ms": 652,
-      "end_ms": 654
+      "start_ms": 651,
+      "end_ms": 652
     },
     "453": {
       "title": "CHECK مسألة: السبر والتقسيم",
       "level": 3,
       "parent": 418,
-      "start_ms": 654,
-      "end_ms": 654
+      "start_ms": 652,
+      "end_ms": 653
     },
     "454": {
       "title": "CHECK مسألة: وطرق الحذف، منها: الإلغاء",
       "level": 3,
       "parent": 418,
-      "start_ms": 654,
-      "end_ms": 656
+      "start_ms": 653,
+      "end_ms": 654
     },
     "455": {
       "title": "CHECK مسألة: ومنها: طرده مطلقا كالطول والقصر",
       "level": 3,
       "parent": 418,
-      "start_ms": 656,
-      "end_ms": 656
+      "start_ms": 654,
+      "end_ms": 655
     },
     "456": {
       "title": "CHECK مسألة: ودليل العمل بالسبر وتخريج المناط وغيرهما",
       "level": 3,
       "parent": 418,
-      "start_ms": 656,
-      "end_ms": 657
+      "start_ms": 655,
+      "end_ms": 656
     },
     "457": {
       "title": "CHECK مسألة: الرابع: المناسبة والإخالة",
       "level": 3,
       "parent": 418,
-      "start_ms": 657,
-      "end_ms": 659
+      "start_ms": 656,
+      "end_ms": 658
     },
     "458": {
       "title": "CHECK مسألة: وقد يحصل بالمقصود من شرع الحكم يقينا وظنا",
       "level": 3,
       "parent": 418,
-      "start_ms": 659,
-      "end_ms": 661
+      "start_ms": 658,
+      "end_ms": 659
     },
     "459": {
       "title": "CHECK مسألة: والمقاصد ضربان",
       "level": 3,
       "parent": 418,
-      "start_ms": 661,
-      "end_ms": 662
+      "start_ms": 659,
+      "end_ms": 661
     },
     "460": {
       "title": "AUTO (مسألة: المختار: انخرام المناسبة بمفسدة تلزم",
       "level": 3,
       "parent": 418,
-      "start_ms": 662,
-      "end_ms": 663
+      "start_ms": 661,
+      "end_ms": 662
     },
     "461": {
       "title": "CHECK مسألة: والمناسب: مؤثر، وملائم، وغريب، ومرسل",
       "level": 3,
       "parent": 418,
-      "start_ms": 663,
-      "end_ms": 665
+      "start_ms": 662,
+      "end_ms": 664
     },
     "462": {
       "title": "CHECK مسألة: فالأول: كالتعليل بالصغر",
       "level": 3,
       "parent": 418,
-      "start_ms": 665,
-      "end_ms": 668
+      "start_ms": 664,
+      "end_ms": 666
     },
     "463": {
       "title": "CHECK مسألة: وثبت علية الشبه لجميع المسالك",
       "level": 3,
       "parent": 418,
-      "start_ms": 668,
-      "end_ms": 670
+      "start_ms": 666,
+      "end_ms": 668
     },
     "464": {
       "title": "CHECK مسألة: الطرد والعكس",
       "level": 3,
       "parent": 418,
-      "start_ms": 670,
-      "end_ms": 671
+      "start_ms": 668,
+      "end_ms": 670
     },
     "465": {
       "title": "CHECK مسألة: والقياس جلي وخفي",
       "level": 3,
       "parent": 418,
-      "start_ms": 671,
-      "end_ms": 672
+      "start_ms": 670,
+      "end_ms": 671
     },
     "466": {
       "title": "CHECK مسألة: يجوز التعبد بالقياس",
       "level": 3,
       "parent": 418,
-      "start_ms": 672,
-      "end_ms": 674
+      "start_ms": 671,
+      "end_ms": 673
     },
     "467": {
       "title": "CHECK مسألة: النظام: إذا ثبت ورود الشرع بالفرق بين المتماثلات",
       "level": 3,
       "parent": 418,
-      "start_ms": 674,
-      "end_ms": 678
+      "start_ms": 673,
+      "end_ms": 677
     },
     "468": {
       "title": "CHECK مسألة: القائلون بالجواز قائلون بالوقوع",
       "level": 3,
       "parent": 418,
-      "start_ms": 678,
-      "end_ms": 681
+      "start_ms": 677,
+      "end_ms": 679
     },
     "469": {
       "title": "CHECK مسألة: واستدل بما تواتر معناه من ذكر العلل",
       "level": 3,
       "parent": 418,
-      "start_ms": 681,
-      "end_ms": 683
+      "start_ms": 679,
+      "end_ms": 681
     },
     "470": {
       "title": "AUTO (مسألة: النص على العلة لا يكفي في التعدي دون التعبد بالقياس",
       "level": 3,
       "parent": 418,
-      "start_ms": 683,
-      "end_ms": 685
+      "start_ms": 681,
+      "end_ms": 684
     },
     "471": {
       "title": "AUTO (مسألة: القياس يجري في الحدود والكفارات",
       "level": 3,
       "parent": 418,
-      "start_ms": 685,
-      "end_ms": 687
+      "start_ms": 684,
+      "end_ms": 685
     },
     "472": {
       "title": "AUTO (مسألة: لا يصح القياس في الأسباب",
       "level": 3,
       "parent": 418,
-      "start_ms": 687,
-      "end_ms": 688
+      "start_ms": 685,
+      "end_ms": 687
     },
     "473": {
       "title": "AUTO (مسألة: لا يجري القياس في جميع الأحكام",
       "level": 3,
       "parent": 418,
-      "start_ms": 688,
-      "end_ms": 689
+      "start_ms": 687,
+      "end_ms": 688
     },
     "474": {
       "title": "CHECK مسألة: الاعتراضات راجعة إلى منع أو معارضة",
       "level": 3,
       "parent": 418,
-      "start_ms": 689,
-      "end_ms": 692
+      "start_ms": 688,
+      "end_ms": 690
     },
     "475": {
       "title": "CHECK مسألة: فساد الاعتبار وهو مخالفة القياس النص",
       "level": 3,
       "parent": 418,
-      "start_ms": 692,
-      "end_ms": 694
+      "start_ms": 690,
+      "end_ms": 693
     },
     "476": {
       "title": "CHECK مسألة: فساد الوضع",
       "level": 3,
       "parent": 418,
-      "start_ms": 694,
-      "end_ms": 695
+      "start_ms": 693,
+      "end_ms": 694
     },
     "477": {
       "title": "CHECK مسألة: منع حكم الأصل",
       "level": 3,
       "parent": 418,
-      "start_ms": 695,
-      "end_ms": 696
+      "start_ms": 694,
+      "end_ms": 695
     },
     "478": {
       "title": "CHECK مسألة: التقسيم",
       "level": 3,
       "parent": 418,
-      "start_ms": 696,
-      "end_ms": 698
+      "start_ms": 695,
+      "end_ms": 697
     },
     "479": {
       "title": "CHECK مسألة: منع وجود المدعي علة في الأصل",
       "level": 3,
       "parent": 418,
-      "start_ms": 698,
-      "end_ms": 698
+      "start_ms": 697,
+      "end_ms": 697
     },
     "480": {
       "title": "CHECK مسألة: منع كونه علة",
       "level": 3,
       "parent": 418,
-      "start_ms": 698,
-      "end_ms": 700
+      "start_ms": 697,
+      "end_ms": 699
     },
     "481": {
       "title": "CHECK مسألة: عدم التأثير وهو أربعة أقسام",
       "level": 3,
       "parent": 418,
-      "start_ms": 700,
-      "end_ms": 702
+      "start_ms": 699,
+      "end_ms": 701
     },
     "482": {
       "title": "CHECK مسألة: القدح في إفضاء الحكم إلى المقصود",
       "level": 3,
       "parent": 418,
-      "start_ms": 702,
-      "end_ms": 702
+      "start_ms": 701,
+      "end_ms": 701
     },
     "483": {
       "title": "CHECK مسألة: القدح في المناسبة",
       "level": 3,
       "parent": 418,
-      "start_ms": 702,
-      "end_ms": 703
+      "start_ms": 701,
+      "end_ms": 702
     },
     "484": {
       "title": "CHECK مسألة: كون الوصف خفيا كالرضا والقصد",
       "level": 3,
       "parent": 418,
-      "start_ms": 703,
-      "end_ms": 704
+      "start_ms": 702,
+      "end_ms": 702
     },
     "485": {
       "title": "CHECK مسألة: كونه غير منضبط",
       "level": 3,
       "parent": 418,
-      "start_ms": 704,
-      "end_ms": 704
+      "start_ms": 702,
+      "end_ms": 703
     },
     "486": {
       "title": "CHECK مسألة: النقض كما تقدم",
       "level": 3,
       "parent": 418,
-      "start_ms": 704,
-      "end_ms": 707
+      "start_ms": 703,
+      "end_ms": 705
     },
     "487": {
       "title": "CHECK مسألة: المعارضة في الآصل بمعنى آخر",
       "level": 3,
       "parent": 418,
-      "start_ms": 707,
-      "end_ms": 707
+      "start_ms": 705,
+      "end_ms": 705
     },
     "488": {
       "title": "CHECK مسألة: الكسر وهو نقص في المعنى",
       "level": 3,
       "parent": 418,
-      "start_ms": 707,
-      "end_ms": 709
+      "start_ms": 705,
+      "end_ms": 708
     },
     "489": {
       "title": "CHECK مسألة: وفي لزوم بيان نفي الوصف عن الفرع",
       "level": 3,
       "parent": 418,
-      "start_ms": 709,
-      "end_ms": 710
+      "start_ms": 708,
+      "end_ms": 709
     },
     "490": {
       "title": "CHECK مسألة: وجواب المعارضة إما بمنع وجود الوصف",
       "level": 3,
       "parent": 418,
-      "start_ms": 710,
-      "end_ms": 712
+      "start_ms": 709,
+      "end_ms": 711
     },
     "491": {
       "title": "CHECK مسألة: ولا يكفي إثبات الحكم في صورة",
       "level": 3,
       "parent": 418,
-      "start_ms": 712,
-      "end_ms": 715
+      "start_ms": 711,
+      "end_ms": 713
     },
     "492": {
       "title": "CHECK مسألة: التركيب: تقدم التعدية",
       "level": 3,
       "parent": 418,
-      "start_ms": 715,
-      "end_ms": 715
+      "start_ms": 713,
+      "end_ms": 714
     },
     "493": {
       "title": "CHECK مسألة: منع وجود في الفرع مثل أمان صدر من أهله في محله",
       "level": 3,
       "parent": 418,
-      "start_ms": 715,
-      "end_ms": 716
+      "start_ms": 714,
+      "end_ms": 715
     },
     "494": {
       "title": "CHECK مسألة: المعارضة في الفرع لما يقتضي نقيض الحكم",
       "level": 3,
       "parent": 418,
-      "start_ms": 716,
-      "end_ms": 717
+      "start_ms": 715,
+      "end_ms": 716
     },
     "495": {
       "title": "CHECK مسألة: الفرق وهو راجع إلى أحد المعارضتين",
       "level": 3,
       "parent": 418,
-      "start_ms": 717,
-      "end_ms": 718
+      "start_ms": 716,
+      "end_ms": 716
     },
     "496": {
       "title": "CHECK مسألة: اختلاف الضابط في الأصل والفرع",
       "level": 3,
       "parent": 418,
-      "start_ms": 718,
-      "end_ms": 719
+      "start_ms": 716,
+      "end_ms": 718
     },
     "497": {
       "title": "CHECK مسألة: اختلاف جنس المصلحة",
       "level": 3,
       "parent": 418,
-      "start_ms": 719,
-      "end_ms": 719
+      "start_ms": 718,
+      "end_ms": 718
     },
     "498": {
       "title": "CHECK مسألة: مخالفة حكم الأصل لحكم الفرع",
       "level": 3,
       "parent": 418,
-      "start_ms": 719,
-      "end_ms": 720
+      "start_ms": 718,
+      "end_ms": 719
     },
     "499": {
       "title": "CHECK مسألة: القلب قلب لتصحيح مذهبه",
       "level": 3,
       "parent": 418,
-      "start_ms": 720,
-      "end_ms": 721
+      "start_ms": 719,
+      "end_ms": 720
     },
     "500": {
       "title": "CHECK مسألة: القول بالموجب",
       "level": 3,
       "parent": 418,
-      "start_ms": 721,
-      "end_ms": 723
+      "start_ms": 720,
+      "end_ms": 722
     },
     "501": {
       "title": "CHECK مسألة: الاعتراضات من جنس واحد تتعدد اتفاقا",
       "level": 3,
       "parent": 418,
-      "start_ms": 723,
-      "end_ms": 724
+      "start_ms": 722,
+      "end_ms": 722
     },
     "502": {
       "title": "CHECK مسألة:",
       "level": 3,
       "parent": 418,
-      "start_ms": 724,
-      "end_ms": 724
+      "start_ms": 722,
+      "end_ms": 722
     },
     "503": {
       "title": "AUTO الاستدلال",
       "level": 2,
       "parent": 56,
-      "start_ms": 724,
-      "end_ms": 724
+      "start_ms": 722,
+      "end_ms": 723
     },
     "504": {
       "title": "AUTO (الاستدلال",
       "level": 2,
       "parent": 56,
-      "start_ms": 724,
-      "end_ms": 729
+      "start_ms": 723,
+      "end_ms": 728
     },
     "505": {
       "title": "CHECK مسألة: الأول تلازم بين ثبوتين أو نفيين",
       "level": 3,
       "parent": 504,
-      "start_ms": 725,
-      "end_ms": 726
+      "start_ms": 724,
+      "end_ms": 725
     },
     "506": {
       "title": "CHECK مسألة: الأول في الأحكام: من صح طلاقه ظهاره",
       "level": 3,
       "parent": 504,
-      "start_ms": 726,
-      "end_ms": 728
+      "start_ms": 725,
+      "end_ms": 727
     },
     "507": {
       "title": "CHECK مسألة: ويرد على الجميع منعهما ومنع إحداهما",
       "level": 3,
       "parent": 504,
-      "start_ms": 728,
-      "end_ms": 729
+      "start_ms": 727,
+      "end_ms": 728
     },
     "508": {
       "title": "CHECK مسألة:",
       "level": 3,
       "parent": 504,
-      "start_ms": 729,
-      "end_ms": 729
+      "start_ms": 728,
+      "end_ms": 728
     },
     "509": {
       "title": "AUTO الاستصحاب",
       "level": 2,
       "parent": 56,
-      "start_ms": 729,
-      "end_ms": 729
+      "start_ms": 728,
+      "end_ms": 728
     },
     "510": {
       "title": "AUTO (الاستصحاب",
       "level": 2,
       "parent": 56,
-      "start_ms": 729,
-      "end_ms": 730
+      "start_ms": 728,
+      "end_ms": 728
     },
     "511": {
       "title": "AUTO الاستصحاب",
       "level": 2,
       "parent": 56,
-      "start_ms": 730,
-      "end_ms": 730
+      "start_ms": 728,
+      "end_ms": 729
     },
     "512": {
       "title": "CHECK مسألة:",
       "level": 3,
       "parent": 511,
-      "start_ms": 730,
-      "end_ms": 730
+      "start_ms": 729,
+      "end_ms": 729
     },
     "513": {
       "title": "AUTO شرع من قبلنا",
       "level": 2,
       "parent": 56,
-      "start_ms": 730,
-      "end_ms": 731
+      "start_ms": 729,
+      "end_ms": 730
     },
     "514": {
       "title": "AUTO (شرع من قبلنا",
       "level": 2,
       "parent": 56,
-      "start_ms": 731,
-      "end_ms": 734
+      "start_ms": 730,
+      "end_ms": 733
     },
     "515": {
       "title": "CHECK مسألة: المختار: أنه بعد البعثة متعبد بما لم ينسخ",
       "level": 3,
       "parent": 514,
-      "start_ms": 732,
-      "end_ms": 734
+      "start_ms": 731,
+      "end_ms": 733
     },
     "516": {
       "title": "CHECK مسألة:",
       "level": 3,
       "parent": 514,
-      "start_ms": 734,
-      "end_ms": 734
+      "start_ms": 733,
+      "end_ms": 733
     },
     "517": {
       "title": "AUTO مذهب الصحابي",
       "level": 2,
       "parent": 56,
-      "start_ms": 734,
-      "end_ms": 734
+      "start_ms": 733,
+      "end_ms": 733
     },
     "518": {
       "title": "AUTO (مذهب الصحابي",
       "level": 2,
       "parent": 56,
-      "start_ms": 734,
-      "end_ms": 736
+      "start_ms": 733,
+      "end_ms": 734
     },
     "519": {
       "title": "CHECK مسألة:",
       "level": 3,
       "parent": 518,
-      "start_ms": 736,
-      "end_ms": 736
+      "start_ms": 734,
+      "end_ms": 734
     },
     "520": {
       "title": "AUTO الاستحسان",
       "level": 2,
       "parent": 56,
-      "start_ms": 736,
-      "end_ms": 736
+      "start_ms": 734,
+      "end_ms": 734
     },
     "521": {
       "title": "AUTO (الاستحسان",
       "level": 2,
       "parent": 56,
-      "start_ms": 736,
-      "end_ms": 737
+      "start_ms": 734,
+      "end_ms": 736
     },
     "522": {
       "title": "CHECK مسألة:",
       "level": 3,
       "parent": 521,
-      "start_ms": 737,
-      "end_ms": 737
+      "start_ms": 736,
+      "end_ms": 736
     },
     "523": {
       "title": "AUTO المصالح المرسلة",
       "level": 2,
       "parent": 56,
-      "start_ms": 737,
-      "end_ms": 737
+      "start_ms": 736,
+      "end_ms": 736
     },
     "524": {
       "title": "AUTO (المصالح المرسلة",
       "level": 2,
       "parent": 56,
-      "start_ms": 737,
-      "end_ms": 738
+      "start_ms": 736,
+      "end_ms": 737
     },
     "525": {
       "title": "CHECK مسألة:",
       "level": 3,
       "parent": 524,
-      "start_ms": 738,
-      "end_ms": 738
+      "start_ms": 737,
+      "end_ms": 737
     },
     "526": {
       "title": "AUTO الاجتهاد",
       "level": 2,
       "parent": 56,
-      "start_ms": 738,
-      "end_ms": 738
+      "start_ms": 737,
+      "end_ms": 737
     },
     "527": {
       "title": "AUTO (الاجتهاد",
       "level": 2,
       "parent": 56,
-      "start_ms": 738,
-      "end_ms": 738
+      "start_ms": 737,
+      "end_ms": 737
     },
     "528": {
       "title": "AUTO الاجتهاد",
       "level": 2,
       "parent": 56,
-      "start_ms": 738,
-      "end_ms": 738
+      "start_ms": 737,
+      "end_ms": 737
     },
     "529": {
       "title": "AUTO الاجتهاد",
       "level": 2,
       "parent": 56,
-      "start_ms": 738,
-      "end_ms": 738
+      "start_ms": 737,
+      "end_ms": 737
     },
     "530": {
       "title": "AUTO الاجتهاد",
       "level": 2,
       "parent": 56,
-      "start_ms": 738,
-      "end_ms": 738
+      "start_ms": 737,
+      "end_ms": 737
     },
     "531": {
       "title": "AUTO (مسألة: اختلفوا في تجزئ",
       "level": 3,
       "parent": 530,
-      "start_ms": 738,
-      "end_ms": 738
+      "start_ms": 737,
+      "end_ms": 737
     },
     "532": {
       "title": "AUTO الاجتهاد",
       "level": 2,
       "parent": 56,
-      "start_ms": 738,
-      "end_ms": 761
+      "start_ms": 737,
+      "end_ms": 760
     },
     "533": {
       "title": "CHECK مسألة: المختار: أنه صلى الله عليه وسلم كان متعبدا بالاجتهاد",
       "level": 3,
       "parent": 532,
-      "start_ms": 739,
-      "end_ms": 742
+      "start_ms": 738,
+      "end_ms": 741
     },
     "534": {
       "title": "AUTO (مسألة: المختار: وقوع الاجتهاد ممن عاصره ظنا",
       "level": 3,
       "parent": 532,
-      "start_ms": 742,
-      "end_ms": 743
+      "start_ms": 741,
+      "end_ms": 742
     },
     "535": {
       "title": "AUTO (مسألة: الإجماع على أن المصيب في العقليات واحد",
       "level": 3,
       "parent": 532,
-      "start_ms": 743,
-      "end_ms": 744
+      "start_ms": 742,
+      "end_ms": 743
     },
     "536": {
       "title": "AUTO (مسألة: القطع: لا إثم على المجتهد في حكم شرعي اجتهادي",
       "level": 3,
       "parent": 532,
-      "start_ms": 744,
-      "end_ms": 745
+      "start_ms": 743,
+      "end_ms": 743
     },
     "537": {
       "title": "CHECK مسألة: المسألة التى لا قاطع فيها",
       "level": 3,
       "parent": 532,
-      "start_ms": 745,
-      "end_ms": 750
+      "start_ms": 743,
+      "end_ms": 749
     },
     "538": {
       "title": "CHECK مسألة: المصوبة: لو كان المصيب واحدا لوجب النقيضان",
       "level": 3,
       "parent": 532,
-      "start_ms": 750,
-      "end_ms": 751
+      "start_ms": 749,
+      "end_ms": 750
     },
     "539": {
       "title": "AUTO (مسألة: تقابل الدليلين العقليين محال",
       "level": 3,
       "parent": 532,
-      "start_ms": 751,
-      "end_ms": 752
+      "start_ms": 750,
+      "end_ms": 751
     },
     "540": {
       "title": "AUTO (مسألة: لا يستقيم لمجتهد قولان متناقضان",
       "level": 3,
       "parent": 532,
-      "start_ms": 752,
-      "end_ms": 753
+      "start_ms": 751,
+      "end_ms": 752
     },
     "541": {
       "title": "CHECK مسألة: لا ينقض الحكم في الاجتهاديات منه ولا من غيره",
       "level": 3,
       "parent": 532,
-      "start_ms": 753,
-      "end_ms": 754
+      "start_ms": 752,
+      "end_ms": 753
     },
     "542": {
       "title": "CHECK مسألة: المجتهد قبل أن يجتهد ممنوع من التقليد",
       "level": 3,
       "parent": 532,
-      "start_ms": 754,
-      "end_ms": 756
+      "start_ms": 753,
+      "end_ms": 754
     },
     "543": {
       "title": "CHECK مسألة: يجوز أن يقال للمجتهد: احكم بما شئت",
       "level": 3,
       "parent": 532,
-      "start_ms": 756,
-      "end_ms": 758
+      "start_ms": 754,
+      "end_ms": 757
     },
     "544": {
       "title": "CHECK مسألة: المختار: أنه عليه السلام لا يقر على خطأ في اجتهاده",
       "level": 3,
       "parent": 532,
-      "start_ms": 758,
-      "end_ms": 761
+      "start_ms": 757,
+      "end_ms": 759
     },
     "545": {
-      "title": "AUTO (مسألة: ms760 المختار: أن النافي مطالب بالدليل",
+      "title": "AUTO (مسألة: المختار: أن النافي مطالب بالدليل",
       "level": 3,
       "parent": 532,
-      "start_ms": 761,
-      "end_ms": 761
+      "start_ms": 759,
+      "end_ms": 760
     },
     "546": {
       "title": "CHECK التقليد والمفتي والمستفتي",
       "level": 2,
       "parent": 56,
-      "start_ms": 761,
-      "end_ms": 769
+      "start_ms": 760,
+      "end_ms": 768
     },
     "547": {
       "title": "CHECK مسألة: التقليد، والمفتي، والمستفتي، وما يستفتى فيه",
       "level": 3,
       "parent": 546,
-      "start_ms": 761,
-      "end_ms": 762
+      "start_ms": 760,
+      "end_ms": 761
     },
     "548": {
       "title": "AUTO (مسألة: لا تقليد في العقليات",
       "level": 3,
       "parent": 546,
-      "start_ms": 762,
-      "end_ms": 764
+      "start_ms": 761,
+      "end_ms": 763
     },
     "549": {
       "title": "AUTO (مسألة: غير المجتهد يلزمه التقليد",
       "level": 3,
       "parent": 546,
-      "start_ms": 764,
-      "end_ms": 765
+      "start_ms": 763,
+      "end_ms": 764
     },
     "550": {
       "title": "AUTO (مسألة: الاتفاق على استفتاء من عرف بالعلم والعدالة",
       "level": 3,
       "parent": 546,
-      "start_ms": 765,
-      "end_ms": 765
+      "start_ms": 764,
+      "end_ms": 764
     },
     "551": {
       "title": "CHECK مسألة: إذا تكررت الواقعة لم يلزم تكرار النظر",
       "level": 3,
       "parent": 546,
-      "start_ms": 765,
-      "end_ms": 766
+      "start_ms": 764,
+      "end_ms": 765
     },
     "552": {
       "title": "AUTO (مسألة: يجوز خلو الزمان عن مجتهد",
       "level": 3,
       "parent": 546,
-      "start_ms": 766,
-      "end_ms": 767
+      "start_ms": 765,
+      "end_ms": 766
     },
     "553": {
       "title": "AUTO (مسألة: إفتاء من ليس بمجتهد بمذهب مجتهد",
       "level": 3,
       "parent": 546,
-      "start_ms": 767,
-      "end_ms": 768
+      "start_ms": 766,
+      "end_ms": 766
     },
     "554": {
       "title": "AUTO (مسألة: للمقلد أن يقلد المفضول",
       "level": 3,
       "parent": 546,
-      "start_ms": 768,
-      "end_ms": 768
+      "start_ms": 766,
+      "end_ms": 767
     },
     "555": {
       "title": "AUTO (مسألة: ولا يرجع عنه بعد تقليده اتفاقا",
       "level": 3,
       "parent": 546,
-      "start_ms": 768,
-      "end_ms": 769
+      "start_ms": 767,
+      "end_ms": 768
     },
     "556": {
       "title": "CHECK مسألة:",
       "level": 3,
       "parent": 546,
-      "start_ms": 769,
-      "end_ms": 769
+      "start_ms": 768,
+      "end_ms": 768
     },
     "557": {
       "title": "AUTO الترجيح",
       "level": 2,
       "parent": 56,
-      "start_ms": 769,
-      "end_ms": 769
+      "start_ms": 768,
+      "end_ms": 768
     },
     "558": {
       "title": "AUTO (الترجيح",
       "level": 2,
       "parent": 56,
-      "start_ms": 769,
-      "end_ms": 769
+      "start_ms": 768,
+      "end_ms": 768
     },
     "559": {
       "title": "AUTO الترجيح",
       "level": 2,
       "parent": 56,
-      "start_ms": 769,
-      "end_ms": 769
+      "start_ms": 768,
+      "end_ms": 768
     },
     "560": {
       "title": "AUTO الترجيح",
       "level": 2,
       "parent": 56,
-      "start_ms": 769,
-      "end_ms": 770
+      "start_ms": 768,
+      "end_ms": 768
     },
     "561": {
       "title": "AUTO الترجيح",
       "level": 2,
       "parent": 56,
-      "start_ms": 770,
-      "end_ms": 770
+      "start_ms": 768,
+      "end_ms": 768
     },
     "562": {
       "title": "AUTO الترجيح",
       "level": 2,
       "parent": 56,
-      "start_ms": 770,
-      "end_ms": 770
+      "start_ms": 768,
+      "end_ms": 768
     },
     "563": {
       "title": "AUTO الترجيح",
       "level": 2,
       "parent": 56,
-      "start_ms": 770,
+      "start_ms": 768,
       "end_ms": null
     },
     "564": {
       "title": "CHECK مسألة: والترجيح في الظنيين",
       "level": 3,
       "parent": 563,
-      "start_ms": 770,
-      "end_ms": 772
+      "start_ms": 768,
+      "end_ms": 770
     },
     "565": {
-      "title": "CHECK ms771 مسألة: وبالمتواتر على المسند، والمسند على المرسل",
+      "title": "CHECK مسألة: وبالمتواتر على المسند، والمسند على المرسل",
       "level": 3,
       "parent": 563,
-      "start_ms": 772,
-      "end_ms": 773
+      "start_ms": 770,
+      "end_ms": 772
     },
     "566": {
       "title": "CHECK مسألة: المتن: النهي على الأمر، والأمر على الإباحة",
       "level": 3,
       "parent": 563,
-      "start_ms": 773,
-      "end_ms": 776
+      "start_ms": 772,
+      "end_ms": 775
     },
     "567": {
       "title": "CHECK مسألة: المدلول: الحظر على الإباحة",
       "level": 3,
       "parent": 563,
-      "start_ms": 776,
-      "end_ms": 777
+      "start_ms": 775,
+      "end_ms": 776
     },
     "568": {
       "title": "CHECK مسألة: الخارج: يرجح الموافق لدليل آخر",
       "level": 3,
       "parent": 563,
-      "start_ms": 777,
-      "end_ms": 778
+      "start_ms": 776,
+      "end_ms": 777
     },
     "569": {
       "title": "CHECK مسألة: المعقولان قياسان، أو استدلالان",
       "level": 3,
       "parent": 563,
-      "start_ms": 778,
-      "end_ms": 779
+      "start_ms": 777,
+      "end_ms": 778
     },
     "570": {
       "title": "CHECK مسألة: وبالقطع بالعلة، أو بالظن الأغلب",
       "level": 3,
       "parent": 563,
-      "start_ms": 779,
-      "end_ms": 781
+      "start_ms": 778,
+      "end_ms": 780
     },
     "571": {
       "title": "CHECK مسألة: الفرع يقدم بالمشاركة في عين الحكم",
       "level": 3,
       "parent": 563,
-      "start_ms": 781,
-      "end_ms": 782
+      "start_ms": 780,
+      "end_ms": 780
     },
     "572": {
       "title": "CHECK مسألة: المنقول والمعقول يرجح الخاص",
       "level": 3,
       "parent": 563,
-      "start_ms": 782,
-      "end_ms": 782
+      "start_ms": 780,
+      "end_ms": 781
     },
     "573": {
       "title": "CHECK مسألة: وأما الحدود السمعية فترجح بالألفاظ",
       "level": 3,
       "parent": 563,
-      "start_ms": 782,
+      "start_ms": 781,
       "end_ms": null
     }
   },
@@ -4076,13 +4076,8 @@
     ],
     [
       31,
-      [17, 18],
+      [17, 18, 19],
       16
-    ],
-    [
-      32,
-      [19],
-      18
     ],
     [
       33,
@@ -4091,13 +4086,13 @@
     ],
     [
       37,
-      [21],
+      [21, 22],
       20
     ],
     [
       38,
-      [22, 23, 24],
-      21
+      [23, 24],
+      22
     ],
     [
       40,
@@ -4156,13 +4151,8 @@
     ],
     [
       60,
-      [40, 41],
+      [40, 41, 42],
       39
-    ],
-    [
-      61,
-      [42],
-      41
     ],
     [
       62,
@@ -4196,13 +4186,8 @@
     ],
     [
       73,
-      [49],
+      [49, 50],
       48
-    ],
-    [
-      74,
-      [50],
-      49
     ],
     [
       75,
@@ -4225,7 +4210,7 @@
       53
     ],
     [
-      80,
+      79,
       [57],
       56
     ],
@@ -4235,7 +4220,7 @@
       57
     ],
     [
-      84,
+      83,
       [59, 60],
       58
     ],
@@ -4261,13 +4246,13 @@
     ],
     [
       94,
-      [65],
+      [65, 66],
       64
     ],
     [
       95,
-      [66, 67, 68],
-      65
+      [67, 68],
+      66
     ],
     [
       96,
@@ -4277,7 +4262,7 @@
     [
       97,
       [70, 71],
-      69
+      null
     ],
     [
       99,
@@ -4285,7 +4270,7 @@
       71
     ],
     [
-      101,
+      100,
       [73],
       72
     ],
@@ -4305,7 +4290,7 @@
       75
     ],
     [
-      114,
+      113,
       [77],
       76
     ],
@@ -4320,9 +4305,14 @@
       79
     ],
     [
-      123,
-      [81, 82, 83, 84, 85],
+      122,
+      [81, 82, 83, 84],
       80
+    ],
+    [
+      123,
+      [85],
+      84
     ],
     [
       125,
@@ -4330,7 +4320,7 @@
       85
     ],
     [
-      128,
+      127,
       [87],
       86
     ],
@@ -4340,7 +4330,7 @@
       87
     ],
     [
-      131,
+      130,
       [89],
       88
     ],
@@ -4350,19 +4340,19 @@
       89
     ],
     [
-      136,
+      135,
       [91],
       90
     ],
     [
       140,
-      [92],
+      [92, 93],
       91
     ],
     [
       141,
-      [93, 94],
-      92
+      [94],
+      93
     ],
     [
       145,
@@ -4375,7 +4365,7 @@
       95
     ],
     [
-      155,
+      154,
       [97],
       96
     ],
@@ -4415,7 +4405,7 @@
       104
     ],
     [
-      179,
+      178,
       [106],
       105
     ],
@@ -4425,7 +4415,7 @@
       106
     ],
     [
-      188,
+      187,
       [108],
       107
     ],
@@ -4435,64 +4425,59 @@
       108
     ],
     [
-      196,
-      [110, 111],
+      195,
+      [110],
       109
     ],
     [
+      196,
+      [111],
+      110
+    ],
+    [
       203,
-      [112],
+      [112, 113],
       111
     ],
     [
-      204,
-      [113],
-      112
-    ],
-    [
       205,
-      [114, 115],
+      [114, 115, 116],
       113
     ],
     [
       206,
-      [116, 117],
-      115
+      [117],
+      116
     ],
     [
       207,
-      [118, 119, 120],
+      [118, 119, 120, 121],
       117
     ],
     [
-      208,
-      [121],
-      120
-    ],
-    [
-      210,
+      209,
       [122],
       121
     ],
     [
-      211,
+      210,
       [123, 124],
       122
     ],
     [
       213,
-      [125],
+      [125, 126],
       124
     ],
     [
       214,
-      [126],
-      125
+      [127],
+      126
     ],
     [
       215,
-      [127, 128, 129, 130],
-      126
+      [128, 129, 130],
+      127
     ],
     [
       223,
@@ -4500,12 +4485,12 @@
       130
     ],
     [
-      227,
+      226,
       [132],
       131
     ],
     [
-      228,
+      227,
       [133],
       132
     ],
@@ -4515,7 +4500,7 @@
       133
     ],
     [
-      232,
+      231,
       [135],
       134
     ],
@@ -4525,17 +4510,27 @@
       135
     ],
     [
-      241,
-      [137, 138],
+      240,
+      [137],
       136
     ],
     [
-      244,
-      [139, 140],
+      241,
+      [138],
+      137
+    ],
+    [
+      243,
+      [139],
       138
     ],
     [
-      246,
+      244,
+      [140],
+      139
+    ],
+    [
+      245,
       [141],
       140
     ],
@@ -4546,13 +4541,8 @@
     ],
     [
       250,
-      [143],
+      [143, 144],
       142
-    ],
-    [
-      251,
-      [144],
-      143
     ],
     [
       253,
@@ -4560,7 +4550,7 @@
       144
     ],
     [
-      256,
+      255,
       [147],
       146
     ],
@@ -4575,7 +4565,7 @@
       148
     ],
     [
-      269,
+      268,
       [150],
       149
     ],
@@ -4585,32 +4575,32 @@
       150
     ],
     [
-      275,
+      274,
       [155],
       154
     ],
     [
-      277,
+      276,
       [156],
       155
     ],
     [
-      278,
+      277,
       [157],
       156
     ],
     [
-      287,
+      286,
       [158],
       157
     ],
     [
-      288,
+      287,
       [159],
       158
     ],
     [
-      289,
+      288,
       [160],
       159
     ],
@@ -4630,24 +4620,24 @@
       162
     ],
     [
-      297,
+      296,
       [164],
       163
     ],
     [
-      298,
+      297,
       [165],
       164
     ],
     [
-      299,
+      298,
       [166],
       165
     ],
     [
       301,
       [167],
-      166
+      null
     ],
     [
       303,
@@ -4656,63 +4646,68 @@
     ],
     [
       304,
-      [169],
+      [169, 170],
       168
     ],
     [
-      305,
-      [170],
-      169
-    ],
-    [
-      309,
+      308,
       [171],
       170
     ],
     [
-      310,
+      309,
       [172],
-      null
+      171
     ],
     [
-      313,
+      312,
       [173],
       172
     ],
     [
-      314,
-      [174, 175, 176],
+      313,
+      [174, 175],
       173
     ],
     [
-      315,
-      [177],
-      176
+      314,
+      [176, 177],
+      175
     ],
     [
-      316,
+      315,
       [178],
       177
     ],
     [
-      317,
-      [179, 180, 181],
+      316,
+      [179],
       178
     ],
     [
-      322,
-      [182, 183, 184],
+      317,
+      [180, 181],
+      179
+    ],
+    [
+      321,
+      [182],
       181
     ],
     [
-      324,
+      322,
+      [183, 184],
+      182
+    ],
+    [
+      323,
       [185],
       184
     ],
     [
       325,
       [186],
-      185
+      null
     ],
     [
       326,
@@ -4720,7 +4715,7 @@
       186
     ],
     [
-      328,
+      327,
       [188],
       187
     ],
@@ -4730,27 +4725,22 @@
       188
     ],
     [
-      333,
+      332,
       [190, 191, 192],
       189
     ],
     [
       335,
-      [193],
+      [193, 194],
       192
     ],
     [
       336,
-      [194],
-      193
-    ],
-    [
-      337,
       [195],
       194
     ],
     [
-      340,
+      339,
       [196],
       195
     ],
@@ -4760,12 +4750,12 @@
       196
     ],
     [
-      343,
+      342,
       [198],
       197
     ],
     [
-      345,
+      344,
       [199],
       198
     ],
@@ -4775,72 +4765,67 @@
       199
     ],
     [
-      348,
+      347,
       [201],
       200
     ],
     [
-      350,
+      349,
       [202, 203],
       201
     ],
     [
-      351,
+      350,
       [204],
       203
     ],
     [
       352,
-      [205],
+      [205, 206],
       204
     ],
     [
-      353,
-      [206],
-      205
-    ],
-    [
       354,
-      [207],
+      [207, 208],
       206
     ],
     [
       355,
-      [208],
-      207
-    ],
-    [
-      356,
-      [209, 210],
+      [209],
       208
     ],
     [
-      358,
+      356,
+      [210],
+      209
+    ],
+    [
+      357,
       [211, 212],
       210
     ],
     [
-      359,
-      [213, 214],
+      358,
+      [213],
       212
     ],
     [
+      359,
+      [214, 215],
+      213
+    ],
+    [
       360,
-      [215, 216, 217],
-      214
+      [216, 217],
+      215
     ],
     [
       361,
-      [218],
+      [218, 219],
       217
     ],
     [
-      362,
-      [219],
-      218
-    ],
-    [
-      364,
+      363,
       [220, 221, 222, 223],
       219
     ],
@@ -4850,7 +4835,7 @@
       223
     ],
     [
-      368,
+      367,
       [225],
       224
     ],
@@ -4860,29 +4845,29 @@
       225
     ],
     [
-      371,
+      370,
       [227, 228],
       226
     ],
     [
-      372,
+      371,
       [229, 230, 231],
       228
     ],
     [
-      373,
+      372,
       [232],
       231
     ],
     [
-      374,
+      373,
       [233],
       232
     ],
     [
       375,
       [234],
-      233
+      null
     ],
     [
       378,
@@ -4890,27 +4875,27 @@
       234
     ],
     [
-      382,
-      [236, 237, 238, 239, 240, 241, 242, 243, 244],
+      381,
+      [236, 237, 238, 239, 240, 241],
       235
     ],
     [
-      383,
-      [245],
-      244
+      382,
+      [242, 243, 244, 245],
+      241
     ],
     [
-      384,
+      383,
       [246],
       245
     ],
     [
-      385,
+      384,
       [247],
       246
     ],
     [
-      387,
+      386,
       [248],
       247
     ],
@@ -4920,7 +4905,7 @@
       248
     ],
     [
-      390,
+      389,
       [250],
       249
     ],
@@ -4930,107 +4915,112 @@
       250
     ],
     [
-      394,
+      393,
       [252],
       251
     ],
     [
-      395,
+      394,
       [253],
       252
     ],
     [
-      398,
+      397,
       [254],
       253
     ],
     [
-      400,
+      399,
       [255],
       254
     ],
     [
-      402,
+      401,
       [256],
       255
     ],
     [
-      404,
+      403,
       [257],
       256
     ],
     [
-      405,
+      404,
       [258],
       257
     ],
     [
-      407,
+      406,
       [259],
       258
     ],
     [
-      408,
+      407,
       [260],
       259
     ],
     [
-      409,
+      408,
       [261],
       260
     ],
     [
-      410,
+      409,
       [262],
       261
     ],
     [
-      411,
+      410,
       [263, 264],
       262
     ],
     [
-      412,
+      411,
       [265],
       264
     ],
     [
-      413,
+      412,
       [266, 267, 268],
       265
     ],
     [
-      415,
-      [269, 270],
+      414,
+      [269],
       268
     ],
     [
-      417,
+      415,
+      [270],
+      269
+    ],
+    [
+      416,
       [271],
       270
     ],
     [
-      418,
+      417,
       [272, 273, 274, 275],
       271
     ],
     [
-      420,
+      419,
       [276],
       275
     ],
     [
-      422,
+      421,
       [277],
       276
     ],
     [
-      424,
+      423,
       [278],
       277
     ],
     [
-      425,
+      424,
       [279],
       278
     ],
@@ -5040,12 +5030,12 @@
       279
     ],
     [
-      428,
+      427,
       [281],
       280
     ],
     [
-      429,
+      428,
       [282],
       281
     ],
@@ -5055,7 +5045,7 @@
       282
     ],
     [
-      433,
+      432,
       [284],
       283
     ],
@@ -5065,1055 +5055,1055 @@
       284
     ],
     [
-      441,
+      440,
       [286],
       285
     ],
     [
-      443,
+      442,
       [287],
       286
     ],
     [
-      444,
+      443,
       [288],
       287
     ],
     [
-      446,
+      445,
       [289],
       288
     ],
     [
-      447,
+      446,
       [290, 291],
       289
     ],
     [
-      449,
+      448,
       [292, 293],
       291
     ],
     [
-      452,
+      451,
       [294],
       293
     ],
     [
-      454,
+      453,
       [295],
       294
     ],
     [
-      456,
+      455,
       [296],
       295
     ],
     [
-      458,
+      457,
       [297],
       296
     ],
     [
-      459,
+      458,
       [298],
       297
     ],
     [
-      460,
+      459,
       [299],
       298
     ],
     [
-      462,
+      461,
       [300],
       299
     ],
     [
-      463,
+      462,
       [301],
       300
     ],
     [
-      464,
+      463,
       [302],
       301
     ],
     [
-      465,
+      464,
       [303],
       302
     ],
     [
-      466,
+      465,
       [304, 305, 306, 307, 308, 309, 310],
       303
     ],
     [
-      468,
+      467,
       [311],
       310
     ],
     [
-      470,
+      469,
       [312],
       311
     ],
     [
-      471,
+      470,
       [313],
       312
     ],
     [
-      474,
+      473,
       [314],
       313
     ],
     [
-      478,
+      477,
       [315],
       314
     ],
     [
-      481,
+      480,
       [316],
       315
     ],
     [
-      483,
+      482,
       [317],
       316
     ],
     [
-      484,
+      483,
       [318],
       317
     ],
     [
-      485,
+      484,
       [319],
       318
     ],
     [
-      488,
+      487,
       [320],
       319
     ],
     [
-      490,
+      489,
       [321],
       320
     ],
     [
-      493,
+      492,
       [322, 323, 324],
       321
     ],
     [
-      495,
+      494,
       [325],
       324
     ],
     [
-      498,
+      497,
       [326, 327, 328],
       325
     ],
     [
-      500,
+      499,
       [329],
       328
     ],
     [
-      501,
+      500,
       [330, 331],
-      329
+      null
     ],
     [
-      502,
-      [332],
+      501,
+      [332, 333],
       331
     ],
     [
-      503,
-      [333, 334],
-      332
+      502,
+      [334],
+      333
     ],
     [
-      505,
-      [335, 336],
+      503,
+      [335],
       334
     ],
     [
-      506,
+      504,
+      [336],
+      335
+    ],
+    [
+      505,
       [337],
       336
     ],
     [
-      510,
-      [338, 339],
+      508,
+      [338],
       337
     ],
     [
-      511,
+      509,
+      [339],
+      338
+    ],
+    [
+      510,
       [340],
       339
     ],
     [
-      513,
-      [341, 342],
+      512,
+      [341, 342, 343],
       340
     ],
     [
-      514,
-      [343, 344],
-      342
+      513,
+      [344],
+      343
     ],
     [
-      515,
+      514,
       [345, 346],
       344
     ],
     [
-      516,
+      515,
       [347, 348],
       346
     ],
     [
-      518,
+      517,
       [349],
       348
     ],
     [
-      519,
+      518,
       [350],
       349
     ],
     [
-      520,
+      519,
       [351],
       350
     ],
     [
-      521,
+      520,
       [352],
       351
     ],
     [
-      522,
-      [353, 354],
+      521,
+      [353, 354, 355],
       352
     ],
     [
       523,
-      [355],
-      354
-    ],
-    [
-      524,
       [356],
       355
     ],
     [
-      525,
+      524,
       [357, 358],
       356
     ],
     [
-      527,
+      526,
       [359],
       358
     ],
     [
-      529,
+      528,
       [360],
       359
     ],
     [
-      531,
+      530,
       [361],
       360
     ],
     [
-      532,
+      531,
       [362],
       361
     ],
     [
-      533,
+      532,
       [363, 364],
       362
     ],
     [
-      535,
-      [365, 366],
+      533,
+      [365],
       364
     ],
     [
-      536,
-      [367],
+      534,
+      [366],
+      365
+    ],
+    [
+      535,
+      [367, 368],
       366
     ],
     [
       537,
-      [368],
-      367
-    ],
-    [
-      538,
       [369],
       368
     ],
     [
-      539,
+      538,
       [370],
       369
     ],
     [
-      540,
+      539,
       [371, 372],
       370
     ],
     [
-      543,
+      542,
       [373],
       372
     ],
     [
-      545,
+      544,
       [374],
       373
     ],
     [
-      547,
-      [375],
+      546,
+      [375, 376],
       374
     ],
     [
-      548,
-      [376],
-      375
-    ],
-    [
-      551,
+      550,
       [377],
       376
     ],
     [
-      556,
+      554,
       [378],
       377
     ],
     [
-      558,
+      557,
       [379],
       378
     ],
     [
-      560,
-      [380, 381],
+      558,
+      [380],
       379
     ],
     [
-      561,
+      559,
+      [381],
+      380
+    ],
+    [
+      560,
       [382],
       381
     ],
     [
-      562,
+      561,
       [383],
       382
     ],
     [
-      565,
-      [384, 385, 386],
+      564,
+      [384, 385, 386, 387],
       383
     ],
     [
       566,
-      [387],
-      386
-    ],
-    [
-      567,
       [388],
       387
     ],
     [
-      569,
+      568,
       [389],
       388
     ],
     [
-      571,
+      569,
       [390],
       389
     ],
     [
-      572,
+      570,
       [391],
       390
     ],
     [
-      575,
-      [392],
+      574,
+      [392, 393],
       391
     ],
     [
-      576,
-      [393],
-      392
-    ],
-    [
-      578,
-      [394],
-      393
-    ],
-    [
-      579,
-      [395, 396],
+      577,
+      [394, 395],
       null
     ],
     [
-      580,
+      578,
+      [396],
+      395
+    ],
+    [
+      579,
       [397],
       396
     ],
     [
-      582,
+      581,
       [398],
       397
     ],
     [
-      584,
+      583,
       [399],
       398
     ],
     [
-      586,
+      585,
       [400],
       399
     ],
     [
-      588,
+      587,
       [401],
       400
     ],
     [
-      590,
+      588,
       [402],
       401
     ],
     [
-      591,
+      590,
       [403],
       402
     ],
     [
-      594,
-      [404, 405],
+      592,
+      [404],
       403
     ],
     [
-      595,
+      593,
+      [405],
+      404
+    ],
+    [
+      594,
       [406],
       405
     ],
     [
-      597,
+      595,
       [407],
       406
     ],
     [
-      598,
+      596,
       [408],
       407
     ],
     [
-      599,
+      597,
       [409],
       408
     ],
     [
-      600,
+      599,
       [410],
       409
     ],
     [
-      604,
-      [411, 412],
+      602,
+      [411],
       410
     ],
     [
-      606,
-      [413, 414, 415, 416, 417, 418],
+      603,
+      [412],
+      411
+    ],
+    [
+      604,
+      [413, 414, 415, 416, 417],
       412
     ],
     [
-      607,
-      [419],
-      418
+      605,
+      [418],
+      417
     ],
     [
-      609,
+      606,
+      [419],
+      null
+    ],
+    [
+      608,
       [420],
       419
     ],
     [
-      611,
+      610,
       [421],
       420
     ],
     [
-      612,
+      611,
       [422],
       421
     ],
     [
-      614,
+      613,
       [423],
       422
     ],
     [
-      615,
+      614,
       [424],
       423
     ],
     [
-      617,
+      616,
       [425],
       424
     ],
     [
-      620,
+      618,
       [426],
-      null
+      425
     ],
     [
-      622,
-      [427],
+      621,
+      [427, 428],
       426
     ],
     [
-      623,
-      [428],
-      427
-    ],
-    [
-      625,
+      624,
       [429],
       428
     ],
     [
-      627,
+      625,
       [430],
       429
     ],
     [
-      628,
+      627,
       [431],
       430
     ],
     [
-      629,
+      628,
       [432],
       431
     ],
     [
-      631,
+      629,
       [433],
       432
     ],
     [
-      632,
+      631,
       [434],
       433
     ],
     [
-      633,
+      632,
       [435],
       434
     ],
     [
-      634,
+      633,
       [436],
-      435
+      null
     ],
     [
-      636,
+      634,
       [437],
       436
     ],
     [
-      638,
+      636,
       [438],
       437
     ],
     [
-      639,
+      637,
       [439],
       438
     ],
     [
-      640,
-      [440],
+      639,
+      [440, 441],
       439
     ],
     [
-      641,
-      [441],
-      440
-    ],
-    [
-      643,
-      [442],
+      642,
+      [442, 443],
       441
     ],
     [
       644,
-      [443],
-      442
-    ],
-    [
-      645,
       [444],
       443
     ],
     [
-      647,
+      645,
       [445, 446],
       444
     ],
     [
-      648,
+      647,
       [447, 448],
       446
     ],
     [
-      650,
+      648,
       [449],
       448
     ],
     [
-      651,
+      649,
       [450],
       449
     ],
     [
-      652,
+      651,
       [451, 452],
-      450
+      null
     ],
     [
-      654,
-      [453, 454],
+      652,
+      [453],
       452
     ],
     [
-      656,
-      [455, 456],
+      653,
+      [454],
+      453
+    ],
+    [
+      654,
+      [455],
       454
     ],
     [
-      657,
+      655,
+      [456],
+      455
+    ],
+    [
+      656,
       [457],
       456
     ],
     [
-      659,
+      658,
       [458],
       457
     ],
     [
-      661,
+      659,
       [459],
       458
     ],
     [
-      662,
+      661,
       [460],
       459
     ],
     [
-      663,
+      662,
       [461],
       460
     ],
     [
-      665,
+      664,
       [462],
       461
     ],
     [
-      668,
+      666,
       [463],
       462
     ],
     [
-      670,
+      668,
       [464],
       463
     ],
     [
-      671,
+      670,
       [465],
       464
     ],
     [
-      672,
+      671,
       [466],
       465
     ],
     [
-      674,
+      673,
       [467],
       466
     ],
     [
-      678,
+      677,
       [468],
       467
     ],
     [
-      681,
+      679,
       [469],
       468
     ],
     [
-      683,
+      681,
       [470],
       469
     ],
     [
-      685,
+      684,
       [471],
       470
     ],
     [
-      687,
+      685,
       [472],
       471
     ],
     [
-      688,
+      687,
       [473],
       472
     ],
     [
-      689,
+      688,
       [474],
       473
     ],
     [
-      692,
+      690,
       [475],
       474
     ],
     [
-      694,
+      693,
       [476],
       475
     ],
     [
-      695,
+      694,
       [477],
       476
     ],
     [
-      696,
+      695,
       [478],
       477
     ],
     [
-      698,
+      697,
       [479, 480],
       478
     ],
     [
-      700,
+      699,
       [481],
       480
     ],
     [
-      702,
+      701,
       [482, 483],
       481
     ],
     [
-      703,
-      [484],
+      702,
+      [484, 485],
       483
     ],
     [
-      704,
-      [485, 486],
-      484
+      703,
+      [486],
+      485
     ],
     [
-      707,
+      705,
       [487, 488],
       486
     ],
     [
-      709,
+      708,
       [489],
       488
     ],
     [
-      710,
+      709,
       [490],
       489
     ],
     [
-      712,
+      711,
       [491],
       490
     ],
     [
-      715,
-      [492, 493],
+      713,
+      [492],
       491
     ],
     [
-      716,
+      714,
+      [493],
+      492
+    ],
+    [
+      715,
       [494],
       493
     ],
     [
-      717,
-      [495],
+      716,
+      [495, 496],
       494
     ],
     [
       718,
-      [496],
-      495
-    ],
-    [
-      719,
       [497, 498],
       496
     ],
     [
-      720,
+      719,
       [499],
       498
     ],
     [
-      721,
+      720,
       [500],
       499
     ],
     [
-      723,
-      [501],
+      722,
+      [501, 502, 503],
       500
     ],
     [
-      724,
-      [502, 503, 504],
-      501
+      723,
+      [504],
+      503
     ],
     [
-      725,
+      724,
       [505],
       504
     ],
     [
-      726,
+      725,
       [506],
       505
     ],
     [
-      728,
+      727,
       [507],
       506
     ],
     [
-      729,
-      [508, 509, 510],
+      728,
+      [508, 509, 510, 511],
       507
     ],
     [
-      730,
-      [511, 512, 513],
-      510
+      729,
+      [512, 513],
+      511
     ],
     [
-      731,
+      730,
       [514],
       513
     ],
     [
-      732,
+      731,
       [515],
       514
     ],
     [
-      734,
+      733,
       [516, 517, 518],
       515
     ],
     [
-      736,
+      734,
       [519, 520, 521],
       518
     ],
     [
-      737,
+      736,
       [522, 523, 524],
       521
     ],
     [
-      738,
+      737,
       [525, 526, 527, 528, 529, 530, 531, 532],
       524
     ],
     [
-      739,
+      738,
       [533],
       532
     ],
     [
-      742,
+      741,
       [534],
       533
     ],
     [
-      743,
+      742,
       [535],
       534
     ],
     [
-      744,
-      [536],
+      743,
+      [536, 537],
       535
     ],
     [
-      745,
-      [537],
-      536
-    ],
-    [
-      750,
+      749,
       [538],
       537
     ],
     [
-      751,
+      750,
       [539],
       538
     ],
     [
-      752,
+      751,
       [540],
       539
     ],
     [
-      753,
+      752,
       [541],
       540
     ],
     [
-      754,
+      753,
       [542],
       541
     ],
     [
-      756,
+      754,
       [543],
       542
     ],
     [
-      758,
+      757,
       [544],
       543
     ],
     [
-      761,
-      [545, 546, 547],
-      null
+      759,
+      [545],
+      544
     ],
     [
-      762,
+      760,
+      [546, 547],
+      545
+    ],
+    [
+      761,
       [548],
       547
     ],
     [
-      764,
+      763,
       [549],
       548
     ],
     [
-      765,
+      764,
       [550, 551],
       549
     ],
     [
-      766,
+      765,
       [552],
       551
     ],
     [
-      767,
-      [553],
+      766,
+      [553, 554],
       552
     ],
     [
-      768,
-      [554, 555],
-      553
+      767,
+      [555],
+      554
     ],
     [
-      769,
-      [556, 557, 558, 559, 560],
+      768,
+      [556, 557, 558, 559, 560, 561, 562, 563, 564],
       555
     ],
     [
       770,
-      [561, 562, 563, 564],
-      560
+      [565],
+      564
     ],
     [
       772,
-      [565],
-      null
-    ],
-    [
-      773,
       [566],
       565
     ],
     [
-      776,
+      775,
       [567],
       566
     ],
     [
-      777,
+      776,
       [568],
       567
     ],
     [
-      778,
+      777,
       [569],
       568
     ],
     [
-      779,
+      778,
       [570],
       569
     ],
     [
-      781,
-      [571],
+      780,
+      [571, 572],
       570
     ],
     [
-      782,
-      [572, 573],
-      571
+      781,
+      [573],
+      572
     ]
   ],
-  "last_ms": 784
+  "last_ms": 783
 }

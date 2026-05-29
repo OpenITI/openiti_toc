@@ -13,13 +13,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 18,
-      "end_ms": 38
+      "end_ms": 37
     },
     "3": {
       "title": "CHECK [الجزء (4)]",
       "level": 1,
       "parent": null,
-      "start_ms": 38,
+      "start_ms": 37,
       "end_ms": 57
     },
     "4": {
@@ -27,13 +27,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 57,
-      "end_ms": 78
+      "end_ms": 77
     },
     "5": {
       "title": "CHECK [الجزء (83)]",
       "level": 1,
       "parent": null,
-      "start_ms": 78,
+      "start_ms": 77,
       "end_ms": null
     }
   },
@@ -49,7 +49,7 @@
       1
     ],
     [
-      38,
+      37,
       [3],
       2
     ],
@@ -59,10 +59,10 @@
       3
     ],
     [
-      78,
+      77,
       [5],
       4
     ]
   ],
-  "last_ms": 99
+  "last_ms": 98
 }

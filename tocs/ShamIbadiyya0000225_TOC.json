@@ -6,55 +6,55 @@
       "level": 1,
       "parent": null,
       "start_ms": 1,
-      "end_ms": 223
+      "end_ms": 219
     },
     "2": {
       "title": "CHECK الجزء 2",
       "level": 1,
       "parent": null,
-      "start_ms": 223,
-      "end_ms": 379
+      "start_ms": 219,
+      "end_ms": 372
     },
     "3": {
       "title": "CHECK الجزء 3",
       "level": 1,
       "parent": null,
-      "start_ms": 379,
-      "end_ms": 594
+      "start_ms": 372,
+      "end_ms": 583
     },
     "4": {
       "title": "CHECK الجزء 4",
       "level": 1,
       "parent": null,
-      "start_ms": 594,
-      "end_ms": 820
+      "start_ms": 583,
+      "end_ms": 805
     },
     "5": {
       "title": "CHECK الجزء 5",
       "level": 1,
       "parent": null,
-      "start_ms": 820,
-      "end_ms": 1017
+      "start_ms": 805,
+      "end_ms": 999
     },
     "6": {
       "title": "CHECK الجزء 6",
       "level": 1,
       "parent": null,
-      "start_ms": 1017,
-      "end_ms": 1143
+      "start_ms": 999,
+      "end_ms": 1123
     },
     "7": {
       "title": "CHECK الجزء 7",
       "level": 1,
       "parent": null,
-      "start_ms": 1143,
-      "end_ms": 1337
+      "start_ms": 1123,
+      "end_ms": 1315
     },
     "8": {
       "title": "CHECK الجزء 8",
       "level": 1,
       "parent": null,
-      "start_ms": 1337,
+      "start_ms": 1315,
       "end_ms": null
     }
   },
@@ -65,40 +65,40 @@
       null
     ],
     [
-      223,
+      219,
       [2],
       1
     ],
     [
-      379,
+      372,
       [3],
       2
     ],
     [
-      594,
+      583,
       [4],
       3
     ],
     [
-      820,
+      805,
       [5],
       4
     ],
     [
-      1017,
+      999,
       [6],
       5
     ],
     [
-      1143,
+      1123,
       [7],
       6
     ],
     [
-      1337,
+      1315,
       [8],
       7
     ]
   ],
-  "last_ms": 1536
+  "last_ms": 1512
 }

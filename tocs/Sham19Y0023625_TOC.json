@@ -195,13 +195,13 @@
       "level": 2,
       "parent": 2,
       "start_ms": 138,
-      "end_ms": 139
+      "end_ms": 138
     },
     "29": {
       "title": "AUTO فصل",
       "level": 2,
       "parent": 2,
-      "start_ms": 139,
+      "start_ms": 138,
       "end_ms": 141
     },
     "30": {
@@ -286,13 +286,13 @@
       "level": 2,
       "parent": 39,
       "start_ms": 282,
-      "end_ms": 283
+      "end_ms": 282
     },
     "42": {
-      "title": "AUTO باب ما ms0282 يقول إذا لبس ثوبه",
+      "title": "AUTO باب ما يقول إذا لبس ثوبه",
       "level": 2,
       "parent": 39,
-      "start_ms": 283,
+      "start_ms": 282,
       "end_ms": 285
     },
     "43": {
@@ -314,13 +314,13 @@
       "level": 2,
       "parent": 39,
       "start_ms": 289,
-      "end_ms": 290
+      "end_ms": 289
     },
     "46": {
       "title": "AUTO باب ما يقول لصاحبه إذا رأى عليه ثوبا جديدا",
       "level": 2,
       "parent": 39,
-      "start_ms": 290,
+      "start_ms": 289,
       "end_ms": 295
     },
     "47": {
@@ -363,13 +363,13 @@
       "level": 2,
       "parent": 39,
       "start_ms": 309,
-      "end_ms": 319
+      "end_ms": 318
     },
     "53": {
       "title": "AUTO باب ما يقول إذا دخل بيته",
       "level": 2,
       "parent": 39,
-      "start_ms": 319,
+      "start_ms": 318,
       "end_ms": 319
     },
     "54": {
@@ -377,13 +377,13 @@
       "level": 2,
       "parent": 39,
       "start_ms": 319,
-      "end_ms": 337
+      "end_ms": 336
     },
     "55": {
-      "title": "AUTO باب ما يقول إذا استيقظ في الليل ms0336 وخرج من بيته",
+      "title": "AUTO باب ما يقول إذا استيقظ في الليل وخرج من بيته",
       "level": 2,
       "parent": 39,
-      "start_ms": 337,
+      "start_ms": 336,
       "end_ms": 337
     },
     "56": {
@@ -412,13 +412,13 @@
       "level": 2,
       "parent": 39,
       "start_ms": 368,
-      "end_ms": 369
+      "end_ms": 368
     },
     "60": {
       "title": "AUTO باب النهي عن الذكر والكلام على الخلاء",
       "level": 2,
       "parent": 39,
-      "start_ms": 369,
+      "start_ms": 368,
       "end_ms": 378
     },
     "61": {
@@ -433,13 +433,13 @@
       "level": 2,
       "parent": 39,
       "start_ms": 378,
-      "end_ms": 379
+      "end_ms": 378
     },
     "63": {
-      "title": "AUTO باب ما يقول إذا خرج من ms0378 الخلاء",
+      "title": "AUTO باب ما يقول إذا خرج من الخلاء",
       "level": 2,
       "parent": 39,
-      "start_ms": 379,
+      "start_ms": 378,
       "end_ms": 384
     },
     "64": {
@@ -573,7 +573,7 @@
       "level": 1,
       "parent": null,
       "start_ms": 460,
-      "end_ms": 1043
+      "end_ms": 1042
     },
     "83": {
       "title": "AUTO باب فضيلة الأذان",
@@ -594,13 +594,13 @@
       "level": 2,
       "parent": 82,
       "start_ms": 476,
-      "end_ms": 477
+      "end_ms": 476
     },
     "86": {
       "title": "AUTO باب صفة الأذان",
       "level": 2,
       "parent": 82,
-      "start_ms": 477,
+      "start_ms": 476,
       "end_ms": 487
     },
     "87": {
@@ -727,20 +727,20 @@
       "level": 2,
       "parent": 82,
       "start_ms": 556,
-      "end_ms": 557
+      "end_ms": 556
     },
     "105": {
       "title": "AUTO باب تكبيرة الإحرام",
       "level": 2,
       "parent": 82,
-      "start_ms": 557,
-      "end_ms": 557
+      "start_ms": 556,
+      "end_ms": 556
     },
     "106": {
       "title": "AUTO (باب تكبيرة الإحرام)",
       "level": 2,
       "parent": 82,
-      "start_ms": 557,
+      "start_ms": 556,
       "end_ms": 570
     },
     "107": {
@@ -748,13 +748,13 @@
       "level": 2,
       "parent": 82,
       "start_ms": 570,
-      "end_ms": 571
+      "end_ms": 570
     },
     "108": {
       "title": "AUTO باب ما يقوله بعد تكبيرة الإحرام",
       "level": 2,
       "parent": 82,
-      "start_ms": 571,
+      "start_ms": 570,
       "end_ms": 594
     },
     "109": {
@@ -769,13 +769,13 @@
       "level": 2,
       "parent": 82,
       "start_ms": 595,
-      "end_ms": 600
+      "end_ms": 599
     },
     "111": {
       "title": "AUTO باب القراءة بعد التعوذ",
       "level": 2,
       "parent": 82,
-      "start_ms": 600,
+      "start_ms": 599,
       "end_ms": 600
     },
     "112": {
@@ -789,7 +789,7 @@
       "title": "AUTO فائدة",
       "level": 3,
       "parent": 112,
-      "start_ms": 630,
+      "start_ms": 629,
       "end_ms": 630
     },
     "114": {
@@ -810,7 +810,7 @@
       "title": "AUTO خاتمة",
       "level": 3,
       "parent": 115,
-      "start_ms": 655,
+      "start_ms": 654,
       "end_ms": 655
     },
     "117": {
@@ -825,13 +825,13 @@
       "level": 2,
       "parent": 82,
       "start_ms": 671,
-      "end_ms": 672
+      "end_ms": 671
     },
     "119": {
       "title": "AUTO باب ما يقول في رفع رأسه من الركوع وفي اعتداله",
       "level": 2,
       "parent": 82,
-      "start_ms": 672,
+      "start_ms": 671,
       "end_ms": 684
     },
     "120": {
@@ -839,13 +839,13 @@
       "level": 2,
       "parent": 82,
       "start_ms": 684,
-      "end_ms": 685
+      "end_ms": 684
     },
     "121": {
       "title": "AUTO باب أذكار السجود",
       "level": 2,
       "parent": 82,
-      "start_ms": 685,
+      "start_ms": 684,
       "end_ms": 701
     },
     "122": {
@@ -860,27 +860,27 @@
       "level": 2,
       "parent": 82,
       "start_ms": 702,
-      "end_ms": 708
+      "end_ms": 707
     },
     "124": {
       "title": "AUTO باب أذكار الركعة الثانية",
       "level": 2,
       "parent": 82,
-      "start_ms": 708,
-      "end_ms": 709
+      "start_ms": 707,
+      "end_ms": 708
     },
     "125": {
       "title": "AUTO باب أذكار الركعة الثانية",
       "level": 2,
       "parent": 82,
-      "start_ms": 709,
-      "end_ms": 709
+      "start_ms": 708,
+      "end_ms": 708
     },
     "126": {
       "title": "AUTO باب القنوت في الصبح",
       "level": 2,
       "parent": 82,
-      "start_ms": 709,
+      "start_ms": 708,
       "end_ms": 741
     },
     "127": {
@@ -909,20 +909,20 @@
       "level": 2,
       "parent": 82,
       "start_ms": 770,
-      "end_ms": 792
+      "end_ms": 791
     },
     "131": {
       "title": "AUTO باب الدعاء بعد التشهد الأخير",
       "level": 2,
       "parent": 82,
-      "start_ms": 792,
-      "end_ms": 792
+      "start_ms": 791,
+      "end_ms": 791
     },
     "132": {
       "title": "AUTO باب الدعاء بعد التشهد الأخير",
       "level": 2,
       "parent": 82,
-      "start_ms": 792,
+      "start_ms": 791,
       "end_ms": 813
     },
     "133": {
@@ -937,13 +937,13 @@
       "level": 2,
       "parent": 82,
       "start_ms": 813,
-      "end_ms": 819
+      "end_ms": 818
     },
     "135": {
       "title": "AUTO باب ما يقول الرجل إذا كلمه إنسان وهو في الصلاة",
       "level": 2,
       "parent": 82,
-      "start_ms": 819,
+      "start_ms": 818,
       "end_ms": 819
     },
     "136": {
@@ -951,13 +951,13 @@
       "level": 2,
       "parent": 82,
       "start_ms": 819,
-      "end_ms": 821
+      "end_ms": 820
     },
     "137": {
       "title": "AUTO باب الأذكار بعد الصلاة",
       "level": 2,
       "parent": 82,
-      "start_ms": 821,
+      "start_ms": 820,
       "end_ms": 821
     },
     "138": {
@@ -979,20 +979,20 @@
       "level": 2,
       "parent": 82,
       "start_ms": 875,
-      "end_ms": 876
+      "end_ms": 875
     },
     "141": {
       "title": "AUTO باب ما يقال عند الصباح وعند المساء",
       "level": 2,
       "parent": 82,
-      "start_ms": 876,
-      "end_ms": 941
+      "start_ms": 875,
+      "end_ms": 940
     },
     "142": {
       "title": "AUTO باب يقال في صبيحة الجمعة",
       "level": 2,
       "parent": 82,
-      "start_ms": 941,
+      "start_ms": 940,
       "end_ms": 941
     },
     "143": {
@@ -1000,27 +1000,27 @@
       "level": 2,
       "parent": 82,
       "start_ms": 941,
-      "end_ms": 942
+      "end_ms": 941
     },
     "144": {
       "title": "AUTO باب ما يقول إذا استقلت الشمس",
       "level": 2,
       "parent": 82,
-      "start_ms": 942,
-      "end_ms": 942
+      "start_ms": 941,
+      "end_ms": 941
     },
     "145": {
       "title": "AUTO",
       "level": 2,
       "parent": 82,
-      "start_ms": 942,
-      "end_ms": 942
+      "start_ms": 941,
+      "end_ms": 941
     },
     "146": {
       "title": "AUTO باب ما يقول إذا استقلت الشمس",
       "level": 2,
       "parent": 82,
-      "start_ms": 942,
+      "start_ms": 941,
       "end_ms": 942
     },
     "147": {
@@ -1042,13 +1042,13 @@
       "level": 2,
       "parent": 82,
       "start_ms": 943,
-      "end_ms": 944
+      "end_ms": 943
     },
     "150": {
       "title": "AUTO باب ما يقرؤه في صلاة الوتر وما يقوله بعدها",
       "level": 2,
       "parent": 82,
-      "start_ms": 944,
+      "start_ms": 943,
       "end_ms": 944
     },
     "151": {
@@ -1056,13 +1056,13 @@
       "level": 2,
       "parent": 82,
       "start_ms": 944,
-      "end_ms": 984
+      "end_ms": 983
     },
     "152": {
       "title": "AUTO باب كراهية النوم من غير ذكر الله تعالى",
       "level": 2,
       "parent": 82,
-      "start_ms": 984,
+      "start_ms": 983,
       "end_ms": 984
     },
     "153": {
@@ -1070,13 +1070,13 @@
       "level": 2,
       "parent": 82,
       "start_ms": 984,
-      "end_ms": 985
+      "end_ms": 984
     },
     "154": {
       "title": "AUTO باب ما يقول إذا استيقظ في الليل وأراد النوم بعده",
       "level": 2,
       "parent": 82,
-      "start_ms": 985,
+      "start_ms": 984,
       "end_ms": 985
     },
     "155": {
@@ -1091,13 +1091,13 @@
       "level": 2,
       "parent": 82,
       "start_ms": 988,
-      "end_ms": 989
+      "end_ms": 988
     },
     "157": {
       "title": "AUTO باب ما يقول إذا قلق في فراشه فلم ينم",
       "level": 2,
       "parent": 82,
-      "start_ms": 989,
+      "start_ms": 988,
       "end_ms": 996
     },
     "158": {
@@ -1105,13 +1105,13 @@
       "level": 2,
       "parent": 82,
       "start_ms": 996,
-      "end_ms": 999
+      "end_ms": 998
     },
     "159": {
       "title": "AUTO باب ما يقول إذا رأى في منامه ما يحب أو يكره",
       "level": 2,
       "parent": 82,
-      "start_ms": 999,
+      "start_ms": 998,
       "end_ms": 999
     },
     "160": {
@@ -1132,7 +1132,7 @@
       "title": "AUTO فائدة",
       "level": 3,
       "parent": 161,
-      "start_ms": 1006,
+      "start_ms": 1005,
       "end_ms": 1006
     },
     "163": {
@@ -1147,27 +1147,27 @@
       "level": 2,
       "parent": 82,
       "start_ms": 1007,
-      "end_ms": 1012
+      "end_ms": 1011
     },
     "165": {
       "title": "AUTO باب الدعاء في جميع ساعات الليل كله رجاء أن يصادف ساعة للإجابة",
       "level": 2,
       "parent": 82,
-      "start_ms": 1012,
-      "end_ms": 1013
+      "start_ms": 1011,
+      "end_ms": 1012
     },
     "166": {
-      "title": "AUTO باب الدعاء في جميع ساعات الليل كله رجاء أن يصادف ساعة للإجابة PageV03P198 # روينا في \"صحيح ms1012 مسلم\": عن جابر بن عبد الله رضي الله عنهما قال: سمعت",
+      "title": "AUTO باب الدعاء في جميع ساعات الليل كله رجاء أن يصادف ساعة للإجابة PageV03P198 # روينا في \"صحيح مسلم\": عن جابر بن عبد الله رضي الله عنهما قال: سمعت",
       "level": 2,
       "parent": 82,
-      "start_ms": 1013,
-      "end_ms": 1013
+      "start_ms": 1012,
+      "end_ms": 1012
     },
     "167": {
       "title": "AUTO باب أسماء الله الحسنى",
       "level": 2,
       "parent": 82,
-      "start_ms": 1013,
+      "start_ms": 1012,
       "end_ms": 1013
     },
     "168": {
@@ -1175,41 +1175,41 @@
       "level": 2,
       "parent": 82,
       "start_ms": 1013,
-      "end_ms": 1043
+      "end_ms": 1042
     },
     "169": {
       "title": "AUTO كتاب تلاوة القرآن",
       "level": 1,
       "parent": null,
-      "start_ms": 1043,
-      "end_ms": 1044
+      "start_ms": 1042,
+      "end_ms": 1043
     },
     "170": {
       "title": "AUTO كتاب تلاوة القرآن",
       "level": 1,
       "parent": null,
-      "start_ms": 1044,
-      "end_ms": 1108
+      "start_ms": 1043,
+      "end_ms": 1107
     },
     "171": {
       "title": "AUTO فصل: في الأوقات المختارة للقراءة",
       "level": 2,
       "parent": 170,
-      "start_ms": 1058,
-      "end_ms": 1061
+      "start_ms": 1057,
+      "end_ms": 1060
     },
     "172": {
       "title": "AUTO فصل في آداب الختم وما يتعلق به",
       "level": 2,
       "parent": 170,
-      "start_ms": 1061,
-      "end_ms": 1062
+      "start_ms": 1060,
+      "end_ms": 1061
     },
     "173": {
       "title": "AUTO فصل في آداب الختم وما يتعلق به",
       "level": 2,
       "parent": 170,
-      "start_ms": 1062,
+      "start_ms": 1061,
       "end_ms": 1068
     },
     "174": {
@@ -1231,20 +1231,20 @@
       "level": 2,
       "parent": 170,
       "start_ms": 1069,
-      "end_ms": 1108
+      "end_ms": 1107
     },
     "177": {
       "title": "AUTO فصل: في مسائل وآداب ينبغي للقارئ الاعتناء بها",
       "level": 3,
       "parent": 176,
       "start_ms": 1076,
-      "end_ms": 1108
+      "end_ms": 1107
     },
     "178": {
       "title": "AUTO كتاب حمد الله تعالى",
       "level": 1,
       "parent": null,
-      "start_ms": 1108,
+      "start_ms": 1107,
       "end_ms": 1108
     },
     "179": {
@@ -1252,13 +1252,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 1108,
-      "end_ms": 1123
+      "end_ms": 1122
     },
     "180": {
       "title": "AUTO فصل",
       "level": 2,
       "parent": 179,
-      "start_ms": 1117,
+      "start_ms": 1116,
       "end_ms": 1117
     },
     "181": {
@@ -1266,34 +1266,34 @@
       "level": 2,
       "parent": 179,
       "start_ms": 1117,
-      "end_ms": 1118
+      "end_ms": 1117
     },
     "182": {
       "title": "AUTO",
       "level": 2,
       "parent": 179,
-      "start_ms": 1118,
-      "end_ms": 1118
+      "start_ms": 1117,
+      "end_ms": 1117
     },
     "183": {
       "title": "AUTO فصل",
       "level": 2,
       "parent": 179,
-      "start_ms": 1118,
-      "end_ms": 1118
+      "start_ms": 1117,
+      "end_ms": 1117
     },
     "184": {
       "title": "AUTO",
       "level": 2,
       "parent": 179,
-      "start_ms": 1118,
-      "end_ms": 1118
+      "start_ms": 1117,
+      "end_ms": 1117
     },
     "185": {
       "title": "AUTO فصل",
       "level": 2,
       "parent": 179,
-      "start_ms": 1118,
+      "start_ms": 1117,
       "end_ms": 1118
     },
     "186": {
@@ -1308,27 +1308,27 @@
       "level": 2,
       "parent": 179,
       "start_ms": 1118,
-      "end_ms": 1119
+      "end_ms": 1118
     },
     "188": {
       "title": "AUTO",
       "level": 2,
       "parent": 179,
-      "start_ms": 1119,
-      "end_ms": 1119
+      "start_ms": 1118,
+      "end_ms": 1118
     },
     "189": {
       "title": "AUTO فصل",
       "level": 2,
       "parent": 179,
-      "start_ms": 1119,
-      "end_ms": 1123
+      "start_ms": 1118,
+      "end_ms": 1122
     },
     "190": {
       "title": "AUTO كتاب الصلاة على رسول الله - صلى الله عليه وسلم -",
       "level": 1,
       "parent": null,
-      "start_ms": 1123,
+      "start_ms": 1122,
       "end_ms": 1123
     },
     "191": {
@@ -1336,7 +1336,7 @@
       "level": 1,
       "parent": null,
       "start_ms": 1123,
-      "end_ms": 1176
+      "end_ms": 1175
     },
     "192": {
       "title": "AUTO باب أمر من ذكر عنده النبي - صلى الله عليه وسلم - بالصلاة عليه والتسيم - صلى الله عليه وسلم -",
@@ -1357,20 +1357,20 @@
       "level": 2,
       "parent": 191,
       "start_ms": 1156,
-      "end_ms": 1163
+      "end_ms": 1162
     },
     "195": {
       "title": "AUTO باب استفتاح الدعاء بالحمد لله تعالي والصلاة على النبي - صلى الله عليه وسلم -",
       "level": 2,
       "parent": 191,
-      "start_ms": 1163,
-      "end_ms": 1168
+      "start_ms": 1162,
+      "end_ms": 1167
     },
     "196": {
       "title": "AUTO باب الصلاة على الأنبياء وآلهم تبعا لهم صلى الله عليهم وسلم",
       "level": 2,
       "parent": 191,
-      "start_ms": 1168,
+      "start_ms": 1167,
       "end_ms": 1168
     },
     "197": {
@@ -1378,7 +1378,7 @@
       "level": 2,
       "parent": 191,
       "start_ms": 1168,
-      "end_ms": 1176
+      "end_ms": 1175
     },
     "198": {
       "title": "AUTO فصل",
@@ -1399,48 +1399,48 @@
       "level": 3,
       "parent": 197,
       "start_ms": 1174,
-      "end_ms": 1175
+      "end_ms": 1174
     },
     "201": {
       "title": "AUTO فصل",
       "level": 3,
       "parent": 197,
-      "start_ms": 1175,
-      "end_ms": 1176
+      "start_ms": 1174,
+      "end_ms": 1175
     },
     "202": {
       "title": "AUTO كتاب الأذكار والدعوات للأمور العارضات",
       "level": 1,
       "parent": null,
-      "start_ms": 1176,
-      "end_ms": 1176
+      "start_ms": 1175,
+      "end_ms": 1175
     },
     "203": {
       "title": "AUTO باب دعاء الاستخاره",
       "level": 2,
       "parent": 202,
-      "start_ms": 1176,
-      "end_ms": 1176
+      "start_ms": 1175,
+      "end_ms": 1175
     },
     "204": {
       "title": "AUTO كتاب الأذكار والدعوات للأمور العارضات",
       "level": 1,
       "parent": null,
-      "start_ms": 1176,
-      "end_ms": 1245
+      "start_ms": 1175,
+      "end_ms": 1244
     },
     "205": {
       "title": "AUTO أبواب الأذكار التي تقال في أوقات الشدة وعلى العاهات باب دعاء الكرب والدعاء عند الأمور المهمة",
       "level": 2,
       "parent": 204,
-      "start_ms": 1191,
-      "end_ms": 1202
+      "start_ms": 1190,
+      "end_ms": 1201
     },
     "206": {
       "title": "AUTO باب ما يقوله إذا راعه شي أو فزع",
       "level": 2,
       "parent": 204,
-      "start_ms": 1202,
+      "start_ms": 1201,
       "end_ms": 1202
     },
     "207": {
@@ -1448,13 +1448,13 @@
       "level": 2,
       "parent": 204,
       "start_ms": 1202,
-      "end_ms": 1203
+      "end_ms": 1202
     },
     "208": {
       "title": "AUTO باب ما يقول إذا أصابه هم أو حزن",
       "level": 2,
       "parent": 204,
-      "start_ms": 1203,
+      "start_ms": 1202,
       "end_ms": 1204
     },
     "209": {
@@ -1483,41 +1483,41 @@
       "level": 2,
       "parent": 204,
       "start_ms": 1207,
-      "end_ms": 1208
+      "end_ms": 1207
     },
     "213": {
       "title": "AUTO فائدة",
       "level": 3,
       "parent": 212,
-      "start_ms": 1208,
-      "end_ms": 1208
+      "start_ms": 1207,
+      "end_ms": 1207
     },
     "214": {
       "title": "AUTO باب ما يقول إذا خاف سلطانا",
       "level": 2,
       "parent": 204,
-      "start_ms": 1208,
-      "end_ms": 1209
+      "start_ms": 1207,
+      "end_ms": 1208
     },
     "215": {
       "title": "AUTO باب ما يقول إذا نظر إلي عدوه",
       "level": 2,
       "parent": 204,
-      "start_ms": 1209,
-      "end_ms": 1210
+      "start_ms": 1208,
+      "end_ms": 1209
     },
     "216": {
       "title": "AUTO باب ما يقول إذا عرض له شيطان أو خافه",
       "level": 2,
       "parent": 204,
-      "start_ms": 1210,
-      "end_ms": 1211
+      "start_ms": 1209,
+      "end_ms": 1210
     },
     "217": {
       "title": "AUTO باب ما يقول إذا عرض له شيطان أو خافه",
       "level": 2,
       "parent": 204,
-      "start_ms": 1211,
+      "start_ms": 1210,
       "end_ms": 1213
     },
     "218": {
@@ -1525,20 +1525,20 @@
       "level": 2,
       "parent": 204,
       "start_ms": 1213,
-      "end_ms": 1214
+      "end_ms": 1213
     },
     "219": {
       "title": "AUTO باب ما يقول إذا غلبه أمر",
       "level": 2,
       "parent": 204,
-      "start_ms": 1214,
-      "end_ms": 1217
+      "start_ms": 1213,
+      "end_ms": 1216
     },
     "220": {
       "title": "AUTO باب ما يقول إذا استصعب عليه أمر",
       "level": 2,
       "parent": 204,
-      "start_ms": 1217,
+      "start_ms": 1216,
       "end_ms": 1217
     },
     "221": {
@@ -1546,41 +1546,41 @@
       "level": 2,
       "parent": 204,
       "start_ms": 1217,
-      "end_ms": 1218
+      "end_ms": 1217
     },
     "222": {
       "title": "AUTO باب ما يقول إذا تعسرت عليه معيشته",
       "level": 2,
       "parent": 204,
-      "start_ms": 1218,
-      "end_ms": 1219
+      "start_ms": 1217,
+      "end_ms": 1218
     },
     "223": {
       "title": "AUTO باب ما يقول لدفع الآفات",
       "level": 2,
       "parent": 204,
-      "start_ms": 1219,
-      "end_ms": 1219
+      "start_ms": 1218,
+      "end_ms": 1218
     },
     "224": {
       "title": "AUTO باب ما يقول لدفع الآفات",
       "level": 2,
       "parent": 204,
-      "start_ms": 1219,
-      "end_ms": 1220
+      "start_ms": 1218,
+      "end_ms": 1219
     },
     "225": {
       "title": "AUTO باب ما يقول إذا أصابته نكبة قليلة أو كثيرة",
       "level": 2,
       "parent": 204,
-      "start_ms": 1220,
-      "end_ms": 1220
+      "start_ms": 1219,
+      "end_ms": 1219
     },
     "226": {
       "title": "AUTO باب ما يقول إذا أصابته نكبة",
       "level": 2,
       "parent": 204,
-      "start_ms": 1220,
+      "start_ms": 1219,
       "end_ms": 1221
     },
     "227": {
@@ -1588,13 +1588,13 @@
       "level": 2,
       "parent": 204,
       "start_ms": 1221,
-      "end_ms": 1222
+      "end_ms": 1221
     },
     "228": {
       "title": "AUTO باب ما يقول إذا كان عليه دين عجز عنه",
       "level": 2,
       "parent": 204,
-      "start_ms": 1222,
+      "start_ms": 1221,
       "end_ms": 1222
     },
     "229": {
@@ -1609,76 +1609,76 @@
       "level": 2,
       "parent": 204,
       "start_ms": 1224,
-      "end_ms": 1225
+      "end_ms": 1224
     },
     "231": {
       "title": "AUTO باب ما يقول من بلي بالوسوسة",
       "level": 2,
       "parent": 204,
-      "start_ms": 1225,
-      "end_ms": 1233
+      "start_ms": 1224,
+      "end_ms": 1232
     },
     "232": {
-      "title": "AUTO باب ما يقرأ ms1232 على المعتوه والملدوغ",
+      "title": "AUTO باب ما يقرأ على المعتوه والملدوغ",
       "level": 2,
       "parent": 204,
-      "start_ms": 1233,
-      "end_ms": 1233
+      "start_ms": 1232,
+      "end_ms": 1232
     },
     "233": {
       "title": "AUTO باب ما يقرأ على المعتوه والملدوغ",
       "level": 2,
       "parent": 204,
-      "start_ms": 1233,
-      "end_ms": 1241
+      "start_ms": 1232,
+      "end_ms": 1240
     },
     "234": {
-      "title": "AUTO ms1240 باب ما يعوذ به الصبيان وغيرهم",
+      "title": "AUTO باب ما يعوذ به الصبيان وغيرهم",
       "level": 2,
       "parent": 204,
-      "start_ms": 1241,
-      "end_ms": 1241
+      "start_ms": 1240,
+      "end_ms": 1240
     },
     "235": {
       "title": "AUTO باب ما يعوذ به الصبيان وغيرهم",
       "level": 2,
       "parent": 204,
-      "start_ms": 1241,
-      "end_ms": 1243
+      "start_ms": 1240,
+      "end_ms": 1242
     },
     "236": {
       "title": "AUTO باب ما يقال على الخراج والبثرة ونحوهما",
       "level": 2,
       "parent": 204,
-      "start_ms": 1243,
-      "end_ms": 1245
+      "start_ms": 1242,
+      "end_ms": 1244
     },
     "237": {
       "title": "AUTO كتاب أذكار المرض والموت ومما يتعلق بهما",
       "level": 1,
       "parent": null,
-      "start_ms": 1245,
-      "end_ms": 1245
+      "start_ms": 1244,
+      "end_ms": 1244
     },
     "238": {
       "title": "AUTO باب استحباب الإكثار من ذكر الموت",
       "level": 2,
       "parent": 237,
-      "start_ms": 1245,
-      "end_ms": 1245
+      "start_ms": 1244,
+      "end_ms": 1244
     },
     "239": {
       "title": "AUTO كتاب أذكار المرض والموت ومما يتعلق بهما",
       "level": 1,
       "parent": null,
-      "start_ms": 1245,
+      "start_ms": 1244,
       "end_ms": 1447
     },
     "240": {
       "title": "AUTO باب استحباب سؤال أهل المريض وأقاربه عنه",
       "level": 2,
       "parent": 239,
-      "start_ms": 1247,
+      "start_ms": 1246,
       "end_ms": 1248
     },
     "241": {
@@ -1693,27 +1693,27 @@
       "level": 2,
       "parent": 239,
       "start_ms": 1248,
-      "end_ms": 1271
+      "end_ms": 1270
     },
     "243": {
-      "title": "AUTO باب استحباب وصية أهل المريض ومن يخدمه بالإحسان ms1270 إليه واحتماله والصبر على ما يشق من أمره وكذلك الوصية بمن قرب سبب موته بحد أو قصاص أو غيرهما",
+      "title": "AUTO باب استحباب وصية أهل المريض ومن يخدمه بالإحسان إليه واحتماله والصبر على ما يشق من أمره وكذلك الوصية بمن قرب سبب موته بحد أو قصاص أو غيرهما",
       "level": 2,
       "parent": 239,
-      "start_ms": 1271,
-      "end_ms": 1274
+      "start_ms": 1270,
+      "end_ms": 1273
     },
     "244": {
       "title": "AUTO باب ما يقول من به صداع أو حمى أو غيرهما من الأوجاع",
       "level": 2,
       "parent": 239,
-      "start_ms": 1274,
-      "end_ms": 1275
+      "start_ms": 1273,
+      "end_ms": 1274
     },
     "245": {
       "title": "AUTO باب ما يقول من به صداع أو حمى أو غيرهما من الأوجاع",
       "level": 2,
       "parent": 239,
-      "start_ms": 1275,
+      "start_ms": 1274,
       "end_ms": 1275
     },
     "246": {
@@ -1721,20 +1721,20 @@
       "level": 2,
       "parent": 239,
       "start_ms": 1275,
-      "end_ms": 1279
+      "end_ms": 1278
     },
     "247": {
       "title": "AUTO باب كراهية تمني الموت لضر نزل بالإنسان وجوازه إذا خاف فتنة في دينه",
       "level": 2,
       "parent": 239,
-      "start_ms": 1279,
-      "end_ms": 1282
+      "start_ms": 1278,
+      "end_ms": 1281
     },
     "248": {
       "title": "AUTO باب استحباب دعاء الإنسان بأن يكون موته في البلد الشريف",
       "level": 2,
       "parent": 239,
-      "start_ms": 1282,
+      "start_ms": 1281,
       "end_ms": 1282
     },
     "249": {
@@ -1749,27 +1749,27 @@
       "level": 2,
       "parent": 239,
       "start_ms": 1282,
-      "end_ms": 1283
+      "end_ms": 1282
     },
     "251": {
       "title": "AUTO تنبيه",
       "level": 3,
       "parent": 250,
-      "start_ms": 1283,
-      "end_ms": 1283
+      "start_ms": 1282,
+      "end_ms": 1282
     },
     "252": {
       "title": "AUTO باب استحباب تطييب نفس المريض",
       "level": 2,
       "parent": 239,
-      "start_ms": 1283,
-      "end_ms": 1285
+      "start_ms": 1282,
+      "end_ms": 1284
     },
     "253": {
-      "title": "AUTO باب الثناء على المريض بمحاسن ms1284 أعمال ونحوها إذا رأى منه خوفه ليذهب خوفه ويحسن الظن ويحسن ظنه بربه سبحانه وتعالى",
+      "title": "AUTO باب الثناء على المريض بمحاسن أعمال ونحوها إذا رأى منه خوفه ليذهب خوفه ويحسن الظن ويحسن ظنه بربه سبحانه وتعالى",
       "level": 2,
       "parent": 239,
-      "start_ms": 1285,
+      "start_ms": 1284,
       "end_ms": 1289
     },
     "254": {
@@ -1777,20 +1777,20 @@
       "level": 2,
       "parent": 239,
       "start_ms": 1289,
-      "end_ms": 1290
+      "end_ms": 1289
     },
     "255": {
       "title": "AUTO باب ما جاء في تشهية المريض",
       "level": 2,
       "parent": 239,
-      "start_ms": 1290,
-      "end_ms": 1293
+      "start_ms": 1289,
+      "end_ms": 1292
     },
     "256": {
       "title": "AUTO باب طلب العواد الدعاء من المريض",
       "level": 2,
       "parent": 239,
-      "start_ms": 1293,
+      "start_ms": 1292,
       "end_ms": 1293
     },
     "257": {
@@ -1798,48 +1798,48 @@
       "level": 2,
       "parent": 239,
       "start_ms": 1293,
-      "end_ms": 1294
+      "end_ms": 1293
     },
     "258": {
       "title": "AUTO باب وعظ المريض بعد عافيته وتذكيره الوفاء بما عاهد الله تعالى عليه من التوبة وغيرها",
       "level": 2,
       "parent": 239,
-      "start_ms": 1294,
-      "end_ms": 1296
+      "start_ms": 1293,
+      "end_ms": 1295
     },
     "259": {
       "title": "AUTO باب ما يقول من أيس من حياته",
       "level": 2,
       "parent": 239,
-      "start_ms": 1296,
-      "end_ms": 1297
+      "start_ms": 1295,
+      "end_ms": 1296
     },
     "260": {
       "title": "AUTO باب ما يقول من أيس من حياته",
       "level": 2,
       "parent": 239,
-      "start_ms": 1297,
-      "end_ms": 1320
+      "start_ms": 1296,
+      "end_ms": 1319
     },
     "261": {
       "title": "AUTO باب ما يقوله بعد تغميض الميت",
       "level": 2,
       "parent": 239,
-      "start_ms": 1320,
-      "end_ms": 1321
+      "start_ms": 1319,
+      "end_ms": 1320
     },
     "262": {
       "title": "AUTO باب ما يقوله بعد تغميض الميت",
       "level": 2,
       "parent": 239,
-      "start_ms": 1321,
-      "end_ms": 1324
+      "start_ms": 1320,
+      "end_ms": 1323
     },
     "263": {
       "title": "AUTO باب ما يقال عند الميت",
       "level": 2,
       "parent": 239,
-      "start_ms": 1324,
+      "start_ms": 1323,
       "end_ms": 1324
     },
     "264": {
@@ -1847,13 +1847,13 @@
       "level": 2,
       "parent": 239,
       "start_ms": 1324,
-      "end_ms": 1327
+      "end_ms": 1326
     },
     "265": {
       "title": "AUTO باب ما يقوله من مات له ميت",
       "level": 2,
       "parent": 239,
-      "start_ms": 1327,
+      "start_ms": 1326,
       "end_ms": 1327
     },
     "266": {
@@ -1868,13 +1868,13 @@
       "level": 2,
       "parent": 239,
       "start_ms": 1331,
-      "end_ms": 1332
+      "end_ms": 1331
     },
     "268": {
       "title": "AUTO باب ما يقوله من بلغه موت صاحبه",
       "level": 2,
       "parent": 239,
-      "start_ms": 1332,
+      "start_ms": 1331,
       "end_ms": 1332
     },
     "269": {
@@ -1882,27 +1882,27 @@
       "level": 2,
       "parent": 239,
       "start_ms": 1332,
-      "end_ms": 1333
+      "end_ms": 1332
     },
     "270": {
-      "title": "AUTO باب تحريم النياحة على الميت والدعاء بدعوى ms1332 الجاهلية",
+      "title": "AUTO باب تحريم النياحة على الميت والدعاء بدعوى الجاهلية",
       "level": 2,
       "parent": 239,
-      "start_ms": 1333,
-      "end_ms": 1333
+      "start_ms": 1332,
+      "end_ms": 1332
     },
     "271": {
       "title": "AUTO (باب ما يقوله إذا بلغه موت عدو الإسلام)",
       "level": 2,
       "parent": 239,
-      "start_ms": 1333,
-      "end_ms": 1333
+      "start_ms": 1332,
+      "end_ms": 1332
     },
     "272": {
       "title": "AUTO باب تحريم النياحة على الميت والدعاء بدعوى الجاهلية",
       "level": 2,
       "parent": 239,
-      "start_ms": 1333,
+      "start_ms": 1332,
       "end_ms": 1346
     },
     "273": {
@@ -1917,20 +1917,20 @@
       "level": 2,
       "parent": 239,
       "start_ms": 1346,
-      "end_ms": 1368
+      "end_ms": 1367
     },
     "275": {
       "title": "AUTO فصل في الإشارة إلى بعض ما جرى من الطواعين في الإسلام",
       "level": 3,
       "parent": 274,
-      "start_ms": 1363,
-      "end_ms": 1368
+      "start_ms": 1362,
+      "end_ms": 1367
     },
     "276": {
       "title": "AUTO باب جوز إعلام أصحاب الميت وقرابته بموته وكراهة النعي",
       "level": 2,
       "parent": 239,
-      "start_ms": 1368,
+      "start_ms": 1367,
       "end_ms": 1373
     },
     "277": {
@@ -1938,34 +1938,34 @@
       "level": 2,
       "parent": 239,
       "start_ms": 1373,
-      "end_ms": 1374
+      "end_ms": 1373
     },
     "278": {
       "title": "AUTO باب ما يقال في حال غسل الميت وتكفينه",
       "level": 2,
       "parent": 239,
-      "start_ms": 1374,
-      "end_ms": 1377
+      "start_ms": 1373,
+      "end_ms": 1376
     },
     "279": {
       "title": "AUTO باب أذكار الصلاة على الميت",
       "level": 2,
       "parent": 239,
-      "start_ms": 1377,
-      "end_ms": 1377
+      "start_ms": 1376,
+      "end_ms": 1376
     },
     "280": {
       "title": "AUTO باب أذكار الصلاة على الميت",
       "level": 2,
       "parent": 239,
-      "start_ms": 1377,
-      "end_ms": 1397
+      "start_ms": 1376,
+      "end_ms": 1396
     },
     "281": {
       "title": "AUTO باب ما يقوله الماشي مع الجنازة",
       "level": 2,
       "parent": 239,
-      "start_ms": 1397,
+      "start_ms": 1396,
       "end_ms": 1397
     },
     "282": {
@@ -1973,62 +1973,62 @@
       "level": 2,
       "parent": 239,
       "start_ms": 1397,
-      "end_ms": 1399
+      "end_ms": 1398
     },
     "283": {
       "title": "AUTO باب ما يقوله من مرت به جنازة أو رآها",
       "level": 2,
       "parent": 239,
-      "start_ms": 1399,
-      "end_ms": 1400
+      "start_ms": 1398,
+      "end_ms": 1399
     },
     "284": {
       "title": "AUTO باب ما يقوله من مرت به جنازة أو رآها",
       "level": 2,
       "parent": 239,
-      "start_ms": 1400,
-      "end_ms": 1400
+      "start_ms": 1399,
+      "end_ms": 1399
     },
     "285": {
       "title": "AUTO باب ما يقوله من يدخل الميت قبره",
       "level": 2,
       "parent": 239,
-      "start_ms": 1400,
-      "end_ms": 1403
+      "start_ms": 1399,
+      "end_ms": 1402
     },
     "286": {
       "title": "AUTO باب ما يقال بعد الدفن",
       "level": 2,
       "parent": 239,
-      "start_ms": 1403,
-      "end_ms": 1413
+      "start_ms": 1402,
+      "end_ms": 1412
     },
     "287": {
       "title": "AUTO فصل",
       "level": 3,
       "parent": 286,
-      "start_ms": 1410,
-      "end_ms": 1411
+      "start_ms": 1409,
+      "end_ms": 1410
     },
     "288": {
       "title": "AUTO فصل",
       "level": 3,
       "parent": 286,
-      "start_ms": 1411,
-      "end_ms": 1413
+      "start_ms": 1410,
+      "end_ms": 1412
     },
     "289": {
       "title": "AUTO باب وصية الميت أن يصلي عليه إنسان بعينه أو أن يدفن على صفة مخصوصة وفي موضع مخصوص وكذلك الكفن وغيره من أموره التي تفعل والتي لا تفعل",
       "level": 2,
       "parent": 239,
-      "start_ms": 1413,
-      "end_ms": 1421
+      "start_ms": 1412,
+      "end_ms": 1420
     },
     "290": {
       "title": "AUTO باب ما ينفع الميت من قول غيره",
       "level": 2,
       "parent": 239,
-      "start_ms": 1421,
+      "start_ms": 1420,
       "end_ms": 1421
     },
     "291": {
@@ -2036,55 +2036,55 @@
       "level": 2,
       "parent": 239,
       "start_ms": 1421,
-      "end_ms": 1428
+      "end_ms": 1427
     },
     "292": {
       "title": "AUTO باب النهي عن سب الأموات",
       "level": 2,
       "parent": 239,
-      "start_ms": 1428,
-      "end_ms": 1429
+      "start_ms": 1427,
+      "end_ms": 1428
     },
     "293": {
       "title": "AUTO باب النهي عن سب الأموات",
       "level": 2,
       "parent": 239,
-      "start_ms": 1429,
-      "end_ms": 1436
+      "start_ms": 1428,
+      "end_ms": 1435
     },
     "294": {
       "title": "AUTO باب ما يقوله زائر القبور",
       "level": 2,
       "parent": 239,
-      "start_ms": 1436,
-      "end_ms": 1437
+      "start_ms": 1435,
+      "end_ms": 1436
     },
     "295": {
       "title": "AUTO باب ما يقوله زائر القبور",
       "level": 2,
       "parent": 239,
-      "start_ms": 1437,
-      "end_ms": 1444
+      "start_ms": 1436,
+      "end_ms": 1443
     },
     "296": {
       "title": "AUTO باب نهي الزائر من رآه يبكي جزعا عند قبر وأمره إياه بالصبر ونهيه أيضا عن غير ذلك مما نهى الشرع عنه",
       "level": 2,
       "parent": 239,
-      "start_ms": 1444,
-      "end_ms": 1447
+      "start_ms": 1443,
+      "end_ms": 1446
     },
     "297": {
-      "title": "AUTO باب البكاء والخوف عند المرور بقبور الظالمين وبمصارعهم وإظهار الافتقار إلى الله تعالى والتحذير ms1446 من الغفلة عن ذلك",
+      "title": "AUTO باب البكاء والخوف عند المرور بقبور الظالمين وبمصارعهم وإظهار الافتقار إلى الله تعالى والتحذير من الغفلة عن ذلك",
       "level": 2,
       "parent": 239,
-      "start_ms": 1447,
-      "end_ms": 1447
+      "start_ms": 1446,
+      "end_ms": 1446
     },
     "298": {
       "title": "AUTO باب البكاء والخوف عند المرور بقبور الظالمين وبمصارعهم وإظهار الافتقار إلى الله تعالى والتحذير من الغفلة عن ذلك",
       "level": 2,
       "parent": 239,
-      "start_ms": 1447,
+      "start_ms": 1446,
       "end_ms": 1447
     },
     "299": {
@@ -2092,1532 +2092,1532 @@
       "level": 1,
       "parent": null,
       "start_ms": 1447,
-      "end_ms": 1448
+      "end_ms": 1447
     },
     "300": {
       "title": "AUTO باب الأذكار المستحبة يوم الجمعة وليلتها والدعاء",
       "level": 2,
       "parent": 299,
       "start_ms": 1447,
-      "end_ms": 1448
+      "end_ms": 1447
     },
     "301": {
       "title": "AUTO كتاب الأذكار في صلوات مخصوصة",
       "level": 1,
       "parent": null,
-      "start_ms": 1448,
-      "end_ms": 1552
+      "start_ms": 1447,
+      "end_ms": 1551
     },
     "302": {
       "title": "AUTO باب الأذكار المستحبة يوم الجمعة وليلتها والدعاء",
       "level": 2,
       "parent": 301,
-      "start_ms": 1448,
-      "end_ms": 1454
+      "start_ms": 1447,
+      "end_ms": 1453
     },
     "303": {
       "title": "AUTO فصل",
       "level": 2,
       "parent": 301,
-      "start_ms": 1454,
-      "end_ms": 1455
+      "start_ms": 1453,
+      "end_ms": 1454
     },
     "304": {
       "title": "AUTO فصل",
       "level": 2,
       "parent": 301,
-      "start_ms": 1455,
-      "end_ms": 1455
+      "start_ms": 1454,
+      "end_ms": 1454
     },
     "305": {
       "title": "AUTO باب الأذكار المشروعة في العيدين",
       "level": 2,
       "parent": 301,
-      "start_ms": 1455,
-      "end_ms": 1456
+      "start_ms": 1454,
+      "end_ms": 1455
     },
     "306": {
       "title": "AUTO باب الأذكار المشروعة في العيدين",
       "level": 2,
       "parent": 301,
-      "start_ms": 1456,
-      "end_ms": 1466
+      "start_ms": 1455,
+      "end_ms": 1465
     },
     "307": {
       "title": "AUTO فصل",
       "level": 3,
       "parent": 306,
-      "start_ms": 1458,
-      "end_ms": 1459
+      "start_ms": 1457,
+      "end_ms": 1458
     },
     "308": {
       "title": "AUTO فصل",
       "level": 3,
       "parent": 306,
-      "start_ms": 1459,
-      "end_ms": 1462
+      "start_ms": 1458,
+      "end_ms": 1461
     },
     "309": {
       "title": "AUTO فصل",
       "level": 3,
       "parent": 306,
-      "start_ms": 1462,
-      "end_ms": 1462
+      "start_ms": 1461,
+      "end_ms": 1461
     },
     "310": {
       "title": "AUTO فصل",
       "level": 3,
       "parent": 306,
-      "start_ms": 1462,
-      "end_ms": 1465
+      "start_ms": 1461,
+      "end_ms": 1464
     },
     "311": {
       "title": "AUTO فائدة",
       "level": 3,
       "parent": 306,
-      "start_ms": 1465,
-      "end_ms": 1466
+      "start_ms": 1464,
+      "end_ms": 1465
     },
     "312": {
-      "title": "AUTO باب الأذكار في العشر الأول من ms1465 ذي الحجة",
+      "title": "AUTO باب الأذكار في العشر الأول من ذي الحجة",
       "level": 2,
       "parent": 301,
-      "start_ms": 1466,
-      "end_ms": 1466
+      "start_ms": 1465,
+      "end_ms": 1465
     },
     "313": {
       "title": "AUTO باب الأذكار في العشر الأول من ذي الحجة",
       "level": 2,
       "parent": 301,
-      "start_ms": 1466,
-      "end_ms": 1471
+      "start_ms": 1465,
+      "end_ms": 1470
     },
     "314": {
       "title": "AUTO باب الأذكار المشروعة في الكسوف",
       "level": 2,
       "parent": 301,
-      "start_ms": 1471,
-      "end_ms": 1472
+      "start_ms": 1470,
+      "end_ms": 1471
     },
     "315": {
       "title": "AUTO باب الأذكار المشروعة في الكسوف",
       "level": 2,
       "parent": 301,
-      "start_ms": 1472,
-      "end_ms": 1483
+      "start_ms": 1471,
+      "end_ms": 1482
     },
     "316": {
       "title": "AUTO فصل",
       "level": 3,
       "parent": 315,
-      "start_ms": 1477,
-      "end_ms": 1477
+      "start_ms": 1476,
+      "end_ms": 1476
     },
     "317": {
       "title": "AUTO فصل",
       "level": 3,
       "parent": 315,
-      "start_ms": 1477,
-      "end_ms": 1477
+      "start_ms": 1476,
+      "end_ms": 1476
     },
     "318": {
       "title": "AUTO فصل",
       "level": 3,
       "parent": 315,
-      "start_ms": 1477,
-      "end_ms": 1483
+      "start_ms": 1476,
+      "end_ms": 1482
     },
     "319": {
       "title": "AUTO باب الأذكار في الاستسقاء",
       "level": 2,
       "parent": 301,
-      "start_ms": 1483,
-      "end_ms": 1496
+      "start_ms": 1482,
+      "end_ms": 1495
     },
     "320": {
       "title": "AUTO باب ما يقوله إذا هاجت الريح",
       "level": 2,
       "parent": 301,
-      "start_ms": 1496,
-      "end_ms": 1507
+      "start_ms": 1495,
+      "end_ms": 1506
     },
     "321": {
       "title": "AUTO باب ما يقول إذا انقض الكوكب",
       "level": 2,
       "parent": 301,
-      "start_ms": 1507,
-      "end_ms": 1507
+      "start_ms": 1506,
+      "end_ms": 1506
     },
     "322": {
       "title": "AUTO باب ما يقول إذا انقض الكوكب",
       "level": 2,
       "parent": 301,
-      "start_ms": 1507,
-      "end_ms": 1508
+      "start_ms": 1506,
+      "end_ms": 1507
     },
     "323": {
       "title": "AUTO باب ترك الإشارة والنظر إلى الكوكب والبرق",
       "level": 2,
       "parent": 301,
-      "start_ms": 1508,
-      "end_ms": 1508
+      "start_ms": 1507,
+      "end_ms": 1507
     },
     "324": {
       "title": "AUTO باب ترك الإشارة والنظر إلى الكوكب والبرق",
       "level": 2,
       "parent": 301,
-      "start_ms": 1508,
-      "end_ms": 1509
+      "start_ms": 1507,
+      "end_ms": 1508
     },
     "325": {
       "title": "AUTO باب ما يقول إذا سمع الرعد",
       "level": 2,
       "parent": 301,
-      "start_ms": 1509,
-      "end_ms": 1510
+      "start_ms": 1508,
+      "end_ms": 1509
     },
     "326": {
       "title": "AUTO باب ما يقول إذا سمع الرعد",
       "level": 2,
       "parent": 301,
-      "start_ms": 1510,
-      "end_ms": 1513
+      "start_ms": 1509,
+      "end_ms": 1512
     },
     "327": {
       "title": "AUTO باب ما يقوله إذا نزل المطر",
       "level": 2,
       "parent": 301,
-      "start_ms": 1513,
-      "end_ms": 1514
+      "start_ms": 1512,
+      "end_ms": 1513
     },
     "328": {
       "title": "AUTO باب ما يقوله بعد نزول المطر",
       "level": 2,
       "parent": 301,
-      "start_ms": 1514,
-      "end_ms": 1515
+      "start_ms": 1513,
+      "end_ms": 1514
     },
     "329": {
       "title": "AUTO باب ما يقوله بعد نزول المطر",
       "level": 2,
       "parent": 301,
-      "start_ms": 1515,
-      "end_ms": 1518
+      "start_ms": 1514,
+      "end_ms": 1517
     },
     "330": {
       "title": "AUTO باب ما يقوله إذا كثر المطر وخيف منه الضرر",
       "level": 2,
       "parent": 301,
-      "start_ms": 1518,
-      "end_ms": 1523
+      "start_ms": 1517,
+      "end_ms": 1522
     },
     "331": {
       "title": "AUTO باب أذكار صلاة التراويح",
       "level": 2,
       "parent": 301,
-      "start_ms": 1523,
-      "end_ms": 1523
+      "start_ms": 1522,
+      "end_ms": 1522
     },
     "332": {
       "title": "AUTO باب أذكار صلاة التراويح",
       "level": 2,
       "parent": 301,
-      "start_ms": 1523,
-      "end_ms": 1525
+      "start_ms": 1522,
+      "end_ms": 1524
     },
     "333": {
       "title": "AUTO باب أذكار صلاة الحجة",
       "level": 2,
       "parent": 301,
-      "start_ms": 1525,
-      "end_ms": 1531
+      "start_ms": 1524,
+      "end_ms": 1530
     },
     "334": {
       "title": "AUTO باب الأذكار صلاة التسبيح",
       "level": 2,
       "parent": 301,
-      "start_ms": 1531,
-      "end_ms": 1552
+      "start_ms": 1530,
+      "end_ms": 1551
     },
     "335": {
       "title": "AUTO تنبيه",
       "level": 3,
       "parent": 334,
-      "start_ms": 1550,
-      "end_ms": 1552
+      "start_ms": 1549,
+      "end_ms": 1551
     },
     "336": {
       "title": "AUTO تتمة",
       "level": 3,
       "parent": 334,
-      "start_ms": 1552,
-      "end_ms": 1552
+      "start_ms": 1551,
+      "end_ms": 1551
     },
     "337": {
       "title": "AUTO باب الأذكار المتعلقة بالزكاة",
       "level": 1,
       "parent": null,
-      "start_ms": 1552,
-      "end_ms": 1552
+      "start_ms": 1551,
+      "end_ms": 1551
     },
     "338": {
       "title": "AUTO باب الأذكار المتعلقة بالزكاة",
       "level": 1,
       "parent": null,
-      "start_ms": 1552,
-      "end_ms": 1558
+      "start_ms": 1551,
+      "end_ms": 1557
     },
     "339": {
       "title": "AUTO فصل",
       "level": 2,
       "parent": 338,
-      "start_ms": 1557,
-      "end_ms": 1557
+      "start_ms": 1556,
+      "end_ms": 1556
     },
     "340": {
       "title": "AUTO فصل",
       "level": 2,
       "parent": 338,
-      "start_ms": 1557,
-      "end_ms": 1557
+      "start_ms": 1556,
+      "end_ms": 1556
     },
     "341": {
       "title": "AUTO فصل",
       "level": 2,
       "parent": 338,
-      "start_ms": 1557,
-      "end_ms": 1558
+      "start_ms": 1556,
+      "end_ms": 1557
     },
     "342": {
       "title": "AUTO كتاب أذكار الصيام",
       "level": 1,
       "parent": null,
-      "start_ms": 1558,
-      "end_ms": 1558
+      "start_ms": 1557,
+      "end_ms": 1557
     },
     "343": {
       "title": "AUTO باب ما يقوله إذا رأى الهلال، وما يقول إذا رأى القمر",
       "level": 2,
       "parent": 342,
-      "start_ms": 1558,
-      "end_ms": 1558
+      "start_ms": 1557,
+      "end_ms": 1557
     },
     "344": {
       "title": "AUTO كتاب أذكار الصيام",
       "level": 1,
       "parent": null,
-      "start_ms": 1558,
-      "end_ms": 1579
+      "start_ms": 1557,
+      "end_ms": 1578
     },
     "345": {
       "title": "AUTO باب الأذكار المستحبة في الصوم",
       "level": 2,
       "parent": 344,
-      "start_ms": 1565,
-      "end_ms": 1566
+      "start_ms": 1564,
+      "end_ms": 1565
     },
     "346": {
       "title": "AUTO باب الأذكار المستحبة في الصوم",
       "level": 2,
       "parent": 344,
-      "start_ms": 1566,
-      "end_ms": 1569
+      "start_ms": 1565,
+      "end_ms": 1568
     },
     "347": {
       "title": "AUTO باب ما يقول عند الإفطار",
       "level": 2,
       "parent": 344,
-      "start_ms": 1569,
-      "end_ms": 1570
+      "start_ms": 1568,
+      "end_ms": 1569
     },
     "348": {
       "title": "AUTO باب ما يقول عند الإفطار",
       "level": 2,
       "parent": 344,
-      "start_ms": 1570,
-      "end_ms": 1573
+      "start_ms": 1569,
+      "end_ms": 1572
     },
     "349": {
       "title": "AUTO باب ما يقول إذا أفطر عند قوم",
       "level": 2,
       "parent": 344,
-      "start_ms": 1573,
-      "end_ms": 1573
+      "start_ms": 1572,
+      "end_ms": 1572
     },
     "350": {
       "title": "AUTO باب ما يقول إذا أفطر عند قوم",
       "level": 2,
       "parent": 344,
-      "start_ms": 1573,
-      "end_ms": 1576
+      "start_ms": 1572,
+      "end_ms": 1575
     },
     "351": {
       "title": "AUTO باب ما يدعو به إذا صادف ليلة القدر",
       "level": 2,
       "parent": 344,
-      "start_ms": 1576,
-      "end_ms": 1576
+      "start_ms": 1575,
+      "end_ms": 1575
     },
     "352": {
       "title": "AUTO باب ما يدعو به إذا صادف ليلة القدر",
       "level": 2,
       "parent": 344,
-      "start_ms": 1576,
-      "end_ms": 1578
+      "start_ms": 1575,
+      "end_ms": 1577
     },
     "353": {
       "title": "AUTO باب الأذكار في الاعتكاف",
       "level": 2,
       "parent": 344,
-      "start_ms": 1578,
-      "end_ms": 1579
+      "start_ms": 1577,
+      "end_ms": 1578
     },
     "354": {
       "title": "AUTO باب الأذكار في الاعتكاف",
       "level": 2,
       "parent": 344,
-      "start_ms": 1579,
-      "end_ms": 1579
+      "start_ms": 1578,
+      "end_ms": 1578
     },
     "355": {
       "title": "AUTO كتاب أذكار الحج",
       "level": 1,
       "parent": null,
-      "start_ms": 1579,
-      "end_ms": 1579
+      "start_ms": 1578,
+      "end_ms": 1578
     },
     "356": {
       "title": "AUTO كتاب أذكار الحج",
       "level": 1,
       "parent": null,
-      "start_ms": 1579,
-      "end_ms": 1688
+      "start_ms": 1578,
+      "end_ms": 1686
     },
     "357": {
       "title": "AUTO فصل",
       "level": 2,
       "parent": 356,
-      "start_ms": 1589,
-      "end_ms": 1589
+      "start_ms": 1588,
+      "end_ms": 1588
     },
     "358": {
       "title": "AUTO فصل",
       "level": 2,
       "parent": 356,
-      "start_ms": 1589,
-      "end_ms": 1592
+      "start_ms": 1588,
+      "end_ms": 1591
     },
     "359": {
       "title": "AUTO فائدة",
       "level": 2,
       "parent": 356,
-      "start_ms": 1592,
-      "end_ms": 1592
+      "start_ms": 1591,
+      "end_ms": 1591
     },
     "360": {
       "title": "AUTO فائدة",
       "level": 2,
       "parent": 356,
-      "start_ms": 1592,
-      "end_ms": 1601
+      "start_ms": 1591,
+      "end_ms": 1600
     },
     "361": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 356,
+      "start_ms": 1600,
+      "end_ms": 1601
+    },
+    "362": {
+      "title": "AUTO فصل",
+      "level": 2,
+      "parent": 356,
+      "start_ms": 1601,
+      "end_ms": 1601
+    },
+    "363": {
       "title": "AUTO فصل",
       "level": 2,
       "parent": 356,
       "start_ms": 1601,
       "end_ms": 1602
     },
-    "362": {
-      "title": "AUTO فصل",
-      "level": 2,
-      "parent": 356,
-      "start_ms": 1602,
-      "end_ms": 1603
-    },
-    "363": {
-      "title": "AUTO فصل",
-      "level": 2,
-      "parent": 356,
-      "start_ms": 1603,
-      "end_ms": 1603
-    },
     "364": {
       "title": "AUTO فصل",
       "level": 2,
       "parent": 356,
-      "start_ms": 1603,
-      "end_ms": 1607
+      "start_ms": 1602,
+      "end_ms": 1606
     },
     "365": {
       "title": "AUTO فصل في أذكار الطواف",
       "level": 2,
       "parent": 356,
-      "start_ms": 1607,
-      "end_ms": 1627
+      "start_ms": 1606,
+      "end_ms": 1626
     },
     "366": {
       "title": "AUTO فصل في الدعاء الملتزم،",
       "level": 2,
       "parent": 356,
-      "start_ms": 1627,
-      "end_ms": 1628
+      "start_ms": 1626,
+      "end_ms": 1627
     },
     "367": {
       "title": "AUTO فصل في الدعاء في الحجر",
       "level": 2,
       "parent": 356,
-      "start_ms": 1628,
-      "end_ms": 1630
+      "start_ms": 1627,
+      "end_ms": 1629
     },
     "368": {
       "title": "AUTO فصل في الدعاء في البيت",
       "level": 2,
       "parent": 356,
-      "start_ms": 1630,
-      "end_ms": 1632
+      "start_ms": 1629,
+      "end_ms": 1631
     },
     "369": {
       "title": "AUTO فصل في أذكار السعي",
       "level": 2,
       "parent": 356,
-      "start_ms": 1632,
-      "end_ms": 1642
+      "start_ms": 1631,
+      "end_ms": 1641
     },
     "370": {
       "title": "AUTO فصل في الأذكار التي يقولها عند خروجه من مكة إلى عرفات",
       "level": 2,
       "parent": 356,
-      "start_ms": 1642,
-      "end_ms": 1644
+      "start_ms": 1641,
+      "end_ms": 1643
     },
     "371": {
       "title": "AUTO فصل في الأذكار والدعوات المستحبات بعرفات",
       "level": 2,
       "parent": 356,
-      "start_ms": 1644,
-      "end_ms": 1651
+      "start_ms": 1643,
+      "end_ms": 1650
     },
     "372": {
       "title": "AUTO فصل في الأذكار المستحبة في الإفاضة من عرفة إلى مزدلفة",
       "level": 2,
       "parent": 356,
-      "start_ms": 1651,
-      "end_ms": 1653
+      "start_ms": 1650,
+      "end_ms": 1652
     },
     "373": {
       "title": "AUTO فصل في الأذكار المستحبة في المزدلفة والمشعر الحرام",
       "level": 2,
       "parent": 356,
-      "start_ms": 1653,
-      "end_ms": 1660
+      "start_ms": 1652,
+      "end_ms": 1659
     },
     "374": {
       "title": "AUTO فصل في الأذكار المستحبة في الدفع من المشعر الحرام إلى منى",
       "level": 2,
       "parent": 356,
-      "start_ms": 1660,
-      "end_ms": 1662
+      "start_ms": 1659,
+      "end_ms": 1661
     },
     "375": {
       "title": "AUTO فصل في الأذكار المستحبة بمنى يوم النحر",
       "level": 2,
       "parent": 356,
-      "start_ms": 1662,
-      "end_ms": 1669
+      "start_ms": 1661,
+      "end_ms": 1668
     },
     "376": {
       "title": "AUTO فصل في الأذكار المستحبة بمنى في أيام التشريق",
       "level": 2,
       "parent": 356,
-      "start_ms": 1669,
-      "end_ms": 1671
+      "start_ms": 1668,
+      "end_ms": 1670
     },
     "377": {
       "title": "AUTO فصل",
       "level": 2,
       "parent": 356,
-      "start_ms": 1671,
-      "end_ms": 1671
+      "start_ms": 1670,
+      "end_ms": 1670
     },
     "378": {
       "title": "AUTO",
       "level": 2,
       "parent": 356,
-      "start_ms": 1671,
-      "end_ms": 1671
+      "start_ms": 1670,
+      "end_ms": 1670
     },
     "379": {
       "title": "AUTO فصل",
       "level": 2,
       "parent": 356,
-      "start_ms": 1671,
-      "end_ms": 1672
+      "start_ms": 1670,
+      "end_ms": 1671
     },
     "380": {
       "title": "AUTO",
       "level": 2,
       "parent": 356,
-      "start_ms": 1672,
-      "end_ms": 1672
+      "start_ms": 1671,
+      "end_ms": 1671
     },
     "381": {
       "title": "AUTO فصل",
       "level": 2,
       "parent": 356,
-      "start_ms": 1672,
-      "end_ms": 1672
+      "start_ms": 1671,
+      "end_ms": 1671
     },
     "382": {
       "title": "AUTO فصل",
       "level": 2,
       "parent": 356,
-      "start_ms": 1672,
-      "end_ms": 1673
+      "start_ms": 1671,
+      "end_ms": 1672
     },
     "383": {
       "title": "AUTO فصل",
       "level": 2,
       "parent": 356,
-      "start_ms": 1673,
-      "end_ms": 1673
+      "start_ms": 1672,
+      "end_ms": 1672
     },
     "384": {
       "title": "AUTO فصل",
       "level": 2,
       "parent": 356,
-      "start_ms": 1673,
-      "end_ms": 1675
+      "start_ms": 1672,
+      "end_ms": 1674
     },
     "385": {
       "title": "AUTO فصل في زيارة قبر رسول الله - صلى الله عليه وسلم - وأذكارها",
       "level": 2,
       "parent": 356,
-      "start_ms": 1675,
-      "end_ms": 1688
+      "start_ms": 1674,
+      "end_ms": 1686
     },
     "386": {
       "title": "AUTO كتاب أذكار الجهاد",
       "level": 1,
       "parent": null,
-      "start_ms": 1688,
-      "end_ms": 1688
+      "start_ms": 1686,
+      "end_ms": 1687
     },
     "387": {
       "title": "AUTO باب استحباب سؤال الشهادة",
       "level": 2,
       "parent": 386,
-      "start_ms": 1688,
-      "end_ms": 1688
+      "start_ms": 1687,
+      "end_ms": 1687
     },
     "388": {
       "title": "AUTO كتاب أذكار الجهاد",
       "level": 1,
       "parent": null,
-      "start_ms": 1688,
-      "end_ms": 1742
+      "start_ms": 1687,
+      "end_ms": 1741
     },
     "389": {
       "title": "AUTO باب استحباب سؤال الشهادة",
       "level": 2,
       "parent": 388,
-      "start_ms": 1688,
-      "end_ms": 1692
+      "start_ms": 1687,
+      "end_ms": 1691
     },
     "390": {
       "title": "AUTO باب حث الإمام أمير السرية على تقوى الله تعالى وتعليمه إياه",
       "level": 2,
       "parent": 388,
-      "start_ms": 1692,
-      "end_ms": 1692
+      "start_ms": 1691,
+      "end_ms": 1691
     },
     "391": {
       "title": "AUTO باب حث الإمام أمير السرية على تقوى الله تعالى وتعليمه إياه ما يحتاج إليه من أمر قتال ومصالحتهم وغير ذلك",
       "level": 2,
       "parent": 388,
-      "start_ms": 1692,
-      "end_ms": 1693
+      "start_ms": 1691,
+      "end_ms": 1692
     },
     "392": {
       "title": "AUTO باب بيان أن السنة للإمام وأمير السرية إذا أراد غزوة أن يورى بغيرها",
       "level": 2,
       "parent": 388,
-      "start_ms": 1693,
-      "end_ms": 1694
+      "start_ms": 1692,
+      "end_ms": 1692
     },
     "393": {
       "title": "AUTO باب الدعاء لمن يقاتل أو يعمل على ما يعين على القتال في وجهه وذكر ما ينشطهم ويحرضهم على القتال",
       "level": 2,
       "parent": 388,
-      "start_ms": 1694,
-      "end_ms": 1696
+      "start_ms": 1692,
+      "end_ms": 1695
     },
     "394": {
       "title": "AUTO باب الدعاء والتضرع والتكبير عندالقتال واستنجاز الله تعالى ما وعد من نصر المؤمنين",
       "level": 2,
       "parent": 388,
-      "start_ms": 1696,
-      "end_ms": 1713
+      "start_ms": 1695,
+      "end_ms": 1712
     },
     "395": {
       "title": "AUTO باب النهي عن رفع الصوت عند القتال لغير حاجة",
       "level": 2,
       "parent": 388,
-      "start_ms": 1713,
-      "end_ms": 1713
+      "start_ms": 1712,
+      "end_ms": 1712
     },
     "396": {
       "title": "AUTO باب النهي عن رفع الصوت عند القتال لغير حاجة",
       "level": 2,
       "parent": 388,
-      "start_ms": 1713,
-      "end_ms": 1714
+      "start_ms": 1712,
+      "end_ms": 1713
     },
     "397": {
       "title": "AUTO باب قول الرجل في حال القتال: أنا فلان لإرعاب عدوه",
       "level": 2,
       "parent": 388,
-      "start_ms": 1714,
-      "end_ms": 1716
+      "start_ms": 1713,
+      "end_ms": 1715
     },
     "398": {
       "title": "AUTO باب استحباب الرجز حال المبارزة",
       "level": 2,
       "parent": 388,
-      "start_ms": 1716,
-      "end_ms": 1724
+      "start_ms": 1715,
+      "end_ms": 1723
     },
     "399": {
       "title": "AUTO باب استحباب إظهار الصبر والقوة لمن جرح واستبشاره بما حصل له من الجرح في سبيل الله وبما يصير إليه من الشهادة وإظهار السرور بذلك وأنه لا ضير علينا في ذلك بل هذا مطلوبنا وهو نهاية أملنا وغاية سؤلنا",
       "level": 2,
       "parent": 388,
-      "start_ms": 1724,
-      "end_ms": 1734
+      "start_ms": 1723,
+      "end_ms": 1733
     },
     "400": {
+      "title": "AUTO باب ما يقول إذا ظهر المسلمون وغلبوا عدوهم",
+      "level": 2,
+      "parent": 388,
+      "start_ms": 1733,
+      "end_ms": 1734
+    },
+    "401": {
       "title": "AUTO باب ما يقول إذا ظهر المسلمون وغلبوا عدوهم",
       "level": 2,
       "parent": 388,
       "start_ms": 1734,
       "end_ms": 1735
     },
-    "401": {
-      "title": "AUTO باب ما يقول إذا ظهر المسلمون وغلبوا عدوهم",
-      "level": 2,
-      "parent": 388,
-      "start_ms": 1735,
-      "end_ms": 1736
-    },
     "402": {
       "title": "AUTO باب ما يقول إذا رأى هزيمة في المسلمين والعياذ بالله الكريم",
       "level": 2,
       "parent": 388,
-      "start_ms": 1736,
-      "end_ms": 1740
+      "start_ms": 1735,
+      "end_ms": 1739
     },
     "403": {
       "title": "AUTO باب ثناء الإمام على من ظهرت منه براعة في القتال",
       "level": 2,
       "parent": 388,
-      "start_ms": 1740,
-      "end_ms": 1741
+      "start_ms": 1739,
+      "end_ms": 1739
     },
     "404": {
-      "title": "AUTO باب ثناء ms1740 الإمام على من ظهرت منه براعة في القتال PageV05P092 # روينا في \"صحيحي البخاري ومسلم\" عن سلمة بن الأكوع رضي الله عنه في حديثه",
+      "title": "AUTO باب ثناء الإمام على من ظهرت منه براعة في القتال PageV05P092 # روينا في \"صحيحي البخاري ومسلم\" عن سلمة بن الأكوع رضي الله عنه في حديثه",
       "level": 2,
       "parent": 388,
-      "start_ms": 1741,
-      "end_ms": 1742
+      "start_ms": 1739,
+      "end_ms": 1740
     },
     "405": {
       "title": "AUTO باب ما يقوله إذا رجع من الغزو",
       "level": 2,
       "parent": 388,
-      "start_ms": 1742,
-      "end_ms": 1742
+      "start_ms": 1740,
+      "end_ms": 1741
     },
     "406": {
       "title": "AUTO كتاب أذكار المسافر",
       "level": 1,
       "parent": null,
-      "start_ms": 1742,
-      "end_ms": 1742
+      "start_ms": 1741,
+      "end_ms": 1741
     },
     "407": {
       "title": "AUTO كتاب أذكار المسافر",
       "level": 1,
       "parent": null,
-      "start_ms": 1742,
-      "end_ms": 1742
+      "start_ms": 1741,
+      "end_ms": 1741
     },
     "408": {
       "title": "AUTO باب الاستخارة والاستشارة",
       "level": 2,
       "parent": 407,
-      "start_ms": 1742,
-      "end_ms": 1742
+      "start_ms": 1741,
+      "end_ms": 1741
     },
     "409": {
       "title": "AUTO كتاب أذكار المسافر",
       "level": 1,
       "parent": null,
-      "start_ms": 1742,
-      "end_ms": 1831
+      "start_ms": 1741,
+      "end_ms": 1830
     },
     "410": {
       "title": "AUTO باب الاستخارة والاستشارة",
       "level": 2,
       "parent": 409,
-      "start_ms": 1742,
-      "end_ms": 1745
+      "start_ms": 1741,
+      "end_ms": 1744
     },
     "411": {
       "title": "AUTO باب أذكاره بعد استقرار عزمه على السفر",
       "level": 2,
       "parent": 409,
-      "start_ms": 1745,
-      "end_ms": 1753
+      "start_ms": 1744,
+      "end_ms": 1752
     },
     "412": {
       "title": "AUTO تنبيه",
       "level": 3,
       "parent": 411,
-      "start_ms": 1746,
-      "end_ms": 1746
+      "start_ms": 1744,
+      "end_ms": 1745
     },
     "413": {
       "title": "AUTO فائدة",
       "level": 3,
       "parent": 411,
-      "start_ms": 1746,
-      "end_ms": 1746
+      "start_ms": 1745,
+      "end_ms": 1745
     },
     "414": {
       "title": "AUTO تنبيه",
       "level": 3,
       "parent": 411,
-      "start_ms": 1746,
-      "end_ms": 1753
+      "start_ms": 1745,
+      "end_ms": 1752
     },
     "415": {
       "title": "AUTO باب أذكاره عند إرادته الخروج من بيته",
       "level": 2,
       "parent": 409,
-      "start_ms": 1753,
-      "end_ms": 1753
+      "start_ms": 1752,
+      "end_ms": 1752
     },
     "416": {
       "title": "AUTO باب أذكاره عند إرادته الخروج من بيته",
       "level": 2,
       "parent": 409,
-      "start_ms": 1753,
-      "end_ms": 1761
+      "start_ms": 1752,
+      "end_ms": 1760
     },
     "417": {
       "title": "AUTO باب أذكاره إذا خرج",
       "level": 2,
       "parent": 409,
-      "start_ms": 1761,
-      "end_ms": 1762
+      "start_ms": 1760,
+      "end_ms": 1761
     },
     "418": {
       "title": "AUTO باب أذكاره إذا خرج",
       "level": 2,
       "parent": 409,
-      "start_ms": 1762,
-      "end_ms": 1771
+      "start_ms": 1761,
+      "end_ms": 1769
     },
     "419": {
       "title": "AUTO باب استحباب طلبه الوصية من أهل الخير",
       "level": 2,
       "parent": 409,
-      "start_ms": 1771,
-      "end_ms": 1772
+      "start_ms": 1769,
+      "end_ms": 1771
     },
     "420": {
       "title": "AUTO باب استحباب وصية المقيم المسافر بالدعاء له في مواطن الخير ولو كان المقيم أفضل من المسافر",
       "level": 2,
       "parent": 409,
-      "start_ms": 1772,
-      "end_ms": 1773
+      "start_ms": 1771,
+      "end_ms": 1772
     },
     "421": {
       "title": "AUTO باب ما يقوله إذا ركب دابته",
       "level": 2,
       "parent": 409,
-      "start_ms": 1773,
-      "end_ms": 1785
+      "start_ms": 1772,
+      "end_ms": 1784
     },
     "422": {
       "title": "AUTO باب ما يقول إذا ركب سفينة",
       "level": 2,
       "parent": 409,
-      "start_ms": 1785,
-      "end_ms": 1788
+      "start_ms": 1784,
+      "end_ms": 1786
     },
     "423": {
       "title": "AUTO باب استحباب الدعاء في السفر",
       "level": 2,
       "parent": 409,
-      "start_ms": 1788,
-      "end_ms": 1788
+      "start_ms": 1786,
+      "end_ms": 1787
     },
     "424": {
       "title": "AUTO باب استحباب الدعاء في السفر",
       "level": 2,
       "parent": 409,
-      "start_ms": 1788,
-      "end_ms": 1789
+      "start_ms": 1787,
+      "end_ms": 1787
     },
     "425": {
       "title": "AUTO باب تكبير المسافر إذا صعد الثنايا وشبهها وتسبيحه إذا هبط الأدوية ونحوها",
       "level": 2,
       "parent": 409,
-      "start_ms": 1789,
-      "end_ms": 1797
+      "start_ms": 1787,
+      "end_ms": 1795
     },
     "426": {
       "title": "AUTO باب النهي عن المبالغة في رفع الصوت بالتكبير ونحوه",
       "level": 2,
       "parent": 409,
-      "start_ms": 1797,
-      "end_ms": 1797
+      "start_ms": 1795,
+      "end_ms": 1796
     },
     "427": {
       "title": "AUTO باب استحباب الحداء للسرعة في السير وتنشيط النفوس وترويجها وتسهيل السير عليها",
       "level": 2,
       "parent": 409,
-      "start_ms": 1797,
-      "end_ms": 1797
+      "start_ms": 1796,
+      "end_ms": 1796
     },
     "428": {
       "title": "AUTO باب استحباب الحداء للسرعة في السير وتنشيط النفوس وترويجها وتسهيل السير عليها",
       "level": 2,
       "parent": 409,
-      "start_ms": 1797,
-      "end_ms": 1802
+      "start_ms": 1796,
+      "end_ms": 1800
     },
     "429": {
       "title": "AUTO باب ما يقول إذا انفلتت دابته",
       "level": 2,
       "parent": 409,
-      "start_ms": 1802,
-      "end_ms": 1802
+      "start_ms": 1800,
+      "end_ms": 1801
     },
     "430": {
       "title": "AUTO باب ما يقول إذا انفلتت دابته",
       "level": 2,
       "parent": 409,
-      "start_ms": 1802,
-      "end_ms": 1804
+      "start_ms": 1801,
+      "end_ms": 1803
     },
     "431": {
       "title": "AUTO باب ما يقوله على الدابة الصعبة",
       "level": 2,
       "parent": 409,
-      "start_ms": 1804,
-      "end_ms": 1804
+      "start_ms": 1803,
+      "end_ms": 1803
     },
     "432": {
       "title": "AUTO باب ما يقوله على الدابة الصعبة",
       "level": 2,
       "parent": 409,
-      "start_ms": 1804,
-      "end_ms": 1806
+      "start_ms": 1803,
+      "end_ms": 1805
     },
     "433": {
       "title": "AUTO باب ما يقوله إذا رأى قرية يريد دخولها أو لا يريد",
       "level": 2,
       "parent": 409,
-      "start_ms": 1806,
-      "end_ms": 1812
+      "start_ms": 1805,
+      "end_ms": 1811
     },
     "434": {
       "title": "AUTO باب ما يدعو به إذا خاف ناسا أو غيرهم",
       "level": 2,
       "parent": 409,
-      "start_ms": 1812,
-      "end_ms": 1813
+      "start_ms": 1811,
+      "end_ms": 1811
     },
     "435": {
       "title": "AUTO باب ما يقول المسافر إذا تغولت الغيلان",
       "level": 2,
       "parent": 409,
-      "start_ms": 1813,
-      "end_ms": 1813
+      "start_ms": 1811,
+      "end_ms": 1812
     },
     "436": {
       "title": "AUTO باب ما يدعو به إذا خاف ناسا أو غيرهم",
       "level": 2,
       "parent": 409,
-      "start_ms": 1813,
-      "end_ms": 1813
+      "start_ms": 1812,
+      "end_ms": 1812
     },
     "437": {
       "title": "AUTO باب ما يقول المسافر إذا تغولت الغيلان PageV05P160 # روينا في كتاب ابن السني عن جابر رضي الله عنه أن النبي - صلى الله عليه",
       "level": 2,
       "parent": 409,
-      "start_ms": 1813,
-      "end_ms": 1814
+      "start_ms": 1812,
+      "end_ms": 1813
     },
     "438": {
       "title": "AUTO باب ما يقول إذا نزل منزلا",
       "level": 2,
       "parent": 409,
-      "start_ms": 1814,
-      "end_ms": 1815
+      "start_ms": 1813,
+      "end_ms": 1814
     },
     "439": {
       "title": "AUTO باب ما يقول إذا نزل منزلا",
       "level": 2,
       "parent": 409,
-      "start_ms": 1815,
-      "end_ms": 1821
+      "start_ms": 1814,
+      "end_ms": 1819
     },
     "440": {
       "title": "AUTO باب ما يقول إذا رجع من سفره",
       "level": 2,
       "parent": 409,
-      "start_ms": 1821,
-      "end_ms": 1821
+      "start_ms": 1819,
+      "end_ms": 1820
     },
     "441": {
       "title": "AUTO باب ما يقول إذا رجع من سفره",
       "level": 2,
       "parent": 409,
-      "start_ms": 1821,
-      "end_ms": 1822
+      "start_ms": 1820,
+      "end_ms": 1820
     },
     "442": {
       "title": "AUTO باب ما يقوله المسافر بعد صلاة الصبح",
       "level": 2,
       "parent": 409,
-      "start_ms": 1822,
-      "end_ms": 1824
+      "start_ms": 1820,
+      "end_ms": 1822
     },
     "443": {
       "title": "AUTO باب ما يقول إذا رأى بلدته",
       "level": 2,
       "parent": 409,
-      "start_ms": 1824,
-      "end_ms": 1824
+      "start_ms": 1822,
+      "end_ms": 1823
     },
     "444": {
       "title": "AUTO باب ما يقول إذا قدم من سفره فدخل بيته",
       "level": 2,
       "parent": 409,
-      "start_ms": 1824,
-      "end_ms": 1826
+      "start_ms": 1823,
+      "end_ms": 1825
     },
     "445": {
       "title": "AUTO باب ما يقال لمن يقدم من سفر",
       "level": 2,
       "parent": 409,
-      "start_ms": 1826,
-      "end_ms": 1827
+      "start_ms": 1825,
+      "end_ms": 1825
     },
     "446": {
       "title": "AUTO باب ما يقال لمن يقدم من سفر",
       "level": 2,
       "parent": 409,
-      "start_ms": 1827,
-      "end_ms": 1827
+      "start_ms": 1825,
+      "end_ms": 1826
     },
     "447": {
       "title": "AUTO باب ما يقال لمن يقدم من غزو",
       "level": 2,
       "parent": 409,
-      "start_ms": 1827,
-      "end_ms": 1827
+      "start_ms": 1826,
+      "end_ms": 1826
     },
     "448": {
       "title": "AUTO باب ما يقال لمن يقدم من غزو",
       "level": 2,
       "parent": 409,
-      "start_ms": 1827,
-      "end_ms": 1828
+      "start_ms": 1826,
+      "end_ms": 1827
     },
     "449": {
       "title": "AUTO باب ما يقال لمن يقدم من حج وما يقوله",
       "level": 2,
       "parent": 409,
-      "start_ms": 1828,
-      "end_ms": 1829
+      "start_ms": 1827,
+      "end_ms": 1827
     },
     "450": {
-      "title": "AUTO باب ما يقال لمن يقدم من حج ms1828 وما يقوله",
+      "title": "AUTO باب ما يقال لمن يقدم من حج وما يقوله",
       "level": 2,
       "parent": 409,
-      "start_ms": 1829,
-      "end_ms": 1831
+      "start_ms": 1827,
+      "end_ms": 1830
     },
     "451": {
       "title": "AUTO كتاب أذكار الأكل والشرب",
       "level": 1,
       "parent": null,
-      "start_ms": 1831,
-      "end_ms": 1832
+      "start_ms": 1830,
+      "end_ms": 1830
     },
     "452": {
       "title": "AUTO باب ما يقول إذا قرب إليه طعامه",
       "level": 2,
       "parent": 451,
-      "start_ms": 1831,
-      "end_ms": 1832
+      "start_ms": 1830,
+      "end_ms": 1830
     },
     "453": {
       "title": "AUTO كتاب أذكار الأكل والشرب",
       "level": 1,
       "parent": null,
-      "start_ms": 1832,
-      "end_ms": 1926
+      "start_ms": 1830,
+      "end_ms": 1925
     },
     "454": {
       "title": "AUTO باب ما يقول إذا قرب إليه طعامه",
       "level": 2,
       "parent": 453,
-      "start_ms": 1832,
-      "end_ms": 1832
+      "start_ms": 1830,
+      "end_ms": 1831
     },
     "455": {
       "title": "AUTO باب استحباب قول صاحب الطعام لضيفانه عند تقديم الطعام: كلوا أو في معناه",
       "level": 2,
       "parent": 453,
-      "start_ms": 1832,
-      "end_ms": 1833
+      "start_ms": 1831,
+      "end_ms": 1832
     },
     "456": {
       "title": "AUTO باب التسمية عند الأكل والشرب",
       "level": 2,
       "parent": 453,
-      "start_ms": 1833,
-      "end_ms": 1834
+      "start_ms": 1832,
+      "end_ms": 1832
     },
     "457": {
       "title": "AUTO باب التسمية عند الأكل والشرب",
       "level": 2,
       "parent": 453,
-      "start_ms": 1834,
-      "end_ms": 1849
+      "start_ms": 1832,
+      "end_ms": 1848
     },
     "458": {
       "title": "AUTO فصل",
       "level": 3,
       "parent": 457,
-      "start_ms": 1849,
-      "end_ms": 1849
+      "start_ms": 1847,
+      "end_ms": 1848
     },
     "459": {
       "title": "AUTO فصل",
       "level": 3,
       "parent": 457,
-      "start_ms": 1849,
-      "end_ms": 1849
+      "start_ms": 1848,
+      "end_ms": 1848
     },
     "460": {
       "title": "AUTO باب لا يعيب الطعام والشراب",
       "level": 2,
       "parent": 453,
-      "start_ms": 1849,
-      "end_ms": 1850
+      "start_ms": 1848,
+      "end_ms": 1849
     },
     "461": {
       "title": "AUTO باب لا يعيب الطعام والشراب",
       "level": 2,
       "parent": 453,
-      "start_ms": 1850,
-      "end_ms": 1853
+      "start_ms": 1849,
+      "end_ms": 1851
     },
     "462": {
-      "title": "AUTO باب ms1852 جواز قوله: لا أشتهي هذا الطعام أو ما اعتدت أكله أو نحو ذلك إذا دعت إليه الحاجة",
+      "title": "AUTO باب جواز قوله: لا أشتهي هذا الطعام أو ما اعتدت أكله أو نحو ذلك إذا دعت إليه الحاجة",
       "level": 2,
       "parent": 453,
-      "start_ms": 1853,
-      "end_ms": 1853
+      "start_ms": 1851,
+      "end_ms": 1852
     },
     "463": {
       "title": "AUTO باب جواز قوله: لا أشتهي هذا الطعام أو ما اعتدت أكله أو نحو ذلك إذا دعت إليه الحاجة",
       "level": 2,
       "parent": 453,
-      "start_ms": 1853,
-      "end_ms": 1856
+      "start_ms": 1852,
+      "end_ms": 1854
     },
     "464": {
       "title": "AUTO باب مدح الأكل الطعام الذي يأكل منه",
       "level": 2,
       "parent": 453,
-      "start_ms": 1856,
-      "end_ms": 1859
+      "start_ms": 1854,
+      "end_ms": 1858
     },
     "465": {
       "title": "AUTO باب ما يقوله من حضر الطعام وهو صائم إذا لم يفطر",
       "level": 2,
       "parent": 453,
-      "start_ms": 1859,
-      "end_ms": 1861
+      "start_ms": 1858,
+      "end_ms": 1860
     },
     "466": {
       "title": "AUTO باب ما يقوله من دعى لطعام إذا تبعه غيره",
       "level": 2,
       "parent": 453,
-      "start_ms": 1861,
-      "end_ms": 1863
+      "start_ms": 1860,
+      "end_ms": 1862
     },
     "467": {
       "title": "AUTO باب وعظه وتأديبه من يسئ في أكله",
       "level": 2,
       "parent": 453,
-      "start_ms": 1863,
-      "end_ms": 1864
+      "start_ms": 1862,
+      "end_ms": 1862
     },
     "468": {
       "title": "AUTO باب وعظه وتأديبه من يسئ في أكله",
       "level": 2,
       "parent": 453,
-      "start_ms": 1864,
-      "end_ms": 1869
+      "start_ms": 1862,
+      "end_ms": 1867
     },
     "469": {
       "title": "AUTO باب استحباب الكلام على الطعام",
       "level": 2,
       "parent": 453,
-      "start_ms": 1869,
-      "end_ms": 1870
+      "start_ms": 1867,
+      "end_ms": 1868
     },
     "470": {
-      "title": "AUTO باب ms1869 ما يقوله ويفعله من يأكل ولا يشبع",
+      "title": "AUTO باب ما يقوله ويفعله من يأكل ولا يشبع",
       "level": 2,
       "parent": 453,
-      "start_ms": 1870,
-      "end_ms": 1870
+      "start_ms": 1868,
+      "end_ms": 1868
     },
     "471": {
       "title": "AUTO باب ما يقوله ويفعله من يأكل ولا يشبع",
       "level": 2,
       "parent": 453,
-      "start_ms": 1870,
-      "end_ms": 1871
+      "start_ms": 1868,
+      "end_ms": 1869
     },
     "472": {
-      "title": "AUTO باب ms1870 ما يقول إذا أكل مع صاحب عاهة",
+      "title": "AUTO باب ما يقول إذا أكل مع صاحب عاهة",
       "level": 2,
       "parent": 453,
-      "start_ms": 1871,
-      "end_ms": 1874
+      "start_ms": 1869,
+      "end_ms": 1873
     },
     "473": {
       "title": "AUTO فائدة",
       "level": 3,
       "parent": 472,
-      "start_ms": 1874,
-      "end_ms": 1874
+      "start_ms": 1872,
+      "end_ms": 1873
     },
     "474": {
       "title": "AUTO باب استحباب قول صاحب الطعام لضيفه ومن في معناه إذا رفع يده من الطعام \"كل\" وتكريره ذلك عليه ما لم يتحقق أنه اكتفى منه وكذلك يفعل في الشراب والطيب ونحو ذلك",
       "level": 2,
       "parent": 453,
-      "start_ms": 1874,
-      "end_ms": 1878
+      "start_ms": 1873,
+      "end_ms": 1876
     },
     "475": {
       "title": "AUTO باب ما يقول إذا فرغ من الطعام",
       "level": 2,
       "parent": 453,
-      "start_ms": 1878,
-      "end_ms": 1878
+      "start_ms": 1876,
+      "end_ms": 1877
     },
     "476": {
       "title": "AUTO باب ما يقول إذا فرغ من الطعام",
       "level": 2,
       "parent": 453,
-      "start_ms": 1878,
-      "end_ms": 1902
+      "start_ms": 1877,
+      "end_ms": 1901
     },
     "477": {
       "title": "AUTO تنبيه",
       "level": 3,
       "parent": 476,
-      "start_ms": 1898,
-      "end_ms": 1902
+      "start_ms": 1896,
+      "end_ms": 1901
     },
     "478": {
       "title": "AUTO باب دعاء المدعو والضيف لأهل الطعام إذا فرغ من أكله",
       "level": 2,
       "parent": 453,
-      "start_ms": 1902,
-      "end_ms": 1903
+      "start_ms": 1901,
+      "end_ms": 1902
     },
     "479": {
       "title": "AUTO باب دعاء المدعو والضيف لأهل الطعام إذا فرغ من أكله",
       "level": 2,
       "parent": 453,
-      "start_ms": 1903,
-      "end_ms": 1911
+      "start_ms": 1902,
+      "end_ms": 1910
     },
     "480": {
       "title": "AUTO باب دعاء الإنسان لمن سقاه ماء أو لبنا ونحوهما",
       "level": 2,
       "parent": 453,
-      "start_ms": 1911,
-      "end_ms": 1918
+      "start_ms": 1910,
+      "end_ms": 1917
     },
     "481": {
       "title": "AUTO باب دعاء الإنسان وتحريضه لمن يضيف ضيفا",
       "level": 2,
       "parent": 453,
-      "start_ms": 1918,
-      "end_ms": 1918
+      "start_ms": 1917,
+      "end_ms": 1917
     },
     "482": {
       "title": "AUTO باب الثناء على من أكرم ضيفه",
       "level": 2,
       "parent": 453,
-      "start_ms": 1918,
-      "end_ms": 1918
+      "start_ms": 1917,
+      "end_ms": 1917
     },
     "483": {
       "title": "AUTO باب دعاء الإنسان وتحريضه لمن يضيف ضيفا",
       "level": 2,
       "parent": 453,
-      "start_ms": 1918,
-      "end_ms": 1919
+      "start_ms": 1917,
+      "end_ms": 1917
     },
     "484": {
       "title": "AUTO باب الثناء على من أكرم ضيفه",
       "level": 2,
       "parent": 453,
-      "start_ms": 1919,
-      "end_ms": 1921
+      "start_ms": 1917,
+      "end_ms": 1920
     },
     "485": {
       "title": "AUTO باب استحباب ترحيب الإنسان بضيفه وحمده الله تعالى على حصوله ضيفا عنده وسروره بذلك وثنائه عليه لكونه جعله أهلا لذلك",
       "level": 2,
       "parent": 453,
-      "start_ms": 1921,
-      "end_ms": 1925
+      "start_ms": 1920,
+      "end_ms": 1924
     },
     "486": {
       "title": "AUTO باب ما يقوله بعد انصرافه عن الطعام",
       "level": 2,
       "parent": 453,
-      "start_ms": 1925,
-      "end_ms": 1926
+      "start_ms": 1924,
+      "end_ms": 1925
     },
     "487": {
       "title": "AUTO كتاب السلام والاستئذان وتشميت العاطس وما يتعلق بها",
       "level": 1,
       "parent": null,
-      "start_ms": 1926,
-      "end_ms": 1927
+      "start_ms": 1925,
+      "end_ms": 1926
     },
     "488": {
       "title": "AUTO كتاب السلام والاستئذان وتشميت العاطس وما يتعلق بها",
       "level": 1,
       "parent": null,
-      "start_ms": 1927,
+      "start_ms": 1926,
       "end_ms": 2144
     },
     "489": {
-      "title": "AUTO باب فضل السلام والأمر ms1931 بإفشائه",
+      "title": "AUTO باب فضل السلام والأمر بإفشائه",
       "level": 2,
       "parent": 488,
-      "start_ms": 1932,
-      "end_ms": 1932
+      "start_ms": 1930,
+      "end_ms": 1930
     },
     "490": {
       "title": "AUTO باب فضل السلام والأمر بإفشائه",
       "level": 2,
       "parent": 488,
-      "start_ms": 1932,
-      "end_ms": 1949
+      "start_ms": 1930,
+      "end_ms": 1947
     },
     "491": {
       "title": "AUTO باب كيفية السلام",
       "level": 2,
       "parent": 488,
-      "start_ms": 1949,
-      "end_ms": 1949
+      "start_ms": 1947,
+      "end_ms": 1947
     },
     "492": {
       "title": "AUTO باب كيفية السلام",
       "level": 2,
       "parent": 488,
-      "start_ms": 1949,
-      "end_ms": 1964
+      "start_ms": 1947,
+      "end_ms": 1962
     },
     "493": {
+      "title": "AUTO فصل",
+      "level": 3,
+      "parent": 492,
+      "start_ms": 1959,
+      "end_ms": 1959
+    },
+    "494": {
+      "title": "AUTO فصل",
+      "level": 3,
+      "parent": 492,
+      "start_ms": 1959,
+      "end_ms": 1960
+    },
+    "495": {
+      "title": "AUTO فصل",
+      "level": 3,
+      "parent": 492,
+      "start_ms": 1960,
+      "end_ms": 1960
+    },
+    "496": {
       "title": "AUTO فصل",
       "level": 3,
       "parent": 492,
       "start_ms": 1960,
       "end_ms": 1961
     },
-    "494": {
-      "title": "AUTO فصل",
-      "level": 3,
-      "parent": 492,
-      "start_ms": 1961,
-      "end_ms": 1961
-    },
-    "495": {
-      "title": "AUTO فصل",
-      "level": 3,
-      "parent": 492,
-      "start_ms": 1961,
-      "end_ms": 1962
-    },
-    "496": {
-      "title": "AUTO فصل",
-      "level": 3,
-      "parent": 492,
-      "start_ms": 1962,
-      "end_ms": 1962
-    },
     "497": {
       "title": "AUTO فصل",
       "level": 3,
       "parent": 492,
-      "start_ms": 1962,
-      "end_ms": 1964
+      "start_ms": 1961,
+      "end_ms": 1962
     },
     "498": {
       "title": "AUTO فصل",
       "level": 3,
       "parent": 492,
-      "start_ms": 1964,
-      "end_ms": 1964
+      "start_ms": 1962,
+      "end_ms": 1962
     },
     "499": {
       "title": "AUTO باب ما جاء في كراهة الإشارة بالسلام باليد ونحوها بلا لفظ",
       "level": 2,
       "parent": 488,
-      "start_ms": 1964,
-      "end_ms": 1964
+      "start_ms": 1962,
+      "end_ms": 1963
     },
     "500": {
       "title": "AUTO فصل",
       "level": 3,
       "parent": 499,
-      "start_ms": 1964,
-      "end_ms": 1964
+      "start_ms": 1962,
+      "end_ms": 1963
     },
     "501": {
       "title": "AUTO باب ما جاء في كراهة الإشارة بالسلام باليد ونحوها بلا لفظ",
       "level": 2,
       "parent": 488,
-      "start_ms": 1964,
-      "end_ms": 1968
+      "start_ms": 1963,
+      "end_ms": 1966
     },
     "502": {
       "title": "AUTO باب حكم السلام",
       "level": 2,
       "parent": 488,
-      "start_ms": 1968,
-      "end_ms": 1968
+      "start_ms": 1966,
+      "end_ms": 1967
     },
     "503": {
       "title": "AUTO باب حكم السلام",
       "level": 2,
       "parent": 488,
-      "start_ms": 1968,
-      "end_ms": 1993
+      "start_ms": 1967,
+      "end_ms": 1992
     },
     "504": {
       "title": "AUTO باب الأحوال التي يستحب فيها السلام والتي يكره فيها، والتي يباح",
       "level": 2,
       "parent": 488,
-      "start_ms": 1993,
-      "end_ms": 1998
+      "start_ms": 1992,
+      "end_ms": 1997
     },
     "505": {
       "title": "AUTO باب من يسلم عليه ومن لا يسلم عليه ومن يرد عليه ومن لا يرد عليه",
       "level": 2,
       "parent": 488,
-      "start_ms": 1998,
-      "end_ms": 1999
+      "start_ms": 1997,
+      "end_ms": 1998
     },
     "506": {
       "title": "AUTO باب من يسلم عليه ومن لا يسلم عليه ومن يرد عليه ومن لا يرد عليه PageV05P332 # اعلم أن الرجل المسلم الذي ليس بمشهور بفسق ولا بدعة يسلم ويسلم عليه،",
       "level": 2,
       "parent": 488,
-      "start_ms": 1999,
-      "end_ms": 2027
+      "start_ms": 1998,
+      "end_ms": 2026
     },
     "507": {
       "title": "AUTO فصل: وأما الصبيان فالسنة أن يسلم عليهم",
       "level": 3,
       "parent": 506,
-      "start_ms": 2025,
-      "end_ms": 2027
+      "start_ms": 2024,
+      "end_ms": 2026
     },
     "508": {
       "title": "AUTO باب في آداب ومسائل من السلام",
       "level": 2,
       "parent": 488,
-      "start_ms": 2027,
-      "end_ms": 2028
+      "start_ms": 2026,
+      "end_ms": 2027
     },
     "509": {
       "title": "AUTO باب في آداب ومسائل من السلام",
       "level": 2,
       "parent": 488,
-      "start_ms": 2028,
-      "end_ms": 2038
+      "start_ms": 2027,
+      "end_ms": 2037
     },
     "510": {
       "title": "AUTO باب الاستئذان",
       "level": 2,
       "parent": 488,
-      "start_ms": 2038,
-      "end_ms": 2038
+      "start_ms": 2037,
+      "end_ms": 2037
     },
     "511": {
       "title": "AUTO باب الاستئذان",
       "level": 2,
       "parent": 488,
-      "start_ms": 2038,
-      "end_ms": 2048
+      "start_ms": 2037,
+      "end_ms": 2047
     },
     "512": {
       "title": "AUTO باب في مسائل تتفرع على السلام",
       "level": 2,
       "parent": 488,
-      "start_ms": 2048,
-      "end_ms": 2080
+      "start_ms": 2047,
+      "end_ms": 2079
     },
     "513": {
       "title": "AUTO فصل في المصافحة",
       "level": 3,
       "parent": 512,
-      "start_ms": 2063,
-      "end_ms": 2064
+      "start_ms": 2062,
+      "end_ms": 2063
     },
     "514": {
-      "title": "AUTO فصل في ms2063 المصافحة",
+      "title": "AUTO فصل في المصافحة",
       "level": 3,
       "parent": 512,
-      "start_ms": 2064,
-      "end_ms": 2079
+      "start_ms": 2063,
+      "end_ms": 2078
     },
     "515": {
       "title": "AUTO فصل: في استحباب طلب الإنسان من صاحبه الصالح أن يزوره، وأن يكثر من زيارته",
       "level": 3,
       "parent": 512,
-      "start_ms": 2079,
-      "end_ms": 2080
+      "start_ms": 2078,
+      "end_ms": 2079
     },
     "516": {
       "title": "AUTO باب تشميت العاطس وحكم التثاؤب",
       "level": 2,
       "parent": 488,
-      "start_ms": 2080,
-      "end_ms": 2080
+      "start_ms": 2079,
+      "end_ms": 2079
     },
     "517": {
       "title": "AUTO باب تشميت العاطس وحكم التثاؤب",
       "level": 2,
       "parent": 488,
-      "start_ms": 2080,
+      "start_ms": 2079,
       "end_ms": 2111
     },
     "518": {
@@ -3632,27 +3632,27 @@
       "level": 2,
       "parent": 488,
       "start_ms": 2111,
-      "end_ms": 2112
+      "end_ms": 2111
     },
     "520": {
       "title": "AUTO باب المدح",
       "level": 2,
       "parent": 488,
-      "start_ms": 2112,
-      "end_ms": 2132
+      "start_ms": 2111,
+      "end_ms": 2131
     },
     "521": {
       "title": "AUTO فائدة",
       "level": 3,
       "parent": 520,
       "start_ms": 2126,
-      "end_ms": 2132
+      "end_ms": 2131
     },
     "522": {
       "title": "AUTO باب مدح الإنسان نفسه وذكر محاسنه",
       "level": 2,
       "parent": 488,
-      "start_ms": 2132,
+      "start_ms": 2131,
       "end_ms": 2132
     },
     "523": {
@@ -3730,20 +3730,20 @@
       "level": 2,
       "parent": 527,
       "start_ms": 2161,
-      "end_ms": 2166
+      "end_ms": 2165
     },
     "534": {
       "title": "AUTO فصل \"يكره أن يقال للمتزوج بالرفاء والبنين لما قدمناه في كتاب النكاح\" اه.",
       "level": 3,
       "parent": 533,
       "start_ms": 2165,
-      "end_ms": 2166
+      "end_ms": 2165
     },
     "535": {
       "title": "AUTO باب ما يقول الزوج إذا دخلت عليه امرأته ليلة الزفاف",
       "level": 2,
       "parent": 527,
-      "start_ms": 2166,
+      "start_ms": 2165,
       "end_ms": 2166
     },
     "536": {
@@ -3793,13 +3793,13 @@
       "level": 2,
       "parent": 527,
       "start_ms": 2175,
-      "end_ms": 2177
+      "end_ms": 2176
     },
     "543": {
-      "title": "AUTO باب بيان أدب الزوج مع أصهاره في الكلام ms2176",
+      "title": "AUTO باب بيان أدب الزوج مع أصهاره في الكلام",
       "level": 2,
       "parent": 527,
-      "start_ms": 2177,
+      "start_ms": 2176,
       "end_ms": 2179
     },
     "544": {
@@ -3863,7 +3863,7 @@
       "level": 1,
       "parent": null,
       "start_ms": 2184,
-      "end_ms": 2253
+      "end_ms": 2254
     },
     "553": {
       "title": "AUTO باب تسمية المولود",
@@ -3940,13 +3940,13 @@
       "level": 2,
       "parent": 552,
       "start_ms": 2196,
-      "end_ms": 2200
+      "end_ms": 2201
     },
     "564": {
       "title": "AUTO باب ذكر الإنسان من يتبعه من ولد أو غلام أو متعلم أو نحوهم باسم قبيح ليؤدبه ويزجره عن القبيح ويروض نفسه",
       "level": 2,
       "parent": 552,
-      "start_ms": 2200,
+      "start_ms": 2201,
       "end_ms": 2204
     },
     "565": {
@@ -3982,13 +3982,13 @@
       "level": 2,
       "parent": 552,
       "start_ms": 2219,
-      "end_ms": 2219
+      "end_ms": 2220
     },
     "570": {
       "title": "AUTO باب جواز ترخيم الاسم إذا لم يتأذ بذلك صاحبه",
       "level": 2,
       "parent": 552,
-      "start_ms": 2219,
+      "start_ms": 2220,
       "end_ms": 2221
     },
     "571": {
@@ -3996,13 +3996,13 @@
       "level": 2,
       "parent": 552,
       "start_ms": 2221,
-      "end_ms": 2225
+      "end_ms": 2226
     },
     "572": {
       "title": "AUTO باب جواز استحباب اللقب الذي يحبه صاحبه",
       "level": 2,
       "parent": 552,
-      "start_ms": 2225,
+      "start_ms": 2226,
       "end_ms": 2226
     },
     "573": {
@@ -4073,31 +4073,31 @@
       "level": 2,
       "parent": 552,
       "start_ms": 2243,
-      "end_ms": 2243
+      "end_ms": 2244
     },
     "583": {
       "title": "AUTO باب جواز تكنية الكافر والمبتدع والفاسق إذا كان لا يعرف إلا بها أو خيف من ذكره باسمه فنتة",
       "level": 2,
       "parent": 552,
-      "start_ms": 2243,
-      "end_ms": 2249
+      "start_ms": 2244,
+      "end_ms": 2250
     },
     "584": {
       "title": "AUTO باب جواز تكنية الرجل بأبي فلانة وأبي فلان والمرأة بأم فلان وأم فلانة",
       "level": 2,
       "parent": 552,
-      "start_ms": 2249,
-      "end_ms": 2253
+      "start_ms": 2250,
+      "end_ms": 2254
     },
     "585": {
       "title": "AUTO كتاب الأذكار المتفرقة",
       "level": 1,
       "parent": null,
-      "start_ms": 2253,
+      "start_ms": 2254,
       "end_ms": 2254
     },
     "586": {
-      "title": "AUTO باب استحباب حمد الله تعالى والثناء ms2253 عليه عند البشارة بما يسره",
+      "title": "AUTO باب استحباب حمد الله تعالى والثناء عليه عند البشارة بما يسره",
       "level": 2,
       "parent": 585,
       "start_ms": 2254,
@@ -4108,7 +4108,7 @@
       "level": 1,
       "parent": null,
       "start_ms": 2254,
-      "end_ms": 2432
+      "end_ms": 2433
     },
     "588": {
       "title": "AUTO باب ما يقول إذا سمع صياح الديك ونهيق الحمار ونباح الكلب",
@@ -4122,27 +4122,27 @@
       "level": 2,
       "parent": 587,
       "start_ms": 2256,
-      "end_ms": 2256
+      "end_ms": 2257
     },
     "590": {
       "title": "AUTO باب ما يقوله إذا رأى الحريق",
       "level": 2,
       "parent": 587,
-      "start_ms": 2256,
-      "end_ms": 2257
+      "start_ms": 2257,
+      "end_ms": 2258
     },
     "591": {
       "title": "AUTO باب ما يقوله عند القيام من المجلس",
       "level": 2,
       "parent": 587,
-      "start_ms": 2257,
-      "end_ms": 2260
+      "start_ms": 2258,
+      "end_ms": 2261
     },
     "592": {
       "title": "AUTO باب دعاء الجالس في جمع لنفسه ومن معه",
       "level": 2,
       "parent": 587,
-      "start_ms": 2260,
+      "start_ms": 2261,
       "end_ms": 2261
     },
     "593": {
@@ -4150,13 +4150,13 @@
       "level": 2,
       "parent": 587,
       "start_ms": 2261,
-      "end_ms": 2263
+      "end_ms": 2264
     },
     "594": {
       "title": "AUTO باب كراهة القيام من المجلس قبل أن يذكر الله تعالى",
       "level": 2,
       "parent": 587,
-      "start_ms": 2263,
+      "start_ms": 2264,
       "end_ms": 2264
     },
     "595": {
@@ -4171,13 +4171,13 @@
       "level": 2,
       "parent": 587,
       "start_ms": 2266,
-      "end_ms": 2266
+      "end_ms": 2267
     },
     "597": {
       "title": "AUTO باب الذكر في الطريق",
       "level": 2,
       "parent": 587,
-      "start_ms": 2266,
+      "start_ms": 2267,
       "end_ms": 2267
     },
     "598": {
@@ -4185,48 +4185,48 @@
       "level": 2,
       "parent": 587,
       "start_ms": 2267,
-      "end_ms": 2267
+      "end_ms": 2268
     },
     "599": {
       "title": "AUTO باب ما يقول إذا غضب",
       "level": 2,
       "parent": 587,
-      "start_ms": 2267,
-      "end_ms": 2273
+      "start_ms": 2268,
+      "end_ms": 2274
     },
     "600": {
       "title": "AUTO باب استحباب إعلام الرجل من يحبه أنه يحبه وما يقوله له إذا أعلمه",
       "level": 2,
       "parent": 587,
-      "start_ms": 2273,
-      "end_ms": 2276
-    },
-    "601": {
-      "title": "AUTO باب ما يقول إذا رأى مبتلى بمرض أو غيره",
-      "level": 2,
-      "parent": 587,
-      "start_ms": 2276,
+      "start_ms": 2274,
       "end_ms": 2277
     },
-    "602": {
+    "601": {
       "title": "AUTO باب ما يقول إذا رأى مبتلى بمرض أو غيره",
       "level": 2,
       "parent": 587,
       "start_ms": 2277,
       "end_ms": 2278
     },
-    "603": {
-      "title": "AUTO باب استحباب حمد الله تعالى للمسؤول عن حاله وحال محبوبه مع جوابه إذا كان في جوابه إخبار بطيب حاله",
+    "602": {
+      "title": "AUTO باب ما يقول إذا رأى مبتلى بمرض أو غيره",
       "level": 2,
       "parent": 587,
       "start_ms": 2278,
       "end_ms": 2279
     },
+    "603": {
+      "title": "AUTO باب استحباب حمد الله تعالى للمسؤول عن حاله وحال محبوبه مع جوابه إذا كان في جوابه إخبار بطيب حاله",
+      "level": 2,
+      "parent": 587,
+      "start_ms": 2279,
+      "end_ms": 2280
+    },
     "604": {
       "title": "AUTO باب ما يقول إذا دخل السوق",
       "level": 2,
       "parent": 587,
-      "start_ms": 2279,
+      "start_ms": 2280,
       "end_ms": 2280
     },
     "605": {
@@ -4241,20 +4241,20 @@
       "level": 2,
       "parent": 587,
       "start_ms": 2285,
-      "end_ms": 2286
+      "end_ms": 2287
     },
     "607": {
       "title": "AUTO باب ما يقول إذا نظر في المرآة",
       "level": 2,
       "parent": 587,
-      "start_ms": 2286,
-      "end_ms": 2286
+      "start_ms": 2287,
+      "end_ms": 2287
     },
     "608": {
       "title": "AUTO باب ما يقول إذا نظر في المرآة",
       "level": 2,
       "parent": 587,
-      "start_ms": 2286,
+      "start_ms": 2287,
       "end_ms": 2288
     },
     "609": {
@@ -4262,27 +4262,27 @@
       "level": 2,
       "parent": 587,
       "start_ms": 2288,
-      "end_ms": 2288
+      "end_ms": 2289
     },
     "610": {
       "title": "AUTO باب ما يقول إذا طنت أذنه",
       "level": 2,
       "parent": 587,
-      "start_ms": 2288,
-      "end_ms": 2288
+      "start_ms": 2289,
+      "end_ms": 2289
     },
     "611": {
       "title": "AUTO باب ما يقول عند الحجامة",
       "level": 2,
       "parent": 587,
-      "start_ms": 2288,
-      "end_ms": 2288
+      "start_ms": 2289,
+      "end_ms": 2289
     },
     "612": {
       "title": "AUTO باب ما يقول إذا طنت أذنه",
       "level": 2,
       "parent": 587,
-      "start_ms": 2288,
+      "start_ms": 2289,
       "end_ms": 2289
     },
     "613": {
@@ -4293,59 +4293,59 @@
       "end_ms": 2292
     },
     "614": {
-      "title": "AUTO باب جوازه دعاء الإنسان على من ظلم المسلمين أو ms2291 ظلمه وحده",
+      "title": "AUTO باب جوازه دعاء الإنسان على من ظلم المسلمين أو ظلمه وحده",
       "level": 2,
       "parent": 587,
       "start_ms": 2292,
-      "end_ms": 2304
+      "end_ms": 2305
     },
     "615": {
       "title": "AUTO باب التبري من أهل البدع والمعاصي",
       "level": 2,
       "parent": 587,
-      "start_ms": 2304,
-      "end_ms": 2304
+      "start_ms": 2305,
+      "end_ms": 2305
     },
     "616": {
       "title": "AUTO باب التبري من أهل البدع والمعاصي",
       "level": 2,
       "parent": 587,
-      "start_ms": 2304,
-      "end_ms": 2307
+      "start_ms": 2305,
+      "end_ms": 2308
     },
     "617": {
       "title": "AUTO باب ما يقوله إذا شرع في إزالة منكر",
       "level": 2,
       "parent": 587,
-      "start_ms": 2307,
-      "end_ms": 2308
-    },
-    "618": {
-      "title": "AUTO باب ما يقول من كان في لسانه فحش",
-      "level": 2,
-      "parent": 587,
       "start_ms": 2308,
       "end_ms": 2309
     },
-    "619": {
+    "618": {
       "title": "AUTO باب ما يقول من كان في لسانه فحش",
       "level": 2,
       "parent": 587,
       "start_ms": 2309,
       "end_ms": 2310
     },
+    "619": {
+      "title": "AUTO باب ما يقول من كان في لسانه فحش",
+      "level": 2,
+      "parent": 587,
+      "start_ms": 2310,
+      "end_ms": 2311
+    },
     "620": {
       "title": "AUTO باب ما يقوله إذا عثرت دابته",
       "level": 2,
       "parent": 587,
-      "start_ms": 2310,
-      "end_ms": 2312
+      "start_ms": 2311,
+      "end_ms": 2313
     },
     "621": {
       "title": "AUTO باب بيان أنه يستحب لكبير البلد إذا مات الوالي أن يخطب الناس ويعظهم ويأمرهم بالصبر والثبات على ما كانوا عليه",
       "level": 2,
       "parent": 587,
-      "start_ms": 2312,
+      "start_ms": 2313,
       "end_ms": 2313
     },
     "622": {
@@ -4353,55 +4353,55 @@
       "level": 2,
       "parent": 587,
       "start_ms": 2313,
-      "end_ms": 2313
+      "end_ms": 2314
     },
     "623": {
       "title": "AUTO باب دعاء الإنسان لمن صنع معروفا إليه أو إلى الناس كلهم أو بعضهم، والثناء عليه وتحريضه على ذلك",
       "level": 2,
       "parent": 587,
-      "start_ms": 2313,
-      "end_ms": 2321
+      "start_ms": 2314,
+      "end_ms": 2322
     },
     "624": {
       "title": "AUTO باب استحباب مكافأة المهدي بالدعاء للمهدى له إذا دعا له عند الهدية",
       "level": 2,
       "parent": 587,
-      "start_ms": 2321,
-      "end_ms": 2321
+      "start_ms": 2322,
+      "end_ms": 2322
     },
     "625": {
       "title": "AUTO باب استحباب مكافأة المهدي بالدعاء للمهدى له إذا دعا له عند الهدية",
       "level": 2,
       "parent": 587,
-      "start_ms": 2321,
+      "start_ms": 2322,
       "end_ms": 2322
     },
     "626": {
-      "title": "AUTO باب استحباب اعتذار من أهديت إليه هدية فردها لمعنى شرعي بأن يكون قاضيا أو واليا أو كان فيها شبهة أو كان له عذر ms2321 غير ذلك",
+      "title": "AUTO باب استحباب اعتذار من أهديت إليه هدية فردها لمعنى شرعي بأن يكون قاضيا أو واليا أو كان فيها شبهة أو كان له عذر غير ذلك",
       "level": 2,
       "parent": 587,
       "start_ms": 2322,
-      "end_ms": 2324
+      "end_ms": 2325
     },
     "627": {
       "title": "AUTO باب ما يقول لمن أزال عنه أذى",
       "level": 2,
       "parent": 587,
-      "start_ms": 2324,
-      "end_ms": 2324
+      "start_ms": 2325,
+      "end_ms": 2325
     },
     "628": {
       "title": "AUTO باب ما يقول لمن أزال عنه أذى",
       "level": 2,
       "parent": 587,
-      "start_ms": 2324,
-      "end_ms": 2325
+      "start_ms": 2325,
+      "end_ms": 2326
     },
     "629": {
       "title": "AUTO باب ما يقول إذا رأى الباكورة من الثمر",
       "level": 2,
       "parent": 587,
-      "start_ms": 2325,
+      "start_ms": 2326,
       "end_ms": 2326
     },
     "630": {
@@ -4409,38 +4409,38 @@
       "level": 2,
       "parent": 587,
       "start_ms": 2326,
-      "end_ms": 2328
+      "end_ms": 2329
     },
     "631": {
       "title": "AUTO باب استحباب الاقتصاد في الموعظة والعلم",
       "level": 2,
       "parent": 587,
-      "start_ms": 2328,
-      "end_ms": 2328
+      "start_ms": 2329,
+      "end_ms": 2329
     },
     "632": {
       "title": "AUTO باب استحباب الاقتصاد في الموعظة والعلم",
       "level": 2,
       "parent": 587,
-      "start_ms": 2328,
-      "end_ms": 2330
+      "start_ms": 2329,
+      "end_ms": 2331
     },
     "633": {
       "title": "AUTO باب فضل الدلالة على الخير والحث عليها",
       "level": 2,
       "parent": 587,
-      "start_ms": 2330,
-      "end_ms": 2330
+      "start_ms": 2331,
+      "end_ms": 2331
     },
     "634": {
       "title": "AUTO باب فضل الدلالة على الخير والحث عليها",
       "level": 2,
       "parent": 587,
-      "start_ms": 2330,
+      "start_ms": 2331,
       "end_ms": 2332
     },
     "635": {
-      "title": "AUTO ms2331 باب حث من سئل علما لا يعلمه ويعلم أن غيره يعرفه على أن يدله عليه",
+      "title": "AUTO باب حث من سئل علما لا يعلمه ويعلم أن غيره يعرفه على أن يدله عليه",
       "level": 2,
       "parent": 587,
       "start_ms": 2332,
@@ -4451,825 +4451,825 @@
       "level": 2,
       "parent": 587,
       "start_ms": 2334,
-      "end_ms": 2334
+      "end_ms": 2335
     },
     "637": {
       "title": "AUTO باب ما يقول من دعي إلى حكم الله تعالى",
       "level": 2,
       "parent": 587,
-      "start_ms": 2334,
-      "end_ms": 2336
+      "start_ms": 2335,
+      "end_ms": 2337
     },
     "638": {
       "title": "AUTO باب الإعراض عن الجاهلين",
       "level": 2,
       "parent": 587,
-      "start_ms": 2336,
-      "end_ms": 2336
+      "start_ms": 2337,
+      "end_ms": 2337
     },
     "639": {
       "title": "AUTO باب الإعراض عن الجاهلين",
       "level": 2,
       "parent": 587,
-      "start_ms": 2336,
-      "end_ms": 2343
+      "start_ms": 2337,
+      "end_ms": 2344
     },
     "640": {
       "title": "AUTO باب وعظ الإنسان من هو أجل منه",
       "level": 2,
       "parent": 587,
-      "start_ms": 2343,
-      "end_ms": 2343
+      "start_ms": 2344,
+      "end_ms": 2344
     },
     "641": {
       "title": "AUTO باب وعظ الإنسان من هو أجل منه",
       "level": 2,
       "parent": 587,
-      "start_ms": 2343,
-      "end_ms": 2348
+      "start_ms": 2344,
+      "end_ms": 2349
     },
     "642": {
       "title": "AUTO باب الأمر بالوفاء بالعهد والوعد",
       "level": 2,
       "parent": 587,
-      "start_ms": 2348,
-      "end_ms": 2353
+      "start_ms": 2349,
+      "end_ms": 2354
     },
     "643": {
       "title": "AUTO باب استحباب دعاء الإنسان لمن عرض عليه ماله أو غيره",
       "level": 2,
       "parent": 587,
-      "start_ms": 2353,
-      "end_ms": 2354
+      "start_ms": 2354,
+      "end_ms": 2355
     },
     "644": {
       "title": "AUTO باب استحباب دعاء الإنسان لمن عرض عليه ماله أو غيره",
       "level": 2,
       "parent": 587,
-      "start_ms": 2354,
-      "end_ms": 2354
+      "start_ms": 2355,
+      "end_ms": 2355
     },
     "645": {
       "title": "AUTO باب ما يقوله المسلم للذمي إذا فعل به معروفا",
       "level": 2,
       "parent": 587,
-      "start_ms": 2354,
-      "end_ms": 2355
+      "start_ms": 2355,
+      "end_ms": 2356
     },
     "646": {
       "title": "AUTO باب ما يقوله المسلم للذمي إذا فعل به معروفا",
       "level": 2,
       "parent": 587,
-      "start_ms": 2355,
-      "end_ms": 2355
+      "start_ms": 2356,
+      "end_ms": 2356
     },
     "647": {
       "title": "AUTO باب ما يقوله إذا رأى من نفسه أو ولده أو ماله أو غير ذلك شيئا فأعجبه وخاف أن يصيبه بعينه أو يتضرر بذلك",
       "level": 2,
       "parent": 587,
-      "start_ms": 2355,
-      "end_ms": 2364
+      "start_ms": 2356,
+      "end_ms": 2365
     },
     "648": {
       "title": "AUTO باب ما يقول إذا رأى ما يحب وما يكره",
       "level": 2,
       "parent": 587,
-      "start_ms": 2364,
-      "end_ms": 2365
+      "start_ms": 2365,
+      "end_ms": 2366
     },
     "649": {
       "title": "AUTO باب ما يقول إذا نظر إلى السماء",
       "level": 2,
       "parent": 587,
-      "start_ms": 2365,
-      "end_ms": 2365
+      "start_ms": 2366,
+      "end_ms": 2366
     },
     "650": {
       "title": "AUTO باب ما يقول إذا تطير بشيء",
       "level": 2,
       "parent": 587,
-      "start_ms": 2365,
-      "end_ms": 2365
+      "start_ms": 2366,
+      "end_ms": 2366
     },
     "651": {
       "title": "AUTO باب ما يقول إذا نظر إلى السماء",
       "level": 2,
       "parent": 587,
-      "start_ms": 2365,
-      "end_ms": 2365
+      "start_ms": 2366,
+      "end_ms": 2366
     },
     "652": {
       "title": "AUTO باب ما يقول إذا تطير بشيء",
       "level": 2,
       "parent": 587,
-      "start_ms": 2365,
-      "end_ms": 2368
-    },
-    "653": {
-      "title": "AUTO باب ما يقول عند دخول الحمام",
-      "level": 2,
-      "parent": 587,
-      "start_ms": 2368,
+      "start_ms": 2366,
       "end_ms": 2369
     },
-    "654": {
+    "653": {
       "title": "AUTO باب ما يقول عند دخول الحمام",
       "level": 2,
       "parent": 587,
       "start_ms": 2369,
       "end_ms": 2370
     },
-    "655": {
-      "title": "AUTO باب ما يقول إذا اشترى غلاما أو جارية أو دابة، وما يقوله إذا قضى دينا",
+    "654": {
+      "title": "AUTO باب ما يقول عند دخول الحمام",
       "level": 2,
       "parent": 587,
       "start_ms": 2370,
       "end_ms": 2371
     },
-    "656": {
-      "title": "AUTO باب ما يقول من لا يثبت على الخيل ويدعى له به",
-      "level": 2,
-      "parent": 587,
-      "start_ms": 2371,
-      "end_ms": 2371
-    },
-    "657": {
-      "title": "AUTO باب ما يقول من لا يثبت على الخيل ويدعى له به",
+    "655": {
+      "title": "AUTO باب ما يقول إذا اشترى غلاما أو جارية أو دابة، وما يقوله إذا قضى دينا",
       "level": 2,
       "parent": 587,
       "start_ms": 2371,
       "end_ms": 2372
     },
+    "656": {
+      "title": "AUTO باب ما يقول من لا يثبت على الخيل ويدعى له به",
+      "level": 2,
+      "parent": 587,
+      "start_ms": 2372,
+      "end_ms": 2372
+    },
+    "657": {
+      "title": "AUTO باب ما يقول من لا يثبت على الخيل ويدعى له به",
+      "level": 2,
+      "parent": 587,
+      "start_ms": 2372,
+      "end_ms": 2373
+    },
     "658": {
       "title": "AUTO باب نهي العالم وغيره أن يحدث الناس بما لا يفهمونه، أو يخاف عليهم من تحريف معناه وحمله على خلاف المراد",
       "level": 2,
       "parent": 587,
-      "start_ms": 2372,
-      "end_ms": 2374
+      "start_ms": 2373,
+      "end_ms": 2375
     },
     "659": {
       "title": "AUTO باب استنصات العالم والواعظ حاضري مجلسه ليتوفروا على استماعه",
       "level": 2,
       "parent": 587,
-      "start_ms": 2374,
-      "end_ms": 2375
+      "start_ms": 2375,
+      "end_ms": 2376
     },
     "660": {
       "title": "AUTO باب ما يقوله الرجل المقتدى به إذا فعل شيئا في ظاهره مخالفة للصواب مع أنه صواب",
       "level": 2,
       "parent": 587,
-      "start_ms": 2375,
-      "end_ms": 2376
+      "start_ms": 2376,
+      "end_ms": 2377
     },
     "661": {
       "title": "AUTO باب ما يقوله الرجل المقتدى به إذا فعل شيئا في ظاهره مخالفة للصواب مع أنه صواب",
       "level": 2,
       "parent": 587,
-      "start_ms": 2376,
-      "end_ms": 2380
+      "start_ms": 2377,
+      "end_ms": 2381
     },
     "662": {
       "title": "AUTO باب ما يقوله التابع للمتبوع إذا فعل ذلك أو نحوه",
       "level": 2,
       "parent": 587,
-      "start_ms": 2380,
-      "end_ms": 2383
+      "start_ms": 2381,
+      "end_ms": 2384
     },
     "663": {
       "title": "AUTO باب الحث على المشاورة",
       "level": 2,
       "parent": 587,
-      "start_ms": 2383,
-      "end_ms": 2383
+      "start_ms": 2384,
+      "end_ms": 2384
     },
     "664": {
       "title": "AUTO باب الحث على المشاورة",
       "level": 2,
       "parent": 587,
-      "start_ms": 2383,
-      "end_ms": 2385
+      "start_ms": 2384,
+      "end_ms": 2387
     },
     "665": {
       "title": "AUTO باب الحث على طيب الكلام",
       "level": 2,
       "parent": 587,
-      "start_ms": 2385,
-      "end_ms": 2386
+      "start_ms": 2387,
+      "end_ms": 2387
     },
     "666": {
       "title": "AUTO باب الحث على طيب الكلام",
       "level": 2,
       "parent": 587,
-      "start_ms": 2386,
-      "end_ms": 2389
+      "start_ms": 2387,
+      "end_ms": 2390
     },
     "667": {
       "title": "AUTO باب استحباب بيان الكلام وإيضاحه للمخاطب",
       "level": 2,
       "parent": 587,
-      "start_ms": 2389,
-      "end_ms": 2389
+      "start_ms": 2390,
+      "end_ms": 2390
     },
     "668": {
       "title": "AUTO باب استحباب بيان الكلام وإيضاحه للمخاطب",
       "level": 2,
       "parent": 587,
-      "start_ms": 2389,
-      "end_ms": 2389
+      "start_ms": 2390,
+      "end_ms": 2390
     },
     "669": {
       "title": "AUTO باب المزاح",
       "level": 2,
       "parent": 587,
-      "start_ms": 2389,
-      "end_ms": 2389
+      "start_ms": 2390,
+      "end_ms": 2391
     },
     "670": {
       "title": "AUTO باب المزاح",
       "level": 2,
       "parent": 587,
-      "start_ms": 2389,
-      "end_ms": 2395
+      "start_ms": 2391,
+      "end_ms": 2396
     },
     "671": {
       "title": "AUTO باب الشفاعة",
       "level": 2,
       "parent": 587,
-      "start_ms": 2395,
-      "end_ms": 2395
+      "start_ms": 2396,
+      "end_ms": 2396
     },
     "672": {
       "title": "AUTO باب الشفاعة",
       "level": 2,
       "parent": 587,
-      "start_ms": 2395,
-      "end_ms": 2402
+      "start_ms": 2396,
+      "end_ms": 2403
     },
     "673": {
       "title": "AUTO باب استحباب التبشير والتهنئة",
       "level": 2,
       "parent": 587,
-      "start_ms": 2402,
-      "end_ms": 2403
+      "start_ms": 2403,
+      "end_ms": 2404
     },
     "674": {
       "title": "AUTO باب استحباب التبشير والتهنئة",
       "level": 2,
       "parent": 587,
-      "start_ms": 2403,
-      "end_ms": 2410
+      "start_ms": 2404,
+      "end_ms": 2411
     },
     "675": {
       "title": "AUTO باب جواز التعجب بلفظ التسبيح والتهليل ونحوهما",
       "level": 2,
       "parent": 587,
-      "start_ms": 2410,
-      "end_ms": 2420
+      "start_ms": 2411,
+      "end_ms": 2421
     },
     "676": {
       "title": "AUTO باب الأمر بالمعروف والنهي عن المنكر",
       "level": 2,
       "parent": 587,
-      "start_ms": 2420,
-      "end_ms": 2420
+      "start_ms": 2421,
+      "end_ms": 2422
     },
     "677": {
       "title": "AUTO باب الأمر بالمعروف والنهي عن المنكر",
       "level": 2,
       "parent": 587,
-      "start_ms": 2420,
-      "end_ms": 2432
+      "start_ms": 2422,
+      "end_ms": 2433
     },
     "678": {
       "title": "AUTO كتاب حفظ اللسان",
       "level": 1,
       "parent": null,
-      "start_ms": 2432,
-      "end_ms": 2432
+      "start_ms": 2433,
+      "end_ms": 2434
     },
     "679": {
       "title": "AUTO كتاب حفظ اللسان",
       "level": 1,
       "parent": null,
-      "start_ms": 2432,
-      "end_ms": 2689
+      "start_ms": 2434,
+      "end_ms": 2692
     },
     "680": {
       "title": "AUTO باب تحريم الغيبة والنميمة",
       "level": 2,
       "parent": 679,
-      "start_ms": 2471,
-      "end_ms": 2472
+      "start_ms": 2473,
+      "end_ms": 2473
     },
     "681": {
       "title": "AUTO باب تحريم الغيبة والنميمة",
       "level": 2,
       "parent": 679,
-      "start_ms": 2472,
-      "end_ms": 2490
+      "start_ms": 2473,
+      "end_ms": 2492
     },
     "682": {
       "title": "AUTO باب بيان مهمات تتعلق بحد الغيبة",
       "level": 2,
       "parent": 679,
-      "start_ms": 2490,
-      "end_ms": 2491
+      "start_ms": 2492,
+      "end_ms": 2493
     },
     "683": {
       "title": "AUTO باب بيان مهمات تتعلق بحد الغيبة",
       "level": 2,
       "parent": 679,
-      "start_ms": 2491,
-      "end_ms": 2496
+      "start_ms": 2493,
+      "end_ms": 2498
     },
     "684": {
       "title": "AUTO باب بيان ما يدفع به الغيبة عن نفسه",
       "level": 2,
       "parent": 679,
-      "start_ms": 2496,
-      "end_ms": 2496
+      "start_ms": 2498,
+      "end_ms": 2498
     },
     "685": {
       "title": "AUTO باب بيان ما يدفع به الغيبة عن نفسه",
       "level": 2,
       "parent": 679,
-      "start_ms": 2496,
-      "end_ms": 2500
+      "start_ms": 2498,
+      "end_ms": 2501
     },
     "686": {
-      "title": "AUTO باب ms2499 بيان ما يباح من الغيبة",
+      "title": "AUTO باب بيان ما يباح من الغيبة",
       "level": 2,
       "parent": 679,
-      "start_ms": 2500,
-      "end_ms": 2500
+      "start_ms": 2501,
+      "end_ms": 2501
     },
     "687": {
       "title": "AUTO باب بيان ما يباح من الغيبة",
       "level": 2,
       "parent": 679,
-      "start_ms": 2500,
-      "end_ms": 2512
+      "start_ms": 2501,
+      "end_ms": 2514
     },
     "688": {
       "title": "AUTO باب أمر من سمع غيبة شيخه أو صاحبه أو غيرهما بردها وإبطالها",
       "level": 2,
       "parent": 679,
-      "start_ms": 2512,
-      "end_ms": 2520
+      "start_ms": 2514,
+      "end_ms": 2521
     },
     "689": {
       "title": "AUTO باب الغيبة بالقلب",
       "level": 2,
       "parent": 679,
-      "start_ms": 2520,
-      "end_ms": 2520
+      "start_ms": 2521,
+      "end_ms": 2522
     },
     "690": {
       "title": "AUTO باب الغيبة بالقلب",
       "level": 2,
       "parent": 679,
-      "start_ms": 2520,
-      "end_ms": 2527
+      "start_ms": 2522,
+      "end_ms": 2529
     },
     "691": {
       "title": "AUTO باب كفارة الغيبة والتوبة منها",
       "level": 2,
       "parent": 679,
-      "start_ms": 2527,
-      "end_ms": 2527
+      "start_ms": 2529,
+      "end_ms": 2529
     },
     "692": {
       "title": "AUTO باب كفارة الغيبة والتوبة منها",
       "level": 2,
       "parent": 679,
-      "start_ms": 2527,
-      "end_ms": 2533
+      "start_ms": 2529,
+      "end_ms": 2535
     },
     "693": {
       "title": "AUTO باب في النميمة",
       "level": 2,
       "parent": 679,
-      "start_ms": 2533,
-      "end_ms": 2534
+      "start_ms": 2535,
+      "end_ms": 2535
     },
     "694": {
       "title": "AUTO باب في النميمة",
       "level": 2,
       "parent": 679,
-      "start_ms": 2534,
-      "end_ms": 2537
+      "start_ms": 2535,
+      "end_ms": 2538
     },
     "695": {
       "title": "AUTO باب النهي عن نقل الحديث إلى ولاة الأمور إذا لم تدع إليه ضرورة لخوف مفسدة ونحوها",
       "level": 2,
       "parent": 679,
-      "start_ms": 2537,
-      "end_ms": 2537
+      "start_ms": 2538,
+      "end_ms": 2539
     },
     "696": {
       "title": "AUTO باب النهي عن الطعن في الأنساب الثابتة في ظاهر الشرع",
       "level": 2,
       "parent": 679,
-      "start_ms": 2537,
-      "end_ms": 2537
+      "start_ms": 2539,
+      "end_ms": 2539
     },
     "697": {
       "title": "AUTO باب النهي عن الافتخار",
       "level": 2,
       "parent": 679,
-      "start_ms": 2537,
-      "end_ms": 2537
+      "start_ms": 2539,
+      "end_ms": 2539
     },
     "698": {
       "title": "AUTO باب النهي عن الطعن في الأنساب الثابتة في ظاهر الشرع",
       "level": 2,
       "parent": 679,
-      "start_ms": 2537,
-      "end_ms": 2538
+      "start_ms": 2539,
+      "end_ms": 2540
     },
     "699": {
       "title": "AUTO باب النهي عن الافتخار",
       "level": 2,
       "parent": 679,
-      "start_ms": 2538,
-      "end_ms": 2539
+      "start_ms": 2540,
+      "end_ms": 2541
     },
     "700": {
       "title": "AUTO باب النهي عن إظهار الشماتة بالمسلم",
       "level": 2,
       "parent": 679,
-      "start_ms": 2539,
-      "end_ms": 2539
+      "start_ms": 2541,
+      "end_ms": 2541
     },
     "701": {
       "title": "AUTO باب تحريم احتقار المسلمين والسخرية منهم",
       "level": 2,
       "parent": 679,
-      "start_ms": 2539,
-      "end_ms": 2539
+      "start_ms": 2541,
+      "end_ms": 2541
     },
     "702": {
       "title": "AUTO باب النهي عن إظهار الشماتة بالمسلم",
       "level": 2,
       "parent": 679,
-      "start_ms": 2539,
-      "end_ms": 2540
+      "start_ms": 2541,
+      "end_ms": 2542
     },
     "703": {
       "title": "AUTO باب تحريم احتقار المسلمين والسخرية منهم",
       "level": 2,
       "parent": 679,
-      "start_ms": 2540,
-      "end_ms": 2545
+      "start_ms": 2542,
+      "end_ms": 2547
     },
     "704": {
       "title": "AUTO باب غلظ تحريم شهادة الزور",
       "level": 2,
       "parent": 679,
-      "start_ms": 2545,
-      "end_ms": 2545
+      "start_ms": 2547,
+      "end_ms": 2547
     },
     "705": {
       "title": "AUTO باب غلظ تحريم شهادة الزور",
       "level": 2,
       "parent": 679,
-      "start_ms": 2545,
-      "end_ms": 2548
+      "start_ms": 2547,
+      "end_ms": 2550
     },
     "706": {
       "title": "AUTO باب النهي عن المن بالعطية ونحوها",
       "level": 2,
       "parent": 679,
-      "start_ms": 2548,
-      "end_ms": 2548
+      "start_ms": 2550,
+      "end_ms": 2550
     },
     "707": {
       "title": "AUTO باب النهي عن المن بالعطية ونحوها",
       "level": 2,
       "parent": 679,
-      "start_ms": 2548,
-      "end_ms": 2550
+      "start_ms": 2550,
+      "end_ms": 2552
     },
     "708": {
       "title": "AUTO باب النهي عن اللعن",
       "level": 2,
       "parent": 679,
-      "start_ms": 2550,
-      "end_ms": 2550
+      "start_ms": 2552,
+      "end_ms": 2552
     },
     "709": {
       "title": "AUTO باب النهي عن اللعن",
       "level": 2,
       "parent": 679,
-      "start_ms": 2550,
-      "end_ms": 2566
+      "start_ms": 2552,
+      "end_ms": 2568
     },
     "710": {
       "title": "AUTO فصل في جواز لعن أصحاب المعاصي غير المعينين والمعروفين",
       "level": 3,
       "parent": 709,
-      "start_ms": 2554,
-      "end_ms": 2566
+      "start_ms": 2556,
+      "end_ms": 2568
     },
     "711": {
       "title": "AUTO باب النهي عن انتهار الفقراء والضعفاء واليتيم والسائل ونحوهم، وإلانة القول لهم والتواضع معهم",
       "level": 2,
       "parent": 679,
-      "start_ms": 2566,
-      "end_ms": 2570
+      "start_ms": 2568,
+      "end_ms": 2572
     },
     "712": {
       "title": "AUTO باب في ألفاظ يكره استعمالها",
       "level": 2,
       "parent": 679,
-      "start_ms": 2570,
-      "end_ms": 2570
+      "start_ms": 2572,
+      "end_ms": 2572
     },
     "713": {
       "title": "AUTO باب في ألفاظ يكره استعمالها",
       "level": 2,
       "parent": 679,
-      "start_ms": 2570,
-      "end_ms": 2654
+      "start_ms": 2572,
+      "end_ms": 2656
     },
     "714": {
       "title": "AUTO فصل: في النهي عن سب الريح",
       "level": 3,
       "parent": 713,
-      "start_ms": 2597,
-      "end_ms": 2598
+      "start_ms": 2600,
+      "end_ms": 2600
     },
     "715": {
       "title": "AUTO فصل: يكره سب الحمى",
       "level": 3,
       "parent": 713,
-      "start_ms": 2598,
-      "end_ms": 2599
+      "start_ms": 2600,
+      "end_ms": 2601
     },
     "716": {
       "title": "AUTO فصل: في النهي عن سب الديك",
       "level": 3,
       "parent": 713,
-      "start_ms": 2599,
-      "end_ms": 2599
+      "start_ms": 2601,
+      "end_ms": 2601
     },
     "717": {
       "title": "AUTO فصل: في النهي عن الدعاء بدعوى الجاهلية وذم استعمال ألفاظهم",
       "level": 3,
       "parent": 713,
-      "start_ms": 2599,
-      "end_ms": 2602
+      "start_ms": 2601,
+      "end_ms": 2604
     },
     "718": {
       "title": "AUTO فصل: يحرم سب المسلم من غير سبب شرعي يجوز ذلك",
       "level": 3,
       "parent": 713,
-      "start_ms": 2602,
-      "end_ms": 2606
+      "start_ms": 2604,
+      "end_ms": 2608
     },
     "719": {
       "title": "AUTO فصل: في النهي أن يتناجى الرجلان إذا كان معهما ثالث وحده",
       "level": 3,
       "parent": 713,
-      "start_ms": 2606,
-      "end_ms": 2608
+      "start_ms": 2608,
+      "end_ms": 2610
     },
     "720": {
-      "title": "AUTO فصل: في نهي المرأة أن تخبر زوجها أو غيره بحسن بدن امرأة أخرى إذا ms2607 لم تدع إليه حاجة شرعية من رغبة في زواجها ونحو ذلك",
+      "title": "AUTO فصل: في نهي المرأة أن تخبر زوجها أو غيره بحسن بدن امرأة أخرى إذا لم تدع إليه حاجة شرعية من رغبة في زواجها ونحو ذلك",
       "level": 3,
       "parent": 713,
-      "start_ms": 2608,
-      "end_ms": 2648
+      "start_ms": 2610,
+      "end_ms": 2651
     },
     "721": {
       "title": "AUTO تتمة",
       "level": 3,
       "parent": 713,
-      "start_ms": 2648,
-      "end_ms": 2654
+      "start_ms": 2651,
+      "end_ms": 2656
     },
     "722": {
       "title": "AUTO باب النهي عن الكذب وبيان أقسامه",
       "level": 2,
       "parent": 679,
-      "start_ms": 2654,
-      "end_ms": 2654
+      "start_ms": 2656,
+      "end_ms": 2656
     },
     "723": {
       "title": "AUTO باب النهي عن الكذب وبيان أقسامه",
       "level": 2,
       "parent": 679,
-      "start_ms": 2654,
-      "end_ms": 2662
+      "start_ms": 2656,
+      "end_ms": 2664
     },
     "724": {
       "title": "AUTO باب الحث على التثبت فيما يحكيه الإنسان والنهي عن التحديث بكل ما سمع إذا لم يظن صحته",
       "level": 2,
       "parent": 679,
-      "start_ms": 2662,
-      "end_ms": 2662
+      "start_ms": 2664,
+      "end_ms": 2665
     },
     "725": {
       "title": "AUTO باب الحث على التثبت فيما يحكيه الإنسان والنهي عن التحديث بكل ما سمع إذا لم يظن صحته",
       "level": 2,
       "parent": 679,
-      "start_ms": 2662,
-      "end_ms": 2665
+      "start_ms": 2665,
+      "end_ms": 2667
     },
     "726": {
       "title": "AUTO باب التعريض والتورية",
       "level": 2,
       "parent": 679,
-      "start_ms": 2665,
-      "end_ms": 2665
+      "start_ms": 2667,
+      "end_ms": 2668
     },
     "727": {
       "title": "AUTO باب التعريض والتورية",
       "level": 2,
       "parent": 679,
-      "start_ms": 2665,
-      "end_ms": 2668
+      "start_ms": 2668,
+      "end_ms": 2671
     },
     "728": {
       "title": "AUTO باب ما يقوله ويفعله من تكلم بكلام قبيح",
       "level": 2,
       "parent": 679,
-      "start_ms": 2668,
-      "end_ms": 2674
+      "start_ms": 2671,
+      "end_ms": 2676
     },
     "729": {
-      "title": "AUTO باب في ms2673 ألفاظ حكي عن جماعة من العلماء كراهتها وليست مكروهة",
+      "title": "AUTO باب في ألفاظ حكي عن جماعة من العلماء كراهتها وليست مكروهة",
       "level": 2,
       "parent": 679,
-      "start_ms": 2674,
-      "end_ms": 2674
+      "start_ms": 2676,
+      "end_ms": 2677
     },
     "730": {
       "title": "AUTO باب في ألفاظ حكي عن جماعة من العلماء كراهتها وليست مكروهة",
       "level": 2,
       "parent": 679,
-      "start_ms": 2674,
-      "end_ms": 2689
+      "start_ms": 2677,
+      "end_ms": 2692
     },
     "731": {
       "title": "AUTO كتاب جامع الدعوات",
       "level": 1,
       "parent": null,
-      "start_ms": 2689,
-      "end_ms": 2690
+      "start_ms": 2692,
+      "end_ms": 2692
     },
     "732": {
       "title": "AUTO كتاب جامع الدعوات",
       "level": 1,
       "parent": null,
-      "start_ms": 2690,
-      "end_ms": 2768
+      "start_ms": 2692,
+      "end_ms": 2771
     },
     "733": {
       "title": "AUTO باب في آداب الدعاء",
       "level": 2,
       "parent": 732,
-      "start_ms": 2733,
-      "end_ms": 2755
+      "start_ms": 2736,
+      "end_ms": 2758
     },
     "734": {
       "title": "AUTO باب دعاء الإنسان وتوسله بصالح عمله إلى الله تعالى",
       "level": 2,
       "parent": 732,
-      "start_ms": 2755,
-      "end_ms": 2756
+      "start_ms": 2758,
+      "end_ms": 2759
     },
     "735": {
       "title": "AUTO باب دعاء الإنسان وتوسله بصالح عمله إلى الله تعالى PageV07P253 # روينا في \"صحيحي البخاري ومسلم\" حديث أصحاب الغار عن ابن عمر رضي",
       "level": 2,
       "parent": 732,
-      "start_ms": 2756,
-      "end_ms": 2759
+      "start_ms": 2759,
+      "end_ms": 2762
     },
     "736": {
       "title": "AUTO باب رفع اليدين في الدعاء ثم مسح الوجه بهما",
       "level": 2,
       "parent": 732,
-      "start_ms": 2759,
-      "end_ms": 2760
+      "start_ms": 2762,
+      "end_ms": 2762
     },
     "737": {
       "title": "AUTO باب رفع اليدين في الدعاء ثم مسح الوجه بهما",
       "level": 2,
       "parent": 732,
-      "start_ms": 2760,
-      "end_ms": 2761
+      "start_ms": 2762,
+      "end_ms": 2764
     },
     "738": {
       "title": "AUTO باب استحباب تكرير الدعاء",
       "level": 2,
       "parent": 732,
-      "start_ms": 2761,
-      "end_ms": 2761
+      "start_ms": 2764,
+      "end_ms": 2764
     },
     "739": {
       "title": "AUTO باب الحث على حضور القلب في الدعاء",
       "level": 2,
       "parent": 732,
-      "start_ms": 2761,
-      "end_ms": 2761
+      "start_ms": 2764,
+      "end_ms": 2764
     },
     "740": {
       "title": "AUTO باب استحباب تكرير الدعاء",
       "level": 2,
       "parent": 732,
-      "start_ms": 2761,
-      "end_ms": 2762
+      "start_ms": 2764,
+      "end_ms": 2764
     },
     "741": {
       "title": "AUTO باب فضل الدعاء بظهر الغيب",
       "level": 2,
       "parent": 732,
-      "start_ms": 2762,
-      "end_ms": 2762
+      "start_ms": 2764,
+      "end_ms": 2765
     },
     "742": {
       "title": "AUTO باب فضل الدعاء بظهر الغيب",
       "level": 2,
       "parent": 732,
-      "start_ms": 2762,
-      "end_ms": 2764
+      "start_ms": 2765,
+      "end_ms": 2767
     },
     "743": {
       "title": "AUTO باب استحباب الدعاء لمن أحسن إليه وصفة دعائه",
       "level": 2,
       "parent": 732,
-      "start_ms": 2764,
-      "end_ms": 2765
+      "start_ms": 2767,
+      "end_ms": 2767
     },
     "744": {
       "title": "AUTO باب استحباب الدعاء لمن أحسن إليه وصفة دعائه",
       "level": 2,
       "parent": 732,
-      "start_ms": 2765,
-      "end_ms": 2765
+      "start_ms": 2767,
+      "end_ms": 2768
     },
     "745": {
       "title": "AUTO باب استحباب طلب الدعاء من أهل الفضل وإن كان الطالب أفضل من المطلوب منه، والدعاء في المواضع الشريفة",
       "level": 2,
       "parent": 732,
-      "start_ms": 2765,
-      "end_ms": 2765
+      "start_ms": 2768,
+      "end_ms": 2768
     },
     "746": {
       "title": "AUTO باب استحباب طلب الدعاء من أهل الفضل وإن كان الطالب أفضل من المطلوب منه، والدعاء في المواضع الشريفة",
       "level": 2,
       "parent": 732,
-      "start_ms": 2765,
-      "end_ms": 2766
+      "start_ms": 2768,
+      "end_ms": 2768
     },
     "747": {
       "title": "AUTO باب نهي المكلف عن دعائه على نفسه وولده وخادمه وماله ونحوها",
       "level": 2,
       "parent": 732,
-      "start_ms": 2766,
-      "end_ms": 2766
+      "start_ms": 2768,
+      "end_ms": 2769
     },
     "748": {
       "title": "AUTO باب الدليل على أن دعاء المسلم يجاب بمطلوبه أو غيره وأنه لا يستعجل بالإجابة",
       "level": 2,
       "parent": 732,
-      "start_ms": 2766,
-      "end_ms": 2768
+      "start_ms": 2769,
+      "end_ms": 2771
     },
     "749": {
       "title": "AUTO كتاب الاستغفار",
       "level": 1,
       "parent": null,
-      "start_ms": 2768,
-      "end_ms": 2769
+      "start_ms": 2771,
+      "end_ms": 2772
     },
     "750": {
       "title": "AUTO كتاب الاستغفار",
       "level": 1,
       "parent": null,
-      "start_ms": 2769,
-      "end_ms": 2914
+      "start_ms": 2772,
+      "end_ms": 2918
     },
     "751": {
       "title": "AUTO باب النهي عن صمت يوم إلى الليل",
       "level": 2,
       "parent": 750,
-      "start_ms": 2795,
-      "end_ms": 2796
+      "start_ms": 2798,
+      "end_ms": 2799
     },
     "752": {
       "title": "AUTO باب النهي عن صمت يوم إلى الليل",
       "level": 2,
       "parent": 750,
-      "start_ms": 2796,
-      "end_ms": 2914
+      "start_ms": 2799,
+      "end_ms": 2918
     },
     "753": {
       "title": "CHECK خاتمة",
       "level": 1,
       "parent": null,
-      "start_ms": 2914,
+      "start_ms": 2918,
       "end_ms": null
     }
   },
@@ -5381,13 +5381,8 @@
     ],
     [
       138,
-      [28],
+      [28, 29],
       27
-    ],
-    [
-      139,
-      [29],
-      28
     ],
     [
       141,
@@ -5431,13 +5426,8 @@
     ],
     [
       282,
-      [41],
+      [41, 42],
       40
-    ],
-    [
-      283,
-      [42],
-      null
     ],
     [
       285,
@@ -5451,13 +5441,8 @@
     ],
     [
       289,
-      [45],
+      [45, 46],
       44
-    ],
-    [
-      290,
-      [46],
-      45
     ],
     [
       295,
@@ -5472,7 +5457,7 @@
     [
       308,
       [50],
-      49
+      null
     ],
     [
       309,
@@ -5480,14 +5465,24 @@
       50
     ],
     [
-      319,
-      [53, 54],
+      318,
+      [53],
       52
     ],
     [
+      319,
+      [54],
+      53
+    ],
+    [
+      336,
+      [55],
+      54
+    ],
+    [
       337,
-      [55, 56],
-      null
+      [56],
+      55
     ],
     [
       353,
@@ -5496,23 +5491,13 @@
     ],
     [
       368,
-      [59],
+      [59, 60],
       58
     ],
     [
-      369,
-      [60],
-      59
-    ],
-    [
       378,
-      [61, 62],
+      [61, 62, 63],
       60
-    ],
-    [
-      379,
-      [63],
-      null
     ],
     [
       384,
@@ -5581,13 +5566,8 @@
     ],
     [
       476,
-      [85],
+      [85, 86],
       84
-    ],
-    [
-      477,
-      [86],
-      85
     ],
     [
       487,
@@ -5656,23 +5636,13 @@
     ],
     [
       556,
-      [104],
+      [104, 105, 106],
       103
     ],
     [
-      557,
-      [105, 106],
-      104
-    ],
-    [
       570,
-      [107],
+      [107, 108],
       106
-    ],
-    [
-      571,
-      [108],
-      107
     ],
     [
       594,
@@ -5685,44 +5655,44 @@
       109
     ],
     [
-      600,
-      [111, 112],
+      599,
+      [111],
       110
     ],
     [
-      630,
-      [113, 114],
+      600,
+      [112],
+      111
+    ],
+    [
+      629,
+      [113],
       112
     ],
     [
+      630,
+      [114],
+      113
+    ],
+    [
       654,
-      [115],
+      [115, 116],
       114
     ],
     [
       655,
-      [116, 117],
-      115
+      [117],
+      116
     ],
     [
       671,
-      [118],
+      [118, 119],
       117
     ],
     [
-      672,
-      [119],
-      118
-    ],
-    [
       684,
-      [120],
+      [120, 121],
       119
-    ],
-    [
-      685,
-      [121],
-      120
     ],
     [
       701,
@@ -5735,12 +5705,12 @@
       122
     ],
     [
-      708,
+      707,
       [124],
       123
     ],
     [
-      709,
+      708,
       [125, 126],
       124
     ],
@@ -5760,7 +5730,7 @@
       129
     ],
     [
-      792,
+      791,
       [131, 132],
       130
     ],
@@ -5770,69 +5740,79 @@
       132
     ],
     [
-      819,
-      [135, 136],
+      818,
+      [135],
       134
     ],
     [
-      821,
-      [137, 138],
+      819,
+      [136],
+      135
+    ],
+    [
+      820,
+      [137],
       136
+    ],
+    [
+      821,
+      [138],
+      137
     ],
     [
       864,
       [139],
-      138
+      null
     ],
     [
       875,
-      [140],
+      [140, 141],
       139
     ],
     [
-      876,
-      [141],
-      140
-    ],
-    [
-      941,
-      [142, 143],
+      940,
+      [142],
       141
     ],
     [
+      941,
+      [143, 144, 145, 146],
+      142
+    ],
+    [
       942,
-      [144, 145, 146, 147],
-      143
+      [147],
+      146
     ],
     [
       943,
-      [148, 149],
+      [148, 149, 150],
       147
     ],
     [
       944,
-      [150, 151],
-      149
+      [151],
+      150
     ],
     [
-      984,
-      [152, 153],
+      983,
+      [152],
       151
     ],
     [
+      984,
+      [153, 154],
+      152
+    ],
+    [
       985,
-      [154, 155],
-      153
+      [155],
+      154
     ],
     [
       988,
-      [156],
+      [156, 157],
       155
-    ],
-    [
-      989,
-      [157],
-      156
     ],
     [
       996,
@@ -5840,19 +5820,24 @@
       157
     ],
     [
-      999,
-      [159, 160],
+      998,
+      [159],
       158
     ],
     [
+      999,
+      [160],
+      159
+    ],
+    [
       1005,
-      [161],
+      [161, 162],
       160
     ],
     [
       1006,
-      [162, 163],
-      161
+      [163],
+      162
     ],
     [
       1007,
@@ -5860,37 +5845,42 @@
       163
     ],
     [
-      1012,
+      1011,
       [165],
       164
     ],
     [
-      1013,
-      [166, 167, 168],
-      null
+      1012,
+      [166, 167],
+      165
     ],
     [
-      1043,
+      1013,
+      [168],
+      167
+    ],
+    [
+      1042,
       [169],
       168
     ],
     [
-      1044,
+      1043,
       [170],
       169
     ],
     [
-      1058,
+      1057,
       [171],
       170
     ],
     [
-      1061,
+      1060,
       [172],
       171
     ],
     [
-      1062,
+      1061,
       [173],
       172
     ],
@@ -5910,29 +5900,39 @@
       176
     ],
     [
-      1108,
-      [178, 179],
+      1107,
+      [178],
       177
     ],
     [
-      1117,
-      [180, 181],
+      1108,
+      [179],
+      178
+    ],
+    [
+      1116,
+      [180],
       179
     ],
     [
-      1118,
-      [182, 183, 184, 185, 186, 187],
-      181
+      1117,
+      [181, 182, 183, 184, 185],
+      180
     ],
     [
-      1119,
-      [188, 189],
-      187
+      1118,
+      [186, 187, 188, 189],
+      185
+    ],
+    [
+      1122,
+      [190],
+      189
     ],
     [
       1123,
-      [190, 191],
-      189
+      [191],
+      190
     ],
     [
       1146,
@@ -5942,7 +5942,7 @@
     [
       1147,
       [193],
-      192
+      null
     ],
     [
       1156,
@@ -5950,14 +5950,19 @@
       193
     ],
     [
-      1163,
+      1162,
       [195],
       194
     ],
     [
-      1168,
-      [196, 197],
+      1167,
+      [196],
       195
+    ],
+    [
+      1168,
+      [197],
+      196
     ],
     [
       1173,
@@ -5966,33 +5971,28 @@
     ],
     [
       1174,
-      [199, 200],
+      [199, 200, 201],
       198
     ],
     [
       1175,
-      [201],
-      200
-    ],
-    [
-      1176,
       [202, 203, 204],
       201
     ],
     [
-      1191,
+      1190,
       [205],
       204
     ],
     [
-      1202,
-      [206, 207],
+      1201,
+      [206],
       205
     ],
     [
-      1203,
-      [208],
-      207
+      1202,
+      [207, 208],
+      null
     ],
     [
       1204,
@@ -6011,208 +6011,198 @@
     ],
     [
       1207,
-      [212],
+      [212, 213, 214],
       211
     ],
     [
       1208,
-      [213, 214],
-      212
-    ],
-    [
-      1209,
       [215],
       214
     ],
     [
-      1210,
+      1209,
       [216],
       215
     ],
     [
-      1211,
+      1210,
       [217],
       216
     ],
     [
       1213,
-      [218],
+      [218, 219],
       217
     ],
     [
-      1214,
-      [219],
-      218
-    ],
-    [
-      1217,
-      [220, 221],
+      1216,
+      [220],
       219
     ],
     [
-      1218,
-      [222],
-      221
+      1217,
+      [221, 222],
+      220
     ],
     [
-      1219,
+      1218,
       [223, 224],
       222
     ],
     [
-      1220,
+      1219,
       [225, 226],
       224
     ],
     [
       1221,
-      [227],
+      [227, 228],
       226
     ],
     [
       1222,
-      [228, 229],
-      227
+      [229],
+      null
     ],
     [
       1224,
-      [230],
+      [230, 231],
       229
     ],
     [
-      1225,
-      [231],
-      230
-    ],
-    [
-      1233,
+      1232,
       [232, 233],
-      null
+      231
     ],
     [
-      1241,
+      1240,
       [234, 235],
-      null
+      233
     ],
     [
-      1243,
+      1242,
       [236],
       235
     ],
     [
-      1245,
+      1244,
       [237, 238, 239],
       236
     ],
     [
-      1247,
+      1246,
       [240],
       239
     ],
     [
       1248,
       [241, 242],
-      240
-    ],
-    [
-      1271,
-      [243],
       null
     ],
     [
-      1274,
+      1270,
+      [243],
+      242
+    ],
+    [
+      1273,
       [244],
       243
     ],
     [
-      1275,
-      [245, 246],
+      1274,
+      [245],
       244
     ],
     [
-      1279,
+      1275,
+      [246],
+      null
+    ],
+    [
+      1278,
       [247],
       246
     ],
     [
-      1282,
-      [248, 249, 250],
+      1281,
+      [248],
       247
     ],
     [
-      1283,
-      [251, 252],
-      250
+      1282,
+      [249, 250, 251, 252],
+      248
     ],
     [
-      1285,
+      1284,
       [253],
-      null
+      252
     ],
     [
       1289,
-      [254],
+      [254, 255],
       253
     ],
     [
-      1290,
-      [255],
-      254
-    ],
-    [
-      1293,
-      [256, 257],
+      1292,
+      [256],
       255
     ],
     [
-      1294,
-      [258],
-      257
+      1293,
+      [257, 258],
+      256
     ],
     [
-      1296,
+      1295,
       [259],
       258
     ],
     [
-      1297,
+      1296,
       [260],
       259
     ],
     [
-      1320,
+      1319,
       [261],
       260
     ],
     [
-      1321,
+      1320,
       [262],
       261
     ],
     [
-      1324,
-      [263, 264],
+      1323,
+      [263],
       262
     ],
     [
-      1327,
-      [265, 266],
+      1324,
+      [264],
+      null
+    ],
+    [
+      1326,
+      [265],
       264
     ],
     [
+      1327,
+      [266],
+      265
+    ],
+    [
       1331,
-      [267],
+      [267, 268],
       266
     ],
     [
       1332,
-      [268, 269],
-      267
-    ],
-    [
-      1333,
-      [270, 271, 272],
-      null
+      [269, 270, 271, 272],
+      268
     ],
     [
       1346,
@@ -6220,839 +6210,864 @@
       272
     ],
     [
-      1363,
+      1362,
       [275],
       274
     ],
     [
-      1368,
+      1367,
       [276],
       275
     ],
     [
       1373,
-      [277],
+      [277, 278],
       276
     ],
     [
-      1374,
-      [278],
-      277
-    ],
-    [
-      1377,
+      1376,
       [279, 280],
       278
     ],
     [
-      1397,
-      [281, 282],
+      1396,
+      [281],
       280
     ],
     [
-      1399,
+      1397,
+      [282],
+      281
+    ],
+    [
+      1398,
       [283],
       282
     ],
     [
-      1400,
+      1399,
       [284, 285],
       283
     ],
     [
-      1403,
+      1402,
       [286],
       285
     ],
     [
-      1410,
+      1409,
       [287],
       286
     ],
     [
-      1411,
+      1410,
       [288],
       287
     ],
     [
-      1413,
+      1412,
       [289],
       288
     ],
     [
-      1421,
-      [290, 291],
+      1420,
+      [290],
       289
     ],
     [
-      1428,
+      1421,
+      [291],
+      290
+    ],
+    [
+      1427,
       [292],
       291
     ],
     [
-      1429,
+      1428,
       [293],
       292
     ],
     [
-      1436,
+      1435,
       [294],
       293
     ],
     [
-      1437,
+      1436,
       [295],
       294
     ],
     [
-      1444,
+      1443,
       [296],
       295
     ],
     [
+      1446,
+      [297, 298],
+      296
+    ],
+    [
       1447,
-      [297, 298, 299, 300],
+      [299, 300, 301, 302],
       null
     ],
     [
-      1448,
-      [301, 302],
-      300
-    ],
-    [
-      1454,
+      1453,
       [303],
       302
     ],
     [
-      1455,
+      1454,
       [304, 305],
       303
     ],
     [
-      1456,
+      1455,
       [306],
       305
     ],
     [
-      1458,
+      1457,
       [307],
       306
     ],
     [
-      1459,
+      1458,
       [308],
       307
     ],
     [
-      1462,
+      1461,
       [309, 310],
       308
     ],
     [
-      1465,
+      1464,
       [311],
       310
     ],
     [
-      1466,
+      1465,
       [312, 313],
-      null
+      311
     ],
     [
-      1471,
+      1470,
       [314],
       313
     ],
     [
-      1472,
+      1471,
       [315],
       314
     ],
     [
-      1477,
+      1476,
       [316, 317, 318],
       315
     ],
     [
-      1483,
+      1482,
       [319],
       318
     ],
     [
-      1496,
+      1495,
       [320],
       319
     ],
     [
-      1507,
+      1506,
       [321, 322],
       320
     ],
     [
-      1508,
+      1507,
       [323, 324],
       322
     ],
     [
-      1509,
+      1508,
       [325],
       324
     ],
     [
-      1510,
+      1509,
       [326],
       325
     ],
     [
-      1513,
+      1512,
       [327],
       326
     ],
     [
-      1514,
+      1513,
       [328],
       327
     ],
     [
-      1515,
+      1514,
       [329],
       328
     ],
     [
-      1518,
+      1517,
       [330],
       329
     ],
     [
-      1523,
+      1522,
       [331, 332],
       330
     ],
     [
-      1525,
+      1524,
       [333],
       332
     ],
     [
-      1531,
+      1530,
       [334],
       333
     ],
     [
-      1550,
+      1549,
       [335],
       334
     ],
     [
-      1552,
+      1551,
       [336, 337, 338],
       335
     ],
     [
-      1557,
+      1556,
       [339, 340, 341],
       338
     ],
     [
-      1558,
+      1557,
       [342, 343, 344],
       341
     ],
     [
-      1565,
+      1564,
       [345],
       344
     ],
     [
-      1566,
+      1565,
       [346],
       345
     ],
     [
-      1569,
+      1568,
       [347],
       346
     ],
     [
-      1570,
+      1569,
       [348],
       347
     ],
     [
-      1573,
+      1572,
       [349, 350],
       348
     ],
     [
-      1576,
+      1575,
       [351, 352],
       350
     ],
     [
-      1578,
+      1577,
       [353],
       352
     ],
     [
-      1579,
+      1578,
       [354, 355, 356],
       353
     ],
     [
-      1589,
+      1588,
       [357, 358],
       356
     ],
     [
-      1592,
+      1591,
       [359, 360],
       358
     ],
     [
-      1601,
+      1600,
       [361],
       360
     ],
     [
-      1602,
-      [362],
+      1601,
+      [362, 363],
       361
     ],
     [
-      1603,
-      [363, 364],
-      362
+      1602,
+      [364],
+      363
     ],
     [
-      1607,
+      1606,
       [365],
       364
     ],
     [
-      1627,
+      1626,
       [366],
       365
     ],
     [
-      1628,
+      1627,
       [367],
       366
     ],
     [
-      1630,
+      1629,
       [368],
       367
     ],
     [
-      1632,
+      1631,
       [369],
       368
     ],
     [
-      1642,
+      1641,
       [370],
       369
     ],
     [
-      1644,
+      1643,
       [371],
       370
     ],
     [
-      1651,
+      1650,
       [372],
       371
     ],
     [
-      1653,
+      1652,
       [373],
       372
     ],
     [
-      1660,
+      1659,
       [374],
       373
     ],
     [
-      1662,
+      1661,
       [375],
       374
     ],
     [
-      1669,
+      1668,
       [376],
       375
     ],
     [
-      1671,
+      1670,
       [377, 378, 379],
       376
     ],
     [
-      1672,
+      1671,
       [380, 381, 382],
       379
     ],
     [
-      1673,
+      1672,
       [383, 384],
       382
     ],
     [
-      1675,
+      1674,
       [385],
       384
     ],
     [
-      1688,
-      [386, 387, 388, 389],
+      1686,
+      [386],
       385
     ],
     [
-      1692,
-      [390, 391],
-      389
+      1687,
+      [387, 388, 389],
+      386
     ],
     [
-      1693,
-      [392],
+      1691,
+      [390, 391],
+      null
+    ],
+    [
+      1692,
+      [392, 393],
       391
     ],
     [
-      1694,
-      [393],
-      392
+      1695,
+      [394],
+      null
     ],
     [
-      1696,
-      [394],
-      393
+      1712,
+      [395, 396],
+      null
     ],
     [
       1713,
-      [395, 396],
-      394
-    ],
-    [
-      1714,
       [397],
       396
     ],
     [
-      1716,
+      1715,
       [398],
       397
     ],
     [
-      1724,
+      1723,
       [399],
       398
     ],
     [
-      1734,
+      1733,
       [400],
       399
     ],
     [
-      1735,
+      1734,
       [401],
       400
     ],
     [
-      1736,
+      1735,
       [402],
       401
     ],
     [
-      1740,
-      [403],
-      402
-    ],
-    [
-      1741,
-      [404],
+      1739,
+      [403, 404],
       null
     ],
     [
-      1742,
-      [405, 406, 407, 408, 409, 410],
+      1740,
+      [405],
       404
     ],
     [
-      1745,
-      [411],
+      1741,
+      [406, 407, 408, 409, 410],
+      405
+    ],
+    [
+      1744,
+      [411, 412],
       410
     ],
     [
-      1746,
-      [412, 413, 414],
-      411
+      1745,
+      [413, 414],
+      412
     ],
     [
-      1753,
+      1752,
       [415, 416],
       414
     ],
     [
-      1761,
+      1760,
       [417],
       416
     ],
     [
-      1762,
+      1761,
       [418],
       417
     ],
     [
-      1771,
+      1769,
       [419],
       418
     ],
     [
-      1772,
+      1771,
       [420],
-      419
+      null
     ],
     [
-      1773,
+      1772,
       [421],
       420
     ],
     [
-      1785,
+      1784,
       [422],
       421
     ],
     [
-      1788,
-      [423, 424],
+      1786,
+      [423],
       422
     ],
     [
-      1789,
-      [425],
-      424
+      1787,
+      [424, 425],
+      423
     ],
     [
-      1797,
-      [426, 427, 428],
+      1795,
+      [426],
       425
     ],
     [
-      1802,
-      [429, 430],
+      1796,
+      [427, 428],
+      426
+    ],
+    [
+      1800,
+      [429],
       428
     ],
     [
-      1804,
+      1801,
+      [430],
+      429
+    ],
+    [
+      1803,
       [431, 432],
       430
     ],
     [
-      1806,
+      1805,
       [433],
       432
     ],
     [
-      1812,
-      [434],
+      1811,
+      [434, 435],
       433
     ],
     [
-      1813,
-      [435, 436, 437],
-      434
+      1812,
+      [436, 437],
+      435
     ],
     [
-      1814,
+      1813,
       [438],
       437
     ],
     [
-      1815,
+      1814,
       [439],
       438
     ],
     [
-      1821,
-      [440, 441],
+      1819,
+      [440],
       439
     ],
     [
-      1822,
-      [442],
-      441
+      1820,
+      [441, 442],
+      440
     ],
     [
-      1824,
-      [443, 444],
+      1822,
+      [443],
       442
     ],
     [
-      1826,
-      [445],
+      1823,
+      [444],
+      443
+    ],
+    [
+      1825,
+      [445, 446],
       444
     ],
     [
-      1827,
-      [446, 447, 448],
-      445
+      1826,
+      [447, 448],
+      446
     ],
     [
-      1828,
-      [449],
+      1827,
+      [449, 450],
       448
     ],
     [
-      1829,
-      [450],
-      null
-    ],
-    [
-      1831,
-      [451, 452],
+      1830,
+      [451, 452, 453, 454],
       450
     ],
     [
-      1832,
-      [453, 454, 455],
-      452
+      1831,
+      [455],
+      454
     ],
     [
-      1833,
-      [456],
+      1832,
+      [456, 457],
       455
     ],
     [
-      1834,
-      [457],
-      456
-    ],
-    [
-      1849,
-      [458, 459, 460],
+      1847,
+      [458],
       457
     ],
     [
-      1850,
+      1848,
+      [459, 460],
+      458
+    ],
+    [
+      1849,
       [461],
       460
     ],
     [
-      1853,
-      [462, 463],
-      null
+      1851,
+      [462],
+      461
     ],
     [
-      1856,
+      1852,
+      [463],
+      462
+    ],
+    [
+      1854,
       [464],
       463
     ],
     [
-      1859,
+      1858,
       [465],
       464
     ],
     [
-      1861,
+      1860,
       [466],
       465
     ],
     [
-      1863,
-      [467],
+      1862,
+      [467, 468],
       466
     ],
     [
-      1864,
-      [468],
-      467
-    ],
-    [
-      1869,
+      1867,
       [469],
       468
     ],
     [
-      1870,
+      1868,
       [470, 471],
-      null
+      469
     ],
     [
-      1871,
+      1869,
       [472],
-      null
+      471
     ],
     [
-      1874,
-      [473, 474],
+      1872,
+      [473],
       472
     ],
     [
-      1878,
-      [475, 476],
+      1873,
+      [474],
+      null
+    ],
+    [
+      1876,
+      [475],
       474
     ],
     [
-      1898,
+      1877,
+      [476],
+      475
+    ],
+    [
+      1896,
       [477],
       476
     ],
     [
-      1902,
+      1901,
       [478],
       477
     ],
     [
-      1903,
+      1902,
       [479],
       478
     ],
     [
-      1911,
+      1910,
       [480],
       479
     ],
     [
-      1918,
-      [481, 482, 483],
+      1917,
+      [481, 482, 483, 484],
       480
     ],
     [
-      1919,
-      [484],
-      483
-    ],
-    [
-      1921,
+      1920,
       [485],
       484
     ],
     [
-      1925,
+      1924,
       [486],
       485
     ],
     [
-      1926,
+      1925,
       [487],
       486
     ],
     [
-      1927,
+      1926,
       [488],
       487
     ],
     [
-      1932,
+      1930,
       [489, 490],
-      null
+      488
     ],
     [
-      1949,
+      1947,
       [491, 492],
       490
     ],
     [
-      1960,
-      [493],
+      1959,
+      [493, 494],
       492
     ],
     [
+      1960,
+      [495, 496],
+      494
+    ],
+    [
       1961,
-      [494, 495],
-      493
+      [497],
+      496
     ],
     [
       1962,
-      [496, 497],
-      495
-    ],
-    [
-      1964,
-      [498, 499, 500, 501],
+      [498, 499, 500],
       497
     ],
     [
-      1968,
-      [502, 503],
+      1963,
+      [501],
+      500
+    ],
+    [
+      1966,
+      [502],
       501
     ],
     [
-      1993,
+      1967,
+      [503],
+      502
+    ],
+    [
+      1992,
       [504],
       503
     ],
     [
-      1998,
+      1997,
       [505],
       504
     ],
     [
-      1999,
+      1998,
       [506],
       505
     ],
     [
-      2025,
+      2024,
       [507],
       506
     ],
     [
-      2027,
+      2026,
       [508],
       507
     ],
     [
-      2028,
+      2027,
       [509],
       508
     ],
     [
-      2038,
+      2037,
       [510, 511],
       509
     ],
     [
-      2048,
+      2047,
       [512],
       511
     ],
     [
-      2063,
+      2062,
       [513],
       512
     ],
     [
-      2064,
+      2063,
       [514],
-      null
+      513
     ],
     [
-      2079,
+      2078,
       [515],
       514
     ],
     [
-      2080,
+      2079,
       [516, 517],
       515
     ],
     [
       2107,
       [518],
-      517
+      null
     ],
     [
       2111,
-      [519],
+      [519, 520],
       518
-    ],
-    [
-      2112,
-      [520],
-      519
     ],
     [
       2126,
@@ -7060,9 +7075,14 @@
       520
     ],
     [
-      2132,
-      [522, 523],
+      2131,
+      [522],
       521
+    ],
+    [
+      2132,
+      [523],
+      522
     ],
     [
       2142,
@@ -7101,13 +7121,13 @@
     ],
     [
       2165,
-      [534],
+      [534, 535],
       533
     ],
     [
       2166,
-      [535, 536],
-      534
+      [536],
+      535
     ],
     [
       2168,
@@ -7130,9 +7150,9 @@
       541
     ],
     [
-      2177,
+      2176,
       [543],
-      null
+      542
     ],
     [
       2179,
@@ -7190,9 +7210,9 @@
       562
     ],
     [
-      2200,
+      2201,
       [564],
-      563
+      null
     ],
     [
       2204,
@@ -7211,8 +7231,13 @@
     ],
     [
       2219,
-      [569, 570],
+      [569],
       568
+    ],
+    [
+      2220,
+      [570],
+      569
     ],
     [
       2221,
@@ -7220,14 +7245,9 @@
       570
     ],
     [
-      2225,
-      [572],
-      571
-    ],
-    [
       2226,
-      [573],
-      572
+      [572, 573],
+      571
     ],
     [
       2229,
@@ -7261,93 +7281,88 @@
     ],
     [
       2243,
-      [582, 583],
+      [582],
       581
     ],
     [
-      2249,
+      2244,
+      [583],
+      582
+    ],
+    [
+      2250,
       [584],
       583
     ],
     [
-      2253,
-      [585],
+      2254,
+      [585, 586, 587],
       584
     ],
     [
-      2254,
-      [586, 587],
-      null
-    ],
-    [
       2256,
-      [588, 589, 590],
+      [588, 589],
       587
     ],
     [
       2257,
+      [590],
+      589
+    ],
+    [
+      2258,
       [591],
       590
     ],
     [
-      2260,
-      [592],
+      2261,
+      [592, 593],
       591
     ],
     [
-      2261,
-      [593],
-      592
-    ],
-    [
-      2263,
-      [594],
+      2264,
+      [594, 595],
       593
     ],
     [
-      2264,
-      [595],
-      594
-    ],
-    [
       2266,
-      [596, 597],
+      [596],
       595
     ],
     [
       2267,
-      [598, 599],
-      597
+      [597, 598],
+      596
     ],
     [
-      2273,
+      2268,
+      [599],
+      598
+    ],
+    [
+      2274,
       [600],
       599
     ],
     [
-      2276,
+      2277,
       [601],
       600
     ],
     [
-      2277,
+      2278,
       [602],
-      601
+      null
     ],
     [
-      2278,
+      2279,
       [603],
       602
     ],
     [
-      2279,
-      [604],
-      603
-    ],
-    [
       2280,
-      [605],
-      604
+      [604, 605],
+      603
     ],
     [
       2285,
@@ -7355,490 +7370,495 @@
       605
     ],
     [
-      2286,
+      2287,
       [607, 608],
-      606
+      null
     ],
     [
       2288,
-      [609, 610, 611, 612],
+      [609],
       608
     ],
     [
       2289,
-      [613],
-      612
+      [610, 611, 612, 613],
+      null
     ],
     [
       2292,
       [614],
-      null
+      613
     ],
     [
-      2304,
+      2305,
       [615, 616],
       614
     ],
     [
-      2307,
+      2308,
       [617],
       616
     ],
     [
-      2308,
+      2309,
       [618],
       617
     ],
     [
-      2309,
+      2310,
       [619],
       618
     ],
     [
-      2310,
+      2311,
       [620],
       619
     ],
     [
-      2312,
-      [621],
+      2313,
+      [621, 622],
       620
     ],
     [
-      2313,
-      [622, 623],
-      621
-    ],
-    [
-      2321,
-      [624, 625],
-      623
+      2314,
+      [623],
+      622
     ],
     [
       2322,
-      [626],
+      [624, 625, 626],
       null
     ],
     [
-      2324,
+      2325,
       [627, 628],
       626
     ],
     [
-      2325,
-      [629],
+      2326,
+      [629, 630],
       628
     ],
     [
-      2326,
-      [630],
-      629
-    ],
-    [
-      2328,
+      2329,
       [631, 632],
       630
     ],
     [
-      2330,
+      2331,
       [633, 634],
       632
     ],
     [
       2332,
       [635],
-      null
+      634
     ],
     [
       2334,
-      [636, 637],
+      [636],
       635
     ],
     [
-      2336,
+      2335,
+      [637],
+      636
+    ],
+    [
+      2337,
       [638, 639],
       637
     ],
     [
-      2343,
+      2344,
       [640, 641],
       639
     ],
     [
-      2348,
+      2349,
       [642],
       641
     ],
     [
-      2353,
+      2354,
       [643],
       642
     ],
     [
-      2354,
+      2355,
       [644, 645],
       643
     ],
     [
-      2355,
+      2356,
       [646, 647],
       645
     ],
     [
-      2364,
+      2365,
       [648],
       647
     ],
     [
-      2365,
+      2366,
       [649, 650, 651, 652],
       648
     ],
     [
-      2368,
+      2369,
       [653],
       652
     ],
     [
-      2369,
+      2370,
       [654],
       653
     ],
     [
-      2370,
+      2371,
       [655],
       654
     ],
     [
-      2371,
+      2372,
       [656, 657],
       655
     ],
     [
-      2372,
+      2373,
       [658],
       657
     ],
     [
-      2374,
+      2375,
       [659],
       658
     ],
     [
-      2375,
+      2376,
       [660],
       659
     ],
     [
-      2376,
+      2377,
       [661],
       660
     ],
     [
-      2380,
+      2381,
       [662],
       661
     ],
     [
-      2383,
+      2384,
       [663, 664],
       662
     ],
     [
-      2385,
-      [665],
+      2387,
+      [665, 666],
       664
     ],
     [
-      2386,
-      [666],
-      665
-    ],
-    [
-      2389,
-      [667, 668, 669, 670],
+      2390,
+      [667, 668, 669],
       666
     ],
     [
-      2395,
+      2391,
+      [670],
+      669
+    ],
+    [
+      2396,
       [671, 672],
       670
     ],
     [
-      2402,
+      2403,
       [673],
       672
     ],
     [
-      2403,
+      2404,
       [674],
       673
     ],
     [
-      2410,
+      2411,
       [675],
       674
     ],
     [
-      2420,
-      [676, 677],
+      2421,
+      [676],
       675
     ],
     [
-      2432,
-      [678, 679],
+      2422,
+      [677],
+      676
+    ],
+    [
+      2433,
+      [678],
       677
     ],
     [
-      2471,
-      [680],
+      2434,
+      [679],
+      678
+    ],
+    [
+      2473,
+      [680, 681],
       679
     ],
     [
-      2472,
-      [681],
-      680
-    ],
-    [
-      2490,
+      2492,
       [682],
       681
     ],
     [
-      2491,
+      2493,
       [683],
       682
     ],
     [
-      2496,
+      2498,
       [684, 685],
       683
     ],
     [
-      2500,
+      2501,
       [686, 687],
+      685
+    ],
+    [
+      2514,
+      [688],
       null
     ],
     [
-      2512,
-      [688],
-      687
-    ],
-    [
-      2520,
-      [689, 690],
+      2521,
+      [689],
       688
     ],
     [
-      2527,
+      2522,
+      [690],
+      689
+    ],
+    [
+      2529,
       [691, 692],
       690
     ],
     [
-      2533,
-      [693],
+      2535,
+      [693, 694],
       692
     ],
     [
-      2534,
-      [694],
-      693
-    ],
-    [
-      2537,
-      [695, 696, 697, 698],
+      2538,
+      [695],
       694
     ],
     [
-      2538,
+      2539,
+      [696, 697, 698],
+      695
+    ],
+    [
+      2540,
       [699],
       698
     ],
     [
-      2539,
+      2541,
       [700, 701, 702],
       699
     ],
     [
-      2540,
+      2542,
       [703],
-      702
+      null
     ],
     [
-      2545,
+      2547,
       [704, 705],
       703
     ],
     [
-      2548,
+      2550,
       [706, 707],
       705
     ],
     [
-      2550,
+      2552,
       [708, 709],
       707
     ],
     [
-      2554,
+      2556,
       [710],
       709
     ],
     [
-      2566,
+      2568,
       [711],
       710
     ],
     [
-      2570,
+      2572,
       [712, 713],
       711
     ],
     [
-      2597,
-      [714],
-      713
+      2600,
+      [714, 715],
+      null
     ],
     [
-      2598,
-      [715],
-      714
-    ],
-    [
-      2599,
+      2601,
       [716, 717],
       715
     ],
     [
-      2602,
+      2604,
       [718],
       717
     ],
     [
-      2606,
+      2608,
       [719],
       718
     ],
     [
-      2608,
+      2610,
       [720],
-      null
+      719
     ],
     [
-      2648,
+      2651,
       [721],
       720
     ],
     [
-      2654,
+      2656,
       [722, 723],
       721
     ],
     [
-      2662,
-      [724, 725],
+      2664,
+      [724],
       723
     ],
     [
       2665,
-      [726, 727],
+      [725],
+      724
+    ],
+    [
+      2667,
+      [726],
       725
     ],
     [
       2668,
+      [727],
+      726
+    ],
+    [
+      2671,
       [728],
       727
     ],
     [
-      2674,
-      [729, 730],
-      null
+      2676,
+      [729],
+      728
     ],
     [
-      2689,
-      [731],
+      2677,
+      [730],
+      729
+    ],
+    [
+      2692,
+      [731, 732],
       730
     ],
     [
-      2690,
-      [732],
-      731
-    ],
-    [
-      2733,
+      2736,
       [733],
       732
     ],
     [
-      2755,
+      2758,
       [734],
       733
     ],
     [
-      2756,
+      2759,
       [735],
       734
     ],
     [
-      2759,
-      [736],
+      2762,
+      [736, 737],
       735
     ],
     [
-      2760,
-      [737],
-      736
-    ],
-    [
-      2761,
-      [738, 739, 740],
+      2764,
+      [738, 739, 740, 741],
       737
     ],
     [
-      2762,
-      [741, 742],
-      740
+      2765,
+      [742],
+      741
     ],
     [
-      2764,
-      [743],
+      2767,
+      [743, 744],
       742
     ],
     [
-      2765,
-      [744, 745, 746],
-      743
-    ],
-    [
-      2766,
-      [747, 748],
-      746
-    ],
-    [
       2768,
+      [745, 746, 747],
+      744
+    ],
+    [
+      2769,
+      [748],
+      747
+    ],
+    [
+      2771,
       [749],
       748
     ],
     [
-      2769,
+      2772,
       [750],
       749
     ],
     [
-      2795,
+      2798,
       [751],
       750
     ],
     [
-      2796,
+      2799,
       [752],
       751
     ],
     [
-      2914,
+      2918,
       [753],
       752
     ]
   ],
-  "last_ms": 2920
+  "last_ms": 2923
 }

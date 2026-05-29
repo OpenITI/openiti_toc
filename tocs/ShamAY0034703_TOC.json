@@ -6,27 +6,27 @@
       "level": 1,
       "parent": null,
       "start_ms": 1,
-      "end_ms": 321
+      "end_ms": 320
     },
     "2": {
       "title": "CHECK [الجزء 2]",
       "level": 1,
       "parent": null,
-      "start_ms": 321,
-      "end_ms": 617
+      "start_ms": 320,
+      "end_ms": 613
     },
     "3": {
       "title": "CHECK [الجزء 3]",
       "level": 1,
       "parent": null,
-      "start_ms": 617,
-      "end_ms": 921
+      "start_ms": 613,
+      "end_ms": 914
     },
     "4": {
       "title": "CHECK [الجزء 4]",
       "level": 1,
       "parent": null,
-      "start_ms": 921,
+      "start_ms": 914,
       "end_ms": null
     }
   },
@@ -37,20 +37,20 @@
       null
     ],
     [
-      321,
+      320,
       [2],
       1
     ],
     [
-      617,
+      613,
       [3],
       2
     ],
     [
-      921,
+      914,
       [4],
       3
     ]
   ],
-  "last_ms": 1537
+  "last_ms": 1521
 }

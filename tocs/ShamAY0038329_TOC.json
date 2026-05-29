@@ -6,41 +6,41 @@
       "level": 1,
       "parent": null,
       "start_ms": 1,
-      "end_ms": 176
+      "end_ms": 169
     },
     "2": {
       "title": "AUTO المجلد الثاني",
       "level": 1,
       "parent": null,
-      "start_ms": 176,
-      "end_ms": 176
+      "start_ms": 169,
+      "end_ms": 169
     },
     "3": {
       "title": "AUTO فصل",
       "level": 1,
       "parent": null,
-      "start_ms": 176,
-      "end_ms": 583
+      "start_ms": 169,
+      "end_ms": 555
     },
     "4": {
       "title": "AUTO المجلد الثالث",
       "level": 1,
       "parent": null,
-      "start_ms": 583,
-      "end_ms": 583
+      "start_ms": 555,
+      "end_ms": 555
     },
     "5": {
       "title": "AUTO فصل",
       "level": 1,
       "parent": null,
-      "start_ms": 583,
-      "end_ms": 881
+      "start_ms": 555,
+      "end_ms": 835
     },
     "6": {
       "title": "AUTO المتن مجردا من التعليقات PageV04P001",
       "level": 1,
       "parent": null,
-      "start_ms": 881,
+      "start_ms": 835,
       "end_ms": null
     }
   },
@@ -51,20 +51,20 @@
       null
     ],
     [
-      176,
+      169,
       [2, 3],
       1
     ],
     [
-      583,
+      555,
       [4, 5],
       3
     ],
     [
-      881,
+      835,
       [6],
       5
     ]
   ],
-  "last_ms": 1109
+  "last_ms": 1040
 }

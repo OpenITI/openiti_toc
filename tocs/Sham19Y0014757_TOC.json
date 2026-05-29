@@ -27,13 +27,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 100,
-      "end_ms": 176
+      "end_ms": 175
     },
     "5": {
       "title": "حرف الغين",
       "level": 1,
       "parent": null,
-      "start_ms": 176,
+      "start_ms": 175,
       "end_ms": 178
     },
     "6": {
@@ -41,34 +41,34 @@
       "level": 1,
       "parent": null,
       "start_ms": 178,
-      "end_ms": 180
+      "end_ms": 179
     },
     "7": {
       "title": "حرف السين",
       "level": 1,
       "parent": null,
-      "start_ms": 180,
-      "end_ms": 190
+      "start_ms": 179,
+      "end_ms": 189
     },
     "8": {
       "title": "حرف الشين",
       "level": 1,
       "parent": null,
-      "start_ms": 190,
-      "end_ms": 192
+      "start_ms": 189,
+      "end_ms": 191
     },
     "9": {
       "title": "حرف الهاء",
       "level": 1,
       "parent": null,
-      "start_ms": 192,
-      "end_ms": 196
+      "start_ms": 191,
+      "end_ms": 195
     },
     "10": {
       "title": "حرف الياء",
       "level": 1,
       "parent": null,
-      "start_ms": 196,
+      "start_ms": 195,
       "end_ms": null
     }
   },
@@ -89,7 +89,7 @@
       3
     ],
     [
-      176,
+      175,
       [5],
       4
     ],
@@ -99,22 +99,22 @@
       5
     ],
     [
-      180,
+      179,
       [7],
       6
     ],
     [
-      190,
+      189,
       [8],
       7
     ],
     [
-      192,
+      191,
       [9],
       8
     ],
     [
-      196,
+      195,
       [10],
       9
     ]

@@ -6,13 +6,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 1,
-      "end_ms": 10
+      "end_ms": 9
     },
     "2": {
       "title": "AUTO ما يكره من لبس ثياب الشهرة",
       "level": 1,
       "parent": null,
-      "start_ms": 10,
+      "start_ms": 9,
       "end_ms": 16
     },
     "3": {
@@ -20,27 +20,27 @@
       "level": 1,
       "parent": null,
       "start_ms": 16,
-      "end_ms": 21
+      "end_ms": 20
     },
     "4": {
       "title": "AUTO الكراهية لمن تزهد، الجلوس بلا اضطراب وأن يكون كلا على",
       "level": 1,
       "parent": null,
-      "start_ms": 21,
-      "end_ms": 26
+      "start_ms": 20,
+      "end_ms": 25
     },
     "5": {
       "title": "AUTO كراهية الاضطراب عند سماع الذكر والصعق، والرقص، والزفن",
       "level": 1,
       "parent": null,
-      "start_ms": 26,
-      "end_ms": 31
+      "start_ms": 25,
+      "end_ms": 30
     },
     "6": {
       "title": "AUTO مدح الأخفياء الأتقياء وإخفاء الأعمال",
       "level": 1,
       "parent": null,
-      "start_ms": 31,
+      "start_ms": 30,
       "end_ms": null
     }
   },
@@ -51,7 +51,7 @@
       null
     ],
     [
-      10,
+      9,
       [2],
       1
     ],
@@ -61,20 +61,20 @@
       2
     ],
     [
-      21,
+      20,
       [4],
       3
     ],
     [
-      26,
+      25,
       [5],
       4
     ],
     [
-      31,
+      30,
       [6],
       5
     ]
   ],
-  "last_ms": 35
+  "last_ms": 33
 }

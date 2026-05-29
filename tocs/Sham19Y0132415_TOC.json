@@ -20,20 +20,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 68,
-      "end_ms": 261
+      "end_ms": 262
     },
     "4": {
       "title": "AUTO باب المنطوق والمفهوم",
       "level": 2,
       "parent": 3,
-      "start_ms": 75,
-      "end_ms": 93
+      "start_ms": 76,
+      "end_ms": 94
     },
     "5": {
       "title": "AUTO باب مبدأ اللغات وطرق معرفتها",
       "level": 2,
       "parent": 3,
-      "start_ms": 93,
+      "start_ms": 94,
       "end_ms": 159
     },
     "6": {
@@ -48,27 +48,27 @@
       "level": 2,
       "parent": 3,
       "start_ms": 178,
-      "end_ms": 183
+      "end_ms": 184
     },
     "8": {
       "title": "AUTO باب العام",
       "level": 2,
       "parent": 3,
-      "start_ms": 183,
-      "end_ms": 202
+      "start_ms": 184,
+      "end_ms": 203
     },
     "9": {
       "title": "AUTO باب التخصيص",
       "level": 2,
       "parent": 3,
-      "start_ms": 202,
-      "end_ms": 231
+      "start_ms": 203,
+      "end_ms": 232
     },
     "10": {
       "title": "AUTO باب المطلق والمقيد",
       "level": 2,
       "parent": 3,
-      "start_ms": 231,
+      "start_ms": 232,
       "end_ms": 236
     },
     "11": {
@@ -76,76 +76,76 @@
       "level": 2,
       "parent": 3,
       "start_ms": 236,
-      "end_ms": 239
+      "end_ms": 240
     },
     "12": {
       "title": "AUTO باب المجمل والبيان",
       "level": 2,
       "parent": 3,
-      "start_ms": 239,
-      "end_ms": 247
+      "start_ms": 240,
+      "end_ms": 248
     },
     "13": {
       "title": "AUTO باب النسخ",
       "level": 2,
       "parent": 3,
-      "start_ms": 247,
-      "end_ms": 261
+      "start_ms": 248,
+      "end_ms": 262
     },
     "14": {
       "title": "AUTO الكتاب الثاني في السنة ومباحثها PageV03P005 # الكتاب الثاني: في السنة",
       "level": 1,
       "parent": null,
-      "start_ms": 261,
-      "end_ms": 288
+      "start_ms": 262,
+      "end_ms": 289
     },
     "15": {
       "title": "AUTO باب الأخبار",
       "level": 2,
       "parent": 14,
       "start_ms": 265,
-      "end_ms": 288
+      "end_ms": 289
     },
     "16": {
       "title": "AUTO الكتاب الثالث في الإجماع، ومباحثه PageV03P137 # الكتاب الثالث في الإجماع",
       "level": 1,
       "parent": null,
-      "start_ms": 288,
-      "end_ms": 299
+      "start_ms": 289,
+      "end_ms": 300
     },
     "17": {
       "title": "AUTO الكتاب الرابع في القياس، ومباحثه PageV03P183 # الكتاب الرابع في القياس",
       "level": 1,
       "parent": null,
-      "start_ms": 299,
+      "start_ms": 300,
       "end_ms": 367
     },
     "18": {
       "title": "AUTO باب العلة",
       "level": 2,
       "parent": 17,
-      "start_ms": 310,
-      "end_ms": 328
+      "start_ms": 311,
+      "end_ms": 329
     },
     "19": {
       "title": "AUTO مسالك العلة",
       "level": 2,
       "parent": 17,
-      "start_ms": 328,
-      "end_ms": 328
+      "start_ms": 329,
+      "end_ms": 329
     },
     "20": {
       "title": "AUTO مسالك العلة",
       "level": 2,
       "parent": 17,
-      "start_ms": 328,
-      "end_ms": 344
+      "start_ms": 329,
+      "end_ms": 345
     },
     "21": {
       "title": "AUTO الاعتراضات الواردة على القياس",
       "level": 2,
       "parent": 17,
-      "start_ms": 344,
+      "start_ms": 345,
       "end_ms": 367
     },
     "22": {
@@ -160,20 +160,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 378,
-      "end_ms": 393
+      "end_ms": 394
     },
     "24": {
       "title": "AUTO الكتاب السابع في الاجتهاد، والتقليد PageV04P103 # الكتاب السابع في الاجتهاد",
       "level": 1,
       "parent": null,
-      "start_ms": 393,
-      "end_ms": 459
+      "start_ms": 394,
+      "end_ms": 460
     },
     "25": {
       "title": "AUTO باب التقليد",
       "level": 2,
       "parent": 24,
-      "start_ms": 402,
+      "start_ms": 403,
       "end_ms": 408
     },
     "26": {
@@ -188,13 +188,13 @@
       "level": 2,
       "parent": 24,
       "start_ms": 408,
-      "end_ms": 459
+      "end_ms": 460
     },
     "28": {
       "title": "AUTO الخاتمة في بعض مسائل التصوف (الزهد والورع) PageV04P403 # الخاتمة",
       "level": 1,
       "parent": null,
-      "start_ms": 459,
+      "start_ms": 460,
       "end_ms": null
     }
   },
@@ -215,12 +215,12 @@
       2
     ],
     [
-      75,
+      76,
       [4],
       3
     ],
     [
-      93,
+      94,
       [5],
       4
     ],
@@ -235,17 +235,17 @@
       6
     ],
     [
-      183,
+      184,
       [8],
       7
     ],
     [
-      202,
+      203,
       [9],
       8
     ],
     [
-      231,
+      232,
       [10],
       9
     ],
@@ -255,17 +255,17 @@
       10
     ],
     [
-      239,
+      240,
       [12],
       11
     ],
     [
-      247,
+      248,
       [13],
       12
     ],
     [
-      261,
+      262,
       [14],
       13
     ],
@@ -275,27 +275,27 @@
       14
     ],
     [
-      288,
+      289,
       [16],
       15
     ],
     [
-      299,
+      300,
       [17],
       16
     ],
     [
-      310,
+      311,
       [18],
       17
     ],
     [
-      328,
+      329,
       [19, 20],
       18
     ],
     [
-      344,
+      345,
       [21],
       20
     ],
@@ -310,12 +310,12 @@
       22
     ],
     [
-      393,
+      394,
       [24],
-      23
+      null
     ],
     [
-      402,
+      403,
       [25],
       24
     ],
@@ -325,10 +325,10 @@
       25
     ],
     [
-      459,
+      460,
       [28],
       27
     ]
   ],
-  "last_ms": 470
+  "last_ms": 471
 }

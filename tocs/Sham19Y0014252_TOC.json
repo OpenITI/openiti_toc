@@ -48,13 +48,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 50,
-      "end_ms": 223
+      "end_ms": 224
     },
     "8": {
       "title": "AUTO المنطوق والمفهوم",
       "level": 2,
       "parent": 7,
-      "start_ms": 55,
+      "start_ms": 56,
       "end_ms": 172
     },
     "9": {
@@ -97,13 +97,13 @@
       "level": 2,
       "parent": 7,
       "start_ms": 198,
-      "end_ms": 202
+      "end_ms": 203
     },
     "15": {
       "title": "AUTO الظاهر والمؤول",
       "level": 2,
       "parent": 7,
-      "start_ms": 202,
+      "start_ms": 203,
       "end_ms": 209
     },
     "16": {
@@ -125,104 +125,104 @@
       "level": 2,
       "parent": 7,
       "start_ms": 213,
-      "end_ms": 222
+      "end_ms": 223
     },
     "19": {
       "title": "AUTO خاتمة",
       "level": 2,
       "parent": 7,
-      "start_ms": 222,
-      "end_ms": 222
+      "start_ms": 223,
+      "end_ms": 223
     },
     "20": {
       "title": "AUTO خاتمة",
       "level": 2,
       "parent": 7,
-      "start_ms": 222,
-      "end_ms": 223
+      "start_ms": 223,
+      "end_ms": 224
     },
     "21": {
       "title": "CHECK الكلام في الأخبار",
       "level": 2,
       "parent": 7,
-      "start_ms": 223,
-      "end_ms": 223
+      "start_ms": 224,
+      "end_ms": 224
     },
     "22": {
       "title": "AUTO الكتاب الثاني في السنة",
       "level": 1,
       "parent": null,
-      "start_ms": 223,
-      "end_ms": 288
+      "start_ms": 224,
+      "end_ms": 289
     },
     "23": {
       "title": "AUTO الكتاب الثالث في الإجماع",
       "level": 1,
       "parent": null,
-      "start_ms": 288,
-      "end_ms": 305
+      "start_ms": 289,
+      "end_ms": 306
     },
     "24": {
       "title": "AUTO الكتاب الرابع",
       "level": 1,
       "parent": null,
-      "start_ms": 305,
-      "end_ms": 387
+      "start_ms": 306,
+      "end_ms": 388
     },
     "25": {
       "title": "AUTO الكتاب الخامس الاستدلال",
       "level": 1,
       "parent": null,
-      "start_ms": 387,
-      "end_ms": 402
+      "start_ms": 388,
+      "end_ms": 404
     },
     "26": {
       "title": "AUTO الاستحسان",
       "level": 2,
       "parent": 25,
-      "start_ms": 394,
-      "end_ms": 394
+      "start_ms": 396,
+      "end_ms": 396
     },
     "27": {
       "title": "AUTO الاستحسان",
       "level": 2,
       "parent": 25,
-      "start_ms": 394,
-      "end_ms": 394
+      "start_ms": 396,
+      "end_ms": 396
     },
     "28": {
       "title": "AUTO الاستحسان",
       "level": 2,
       "parent": 25,
-      "start_ms": 394,
-      "end_ms": 394
+      "start_ms": 396,
+      "end_ms": 396
     },
     "29": {
       "title": "AUTO الاستحسان",
       "level": 2,
       "parent": 25,
-      "start_ms": 394,
-      "end_ms": 402
+      "start_ms": 396,
+      "end_ms": 404
     },
     "30": {
       "title": "AUTO الكتاب السادس",
       "level": 1,
       "parent": null,
-      "start_ms": 402,
-      "end_ms": 402
+      "start_ms": 404,
+      "end_ms": 404
     },
     "31": {
       "title": "AUTO الكتاب السادس في التعادل والتراجيح",
       "level": 1,
       "parent": null,
-      "start_ms": 402,
-      "end_ms": 422
+      "start_ms": 404,
+      "end_ms": 424
     },
     "32": {
       "title": "AUTO الكتاب السابع في الاجتهاد",
       "level": 1,
       "parent": null,
-      "start_ms": 422,
+      "start_ms": 424,
       "end_ms": null
     }
   },
@@ -263,7 +263,7 @@
       6
     ],
     [
-      55,
+      56,
       [8],
       7
     ],
@@ -278,7 +278,7 @@
       12
     ],
     [
-      202,
+      203,
       [15],
       14
     ],
@@ -293,45 +293,45 @@
       16
     ],
     [
-      222,
+      223,
       [19, 20],
       18
     ],
     [
-      223,
+      224,
       [21, 22],
       20
     ],
     [
-      288,
+      289,
       [23],
       22
     ],
     [
-      305,
+      306,
       [24],
       23
     ],
     [
-      387,
+      388,
       [25],
       24
     ],
     [
-      394,
+      396,
       [26, 27, 28, 29],
       25
     ],
     [
-      402,
+      404,
       [30, 31],
       29
     ],
     [
-      422,
+      424,
       [32],
       31
     ]
   ],
-  "last_ms": 522
+  "last_ms": 525
 }

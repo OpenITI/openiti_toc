@@ -111,13 +111,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 42,
-      "end_ms": 43
+      "end_ms": 42
     },
     "17": {
       "title": "AUTO صلاة العيدين",
       "level": 1,
       "parent": null,
-      "start_ms": 43,
+      "start_ms": 42,
       "end_ms": 44
     },
     "18": {
@@ -188,13 +188,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 66,
-      "end_ms": 67
+      "end_ms": 66
     },
     "28": {
       "title": "AUTO الصيام",
       "level": 1,
       "parent": null,
-      "start_ms": 67,
+      "start_ms": 66,
       "end_ms": 73
     },
     "29": {
@@ -209,13 +209,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 74,
-      "end_ms": 99
+      "end_ms": 98
     },
     "31": {
       "title": "AUTO الصيد",
       "level": 1,
       "parent": null,
-      "start_ms": 99,
+      "start_ms": 98,
       "end_ms": 101
     },
     "32": {
@@ -279,13 +279,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 183,
-      "end_ms": 185
+      "end_ms": 184
     },
     "41": {
       "title": "AUTO كتاب [البيوع]",
       "level": 1,
       "parent": null,
-      "start_ms": 185,
+      "start_ms": 184,
       "end_ms": 195
     },
     "42": {
@@ -300,13 +300,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 198,
-      "end_ms": 210
+      "end_ms": 209
     },
     "44": {
       "title": "AUTO كتاب السلم",
       "level": 1,
       "parent": null,
-      "start_ms": 210,
+      "start_ms": 209,
       "end_ms": 212
     },
     "45": {
@@ -390,13 +390,8 @@
     ],
     [
       42,
-      [16],
+      [16, 17],
       15
-    ],
-    [
-      43,
-      [17],
-      16
     ],
     [
       44,
@@ -425,13 +420,8 @@
     ],
     [
       66,
-      [27],
+      [27, 28],
       26
-    ],
-    [
-      67,
-      [28],
-      27
     ],
     [
       73,
@@ -444,7 +434,7 @@
       29
     ],
     [
-      99,
+      98,
       [31],
       30
     ],
@@ -494,7 +484,7 @@
       39
     ],
     [
-      185,
+      184,
       [41],
       40
     ],
@@ -509,7 +499,7 @@
       42
     ],
     [
-      210,
+      209,
       [44],
       43
     ],

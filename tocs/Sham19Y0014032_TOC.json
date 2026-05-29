@@ -132,13 +132,13 @@
       "level": 3,
       "parent": 17,
       "start_ms": 16,
-      "end_ms": 17
+      "end_ms": 18
     },
     "20": {
       "title": "AUTO الرابعة: في موجب الغسل",
       "level": 3,
       "parent": 17,
-      "start_ms": 17,
+      "start_ms": 18,
       "end_ms": 20
     },
     "21": {
@@ -195,7 +195,7 @@
       "level": 1,
       "parent": null,
       "start_ms": 24,
-      "end_ms": 75
+      "end_ms": 74
     },
     "29": {
       "title": "AUTO باب المواقيت",
@@ -237,13 +237,13 @@
       "level": 3,
       "parent": 32,
       "start_ms": 27,
-      "end_ms": 27
+      "end_ms": 28
     },
     "35": {
       "title": "AUTO الثالثة: في كمية الإقامة",
       "level": 3,
       "parent": 32,
-      "start_ms": 27,
+      "start_ms": 28,
       "end_ms": 28
     },
     "36": {
@@ -258,20 +258,20 @@
       "level": 2,
       "parent": 28,
       "start_ms": 29,
-      "end_ms": 29
+      "end_ms": 30
     },
     "38": {
       "title": "AUTO باب فروض الصلاة وسننها",
       "level": 2,
       "parent": 28,
-      "start_ms": 29,
+      "start_ms": 30,
       "end_ms": 39
     },
     "39": {
       "title": "AUTO الأولى في القيام",
       "level": 3,
       "parent": 38,
-      "start_ms": 29,
+      "start_ms": 30,
       "end_ms": 31
     },
     "40": {
@@ -447,20 +447,20 @@
       "level": 3,
       "parent": 59,
       "start_ms": 52,
-      "end_ms": 53
+      "end_ms": 52
     },
     "65": {
       "title": "CHECK السادسة: في الصلاة على المدين",
       "level": 3,
       "parent": 59,
-      "start_ms": 53,
-      "end_ms": 54
+      "start_ms": 52,
+      "end_ms": 53
     },
     "66": {
-      "title": "CHECK السابعة: في الدعاء لموتى ms053 الكفار",
+      "title": "CHECK السابعة: في الدعاء لموتى الكفار",
       "level": 3,
       "parent": 59,
-      "start_ms": 54,
+      "start_ms": 53,
       "end_ms": 54
     },
     "67": {
@@ -524,13 +524,13 @@
       "level": 3,
       "parent": 73,
       "start_ms": 59,
-      "end_ms": 60
+      "end_ms": 59
     },
     "76": {
       "title": "AUTO الثالثة: في شرط طهارة الجنابة",
       "level": 3,
       "parent": 73,
-      "start_ms": 60,
+      "start_ms": 59,
       "end_ms": 60
     },
     "77": {
@@ -538,20 +538,20 @@
       "level": 3,
       "parent": 73,
       "start_ms": 60,
-      "end_ms": 62
+      "end_ms": 61
     },
     "78": {
       "title": "AUTO الخامسة: في صوم السفر",
       "level": 3,
       "parent": 73,
-      "start_ms": 62,
-      "end_ms": 63
+      "start_ms": 61,
+      "end_ms": 62
     },
     "79": {
       "title": "AUTO السادسة: في صوم ثلاثة أيام",
       "level": 3,
       "parent": 73,
-      "start_ms": 63,
+      "start_ms": 62,
       "end_ms": 63
     },
     "80": {
@@ -573,13 +573,13 @@
       "level": 3,
       "parent": 81,
       "start_ms": 64,
-      "end_ms": 65
+      "end_ms": 64
     },
     "83": {
       "title": "AUTO الثالثة: في استصحاب أثر الطيب في الإحرام",
       "level": 3,
       "parent": 81,
-      "start_ms": 65,
+      "start_ms": 64,
       "end_ms": 66
     },
     "84": {
@@ -587,13 +587,13 @@
       "level": 3,
       "parent": 81,
       "start_ms": 66,
-      "end_ms": 67
+      "end_ms": 66
     },
     "85": {
       "title": "AUTO الخامسة: في كيفية دخول مكة المعظمة",
       "level": 3,
       "parent": 81,
-      "start_ms": 67,
+      "start_ms": 66,
       "end_ms": 67
     },
     "86": {
@@ -608,111 +608,111 @@
       "level": 2,
       "parent": 28,
       "start_ms": 68,
-      "end_ms": 70
+      "end_ms": 69
     },
     "88": {
       "title": "AUTO الأولى: في حكمها",
       "level": 3,
       "parent": 87,
       "start_ms": 68,
-      "end_ms": 69
+      "end_ms": 68
     },
     "89": {
       "title": "AUTO الثانية: في جواز إدخارها",
       "level": 3,
       "parent": 87,
-      "start_ms": 69,
-      "end_ms": 70
+      "start_ms": 68,
+      "end_ms": 69
     },
     "90": {
       "title": "AUTO باب: الفرع والعتيرة",
       "level": 2,
       "parent": 28,
-      "start_ms": 70,
-      "end_ms": 71
+      "start_ms": 69,
+      "end_ms": 70
     },
     "91": {
       "title": "AUTO باب: الأطعمة",
       "level": 2,
       "parent": 28,
-      "start_ms": 71,
-      "end_ms": 73
+      "start_ms": 70,
+      "end_ms": 72
     },
     "92": {
       "title": "AUTO الأولى: في لحوم الخيل",
       "level": 3,
       "parent": 91,
-      "start_ms": 71,
-      "end_ms": 72
+      "start_ms": 70,
+      "end_ms": 71
     },
     "93": {
       "title": "AUTO الثانية: في لحوم الحمر الإنسية",
       "level": 3,
       "parent": 91,
-      "start_ms": 72,
-      "end_ms": 73
+      "start_ms": 71,
+      "end_ms": 72
     },
     "94": {
       "title": "AUTO باب: الذبح",
       "level": 2,
       "parent": 28,
-      "start_ms": 73,
-      "end_ms": 75
+      "start_ms": 72,
+      "end_ms": 74
     },
     "95": {
       "title": "AUTO كتاب المعاملات",
       "level": 1,
       "parent": null,
-      "start_ms": 75,
-      "end_ms": 83
+      "start_ms": 74,
+      "end_ms": 82
     },
     "96": {
       "title": "AUTO باب: أركان البيع وشروطه",
       "level": 2,
       "parent": 95,
-      "start_ms": 75,
-      "end_ms": 76
+      "start_ms": 74,
+      "end_ms": 75
     },
     "97": {
       "title": "AUTO باب: الربا",
       "level": 2,
       "parent": 95,
-      "start_ms": 76,
-      "end_ms": 77
+      "start_ms": 75,
+      "end_ms": 76
     },
     "98": {
       "title": "AUTO باب: النهي عن اللقاح",
       "level": 2,
       "parent": 95,
-      "start_ms": 77,
-      "end_ms": 78
+      "start_ms": 76,
+      "end_ms": 77
     },
     "99": {
-      "title": "AUTO ms077 باب: السلم",
+      "title": "AUTO باب: السلم",
       "level": 2,
       "parent": 95,
-      "start_ms": 78,
-      "end_ms": 78
+      "start_ms": 77,
+      "end_ms": 77
     },
     "100": {
       "title": "AUTO باب الشفعة",
       "level": 2,
       "parent": 95,
-      "start_ms": 78,
-      "end_ms": 79
+      "start_ms": 77,
+      "end_ms": 78
     },
     "101": {
       "title": "AUTO باب: المزارعة والمخابرة",
       "level": 2,
       "parent": 95,
-      "start_ms": 79,
-      "end_ms": 81
+      "start_ms": 78,
+      "end_ms": 80
     },
     "102": {
       "title": "AUTO باب الإجارة",
       "level": 2,
       "parent": 95,
-      "start_ms": 81,
+      "start_ms": 80,
       "end_ms": 81
     },
     "103": {
@@ -720,41 +720,41 @@
       "level": 2,
       "parent": 95,
       "start_ms": 81,
-      "end_ms": 82
+      "end_ms": 81
     },
     "104": {
       "title": "AUTO باب: الفرائض",
       "level": 2,
       "parent": 95,
-      "start_ms": 82,
-      "end_ms": 83
+      "start_ms": 81,
+      "end_ms": 82
     },
     "105": {
       "title": "AUTO كتاب النكاح",
       "level": 1,
       "parent": null,
-      "start_ms": 83,
+      "start_ms": 82,
       "end_ms": 93
     },
     "106": {
       "title": "AUTO باب: نكاح المتعة",
       "level": 2,
       "parent": 105,
-      "start_ms": 83,
-      "end_ms": 85
+      "start_ms": 82,
+      "end_ms": 84
     },
     "107": {
       "title": "AUTO باب: ولاية النكاح",
       "level": 2,
       "parent": 105,
-      "start_ms": 85,
-      "end_ms": 86
+      "start_ms": 84,
+      "end_ms": 85
     },
     "108": {
       "title": "AUTO باب: الصداق",
       "level": 2,
       "parent": 105,
-      "start_ms": 86,
+      "start_ms": 85,
       "end_ms": 86
     },
     "109": {
@@ -762,20 +762,20 @@
       "level": 2,
       "parent": 105,
       "start_ms": 86,
-      "end_ms": 87
+      "end_ms": 86
     },
     "110": {
       "title": "AUTO باب: الطلاق",
       "level": 2,
       "parent": 105,
-      "start_ms": 87,
-      "end_ms": 89
+      "start_ms": 86,
+      "end_ms": 88
     },
     "111": {
       "title": "AUTO الأولى: في حصر العدد",
       "level": 3,
       "parent": 110,
-      "start_ms": 87,
+      "start_ms": 86,
       "end_ms": 87
     },
     "112": {
@@ -783,48 +783,48 @@
       "level": 3,
       "parent": 110,
       "start_ms": 87,
-      "end_ms": 88
+      "end_ms": 87
     },
     "113": {
       "title": "AUTO الثالثة: في وقوع الثلاث",
       "level": 3,
       "parent": 110,
-      "start_ms": 88,
-      "end_ms": 89
+      "start_ms": 87,
+      "end_ms": 88
     },
     "114": {
       "title": "AUTO باب: العدة",
       "level": 2,
       "parent": 105,
-      "start_ms": 89,
-      "end_ms": 90
+      "start_ms": 88,
+      "end_ms": 89
     },
     "115": {
       "title": "AUTO باب: الرضاع",
       "level": 2,
       "parent": 105,
-      "start_ms": 90,
-      "end_ms": 93
+      "start_ms": 89,
+      "end_ms": 92
     },
     "116": {
       "title": "AUTO الأولى: في مدته",
       "level": 3,
       "parent": 115,
-      "start_ms": 91,
-      "end_ms": 92
+      "start_ms": 90,
+      "end_ms": 91
     },
     "117": {
       "title": "AUTO الثانية: في كمية الرضعات",
       "level": 3,
       "parent": 115,
-      "start_ms": 92,
-      "end_ms": 93
+      "start_ms": 91,
+      "end_ms": 92
     },
     "118": {
-      "title": "AUTO باب: النفقات ms092",
+      "title": "AUTO باب: النفقات",
       "level": 2,
       "parent": 105,
-      "start_ms": 93,
+      "start_ms": 92,
       "end_ms": 93
     },
     "119": {
@@ -832,41 +832,41 @@
       "level": 1,
       "parent": null,
       "start_ms": 93,
-      "end_ms": 119
+      "end_ms": 118
     },
     "120": {
       "title": "AUTO باب: القصاص",
       "level": 2,
       "parent": 119,
-      "start_ms": 94,
-      "end_ms": 98
+      "start_ms": 93,
+      "end_ms": 97
     },
     "121": {
       "title": "AUTO الأولى: في قتل المسلم بالكافر",
       "level": 3,
       "parent": 120,
-      "start_ms": 94,
-      "end_ms": 95
+      "start_ms": 93,
+      "end_ms": 94
     },
     "122": {
       "title": "CHECK الثانية: في قود الحرق",
       "level": 3,
       "parent": 120,
-      "start_ms": 95,
-      "end_ms": 96
+      "start_ms": 94,
+      "end_ms": 95
     },
     "123": {
       "title": "AUTO الثالثة: في المثلة",
       "level": 3,
       "parent": 120,
-      "start_ms": 96,
-      "end_ms": 97
+      "start_ms": 95,
+      "end_ms": 96
     },
     "124": {
       "title": "AUTO الرابعة: في القصاص قبل الاندمال",
       "level": 3,
       "parent": 120,
-      "start_ms": 97,
+      "start_ms": 96,
       "end_ms": 97
     },
     "125": {
@@ -874,69 +874,69 @@
       "level": 3,
       "parent": 120,
       "start_ms": 97,
-      "end_ms": 98
+      "end_ms": 97
     },
     "126": {
       "title": "AUTO باب: حد السكران",
       "level": 2,
       "parent": 119,
-      "start_ms": 98,
-      "end_ms": 99
+      "start_ms": 97,
+      "end_ms": 98
     },
     "127": {
       "title": "AUTO باب: حد الزنا",
       "level": 2,
       "parent": 119,
-      "start_ms": 99,
-      "end_ms": 101
+      "start_ms": 98,
+      "end_ms": 100
     },
     "128": {
       "title": "AUTO الأولى: في جلد المرجوم",
       "level": 3,
       "parent": 127,
-      "start_ms": 99,
-      "end_ms": 100
+      "start_ms": 98,
+      "end_ms": 99
     },
     "129": {
       "title": "AUTO الثانية: في الزنى بجارية امرأته",
       "level": 3,
       "parent": 127,
-      "start_ms": 100,
-      "end_ms": 101
+      "start_ms": 99,
+      "end_ms": 100
     },
     "130": {
       "title": "AUTO باب: السير",
       "level": 2,
       "parent": 119,
-      "start_ms": 101,
+      "start_ms": 100,
       "end_ms": 105
     },
     "131": {
       "title": "AUTO الأولى: في الهجرة",
       "level": 3,
       "parent": 130,
-      "start_ms": 101,
-      "end_ms": 102
+      "start_ms": 100,
+      "end_ms": 101
     },
     "132": {
       "title": "AUTO الثانية: في الدعوة قبل الغارة",
       "level": 3,
       "parent": 130,
-      "start_ms": 102,
-      "end_ms": 103
+      "start_ms": 101,
+      "end_ms": 102
     },
     "133": {
       "title": "AUTO الثالثة: في القتال في الأشهر الحرم",
       "level": 3,
       "parent": 130,
-      "start_ms": 103,
-      "end_ms": 104
+      "start_ms": 102,
+      "end_ms": 103
     },
     "134": {
-      "title": "AUTO الرابعة: في حكم ms103 النساء والذرية في القتل",
+      "title": "AUTO الرابعة: في حكم النساء والذرية في القتل",
       "level": 3,
       "parent": 130,
-      "start_ms": 104,
+      "start_ms": 103,
       "end_ms": 104
     },
     "135": {
@@ -951,41 +951,41 @@
       "level": 2,
       "parent": 119,
       "start_ms": 105,
-      "end_ms": 109
+      "end_ms": 108
     },
     "137": {
       "title": "AUTO الأولى: في النفل",
       "level": 3,
       "parent": 136,
       "start_ms": 105,
-      "end_ms": 107
+      "end_ms": 106
     },
     "138": {
       "title": "AUTO الثانية: في السلب",
       "level": 3,
       "parent": 136,
-      "start_ms": 107,
-      "end_ms": 108
+      "start_ms": 106,
+      "end_ms": 107
     },
     "139": {
       "title": "AUTO الثالثة: في اجتهاد الإمام فيه",
       "level": 3,
       "parent": 136,
-      "start_ms": 108,
-      "end_ms": 109
+      "start_ms": 107,
+      "end_ms": 108
     },
     "140": {
       "title": "AUTO باب: مبايعة النساء",
       "level": 2,
       "parent": 119,
-      "start_ms": 109,
-      "end_ms": 109
+      "start_ms": 108,
+      "end_ms": 108
     },
     "141": {
       "title": "AUTO باب: الهدنة",
       "level": 2,
       "parent": 119,
-      "start_ms": 109,
+      "start_ms": 108,
       "end_ms": 109
     },
     "142": {
@@ -1028,27 +1028,27 @@
       "level": 2,
       "parent": 119,
       "start_ms": 114,
-      "end_ms": 116
+      "end_ms": 115
     },
     "148": {
       "title": "AUTO باب: حكم الرقى",
       "level": 2,
       "parent": 119,
-      "start_ms": 116,
-      "end_ms": 117
+      "start_ms": 115,
+      "end_ms": 116
     },
     "149": {
       "title": "AUTO باب: سدل الشعر",
       "level": 2,
       "parent": 119,
-      "start_ms": 117,
-      "end_ms": 117
+      "start_ms": 116,
+      "end_ms": 116
     },
     "150": {
       "title": "AUTO باب: دخول الحمام",
       "level": 2,
       "parent": 119,
-      "start_ms": 117,
+      "start_ms": 116,
       "end_ms": 117
     },
     "151": {
@@ -1056,20 +1056,20 @@
       "level": 2,
       "parent": 119,
       "start_ms": 117,
-      "end_ms": 118
+      "end_ms": 117
     },
     "152": {
       "title": "AUTO باب: حكم ما شاء الله وشئت",
       "level": 2,
       "parent": 119,
-      "start_ms": 118,
-      "end_ms": 119
+      "start_ms": 117,
+      "end_ms": 118
     },
     "153": {
       "title": "CHECK خاتمة المؤلف",
       "level": 1,
       "parent": null,
-      "start_ms": 119,
+      "start_ms": 118,
       "end_ms": null
     }
   },
@@ -1125,9 +1125,9 @@
       18
     ],
     [
-      17,
+      18,
       [20],
-      19
+      null
     ],
     [
       20,
@@ -1166,18 +1166,23 @@
     ],
     [
       27,
-      [34, 35],
+      [34],
       33
     ],
     [
       28,
-      [36],
-      35
+      [35, 36],
+      34
     ],
     [
       29,
-      [37, 38, 39],
+      [37],
       36
+    ],
+    [
+      30,
+      [38, 39],
+      37
     ],
     [
       31,
@@ -1276,18 +1281,18 @@
     ],
     [
       52,
-      [64],
+      [64, 65],
       63
     ],
     [
       53,
-      [65],
-      64
+      [66],
+      65
     ],
     [
       54,
-      [66, 67],
-      null
+      [67],
+      66
     ],
     [
       55,
@@ -1311,213 +1316,213 @@
     ],
     [
       59,
-      [75],
+      [75, 76],
       74
     ],
     [
       60,
-      [76, 77],
-      75
+      [77],
+      76
     ],
     [
-      62,
+      61,
       [78],
       77
     ],
     [
-      63,
-      [79, 80, 81],
+      62,
+      [79],
       78
     ],
     [
+      63,
+      [80, 81],
+      79
+    ],
+    [
       64,
-      [82],
+      [82, 83],
       81
     ],
     [
-      65,
-      [83],
-      82
-    ],
-    [
       66,
-      [84],
+      [84, 85],
       83
     ],
     [
       67,
-      [85, 86],
-      84
+      [86],
+      85
     ],
     [
       68,
-      [87, 88],
+      [87, 88, 89],
       86
     ],
     [
       69,
-      [89],
-      88
-    ],
-    [
-      70,
       [90],
       89
     ],
     [
-      71,
+      70,
       [91, 92],
       90
     ],
     [
-      72,
+      71,
       [93],
       92
     ],
     [
-      73,
+      72,
       [94],
       93
     ],
     [
-      75,
+      74,
       [95, 96],
       94
     ],
     [
-      76,
+      75,
       [97],
       96
     ],
     [
-      77,
+      76,
       [98],
       97
     ],
     [
-      78,
+      77,
       [99, 100],
-      null
+      98
     ],
     [
-      79,
+      78,
       [101],
       100
     ],
     [
-      81,
-      [102, 103],
+      80,
+      [102],
       101
     ],
     [
-      82,
-      [104],
-      103
+      81,
+      [103, 104],
+      102
     ],
     [
-      83,
+      82,
       [105, 106],
       104
     ],
     [
-      85,
+      84,
       [107],
       106
     ],
     [
-      86,
-      [108, 109],
+      85,
+      [108],
       107
     ],
     [
+      86,
+      [109, 110, 111],
+      108
+    ],
+    [
       87,
-      [110, 111, 112],
-      109
+      [112, 113],
+      111
     ],
     [
       88,
-      [113],
-      112
-    ],
-    [
-      89,
       [114],
       113
     ],
     [
-      90,
+      89,
       [115],
       114
     ],
     [
-      91,
+      90,
       [116],
       115
     ],
     [
-      92,
+      91,
       [117],
       116
     ],
     [
+      92,
+      [118],
+      117
+    ],
+    [
       93,
-      [118, 119],
-      null
+      [119, 120, 121],
+      118
     ],
     [
       94,
-      [120, 121],
-      119
-    ],
-    [
-      95,
       [122],
       121
     ],
     [
-      96,
+      95,
       [123],
       122
     ],
     [
-      97,
-      [124, 125],
+      96,
+      [124],
       123
     ],
     [
-      98,
-      [126],
-      125
+      97,
+      [125, 126],
+      124
     ],
     [
-      99,
+      98,
       [127, 128],
       126
     ],
     [
-      100,
+      99,
       [129],
       128
     ],
     [
-      101,
+      100,
       [130, 131],
       129
     ],
     [
-      102,
+      101,
       [132],
       131
     ],
     [
-      103,
+      102,
       [133],
       132
     ],
     [
+      103,
+      [134],
+      133
+    ],
+    [
       104,
-      [134, 135],
-      null
+      [135],
+      134
     ],
     [
       105,
@@ -1525,19 +1530,24 @@
       135
     ],
     [
-      107,
+      106,
       [138],
       137
     ],
     [
-      108,
+      107,
       [139],
       138
     ],
     [
-      109,
-      [140, 141, 142],
+      108,
+      [140, 141],
       139
+    ],
+    [
+      109,
+      [142],
+      141
     ],
     [
       110,
@@ -1565,25 +1575,25 @@
       146
     ],
     [
-      116,
+      115,
       [148],
       147
     ],
     [
-      117,
-      [149, 150, 151],
+      116,
+      [149, 150],
       148
     ],
     [
-      118,
-      [152],
-      151
+      117,
+      [151, 152],
+      150
     ],
     [
-      119,
+      118,
       [153],
       152
     ]
   ],
-  "last_ms": 120
+  "last_ms": 119
 }

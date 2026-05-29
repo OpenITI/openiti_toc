@@ -20,48 +20,48 @@
       "level": 1,
       "parent": null,
       "start_ms": 4,
-      "end_ms": 9
+      "end_ms": 8
     },
     "4": {
       "title": "AUTO ومن الطبقة الثالثة وهم الأتباع",
       "level": 1,
       "parent": null,
-      "start_ms": 9,
-      "end_ms": 14
+      "start_ms": 8,
+      "end_ms": 13
     },
     "5": {
       "title": "AUTO ومن الطبقة الرابعة",
       "level": 1,
       "parent": null,
-      "start_ms": 14,
-      "end_ms": 17
+      "start_ms": 13,
+      "end_ms": 15
     },
     "6": {
       "title": "AUTO ومن الطبقة الخامسة",
       "level": 1,
       "parent": null,
-      "start_ms": 17,
-      "end_ms": 17
+      "start_ms": 15,
+      "end_ms": 16
     },
     "7": {
       "title": "AUTO رد الحافظ ابن بكير على من أنكر أن يكون الحافظ البرديجي بردعيا",
       "level": 1,
       "parent": null,
-      "start_ms": 17,
-      "end_ms": 18
+      "start_ms": 16,
+      "end_ms": 16
     },
     "8": {
       "title": "AUTO ذكر أسماء ذكرها أحمد بن هارون البردعي المعروف بالبرديجي رحمه",
       "level": 1,
       "parent": null,
-      "start_ms": 18,
-      "end_ms": 18
+      "start_ms": 16,
+      "end_ms": 17
     },
     "9": {
       "title": "AUTO ذكر أسماء موافقة لبعض الأسماء التي في هذا الكتاب فتصير",
       "level": 1,
       "parent": null,
-      "start_ms": 18,
+      "start_ms": 17,
       "end_ms": null
     }
   },
@@ -77,25 +77,30 @@
       2
     ],
     [
-      9,
+      8,
       [4],
       3
     ],
     [
-      14,
+      13,
       [5],
       4
     ],
     [
-      17,
-      [6, 7],
+      15,
+      [6],
       5
     ],
     [
-      18,
-      [8, 9],
-      7
+      16,
+      [7, 8],
+      6
+    ],
+    [
+      17,
+      [9],
+      8
     ]
   ],
-  "last_ms": 21
+  "last_ms": 20
 }

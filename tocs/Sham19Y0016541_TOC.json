@@ -139,13 +139,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 26,
-      "end_ms": 26
+      "end_ms": 27
     },
     "21": {
       "title": "AUTO باب الفاء",
       "level": 1,
       "parent": null,
-      "start_ms": 26,
+      "start_ms": 27,
       "end_ms": 27
     },
     "22": {
@@ -160,20 +160,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 29,
-      "end_ms": 30
+      "end_ms": 31
     },
     "24": {
       "title": "AUTO باب اللام",
       "level": 1,
       "parent": null,
-      "start_ms": 30,
-      "end_ms": 31
+      "start_ms": 31,
+      "end_ms": 32
     },
     "25": {
       "title": "AUTO باب الميم",
       "level": 1,
       "parent": null,
-      "start_ms": 31,
+      "start_ms": 32,
       "end_ms": 36
     },
     "26": {
@@ -273,13 +273,13 @@
     ],
     [
       26,
-      [20, 21],
+      [20],
       19
     ],
     [
       27,
-      [22],
-      21
+      [21, 22],
+      20
     ],
     [
       29,
@@ -287,12 +287,12 @@
       22
     ],
     [
-      30,
+      31,
       [24],
       23
     ],
     [
-      31,
+      32,
       [25],
       24
     ],

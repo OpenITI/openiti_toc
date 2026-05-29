@@ -132,20 +132,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 119,
-      "end_ms": 125
+      "end_ms": 124
     },
     "20": {
       "title": "AUTO الترجمة والتأليف",
       "level": 1,
       "parent": null,
-      "start_ms": 125,
-      "end_ms": 128
+      "start_ms": 124,
+      "end_ms": 127
     },
     "21": {
       "title": "AUTO النفقات والتكافل الاجتماعي",
       "level": 1,
       "parent": null,
-      "start_ms": 128,
+      "start_ms": 127,
       "end_ms": 132
     },
     "22": {
@@ -153,13 +153,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 132,
-      "end_ms": 142
+      "end_ms": 141
     },
     "23": {
       "title": "AUTO الأبيوردي",
       "level": 1,
       "parent": null,
-      "start_ms": 142,
+      "start_ms": 141,
       "end_ms": 150
     },
     "24": {
@@ -167,13 +167,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 150,
-      "end_ms": 153
+      "end_ms": 152
     },
     "25": {
       "title": "AUTO سؤال",
       "level": 1,
       "parent": null,
-      "start_ms": 153,
+      "start_ms": 152,
       "end_ms": null
     }
   },
@@ -274,12 +274,12 @@
       18
     ],
     [
-      125,
+      124,
       [20],
       19
     ],
     [
-      128,
+      127,
       [21],
       20
     ],
@@ -289,17 +289,17 @@
       21
     ],
     [
-      142,
+      141,
       [23],
       22
     ],
     [
       150,
       [24],
-      23
+      null
     ],
     [
-      153,
+      152,
       [25],
       24
     ]

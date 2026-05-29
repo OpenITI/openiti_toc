@@ -13,7 +13,7 @@
       "level": 1,
       "parent": null,
       "start_ms": 4,
-      "end_ms": 13
+      "end_ms": 12
     },
     "3": {
       "title": "AUTO (فصل): في سنن الوضوء",
@@ -41,13 +41,13 @@
       "level": 2,
       "parent": 2,
       "start_ms": 12,
-      "end_ms": 13
+      "end_ms": 12
     },
     "7": {
-      "title": "AUTO كتاب الصلاة ms12",
+      "title": "AUTO كتاب الصلاة",
       "level": 1,
       "parent": null,
-      "start_ms": 13,
+      "start_ms": 12,
       "end_ms": 44
     },
     "8": {
@@ -104,13 +104,13 @@
       "level": 2,
       "parent": 7,
       "start_ms": 29,
-      "end_ms": 30
+      "end_ms": 29
     },
     "16": {
-      "title": "AUTO (فصل): في ms29 شروط الجماعة",
+      "title": "AUTO (فصل): في شروط الجماعة",
       "level": 2,
       "parent": 7,
-      "start_ms": 30,
+      "start_ms": 29,
       "end_ms": 33
     },
     "17": {
@@ -436,13 +436,8 @@
     ],
     [
       12,
-      [6],
+      [6, 7],
       5
-    ],
-    [
-      13,
-      [7],
-      null
     ],
     [
       16,
@@ -476,13 +471,8 @@
     ],
     [
       29,
-      [15],
+      [15, 16],
       14
-    ],
-    [
-      30,
-      [16],
-      null
     ],
     [
       33,
@@ -635,5 +625,5 @@
       57
     ]
   ],
-  "last_ms": 83
+  "last_ms": 82
 }

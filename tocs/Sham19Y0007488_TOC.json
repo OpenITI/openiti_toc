@@ -76,13 +76,13 @@
       "level": 2,
       "parent": 9,
       "start_ms": 183,
-      "end_ms": 184
+      "end_ms": 183
     },
     "12": {
       "title": "AUTO حرف التاء",
       "level": 2,
       "parent": 9,
-      "start_ms": 184,
+      "start_ms": 183,
       "end_ms": 187
     },
     "13": {
@@ -90,27 +90,27 @@
       "level": 2,
       "parent": 9,
       "start_ms": 187,
-      "end_ms": 188
+      "end_ms": 187
     },
     "14": {
       "title": "AUTO حرف الجيم",
       "level": 2,
       "parent": 9,
-      "start_ms": 188,
-      "end_ms": 189
+      "start_ms": 187,
+      "end_ms": 188
     },
     "15": {
       "title": "AUTO حرف الحاء",
       "level": 2,
       "parent": 9,
-      "start_ms": 189,
-      "end_ms": 189
+      "start_ms": 188,
+      "end_ms": 188
     },
     "16": {
       "title": "AUTO حرف الخاء",
       "level": 2,
       "parent": 9,
-      "start_ms": 189,
+      "start_ms": 188,
       "end_ms": 189
     },
     "17": {
@@ -118,20 +118,20 @@
       "level": 2,
       "parent": 9,
       "start_ms": 189,
-      "end_ms": 190
+      "end_ms": 189
     },
     "18": {
       "title": "AUTO حرف الذال",
       "level": 2,
       "parent": 9,
-      "start_ms": 190,
-      "end_ms": 190
+      "start_ms": 189,
+      "end_ms": 189
     },
     "19": {
       "title": "AUTO حرف الراء",
       "level": 2,
       "parent": 9,
-      "start_ms": 190,
+      "start_ms": 189,
       "end_ms": 190
     },
     "20": {
@@ -139,111 +139,111 @@
       "level": 2,
       "parent": 9,
       "start_ms": 190,
-      "end_ms": 191
+      "end_ms": 190
     },
     "21": {
-      "title": "AUTO حرف ms190 السين",
+      "title": "AUTO حرف السين",
       "level": 2,
       "parent": 9,
-      "start_ms": 191,
-      "end_ms": 192
+      "start_ms": 190,
+      "end_ms": 191
     },
     "22": {
       "title": "AUTO حرف الشين",
       "level": 2,
       "parent": 9,
-      "start_ms": 192,
-      "end_ms": 193
+      "start_ms": 191,
+      "end_ms": 192
     },
     "23": {
       "title": "AUTO حرف الصاد",
       "level": 2,
       "parent": 9,
-      "start_ms": 193,
-      "end_ms": 193
+      "start_ms": 192,
+      "end_ms": 192
     },
     "24": {
       "title": "AUTO حرف الضاد",
       "level": 2,
       "parent": 9,
-      "start_ms": 193,
-      "end_ms": 194
+      "start_ms": 192,
+      "end_ms": 193
     },
     "25": {
       "title": "AUTO حرف الطاء",
       "level": 2,
       "parent": 9,
-      "start_ms": 194,
-      "end_ms": 194
+      "start_ms": 193,
+      "end_ms": 193
     },
     "26": {
       "title": "AUTO حرف العين",
       "level": 2,
       "parent": 9,
-      "start_ms": 194,
-      "end_ms": 195
+      "start_ms": 193,
+      "end_ms": 194
     },
     "27": {
       "title": "AUTO حرف الغين",
       "level": 2,
       "parent": 9,
-      "start_ms": 195,
-      "end_ms": 195
+      "start_ms": 194,
+      "end_ms": 194
     },
     "28": {
       "title": "AUTO حرف الفاء",
       "level": 2,
       "parent": 9,
-      "start_ms": 195,
-      "end_ms": 196
+      "start_ms": 194,
+      "end_ms": 195
     },
     "29": {
       "title": "AUTO حرف القاف",
       "level": 2,
       "parent": 9,
-      "start_ms": 196,
-      "end_ms": 196
+      "start_ms": 195,
+      "end_ms": 195
     },
     "30": {
       "title": "AUTO حرف الكاف",
       "level": 2,
       "parent": 9,
-      "start_ms": 196,
-      "end_ms": 197
+      "start_ms": 195,
+      "end_ms": 196
     },
     "31": {
       "title": "AUTO حرف اللام",
       "level": 2,
       "parent": 9,
-      "start_ms": 197,
-      "end_ms": 197
+      "start_ms": 196,
+      "end_ms": 196
     },
     "32": {
       "title": "AUTO حرف الميم",
       "level": 2,
       "parent": 9,
-      "start_ms": 197,
-      "end_ms": 202
+      "start_ms": 196,
+      "end_ms": 200
     },
     "33": {
       "title": "AUTO حرف النون",
       "level": 2,
       "parent": 9,
-      "start_ms": 202,
-      "end_ms": 202
+      "start_ms": 200,
+      "end_ms": 201
     },
     "34": {
       "title": "AUTO حرف الواو",
       "level": 2,
       "parent": 9,
-      "start_ms": 202,
-      "end_ms": 202
+      "start_ms": 201,
+      "end_ms": 201
     },
     "35": {
       "title": "AUTO حرف الياء",
       "level": 2,
       "parent": 9,
-      "start_ms": 202,
+      "start_ms": 201,
       "end_ms": null
     }
   },
@@ -295,74 +295,69 @@
     ],
     [
       183,
-      [11],
+      [11, 12],
       10
     ],
     [
-      184,
-      [12],
-      11
-    ],
-    [
       187,
-      [13],
+      [13, 14],
       12
     ],
     [
       188,
-      [14],
-      13
-    ],
-    [
-      189,
-      [15, 16, 17],
+      [15, 16],
       14
     ],
     [
+      189,
+      [17, 18, 19],
+      16
+    ],
+    [
       190,
-      [18, 19, 20],
-      17
+      [20, 21],
+      19
     ],
     [
       191,
-      [21],
-      null
-    ],
-    [
-      192,
       [22],
       21
     ],
     [
-      193,
+      192,
       [23, 24],
       22
     ],
     [
-      194,
+      193,
       [25, 26],
       24
     ],
     [
-      195,
+      194,
       [27, 28],
       26
     ],
     [
-      196,
+      195,
       [29, 30],
       28
     ],
     [
-      197,
+      196,
       [31, 32],
       30
     ],
     [
-      202,
-      [33, 34, 35],
+      200,
+      [33],
       32
+    ],
+    [
+      201,
+      [34, 35],
+      33
     ]
   ],
-  "last_ms": 774
+  "last_ms": 763
 }

@@ -41,13 +41,13 @@
       "level": 1,
       "parent": null,
       "start_ms": 17,
-      "end_ms": 19
+      "end_ms": 18
     },
     "7": {
       "title": "AUT فصل في العرب التي كانت باليمن منهم ولد قحطان",
       "level": 1,
       "parent": null,
-      "start_ms": 19,
+      "start_ms": 18,
       "end_ms": 19
     },
     "8": {
@@ -90,27 +90,27 @@
       "level": 1,
       "parent": null,
       "start_ms": 25,
-      "end_ms": 830
+      "end_ms": 827
     },
     "14": {
       "title": "AUT طرقتك زائرة فحي خيالها",
       "level": 1,
       "parent": null,
-      "start_ms": 830,
-      "end_ms": 1037
+      "start_ms": 827,
+      "end_ms": 1034
     },
     "15": {
       "title": "AUT باب الدال والياء",
       "level": 1,
       "parent": null,
-      "start_ms": 1037,
-      "end_ms": 2195
+      "start_ms": 1034,
+      "end_ms": 2187
     },
     "16": {
       "title": "AUT حرف اللام",
       "level": 1,
       "parent": null,
-      "start_ms": 2195,
+      "start_ms": 2187,
       "end_ms": null
     }
   },
@@ -146,9 +146,14 @@
       5
     ],
     [
-      19,
-      [7, 8],
+      18,
+      [7],
       6
+    ],
+    [
+      19,
+      [8],
+      7
     ],
     [
       20,
@@ -171,20 +176,20 @@
       12
     ],
     [
-      830,
+      827,
       [14],
       13
     ],
     [
-      1037,
+      1034,
       [15],
       14
     ],
     [
-      2195,
+      2187,
       [16],
       15
     ]
   ],
-  "last_ms": 2742
+  "last_ms": 2732
 }

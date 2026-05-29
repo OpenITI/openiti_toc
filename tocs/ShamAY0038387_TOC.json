@@ -6,20 +6,20 @@
       "level": 1,
       "parent": null,
       "start_ms": 1,
-      "end_ms": 46
+      "end_ms": 45
     },
     "2": {
       "title": "AUTO توثيق نسبة الكتاب",
       "level": 2,
       "parent": 1,
       "start_ms": 4,
-      "end_ms": 8
+      "end_ms": 7
     },
     "3": {
       "title": "AUTO عنوان الكتاب",
       "level": 2,
       "parent": 1,
-      "start_ms": 8,
+      "start_ms": 7,
       "end_ms": 9
     },
     "4": {
@@ -48,97 +48,97 @@
       "level": 2,
       "parent": 1,
       "start_ms": 21,
-      "end_ms": 23
+      "end_ms": 22
     },
     "8": {
       "title": "AUTO موارد الكتاب",
       "level": 2,
       "parent": 1,
-      "start_ms": 23,
-      "end_ms": 28
+      "start_ms": 22,
+      "end_ms": 27
     },
     "9": {
       "title": "AUTO طبع الكتاب وتحقيقه واختصاره وترجمته",
       "level": 2,
       "parent": 1,
-      "start_ms": 28,
-      "end_ms": 30
+      "start_ms": 27,
+      "end_ms": 29
     },
     "10": {
       "title": "AUTO مخطوطات الكتاب",
       "level": 2,
       "parent": 1,
-      "start_ms": 30,
-      "end_ms": 46
+      "start_ms": 29,
+      "end_ms": 45
     },
     "11": {
       "title": "CHECK [النص المحقق]",
       "level": 1,
       "parent": null,
-      "start_ms": 46,
-      "end_ms": 51
+      "start_ms": 45,
+      "end_ms": 49
     },
     "12": {
       "title": "AUTO فصل",
       "level": 1,
       "parent": null,
-      "start_ms": 51,
-      "end_ms": 119
+      "start_ms": 49,
+      "end_ms": 116
     },
     "13": {
       "title": "AUTO [21/أ] قاعدة شريفة عظيمة القدر",
       "level": 1,
       "parent": null,
-      "start_ms": 119,
-      "end_ms": 363
+      "start_ms": 116,
+      "end_ms": 359
     },
     "14": {
       "title": "AUTO فصل",
       "level": 1,
       "parent": null,
-      "start_ms": 363,
-      "end_ms": 377
+      "start_ms": 359,
+      "end_ms": 373
     },
     "15": {
       "title": "AUTO [قاعدة نافعة في إثبات الصفات] (1)",
       "level": 1,
       "parent": null,
-      "start_ms": 377,
-      "end_ms": 413
+      "start_ms": 373,
+      "end_ms": 409
     },
     "16": {
       "title": "AUTO [أقسام الفناء عند السالكين]",
       "level": 1,
       "parent": null,
-      "start_ms": 413,
-      "end_ms": 435
+      "start_ms": 409,
+      "end_ms": 431
     },
     "17": {
       "title": "AUTO الطاعة الصغيرة. فصبر (1) العبد على الجهاد مثلا أفصل وعظم من صبره",
       "level": 1,
       "parent": null,
-      "start_ms": 435,
-      "end_ms": 460
+      "start_ms": 431,
+      "end_ms": 456
     },
     "18": {
       "title": "AUTO فصل",
       "level": 1,
       "parent": null,
-      "start_ms": 460,
-      "end_ms": 461
+      "start_ms": 456,
+      "end_ms": 457
     },
     "19": {
       "title": "AUTO فصل",
       "level": 1,
       "parent": null,
-      "start_ms": 461,
-      "end_ms": 464
+      "start_ms": 457,
+      "end_ms": 459
     },
     "20": {
       "title": "AUTO فصل",
       "level": 1,
       "parent": null,
-      "start_ms": 464,
+      "start_ms": 459,
       "end_ms": null
     }
   },
@@ -154,7 +154,7 @@
       1
     ],
     [
-      8,
+      7,
       [3],
       2
     ],
@@ -179,70 +179,70 @@
       6
     ],
     [
-      23,
+      22,
       [8],
       7
     ],
     [
-      28,
+      27,
       [9],
       8
     ],
     [
-      30,
+      29,
       [10],
       9
     ],
     [
-      46,
+      45,
       [11],
       10
     ],
     [
-      51,
+      49,
       [12],
       11
     ],
     [
-      119,
+      116,
       [13],
       12
     ],
     [
-      363,
+      359,
       [14],
       13
     ],
     [
-      377,
+      373,
       [15],
       14
     ],
     [
-      413,
+      409,
       [16],
       15
     ],
     [
-      435,
+      431,
       [17],
       16
     ],
     [
-      460,
+      456,
       [18],
       17
     ],
     [
-      461,
+      457,
       [19],
       18
     ],
     [
-      464,
+      459,
       [20],
       19
     ]
   ],
-  "last_ms": 657
+  "last_ms": 651
 }

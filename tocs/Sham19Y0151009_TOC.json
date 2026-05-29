@@ -6,55 +6,55 @@
       "level": 1,
       "parent": null,
       "start_ms": 1,
-      "end_ms": 9
+      "end_ms": 8
     },
     "2": {
       "title": "AUTO ومن النساء",
       "level": 1,
       "parent": null,
-      "start_ms": 9,
-      "end_ms": 10
+      "start_ms": 8,
+      "end_ms": 8
     },
     "3": {
       "title": "CHECK طبقة الحسن، وعطاء",
       "level": 1,
       "parent": null,
-      "start_ms": 10,
-      "end_ms": 18
+      "start_ms": 8,
+      "end_ms": 16
     },
     "4": {
       "title": "CHECK طبقة الزهري وأيوب",
       "level": 1,
       "parent": null,
-      "start_ms": 18,
-      "end_ms": 26
+      "start_ms": 16,
+      "end_ms": 22
     },
     "5": {
       "title": "CHECK طبقة زمن الأعمش وابن عون",
       "level": 1,
       "parent": null,
-      "start_ms": 26,
-      "end_ms": 37
+      "start_ms": 22,
+      "end_ms": 32
     },
     "6": {
       "title": "CHECK طبقة عفان وعبد الرزاق",
       "level": 1,
       "parent": null,
-      "start_ms": 37,
-      "end_ms": 40
+      "start_ms": 32,
+      "end_ms": 35
     },
     "7": {
       "title": "CHECK طبقة علي بن المديني وأحمد بن حنبل",
       "level": 1,
       "parent": null,
-      "start_ms": 40,
-      "end_ms": 43
+      "start_ms": 35,
+      "end_ms": 37
     },
     "8": {
       "title": "CHECK طبقة البخاري ومن تبقى",
       "level": 1,
       "parent": null,
-      "start_ms": 43,
+      "start_ms": 37,
       "end_ms": null
     }
   },
@@ -65,40 +65,35 @@
       null
     ],
     [
-      9,
-      [2],
+      8,
+      [2, 3],
       1
     ],
     [
-      10,
-      [3],
-      2
-    ],
-    [
-      18,
+      16,
       [4],
       3
     ],
     [
-      26,
+      22,
       [5],
       4
     ],
     [
-      37,
+      32,
       [6],
       5
     ],
     [
-      40,
+      35,
       [7],
       6
     ],
     [
-      43,
+      37,
       [8],
       7
     ]
   ],
-  "last_ms": 47
+  "last_ms": 41
 }

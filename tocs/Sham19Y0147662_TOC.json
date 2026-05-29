@@ -93,24 +93,24 @@
       "end_ms": 4
     },
     "14": {
-      "title": "AUTO أحدها: ما يظهر به الحكم، وهو نوعان ms02",
+      "title": "AUTO أحدها: ما يظهر به الحكم، وهو نوعان",
       "level": 4,
       "parent": 13,
-      "start_ms": 3,
+      "start_ms": 2,
       "end_ms": 3
     },
     "15": {
       "title": "AUTO (1) علة",
       "level": 5,
       "parent": 14,
-      "start_ms": 3,
-      "end_ms": 3
+      "start_ms": 2,
+      "end_ms": 2
     },
     "16": {
       "title": "AUTO (2) وسبب،",
       "level": 5,
       "parent": 14,
-      "start_ms": 3,
+      "start_ms": 2,
       "end_ms": 3
     },
     "17": {
@@ -139,7 +139,7 @@
       "level": 1,
       "parent": null,
       "start_ms": 4,
-      "end_ms": 22
+      "end_ms": 21
     },
     "21": {
       "title": "AUTO أصل الدلالة",
@@ -160,7 +160,7 @@
       "level": 2,
       "parent": 20,
       "start_ms": 4,
-      "end_ms": 22
+      "end_ms": 21
     },
     "24": {
       "title": "AUTO الكتاب",
@@ -181,55 +181,55 @@
       "level": 3,
       "parent": 23,
       "start_ms": 14,
-      "end_ms": 15
+      "end_ms": 14
     },
     "27": {
       "title": "AUTO العقل",
       "level": 3,
       "parent": 23,
-      "start_ms": 15,
-      "end_ms": 22
+      "start_ms": 14,
+      "end_ms": 21
     },
     "28": {
       "title": "CHECK الباب الثالث في الاجتهاد والتقليد",
       "level": 1,
       "parent": null,
-      "start_ms": 22,
+      "start_ms": 21,
       "end_ms": null
     },
     "29": {
       "title": "AUTO الاجتهاد",
       "level": 2,
       "parent": 28,
-      "start_ms": 22,
-      "end_ms": 22
+      "start_ms": 21,
+      "end_ms": 21
     },
     "30": {
       "title": "AUTO الاجتهاد",
       "level": 2,
       "parent": 28,
-      "start_ms": 22,
+      "start_ms": 21,
       "end_ms": 23
     },
     "31": {
       "title": "AUTO لغة",
       "level": 3,
       "parent": 30,
-      "start_ms": 22,
-      "end_ms": 22
+      "start_ms": 21,
+      "end_ms": 21
     },
     "32": {
       "title": "AUTO وعرفا",
       "level": 3,
       "parent": 30,
-      "start_ms": 22,
-      "end_ms": 22
+      "start_ms": 21,
+      "end_ms": 21
     },
     "33": {
       "title": "AUTO وشرط المجتهد",
       "level": 3,
       "parent": 30,
-      "start_ms": 22,
+      "start_ms": 21,
       "end_ms": 23
     },
     "34": {
@@ -237,7 +237,7 @@
       "level": 2,
       "parent": 28,
       "start_ms": 23,
-      "end_ms": 24
+      "end_ms": 23
     },
     "35": {
       "title": "AUTO لغة",
@@ -251,13 +251,13 @@
       "level": 3,
       "parent": 34,
       "start_ms": 23,
-      "end_ms": 24
+      "end_ms": 23
     },
     "37": {
       "title": "AUTO التقليد",
       "level": 2,
       "parent": 28,
-      "start_ms": 24,
+      "start_ms": 23,
       "end_ms": null
     }
   },
@@ -269,13 +269,13 @@
     ],
     [
       2,
-      [9, 10, 11, 12, 13],
+      [9, 10, 11, 12, 13, 14, 15, 16],
       8
     ],
     [
       3,
-      [14, 15, 16, 17, 18, 19],
-      null
+      [17, 18, 19],
+      16
     ],
     [
       4,
@@ -284,29 +284,19 @@
     ],
     [
       14,
-      [26],
+      [26, 27],
       25
     ],
     [
-      15,
-      [27],
-      26
-    ],
-    [
-      22,
+      21,
       [28, 29, 30, 31, 32, 33],
       27
     ],
     [
       23,
-      [34, 35, 36],
+      [34, 35, 36, 37],
       33
-    ],
-    [
-      24,
-      [37],
-      36
     ]
   ],
-  "last_ms": 24
+  "last_ms": 23
 }

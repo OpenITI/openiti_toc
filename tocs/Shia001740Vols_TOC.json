@@ -6,13 +6,13 @@
       "level": 2,
       "parent": null,
       "start_ms": 1,
-      "end_ms": 127
+      "end_ms": 126
     },
     "2": {
-      "title": "كتاب ms0126 الأذان",
+      "title": "كتاب الأذان",
       "level": 1,
       "parent": null,
-      "start_ms": 127,
+      "start_ms": 126,
       "end_ms": 244
     },
     "3": {
@@ -65,9 +65,9 @@
       null
     ],
     [
-      127,
+      126,
       [2],
-      null
+      1
     ],
     [
       244,
@@ -100,5 +100,5 @@
       7
     ]
   ],
-  "last_ms": 1183
+  "last_ms": 1182
 }
